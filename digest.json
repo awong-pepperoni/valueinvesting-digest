@@ -1,0 +1,254 @@
+{
+  "generated": "2026-10-08",
+  "meta": {
+    "feed": "valueinvesting",
+    "title": "Value Investing Digest",
+    "tagline": "What r/ValueInvesting said, run by run",
+    "about": "Each digest is a snapshot of what r/ValueInvesting was discussing when it ran, taken from Reddit's \"hot\" ranking, which has no time window. Everything is what Reddit users claim unless a line says it was checked against a primary source such as an SEC filing or a company release. Multiples, fair values and price targets are quoted as posted, never computed here. Nothing here is financial advice. Insider buying, fund moves and open situations are tracked in the Tracker tab.",
+    "durable_label": "Tracker",
+    "durable_heading": "Situations tracker",
+    "topics": {
+      "filings": "Filings & insiders",
+      "pitches": "Pitches",
+      "process": "Process",
+      "macro": "Macro",
+      "sentiment": "Sentiment",
+      "unverified": "Unverified claims",
+      "other": "Other"
+    }
+  },
+  "digests": [
+    {
+      "date": "2026-10-08",
+      "title": "Value investing digest",
+      "intro_html": "<p>The top thread was Berkshire's latest Lennar purchases. Most of the rest was beaten-down names: European holding companies and real estate, a Stellantis turnaround, Uber's exposure to self-driving cars, and stocks sold off on AI fears. The best threads were about method: when to sell, and what a DCF is really saying when almost all of its value sits after year five.</p>",
+      "sections": [
+        {
+          "heading": "Filings and insider moves",
+          "category": "filings",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Berkshire Hathaway kept buying Lennar on 1 and 2 October.</strong>",
+              "html": "<p><strong>Berkshire Hathaway kept buying Lennar on 1 and 2 October.</strong> The poster puts it at $193M across 15 purchases, at an average of $79.65. Per the Form 4, Berkshire's subsidiaries held 28,438,045 Class A shares after the last purchase. The poster asks what the market sees in a homebuilder at a 4% margin. The top reply says Lennar is deliberately &quot;eating margin compression&quot; to keep its pipeline and land options, a long bet on a US housing shortage. The most common pushback is that Berkshire can wait years for a cycle and a retail investor can't. One commenter notes Berkshire already owns several housing-supply businesses (Clayton, MiTek, Shaw, Johns Manville, Benjamin Moore). <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1wzu5f7/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Berkshire Hathaway kept buying Lennar on 1 and 2 October. The poster puts it at $193M across 15 purchases, at an average of $79.65. Per the Form 4, Berkshire's subsidiaries held 28,438,045 Class A shares after the last purchase. The poster asks what the market sees in a homebuilder at a 4% margin. The top reply says Lennar is deliberately \"eating margin compression\" to keep its pipeline and land options, a long bet on a US housing shortage. The most common pushback is that Berkshire can wait years for a cycle and a retail investor can't. One commenter notes Berkshire already owns several housing-supply businesses (Clayton, MiTek, Shaw, Johns Manville, Benjamin Moore). Thread Verified for the dates and the holding after the trades, against the Form 4 filed 5 October . The dollar total and average price are as posted; the poster's claim that AQR also added was not checked.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the dates and the holding after the trades, against <a href=\"https://www.sec.gov/Archives/edgar/data/0000920760/000119312526414744/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4 filed 5 October</a>. The dollar total and average price are as posted; the poster's claim that AQR also added was not checked.</p>",
+              "updated": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Exor: &quot;a great asset and a discount&quot;.</strong>",
+              "html": "<p><strong>Exor: &quot;a great asset and a discount&quot;.</strong> By the poster's figures, Exor's holdings are worth €32.5B against an enterprise value of €15.6B, and the €13B Ferrari stake alone nearly covers the holding company. Exor has announced a buyback of up to €500 million. A commenter adds that Exor already sold roughly 4% of Ferrari in early 2025 and used part of it to buy back its own shares, yet the discount was still &quot;north of 50%&quot; at the half year. The sharpest objection: the rest of the portfolio (CNH, Stellantis, Philips) is cyclical or in turnaround, and holding-company discounts rarely close on their own. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x0h56r/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Exor: \"a great asset and a discount\". By the poster's figures, Exor's holdings are worth €32.5B against an enterprise value of €15.6B, and the €13B Ferrari stake alone nearly covers the holding company. Exor has announced a buyback of up to €500 million. A commenter adds that Exor already sold roughly 4% of Ferrari in early 2025 and used part of it to buy back its own shares, yet the discount was still \"north of 50%\" at the half year. The sharpest objection: the rest of the portfolio (CNH, Stellantis, Philips) is cyclical or in turnaround, and holding-company discounts rarely close on their own. Thread Single source for the valuation figures. The €500 million buyback is Verified against Exor's press releases of 22 and 23 September.",
+              "status": "single-source",
+              "status_html": "<p>Single source for the valuation figures. The €500 million buyback is <strong>Verified</strong> against <a href=\"https://www.exor.com/pages/investors-media/press-releases\" target=\"_blank\" rel=\"noopener noreferrer\">Exor's press releases</a> of 22 and 23 September.</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>Vonovia at €16.30 against an EPRA NTA of €46.22.</strong>",
+              "html": "<p><strong>Vonovia at €16.30 against an EPRA NTA of €46.22.</strong> The poster calls it &quot;a total mispricing&quot; and dismisses the Berlin expropriation risk. Commenters disagree: they say the left's election win in Berlin put taking over Vonovia apartments back at the centre of politics, and that the stock will keep falling until there is clarity. One reply says any takeover would have to be at fair value. Another suggests LEG Immo as the cleaner trade. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x0xzw0/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Vonovia at €16.30 against an EPRA NTA of €46.22. The poster calls it \"a total mispricing\" and dismisses the Berlin expropriation risk. Commenters disagree: they say the left's election win in Berlin put taking over Vonovia apartments back at the centre of politics, and that the stock will keep falling until there is clarity. One reply says any takeover would have to be at fair value. Another suggests LEG Immo as the cleaner trade. Thread Single source · figures as posted. The pitch's insider-buying evidence does not hold up; see Unverified below.",
+              "status": "single-source",
+              "status_html": "<p>Single source · figures as posted. The pitch's insider-buying evidence does not hold up; see Unverified below.</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>Stellantis at around €3.9 to €4: a reverse DCF implies only about half of the 7% margin target for 2030.</strong>",
+              "html": "<p><strong>Stellantis at around €3.9 to €4: a reverse DCF implies only about half of the 7% margin target for 2030.</strong> As posted, Ram sales rose 29% in Q3 while Jeep fell 20%. The best reply reframes the bet as &quot;will they get at least halfway&quot; rather than whether the plan fully works, but wants Jeep to level off first. The bluntest objection is that carmakers have failed to earn their cost of capital for decades, and that adjusted operating income flatters them. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x0ndgc/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Stellantis at around €3.9 to €4: a reverse DCF implies only about half of the 7% margin target for 2030. As posted, Ram sales rose 29% in Q3 while Jeep fell 20%. The best reply reframes the bet as \"will they get at least halfway\" rather than whether the plan fully works, but wants Jeep to level off first. The bluntest objection is that carmakers have failed to earn their cost of capital for decades, and that adjusted operating income flatters them. Thread Single source · one member's model, linked to their own Substack.",
+              "status": "single-source",
+              "status_html": "<p>Single source · one member's model, linked to their own Substack.</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>Uber: is the self-driving threat over-priced?</strong>",
+              "html": "<p><strong>Uber: is the self-driving threat over-priced?</strong> The bull case: Uber can absorb peak demand with human drivers, which a pure self-driving fleet would struggle to match, and it has many self-driving partners. The bear case: Waymo or Tesla have little reason to share margin with Uber. One reply points out that Waymo has said it wants to sell its driving technology, not run a taxi fleet. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x00urd/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Uber: is the self-driving threat over-priced? The bull case: Uber can absorb peak demand with human drivers, which a pure self-driving fleet would struggle to match, and it has many self-driving partners. The bear case: Waymo or Tesla have little reason to share margin with Uber. One reply points out that Waymo has said it wants to sell its driving technology, not run a taxi fleet. Thread Single source · a debate; partnership counts and membership figures in the thread were not checked.",
+              "status": "single-source",
+              "status_html": "<p>Single source · a debate; partnership counts and membership figures in the thread were not checked.</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>S&amp;P Global &quot;flies under the radar&quot;.</strong>",
+              "html": "<p><strong>S&amp;P Global &quot;flies under the radar&quot;.</strong> Commenters say it is falling on fears that AI will erode its Capital IQ data business, and that higher yields will mean less debt issuance to rate. They also note it is spinning off lower-margin units to concentrate on businesses with 70%+ margins. One claims a &quot;nearly 5% FCF yield&quot;, as posted. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1wzypn3/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "S&P Global \"flies under the radar\". Commenters say it is falling on fears that AI will erode its Capital IQ data business, and that higher yields will mean less debt issuance to rate. They also note it is spinning off lower-margin units to concentrate on businesses with 70%+ margins. One claims a \"nearly 5% FCF yield\", as posted. Thread Single source.",
+              "status": "single-source",
+              "status_html": "<p>Single source.</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>Whirlpool at $28, a forward P/E of 8 as posted.</strong>",
+              "html": "<p><strong>Whirlpool at $28, a forward P/E of 8 as posted.</strong> The thread is nearly unanimous that it's a value trap: heavy debt, no moat, thin margins. One member says they sold after an earnings call in which management seemed to rely on tariffs rather than better products. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x01z1k/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Whirlpool at $28, a forward P/E of 8 as posted. The thread is nearly unanimous that it's a value trap: heavy debt, no moat, thin margins. One member says they sold after an earnings call in which management seemed to rely on tariffs rather than better products. Thread Single source.",
+              "status": "single-source",
+              "status_html": "<p>Single source.</p>",
+              "updated": null
+            }
+          ]
+        },
+        {
+          "heading": "Process and valuation method",
+          "category": "process",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;Selling is harder than buying.&quot;</strong>",
+              "html": "<p><strong>&quot;Selling is harder than buying.&quot;</strong> The poster's test is the expected return from today's price compared with the best alternative, not cost basis or past gains. The poster also says &quot;would I buy it today?&quot; is useful but not enough on its own. The top reply argues for letting winners run, because losses are capped and gains are not. The poster answers that a sale which then keeps rising is &quot;a miss, but it isn't automatically a bad decision&quot;. Several replies add that taxes raise the bar for any switch. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x0q3nq/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "\"Selling is harder than buying.\" The poster's test is the expected return from today's price compared with the best alternative, not cost basis or past gains. The poster also says \"would I buy it today?\" is useful but not enough on its own. The top reply argues for letting winners run, because losses are capped and gains are not. The poster answers that a sale which then keeps rising is \"a miss, but it isn't automatically a bad decision\". Several replies add that taxes raise the bar for any switch. Thread",
+              "status": null,
+              "status_html": null,
+              "updated": null
+            },
+            {
+              "headline": "<strong>Lotus Bakeries: what a DCF means when 89% of its value is beyond year five.</strong>",
+              "html": "<p><strong>Lotus Bakeries: what a DCF means when 89% of its value is beyond year five.</strong> The poster's model gives about half the share price. The best reply says the gap isn't about growth or margins at all. Almost all the value is in the period after the forecast, so the real question is how long Biscoff can keep earning high returns on new capacity. The reply suggests solving backwards for the duration that justifies the price. The poster then ran it: the price implies roughly 30% returns on new investment until about 2043. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x0tygp/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Lotus Bakeries: what a DCF means when 89% of its value is beyond year five. The poster's model gives about half the share price. The best reply says the gap isn't about growth or margins at all. Almost all the value is in the period after the forecast, so the real question is how long Biscoff can keep earning high returns on new capacity. The reply suggests solving backwards for the duration that justifies the price. The poster then ran it: the price implies roughly 30% returns on new investment until about 2043. Thread Single source · a worked method example; the figures are the poster's own model.",
+              "status": "single-source",
+              "status_html": "<p>Single source · a worked method example; the figures are the poster's own model.</p>",
+              "updated": null
+            }
+          ]
+        },
+        {
+          "heading": "Market and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Broadcom is arranging more than $50 billion of financing for OpenAI's custom chips.</strong>",
+              "html": "<p><strong>Broadcom is arranging more than $50 billion of financing for OpenAI's custom chips.</strong> This is on top of a reported $60 billion package tied to Anthropic. The poster works out that leverage would roughly double if the debt sat on Broadcom's own books. The most useful reply cites Broadcom's June call: management said it was working with Apollo, Blackstone and other investors, which points to a separate vehicle. That would make Broadcom's guarantees, not its net debt, the number to watch. Another reply asks who takes the loss if the customers use less capacity than planned. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x0p73h/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Broadcom is arranging more than $50 billion of financing for OpenAI's custom chips. This is on top of a reported $60 billion package tied to Anthropic. The poster works out that leverage would roughly double if the debt sat on Broadcom's own books. The most useful reply cites Broadcom's June call: management said it was working with Apollo, Blackstone and other investors, which points to a separate vehicle. That would make Broadcom's guarantees, not its net debt, the number to watch. Another reply asks who takes the loss if the customers use less capacity than planned. Thread Reported, from coverage of the Wall Street Journal's report , which describes talks as early and the size as subject to change. The leverage figures are the poster's own.",
+              "status": "reported",
+              "status_html": "<p>Reported, from <a href=\"https://finance.yahoo.com/technology/ai/articles/broadcom-arranging-50-billion-openai-060941579.html\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the Wall Street Journal's report</a>, which describes talks as early and the size as subject to change. The leverage figures are the poster's own.</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>Five fund managers on the stocks the market calls &quot;AI losers&quot;.</strong>",
+              "html": "<p><strong>Five fund managers on the stocks the market calls &quot;AI losers&quot;.</strong> A member compiled August and September fund letters. Acatis and Marlborough added Wolters Kluwer, Amati added CI&amp;T, Ennismore holds Grupa Pracuj, and Harding Loevner held Adobe and Accenture. Each argues that AI fears are underpricing its holding. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x06q5r/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Five fund managers on the stocks the market calls \"AI losers\". A member compiled August and September fund letters. Acatis and Marlborough added Wolters Kluwer, Amati added CI&T, Ennismore holds Grupa Pracuj, and Harding Loevner held Adobe and Accenture. Each argues that AI fears are underpricing its holding. Thread Single source · quotes as compiled by the poster from a letters aggregator; the letters themselves were not opened.",
+              "status": "single-source",
+              "status_html": "<p>Single source · quotes as compiled by the poster from a letters aggregator; the letters themselves were not opened.</p>",
+              "updated": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Homebuilders and appliance makers are being written off as hostages to rates and housing, even as Berkshire buys.",
+              "html": "<p>Homebuilders and appliance makers are being written off as hostages to rates and housing, even as Berkshire buys. Data and information businesses sold on AI fears (Wolters Kluwer, S&amp;P Global) are where the sub sees the most opportunity.</p>",
+              "text": "Homebuilders and appliance makers are being written off as hostages to rates and housing, even as Berkshire buys. Data and information businesses sold on AI fears (Wolters Kluwer, S&P Global) are where the sub sees the most opportunity.",
+              "status": null,
+              "status_html": null,
+              "updated": null
+            },
+            {
+              "headline": "&quot;Value or trap?&quot; posts are frequent enough to draw complaints.",
+              "html": "<p>&quot;Value or trap?&quot; posts are frequent enough to draw complaints. A Netflix one got the reply &quot;How many times per days will this question be posted?&quot;</p>",
+              "text": "\"Value or trap?\" posts are frequent enough to draw complaints. A Netflix one got the reply \"How many times per days will this question be posted?\"",
+              "status": null,
+              "status_html": null,
+              "updated": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The Vonovia pitch says CEO Rolf Buch is &quot;picking up long-dated call options at a 36 EUR strike&quot; as evidence of mispricing.</strong>",
+              "html": "<p><strong>The Vonovia pitch says CEO Rolf Buch is &quot;picking up long-dated call options at a 36 EUR strike&quot; as evidence of mispricing.</strong> The trade exists, but it is neither recent nor by the current CEO. Buch's directors' dealings notice records a purchase of 38,000 call options on 29 December 2025, expiring December 2027. That notice shows a €28 strike; secondary coverage reports a second tranche at €36, which I did not see in a primary notice. Buch handed over as CEO to Luka Mucic by 31 December 2025.</p>",
+              "text": "The Vonovia pitch says CEO Rolf Buch is \"picking up long-dated call options at a 36 EUR strike\" as evidence of mispricing. The trade exists, but it is neither recent nor by the current CEO. Buch's directors' dealings notice records a purchase of 38,000 call options on 29 December 2025, expiring December 2027. That notice shows a €28 strike; secondary coverage reports a second tranche at €36, which I did not see in a primary notice. Buch handed over as CEO to Luka Mucic by 31 December 2025. Unconfirmed as current insider buying. Checked against the EQS directors' dealings notice and Vonovia's CEO succession announcement .",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> as current insider buying. Checked against <a href=\"https://www.eqs-news.com/news/directors-dealings/vonovia-se-rolf-buch-buy/7407ce54-5c99-4f60-8ff9-d6ce3104799d\" target=\"_blank\" rel=\"noopener noreferrer\">the EQS directors' dealings notice</a> and <a href=\"https://www.eqs-news.com/news/ad-hoc/vonovia-se-supervisory-board-decides-on-early-ceo-succession-plan/c31897f9-804a-426d-af6a-87204e2ddeae_en\" target=\"_blank\" rel=\"noopener noreferrer\">Vonovia's CEO succession announcement</a>.</p>",
+              "updated": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "theme": "Insider and fund buying",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>Berkshire Hathaway is adding to Lennar.</strong>",
+          "html": "<p><strong>Berkshire Hathaway is adding to Lennar.</strong> It bought on 1 and 2 October 2026 and held 28,438,045 Class A shares indirectly afterwards, according to its Form 4. It reports as a 10% owner.</p>",
+          "text": "Berkshire Hathaway is adding to Lennar. It bought on 1 and 2 October 2026 and held 28,438,045 Class A shares indirectly afterwards, according to its Form 4. It reports as a 10% owner. Verified against the Form 4 filed 5 October · 2026-10-08",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0000920760/000119312526414744/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4 filed 5 October</a> · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        },
+        {
+          "headline": "<strong>Rolf Buch's Vonovia call options date from December 2025, and he is no longer CEO.</strong>",
+          "html": "<p><strong>Rolf Buch's Vonovia call options date from December 2025, and he is no longer CEO.</strong> He bought 38,000 call options on 29 December 2025 (€28 strike, expiring 17 December 2027), shortly before handing over to Luka Mucic. The sub has cited it as fresh insider buying.</p>",
+          "text": "Rolf Buch's Vonovia call options date from December 2025, and he is no longer CEO. He bought 38,000 call options on 29 December 2025 (€28 strike, expiring 17 December 2027), shortly before handing over to Luka Mucic. The sub has cited it as fresh insider buying. Verified for the trade and the CEO change, against the directors' dealings notice and the succession announcement ; a €36-strike tranche is Unconfirmed · 2026-10-08",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the trade and the CEO change, against <a href=\"https://www.eqs-news.com/news/directors-dealings/vonovia-se-rolf-buch-buy/7407ce54-5c99-4f60-8ff9-d6ce3104799d\" target=\"_blank\" rel=\"noopener noreferrer\">the directors' dealings notice</a> and <a href=\"https://www.eqs-news.com/news/ad-hoc/vonovia-se-supervisory-board-decides-on-early-ceo-succession-plan/c31897f9-804a-426d-af6a-87204e2ddeae_en\" target=\"_blank\" rel=\"noopener noreferrer\">the succession announcement</a>; a €36-strike tranche is Unconfirmed · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "theme": "Open situations",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>Exor buyback of up to €500 million, announced 22 September and launched 23 September 2026.</strong>",
+          "html": "<p><strong>Exor buyback of up to €500 million, announced 22 September and launched 23 September 2026.</strong> Secondary coverage says it runs until the March 2027 results, with a first tranche of €125 million. The sub watches whether it narrows the discount to net asset value, which a commenter puts at more than 50% at the half year.</p>",
+          "text": "Exor buyback of up to €500 million, announced 22 September and launched 23 September 2026. Secondary coverage says it runs until the March 2027 results, with a first tranche of €125 million. The sub watches whether it narrows the discount to net asset value, which a commenter puts at more than 50% at the half year. Verified for the size and dates against Exor's press releases ; the end date and tranche are Reported · 2026-10-08",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the size and dates against <a href=\"https://www.exor.com/pages/investors-media/press-releases\" target=\"_blank\" rel=\"noopener noreferrer\">Exor's press releases</a>; the end date and tranche are Reported · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        },
+        {
+          "headline": "<strong>Broadcom's financing for OpenAI chips, reported at more than $50 billion and targeted to close by year end.</strong>",
+          "html": "<p><strong>Broadcom's financing for OpenAI chips, reported at more than $50 billion and targeted to close by year end.</strong> The sub's open question is whether the debt sits on Broadcom's books or in a separate vehicle that Broadcom guarantees.</p>",
+          "text": "Broadcom's financing for OpenAI chips, reported at more than $50 billion and targeted to close by year end. The sub's open question is whether the debt sits on Broadcom's books or in a separate vehicle that Broadcom guarantees. Reported, from coverage of the WSJ report ; talks described as early · 2026-10-08",
+          "status": "reported",
+          "status_html": "<p>Reported, from <a href=\"https://finance.yahoo.com/technology/ai/articles/broadcom-arranging-50-billion-openai-060941579.html\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the WSJ report</a>; talks described as early · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "theme": "Recurring debates",
+      "sub": false,
+      "lead_html": null,
+      "items": [
+        {
+          "headline": "<strong>Uber versus self-driving cars.</strong>",
+          "html": "<p><strong>Uber versus self-driving cars.</strong> One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct.</p>",
+          "text": "Uber versus self-driving cars. One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct. Single source each time; a debate, not a finding · 2026-10-08",
+          "status": "single-source",
+          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        },
+        {
+          "headline": "<strong>&quot;AI losers&quot; in data and information businesses</strong>",
+          "html": "<p><strong>&quot;AI losers&quot; in data and information businesses</strong> (Wolters Kluwer, S&amp;P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption.</p>",
+          "text": "\"AI losers\" in data and information businesses (Wolters Kluwer, S&P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. Single source · 2026-10-08",
+          "status": "single-source",
+          "status_html": "<p>Single source · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        }
+      ]
+    }
+  ]
+}

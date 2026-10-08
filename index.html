@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Digest</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+
+    <div class="brand-row">
+      <div>
+        <h1 class="brand">AI Digest</h1>
+        <p class="tagline">What the AI subreddits said, week by week</p>
+      </div>
+      <button id="theme-toggle" class="icon-btn" type="button" aria-label="Switch colour theme">
+        <span aria-hidden="true">◐</span>
+      </button>
+    </div>
+
+    <nav class="tabs" role="tablist" aria-label="Views">
+      <button class="tab" role="tab" id="tab-digest" data-tab="digest"
+              aria-controls="panel-digest" aria-selected="true">Digest</button>
+      <button class="tab" role="tab" id="tab-tips" data-tab="tips"
+              aria-controls="panel-tips" aria-selected="false">Tips</button>
+    </nav>
+
+    <div class="controls">
+      <label class="search">
+        <span class="visually-hidden">Search the digest</span>
+        <svg class="search-icon" viewBox="0 0 20 20" aria-hidden="true" focusable="false">
+          <circle cx="9" cy="9" r="6" fill="none" stroke="currentColor" stroke-width="2"/>
+          <line x1="13.5" y1="13.5" x2="18" y2="18" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round"/>
+        </svg>
+        <input id="search" type="search" placeholder="Search findings, sources, ideas…"
+               autocomplete="off" spellcheck="false">
+      </label>
+
+      <div class="chips" id="status-filters" role="group" aria-label="Filter by confidence">
+        <button class="chip" type="button" data-status="verified" aria-pressed="false">
+          <span class="dot dot-verified" aria-hidden="true"></span>Verified</button>
+        <button class="chip" type="button" data-status="reported" aria-pressed="false">
+          <span class="dot dot-reported" aria-hidden="true"></span>Reported</button>
+        <button class="chip" type="button" data-status="single-source" aria-pressed="false">
+          <span class="dot dot-single-source" aria-hidden="true"></span>Single source</button>
+        <button class="chip" type="button" data-status="unconfirmed" aria-pressed="false">
+          <span class="dot dot-unconfirmed" aria-hidden="true"></span>Unconfirmed</button>
+      </div>
+    </div>
+
+    <div class="controls controls-2">
+      <div class="chips" id="topic-filters" role="group" aria-label="Filter by topic"></div>
+      <button class="chip chip-action" id="expand-toggle" type="button" aria-pressed="false">
+        Expand all</button>
+    </div>
+
+    <p class="count" id="count" role="status" aria-live="polite"></p>
+  </div>
+</header>
+
+<main class="wrap">
+  <p class="since" id="since" hidden></p>
+
+  <details class="about" id="about">
+    <summary>About this data</summary>
+    <div class="about-body">
+      <p id="about-text">Each digest is a snapshot of what the AI subreddits were discussing when it ran,
+         taken from Reddit's "hot" ranking, which has no time window. Everything is what
+         Reddit users claim unless a line says it was checked. Durable findings are promoted
+         into the Tips tab, which is deduplicated and kept current.</p>
+      <ul class="legend">
+        <li><span class="badge badge-verified">Verified</span> checked against primary documentation</li>
+        <li><span class="badge badge-reported">Reported</span> several independent people claim it</li>
+        <li><span class="badge badge-single-source">Single source</span> one person's claim</li>
+        <li><span class="badge badge-unconfirmed">Unconfirmed</span> looked for a primary source and found none</li>
+      </ul>
+      <p class="meta">Click a headline to read the full finding. Press <kbd>/</kbd> to search.</p>
+    </div>
+  </details>
+
+  <section id="panel-digest" role="tabpanel" aria-labelledby="tab-digest"></section>
+  <section id="panel-tips" role="tabpanel" aria-labelledby="tab-tips" hidden></section>
+
+  <p class="empty" id="empty" hidden>Nothing matches those filters.</p>
+</main>
+
+<footer class="wrap site-footer">
+  <p>Generated <span id="generated"></span> from Reddit's hot threads. Not financial or
+     professional advice.</p>
+</footer>
+
+<script src="app.js" type="module"></script>
+</body>
+</html>
