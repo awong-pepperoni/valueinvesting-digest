@@ -463,7 +463,14 @@ details.entry > .entry-head::before {
 .card[open] > .card-head::before,
 details.entry[open] > .entry-head::before { transform: rotate(90deg); }
 .card-head:hover .card-headline { color: var(--accent); }
-.card-headline { flex: 1 1 auto; min-width: 0; transition: color var(--dur) var(--ease); }
+.card-title { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+.card-headline { min-width: 0; transition: color var(--dur) var(--ease); }
+.card-sources {
+  font-family: var(--sans);
+  font-size: var(--size-meta);
+  color: var(--text-faint);
+  letter-spacing: 0;
+}
 .card-headline strong { font-weight: 650; }
 .card-headline a { color: inherit; }
 .card-meta {
@@ -488,6 +495,8 @@ details.entry[open] > .entry-head::before { transform: rotate(90deg); }
   white-space: nowrap;
 }
 .pill-new { color: var(--accent); background: var(--accent-soft); }
+.pill-due { color: var(--text-soft); background: var(--surface-alt); }
+.pill-overdue { color: var(--accent); background: var(--accent-soft); }
 
 mark {
   color: inherit;
@@ -647,4 +656,18 @@ mark {
 .card-mustknow .card-headline {
   font-weight: 600;
 }
+
+/* ------------------------------------------------------------ coverage check */
+/* An audit record of what the run read: folded by default and quieter than the news. */
+.section-coverage { opacity: 0.8; }
+.section-coverage .section-head { color: var(--text-faint); }
+.coverage-toggle {
+  cursor: pointer;
+  font-family: var(--sans);
+  font-size: var(--size-meta);
+  color: var(--text-faint);
+  padding-block: var(--s-2);
+}
+.coverage-toggle:hover { color: var(--accent); }
+.coverage-fold[open] > .coverage-toggle { margin-bottom: var(--s-2); }
 

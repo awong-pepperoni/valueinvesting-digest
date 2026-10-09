@@ -85,6 +85,7 @@ function applyMeta(meta) {
   if (meta.about) $("#about-text").textContent = meta.about;
   if (meta.durable_label) $("#tab-tips").textContent = meta.durable_label;
   if (meta.topics && Object.keys(meta.topics).length) TOPIC_LABEL = meta.topics;
+  if (meta.source_note) $("#source-note").textContent = meta.source_note;
 }
 
 /* ------------------------------------------------------------------ build */
@@ -104,6 +105,19 @@ function pill(text, kind) {
 // cards stay open and its section is highlighted, so it can't be skimmed past.
 const MUST_KNOW = "mustknow";
 
+const COVERAGE = "coverage";
+
+// A tracker entry's date: "Due 31 Oct", or "Overdue · 31 Oct" once it has passed.
+function duePill(due, label) {
+  const day = new Date(`${due}T00:00:00`);
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const text = day.toLocaleDateString("en-GB", { day: "numeric", month: "short" });
+  const node = day < today ? pill(`Overdue · ${text}`, "overdue") : pill(`Due ${text}`, "due");
+  if (label) node.title = label;
+  return node;
+}
+
 function card(item, category, isTip) {
   const node = el("details", category === MUST_KNOW ? "card card-mustknow" : "card");
   node.open = category === MUST_KNOW;
@@ -112,8 +126,19 @@ function card(item, category, isTip) {
   node.dataset.text = (item.text || "").toLowerCase();
 
   const head = el("summary", "card-head");
-  head.append(el("span", "card-headline", item.headline || ""));
+  const title = el("span", "card-title");
+  title.append(el("span", "card-headline", item.headline || ""));
+  // Who reported it, readable without opening the card. The Coverage check is
+  // an audit list, so its many links would only be noise here.
+  if (item.sources?.length && category !== COVERAGE) {
+    const extra = item.sources.length - 3;
+    const src = el("span", "card-sources");
+    src.textContent = item.sources.slice(0, 3).join(" · ") + (extra > 0 ? ` · +${extra} more` : "");
+    title.append(src);
+  }
+  head.append(title);
   const meta = el("span", "card-meta");
+  if (item.due) meta.append(duePill(item.due, item.due_label));
   if (item.status) {
     meta.append(el("span", `badge badge-${item.status}`, STATUS_LABEL[item.status] ?? item.status));
   }
@@ -163,7 +188,16 @@ function section({ heading, category, lead_html, items }, isSub = false, isTip =
 
   const cards = el("div", "cards");
   items.forEach((item) => cards.append(card(item, category, isTip)));
-  stack.append(cards);
+  // The Coverage check is a record of what the run read, not news: folded and muted.
+  if (category === COVERAGE) {
+    node.classList.add("section-coverage");
+    const fold = el("details", "coverage-fold");
+    fold.append(el("summary", "coverage-toggle", `What this run checked · ${items.length} notes`));
+    fold.append(cards);
+    stack.append(fold);
+  } else {
+    stack.append(cards);
+  }
   node.append(stack);
 
   return node;
@@ -288,6 +322,8 @@ function apply() {
   panel.querySelectorAll(".section").forEach((s) => {
     s.hidden = !s.querySelector(".card:not([hidden])");
   });
+  // Unfold the Coverage check only when a search or filter is pointing into it.
+  panel.querySelectorAll(".coverage-fold").forEach((f) => { f.open = filtering; });
   panel.querySelectorAll(".entry").forEach((e) => {
     e.hidden = !e.querySelector(".section:not([hidden])");
     // Filtering opens every run with a match; clearing restores the default.
@@ -397,7 +433,7 @@ async function init() {
   // ?feed=<name> previews another feed locally from data/<name>.json; a published
   // site carries exactly one feed as digest.json.
   const param = new URLSearchParams(location.search).get("feed");
-  const source = param && /^[a-z0-9-]+$/.test(param) ? `data/${param}.json` : "digest.json";
+  const source = param && /^[a-z0-9_-]+$/.test(param) ? `data/${param}.json` : "digest.json";
   let data;
   try {
     const res = await fetch(source, { cache: "no-cache" });
