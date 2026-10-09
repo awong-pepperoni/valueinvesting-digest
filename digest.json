@@ -14,6 +14,7 @@
       "macro": "Macro",
       "sentiment": "Sentiment",
       "unverified": "Unverified claims",
+      "coverage": "Coverage",
       "other": "Other"
     }
   },
@@ -29,11 +30,11 @@
           "lead_html": null,
           "items": [
             {
-              "headline": "<strong>Berkshire Hathaway kept buying Lennar on 1 and 2 October.</strong>",
-              "html": "<p><strong>Berkshire Hathaway kept buying Lennar on 1 and 2 October.</strong> The poster puts it at $193M across 15 purchases, at an average of $79.65. Per the Form 4, Berkshire's subsidiaries held 28,438,045 Class A shares after the last purchase. The poster asks what the market sees in a homebuilder at a 4% margin. The top reply says Lennar is deliberately &quot;eating margin compression&quot; to keep its pipeline and land options, a long bet on a US housing shortage. The most common pushback is that Berkshire can wait years for a cycle and a retail investor can't. One commenter notes Berkshire already owns several housing-supply businesses (Clayton, MiTek, Shaw, Johns Manville, Benjamin Moore). <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1wzu5f7/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
-              "text": "Berkshire Hathaway kept buying Lennar on 1 and 2 October. The poster puts it at $193M across 15 purchases, at an average of $79.65. Per the Form 4, Berkshire's subsidiaries held 28,438,045 Class A shares after the last purchase. The poster asks what the market sees in a homebuilder at a 4% margin. The top reply says Lennar is deliberately \"eating margin compression\" to keep its pipeline and land options, a long bet on a US housing shortage. The most common pushback is that Berkshire can wait years for a cycle and a retail investor can't. One commenter notes Berkshire already owns several housing-supply businesses (Clayton, MiTek, Shaw, Johns Manville, Benjamin Moore). Thread Verified for the dates and the holding after the trades, against the Form 4 filed 5 October . The dollar total and average price are as posted; the poster's claim that AQR also added was not checked.",
+              "headline": "<strong>Berkshire Hathaway kept buying Lennar on 1 and 2 October, the latest days of a run that began by 17 September.</strong>",
+              "html": "<p><strong>Berkshire Hathaway kept buying Lennar on 1 and 2 October, the latest days of a run that began by 17 September.</strong> The poster puts the two October days at $193M across 15 purchases, at an average of $79.65. The thread treats them as a one-off, but the filings show more. Berkshire filed as a new 10% owner on 21 September, and its Form 4s record purchases on most trading days from 17 September. Its <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526417254/xslSCHEDULE_13G_X02/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Schedule 13G amendment</a> reports 12.5% as of 30 September. Per the Form 4, Berkshire's subsidiaries held 28,438,045 Class A shares after the last purchase. The poster asks what the market sees in a homebuilder at a 4% margin. The top reply says Lennar is deliberately &quot;eating margin compression&quot; to keep its pipeline and land options, a long bet on a US housing shortage. The most common pushback is that Berkshire can wait years for a cycle and a retail investor can't. One commenter notes Berkshire already owns several housing-supply businesses (Clayton, MiTek, Shaw, Johns Manville, Benjamin Moore). <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1wzu5f7/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Berkshire Hathaway kept buying Lennar on 1 and 2 October, the latest days of a run that began by 17 September. The poster puts the two October days at $193M across 15 purchases, at an average of $79.65. The thread treats them as a one-off, but the filings show more. Berkshire filed as a new 10% owner on 21 September, and its Form 4s record purchases on most trading days from 17 September. Its Schedule 13G amendment reports 12.5% as of 30 September. Per the Form 4, Berkshire's subsidiaries held 28,438,045 Class A shares after the last purchase. The poster asks what the market sees in a homebuilder at a 4% margin. The top reply says Lennar is deliberately \"eating margin compression\" to keep its pipeline and land options, a long bet on a US housing shortage. The most common pushback is that Berkshire can wait years for a cycle and a retail investor can't. One commenter notes Berkshire already owns several housing-supply businesses (Clayton, MiTek, Shaw, Johns Manville, Benjamin Moore). Thread Verified for the dates and the holding after the trades, against the Form 4 filed 5 October , the initial 10%-owner statement , the September Form 4s and the 13G amendment. The September detail was added after the completeness check. The dollar total and average price are as posted; the poster's claim that AQR also added was not checked.",
               "status": "verified",
-              "status_html": "<p><strong>Verified</strong> for the dates and the holding after the trades, against <a href=\"https://www.sec.gov/Archives/edgar/data/0000920760/000119312526414744/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4 filed 5 October</a>. The dollar total and average price are as posted; the poster's claim that AQR also added was not checked.</p>",
+              "status_html": "<p><strong>Verified</strong> for the dates and the holding after the trades, against <a href=\"https://www.sec.gov/Archives/edgar/data/0000920760/000119312526414744/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4 filed 5 October</a>, <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526397052/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the initial 10%-owner statement</a>, the September Form 4s and the 13G amendment. The September detail was added after the completeness check. The dollar total and average price are as posted; the poster's claim that AQR also added was not checked.</p>",
               "updated": null
             }
           ]
@@ -176,6 +177,37 @@
               "updated": null
             }
           ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> ValueInvesting.",
+              "html": "<p><strong>Read:</strong> ValueInvesting. <strong>Sources checked:</strong> Berkshire Hathaway's SEC filings since 20 September, and Berkshire's news page (no releases in the window).</p>",
+              "text": "Read: ValueInvesting. Sources checked: Berkshire Hathaway's SEC filings since 20 September, and Berkshire's news page (no releases in the window).",
+              "status": null,
+              "status_html": null,
+              "updated": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong>",
+              "html": "<p><strong>Announced, not discussed:</strong></p>\n<ul>\n<li><strong>Vice Chairman Ajit Jain sold 39,700 Berkshire shares at about $503.09 on 28 September, leaving 50.</strong></li>\n<li><strong>Berkshire's Lennar buying dates from 17 September, not 1 October.</strong> Its stake was 12.5% as of 30 September, now folded into the Lennar item above.</li>\n</ul>",
+              "text": "Announced, not discussed: Vice Chairman Ajit Jain sold 39,700 Berkshire shares at about $503.09 on 28 September, leaving 50. Berkshire's Lennar buying dates from 17 September, not 1 October. Its stake was 12.5% as of 30 September, now folded into the Lennar item above. Verified against the Form 4 Status: Verified against the filings",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000172845126000004/xslF345X06/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4</a> Status: <strong>Verified</strong> against the filings</p>",
+              "updated": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> buffett, covered under Berkshire.",
+              "html": "<p><strong>Flagged terms set aside:</strong> <em>buffett</em>, covered under Berkshire.</p>",
+              "text": "Flagged terms set aside: buffett , covered under Berkshire.",
+              "status": null,
+              "status_html": null,
+              "updated": null
+            }
+          ]
         }
       ]
     }
@@ -188,10 +220,18 @@
       "items": [
         {
           "headline": "<strong>Berkshire Hathaway is adding to Lennar.</strong>",
-          "html": "<p><strong>Berkshire Hathaway is adding to Lennar.</strong> It bought on 1 and 2 October 2026 and held 28,438,045 Class A shares indirectly afterwards, according to its Form 4. It reports as a 10% owner.</p>",
-          "text": "Berkshire Hathaway is adding to Lennar. It bought on 1 and 2 October 2026 and held 28,438,045 Class A shares indirectly afterwards, according to its Form 4. It reports as a 10% owner. Verified against the Form 4 filed 5 October · 2026-10-08",
+          "html": "<p><strong>Berkshire Hathaway is adding to Lennar.</strong> It has bought on most trading days since at least 17 September 2026, and filed as a new 10% owner on 21 September. Its Schedule 13G amendment reports 12.5% as of 30 September. After its purchases on 1 and 2 October, it held 28,438,045 Class A shares indirectly.</p>",
+          "text": "Berkshire Hathaway is adding to Lennar. It has bought on most trading days since at least 17 September 2026, and filed as a new 10% owner on 21 September. Its Schedule 13G amendment reports 12.5% as of 30 September. After its purchases on 1 and 2 October, it held 28,438,045 Class A shares indirectly. Verified against the Form 4 filed 5 October , the 13G amendment and the September Form 4s · 2026-10-08",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0000920760/000119312526414744/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4 filed 5 October</a> · 2026-10-08</p>",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0000920760/000119312526414744/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4 filed 5 October</a>, <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526417254/xslSCHEDULE_13G_X02/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the 13G amendment</a> and the September Form 4s · 2026-10-08</p>",
+          "updated": "2026-10-08"
+        },
+        {
+          "headline": "<strong>Ajit Jain sold nearly all his Berkshire shares.</strong>",
+          "html": "<p><strong>Ajit Jain sold nearly all his Berkshire shares.</strong> He sold 39,700 at about $503.09 on 28 September, leaving 50. The sub has not discussed it.</p>",
+          "text": "Ajit Jain sold nearly all his Berkshire shares. He sold 39,700 at about $503.09 on 28 September, leaving 50. The sub has not discussed it. Verified against the Form 4 · 2026-10-08",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000172845126000004/xslF345X06/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4</a> · 2026-10-08</p>",
           "updated": "2026-10-08"
         },
         {
