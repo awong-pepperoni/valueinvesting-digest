@@ -100,8 +100,13 @@ function pill(text, kind) {
   return el("span", `pill pill-${kind}`, text);
 }
 
+// "Must know" is the 1–3 stories per run the skills flag as essential reading. Its
+// cards stay open and its section is highlighted, so it can't be skimmed past.
+const MUST_KNOW = "mustknow";
+
 function card(item, category, isTip) {
-  const node = el("details", "card");
+  const node = el("details", category === MUST_KNOW ? "card card-mustknow" : "card");
+  node.open = category === MUST_KNOW;
   node.dataset.status = item.status || "none";
   node.dataset.category = category || "";
   node.dataset.text = (item.text || "").toLowerCase();
@@ -147,7 +152,8 @@ function card(item, category, isTip) {
 }
 
 function section({ heading, category, lead_html, items }, isSub = false, isTip = false) {
-  const node = el("section", `section${isSub ? " sub" : ""}`);
+  const node = el("section",
+    `section${isSub ? " sub" : ""}${category === MUST_KNOW ? " section-mustknow" : ""}`);
   if (category) node.dataset.category = category;
 
   node.append(el("h3", "section-head", heading));
@@ -275,7 +281,7 @@ function apply() {
     if (ok) shown += 1;
     highlight(c, ok ? state.query : "");
     // A search hit may sit in the body, so open it; otherwise follow the toggle.
-    c.open = (ok && Boolean(state.query)) || state.expandAll;
+    c.open = (ok && Boolean(state.query)) || state.expandAll || c.classList.contains("card-mustknow");
   });
 
   // Collapse any section, then any entry, left with nothing visible.

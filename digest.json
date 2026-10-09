@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08",
+  "generated": "2026-10-09",
   "meta": {
     "feed": "valueinvesting",
     "title": "Value Investing Digest",
@@ -8,6 +8,7 @@
     "durable_label": "Tracker",
     "durable_heading": "Situations tracker",
     "topics": {
+      "mustknow": "Must know",
       "filings": "Filings & insiders",
       "pitches": "Pitches",
       "process": "Process",
@@ -24,6 +25,21 @@
       "title": "Value investing digest",
       "intro_html": "<p>The top thread was Berkshire's latest Lennar purchases. Most of the rest was beaten-down names: European holding companies and real estate, a Stellantis turnaround, Uber's exposure to self-driving cars, and stocks sold off on AI fears. The best threads were about method: when to sell, and what a DCF is really saying when almost all of its value sits after year five.</p>",
       "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Berkshire Hathaway has built a 12.5% stake in Lennar since mid-September.</strong>",
+              "html": "<p><strong>Berkshire Hathaway has built a 12.5% stake in Lennar since mid-September.</strong> The sub's top thread treated the 1–2 October purchases as one-off. The filings show buying on most trading days since 17 September.</p>\n<ul>\n<li><strong>Why it matters:</strong> it is a sustained, filed move by the sub's reference investor into a homebuilder trading well below its high, at a 4% margin by the poster's numbers.</li>\n<li><strong>What to watch:</strong> further Form 4s from Berkshire on Lennar; the next Schedule 13G amendment; Lennar's margins next quarter, the sub's main objection</li>\n<li><strong>Numbers:</strong> Berkshire filed as a new 10% owner on 21 September. It reported 12.5% as of 30 September, and held 28,438,045 Class A shares indirectly after 2 October, per the filings. The poster's figure of $193M across 15 purchases on 1–2 October is as posted.</li>\n<li><strong>Caveats:</strong> Berkshire states no reason. The housing-shortage thesis is the sub's reading, not the company's.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526417254/xslSCHEDULE_13G_X02/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Berkshire's Schedule 13G amendment</a></li>\n</ul>",
+              "text": "Berkshire Hathaway has built a 12.5% stake in Lennar since mid-September. The sub's top thread treated the 1–2 October purchases as one-off. The filings show buying on most trading days since 17 September. Why it matters: it is a sustained, filed move by the sub's reference investor into a homebuilder trading well below its high, at a 4% margin by the poster's numbers. What to watch: further Form 4s from Berkshire on Lennar; the next Schedule 13G amendment; Lennar's margins next quarter, the sub's main objection Numbers: Berkshire filed as a new 10% owner on 21 September. It reported 12.5% as of 30 September, and held 28,438,045 Class A shares indirectly after 2 October, per the filings. The poster's figure of $193M across 15 purchases on 1–2 October is as posted. Caveats: Berkshire states no reason. The housing-shortage thesis is the sub's reading, not the company's. Read next: Berkshire's Schedule 13G amendment Verified against the Form 4s and the 13G amendment",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the Form 4s and the 13G amendment</p>",
+              "updated": null
+            }
+          ]
+        },
         {
           "heading": "Filings and insider moves",
           "category": "filings",
