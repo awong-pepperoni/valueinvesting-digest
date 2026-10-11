@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09",
+  "generated": "2026-10-11",
   "meta": {
     "feed": "valueinvesting",
     "title": "Value Investing Digest",
@@ -21,6 +21,303 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-11",
+      "title": "Value investing digest",
+      "intro_html": "<p>Two outside events drove the sub this run: SpaceX's low-band spectrum deal, which sent the US telcos down, and American Express's $350 million anti-money-laundering penalty. The pitches were almost all &quot;the market has mistaken a slowdown for an ending&quot; — Deckers, Baidu, D'Ieteren, Intuit and RELX — and the loudest thread of the run was an ex-Adobe engineer arguing the opposite about Adobe. No new filed moves by well-known investors appeared.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>SpaceX agreed on 8 October to buy 14 MHz of paired 800 MHz spectrum, and the sub's main reason for calling the telco sell-off an overreaction had already been removed the day before.</strong>",
+              "html": "<p><strong>SpaceX agreed on 8 October to buy 14 MHz of paired 800 MHz spectrum, and the sub's main reason for calling the telco sell-off an overreaction had already been removed the day before.</strong> The top thread argued the market panicked because SpaceX still faces years of regulatory work; the FCC had granted its 15,000-satellite direct-to-device constellation on 7 October.</p>\n<ul>\n<li><strong>Why it matters:</strong> the thread's framing rested on regulatory delay, and the regulatory step the sub assumed was pending had already been decided — including a waiver of the rule that a satellite operator must lease spectrum from a terrestrial carrier, which is exactly the &quot;they'll have to partner instead&quot; argument several commenters made.</li>\n<li><strong>What to watch:</strong> FCC approval of the Grain Management spectrum transfer, which the deal is conditional on; the constellation's build-out milestones of 7 October 2032 for half the satellites and 7 October 2035 for all of them; whether SpaceX bids for incumbent spectrum as licences come up, which one commenter put at 2035 for Verizon's C-band.</li>\n<li><strong>Numbers:</strong> as announced, 14 MHz of paired spectrum in the 800 MHz band, nationwide, from Grain Management. The roughly $8 billion deal value is as reported in press coverage, not announced by either party. A commenter's estimate of $6 billion to build 30,000 sites at $200,000 each is their own arithmetic.</li>\n<li><strong>Caveats:</strong> 14 MHz is thin, and the thread's best technical reply is right that it cannot support an urban carrier on its own — Verizon is quoted as holding about 300 MHz of low- and mid-band. The FCC grant and the spectrum purchase are two separate things and only the first is done. Nobody in the thread, including the commenter who correctly identified the 14 MHz figure, mentioned the satellite approval.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.satellitetoday.com/connectivity/2026/10/07/fcc-grants-spacex-approval-for-15000-direct-to-device-satellites-in-mss-spectrum/\" target=\"_blank\" rel=\"noopener noreferrer\">the FCC's direct-to-device grant</a>, then <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x2cvl9/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a></li>\n</ul>",
+              "text": "SpaceX agreed on 8 October to buy 14 MHz of paired 800 MHz spectrum, and the sub's main reason for calling the telco sell-off an overreaction had already been removed the day before. The top thread argued the market panicked because SpaceX still faces years of regulatory work; the FCC had granted its 15,000-satellite direct-to-device constellation on 7 October. Why it matters: the thread's framing rested on regulatory delay, and the regulatory step the sub assumed was pending had already been decided — including a waiver of the rule that a satellite operator must lease spectrum from a terrestrial carrier, which is exactly the \"they'll have to partner instead\" argument several commenters made. What to watch: FCC approval of the Grain Management spectrum transfer, which the deal is conditional on; the constellation's build-out milestones of 7 October 2032 for half the satellites and 7 October 2035 for all of them; whether SpaceX bids for incumbent spectrum as licences come up, which one commenter put at 2035 for Verizon's C-band. Numbers: as announced, 14 MHz of paired spectrum in the 800 MHz band, nationwide, from Grain Management. The roughly $8 billion deal value is as reported in press coverage, not announced by either party. A commenter's estimate of $6 billion to build 30,000 sites at $200,000 each is their own arithmetic. Caveats: 14 MHz is thin, and the thread's best technical reply is right that it cannot support an urban carrier on its own — Verizon is quoted as holding about 300 MHz of low- and mid-band. The FCC grant and the spectrum purchase are two separate things and only the first is done. Nobody in the thread, including the commenter who correctly identified the 14 MHz figure, mentioned the satellite approval. Read next: the FCC's direct-to-device grant , then the thread Verified for the spectrum terms and the FCC grant against the announcements and coverage of 7 and 8 October; the $8 billion price is Reported",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the spectrum terms and the FCC grant against the announcements and coverage of 7 and 8 October; the $8 billion price is Reported</p>",
+              "updated": null,
+              "sources": [
+                "satellitetoday.com",
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The $13 billion figure in the sub's American Express thread and the $350 million fine are the same enforcement action, not a fine followed by a worse allegation.</strong>",
+              "html": "<p><strong>The $13 billion figure in the sub's American Express thread and the $350 million fine are the same enforcement action, not a fine followed by a worse allegation.</strong> The post presented the $13 billion as a &quot;latest allegation&quot; that dwarfed &quot;a recent $350 million fine&quot;; the OCC published both in one news release on 8 October.</p>\n<ul>\n<li><strong>Why it matters:</strong> the post's structure implies an escalating sequence and a second shoe still to drop, and a commenter's correction — that this is unmonitored and unreported activity rather than money Amex itself laundered — is closer to the record, though the OCC does call it suspected trade-based money laundering.</li>\n<li><strong>What to watch:</strong> whether regulators follow the penalty with growth restrictions, which a commenter raises by analogy to the asset cap imposed on Wells Fargo and the US-business cap on TD; Amex's 2027 guidance, which the company says the consent-order compliance costs are not expected to affect.</li>\n<li><strong>Numbers:</strong> as filed, a $350 million civil money penalty to the OCC and a consent order from the Federal Reserve, covering approximately $13 billion of suspected trade-based money laundering from about June 2014 to about May 2025. Amex's 2025 billed business was $1,669.8 billion, so the poster's figure of about 1% is right. The $222.55 billion market capitalisation is as posted and was not checked.</li>\n<li><strong>Caveats:</strong> the 8-K says a portion of the penalty was reserved in prior periods, which a commenter guessed and which weakens the &quot;new hit to earnings&quot; reading. The decade-long window matters: this is not a single recent lapse. Most of the thread treats compliance fines as a category that never damages value, which is an assertion about banks generally, not a finding about Amex.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-87.html\" target=\"_blank\" rel=\"noopener noreferrer\">the OCC news release</a></li>\n</ul>",
+              "text": "The $13 billion figure in the sub's American Express thread and the $350 million fine are the same enforcement action, not a fine followed by a worse allegation. The post presented the $13 billion as a \"latest allegation\" that dwarfed \"a recent $350 million fine\"; the OCC published both in one news release on 8 October. Why it matters: the post's structure implies an escalating sequence and a second shoe still to drop, and a commenter's correction — that this is unmonitored and unreported activity rather than money Amex itself laundered — is closer to the record, though the OCC does call it suspected trade-based money laundering. What to watch: whether regulators follow the penalty with growth restrictions, which a commenter raises by analogy to the asset cap imposed on Wells Fargo and the US-business cap on TD; Amex's 2027 guidance, which the company says the consent-order compliance costs are not expected to affect. Numbers: as filed, a $350 million civil money penalty to the OCC and a consent order from the Federal Reserve, covering approximately $13 billion of suspected trade-based money laundering from about June 2014 to about May 2025. Amex's 2025 billed business was $1,669.8 billion, so the poster's figure of about 1% is right. The $222.55 billion market capitalisation is as posted and was not checked. Caveats: the 8-K says a portion of the penalty was reserved in prior periods, which a commenter guessed and which weakens the \"new hit to earnings\" reading. The decade-long window matters: this is not a single recent lapse. Most of the thread treats compliance fines as a category that never damages value, which is an assertion about banks generally, not a finding about Amex. Read next: the OCC news release Verified against the OCC release and Amex's 8-K of 8 October",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the OCC release and <a href=\"https://www.sec.gov/Archives/edgar/data/0000004962/000000496226000376/axp-20261008.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Amex's 8-K of 8 October</a></p>",
+              "updated": null,
+              "sources": [
+                "occ.gov",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>An engineer who left Adobe about six months ago argues it is a value trap, not a value stock.</strong>",
+              "html": "<p><strong>An engineer who left Adobe about six months ago argues it is a value trap, not a value stock.</strong> Their account is about execution rather than numbers: projects deprioritised within weeks, demos built to impress visiting VPs, product managers who did not know their own features, and Firefly integrated everywhere while, by the analytics they say they saw, users reached for Gemini and GPT instead. The most-upvoted reply at 257 points is &quot;You just described every other corporate,&quot; and several more say the same, which is the strongest objection: none of it is specific to Adobe unless the sub thinks peers are equally bad. One commenter who has sold out of Adobe argues the simpler case, that ChatGPT image editing already covers most of what Photoshop was hired for. A second commenter pushes the other way on the part that actually carries the revenue — enterprise Creative Cloud is sticky through muscle memory, file compatibility and collaboration — and the poster's answer is that enterprise seat counts fall if AI cuts headcount at those enterprises. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x2nwm7/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "An engineer who left Adobe about six months ago argues it is a value trap, not a value stock. Their account is about execution rather than numbers: projects deprioritised within weeks, demos built to impress visiting VPs, product managers who did not know their own features, and Firefly integrated everywhere while, by the analytics they say they saw, users reached for Gemini and GPT instead. The most-upvoted reply at 257 points is \"You just described every other corporate,\" and several more say the same, which is the strongest objection: none of it is specific to Adobe unless the sub thinks peers are equally bad. One commenter who has sold out of Adobe argues the simpler case, that ChatGPT image editing already covers most of what Photoshop was hired for. A second commenter pushes the other way on the part that actually carries the revenue — enterprise Creative Cloud is sticky through muscle memory, file compatibility and collaboration — and the poster's answer is that enterprise seat counts fall if AI cuts headcount at those enterprises. Thread Single source · one former employee's account of a company they say they disliked working for, and no financial figures were given.",
+              "status": "single-source",
+              "status_html": "<p>Single source · one former employee's account of a company they say they disliked working for, and no financial figures were given.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Deckers at about $80 is pitched as roughly 11x guided earnings with buybacks alone returning 8–10% a year.</strong>",
+              "html": "<p><strong>Deckers at about $80 is pitched as roughly 11x guided earnings with buybacks alone returning 8–10% a year.</strong> The write-up is unusually complete: FY26 revenue of $5.47 billion and EPS of $7.02, international sales up 27% to $2.28 billion and now 42% of revenue, no debt and $1.6 billion of cash, and a share count down 28% since FY17. The poster discloses a long position and links their own Substack. The pushback is mostly pattern-matching rather than argument — look at Nike, consumer retail is fickle, names like ANF and AEO traded to 3–5x earnings — with the most useful version being a commenter who agrees on the business but argues for a small position on the grounds that the sector can always get cheaper. One commenter asks the sharpest question and nobody answers it: on a thesis this dependent on buybacks, are the executives buying on the open market themselves? <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x2gcgf/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Deckers at about $80 is pitched as roughly 11x guided earnings with buybacks alone returning 8–10% a year. The write-up is unusually complete: FY26 revenue of $5.47 billion and EPS of $7.02, international sales up 27% to $2.28 billion and now 42% of revenue, no debt and $1.6 billion of cash, and a share count down 28% since FY17. The poster discloses a long position and links their own Substack. The pushback is mostly pattern-matching rather than argument — look at Nike, consumer retail is fickle, names like ANF and AEO traded to 3–5x earnings — with the most useful version being a commenter who agrees on the business but argues for a small position on the grounds that the sector can always get cheaper. One commenter asks the sharpest question and nobody answers it: on a thesis this dependent on buybacks, are the executives buying on the open market themselves? Thread Verified for the FY27 guidance of $7.35–7.50 EPS on revenue of $5.86–5.91 billion, Q1 EPS of $0.94 on revenue of $1.02 billion, and the $338 million of Q1 buybacks, against Deckers' Q1 FY27 release . The valuation multiples, the peer comparisons and the 15%-a-year return arithmetic are the poster's own.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the FY27 guidance of $7.35–7.50 EPS on revenue of $5.86–5.91 billion, Q1 EPS of $0.94 on revenue of $1.02 billion, and the $338 million of Q1 buybacks, against <a href=\"https://www.stocktitan.net/sec-filings/DECK/8-k-deckers-outdoor-corp-reports-material-event-6ee8eefc788b.html\" target=\"_blank\" rel=\"noopener noreferrer\">Deckers' Q1 FY27 release</a>. The valuation multiples, the peer comparisons and the 15%-a-year return arithmetic are the poster's own.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "stocktitan.net"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A Baidu write-up argues the problem is not search but what AI cloud costs, and concludes against buying at $85.33 per ADS.</strong>",
+              "html": "<p><strong>A Baidu write-up argues the problem is not search but what AI cloud costs, and concludes against buying at $85.33 per ADS.</strong> By the poster's figures, free cash flow went from +$1.9 billion in 2024 to an annualised –$3.3 billion in the first half of 2026, with capital spending explaining about $3.9 billion of the $5.2 billion swing and weaker advertising about $1.3 billion. For the shares to return 10% a year, they argue AI cloud revenue must nearly double to $7.5–8 billion with a free cash flow margin of 10–25%, against their estimate of –30% to +10% today. The best reply accepts the consolidated cash flows — RMB 3.44 billion of operating cash flow against RMB 11.39 billion of capital spending in Q2 2026 — but points out that Baidu does not disclose standalone AI cloud cash flow or capital spending, so the cloud margin is an allocation assumption rather than a segment result; it also notes cloud infrastructure revenue grew 50% year on year but fell 17% sequentially in Q2 while capital spending nearly doubled. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x2n7i9/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A Baidu write-up argues the problem is not search but what AI cloud costs, and concludes against buying at $85.33 per ADS. By the poster's figures, free cash flow went from +$1.9 billion in 2024 to an annualised –$3.3 billion in the first half of 2026, with capital spending explaining about $3.9 billion of the $5.2 billion swing and weaker advertising about $1.3 billion. For the shares to return 10% a year, they argue AI cloud revenue must nearly double to $7.5–8 billion with a free cash flow margin of 10–25%, against their estimate of –30% to +10% today. The best reply accepts the consolidated cash flows — RMB 3.44 billion of operating cash flow against RMB 11.39 billion of capital spending in Q2 2026 — but points out that Baidu does not disclose standalone AI cloud cash flow or capital spending, so the cloud margin is an allocation assumption rather than a segment result; it also notes cloud infrastructure revenue grew 50% year on year but fell 17% sequentially in Q2 while capital spending nearly doubled. Thread Single source · the poster labels their own estimates, and the segment figures were not checked against the filing.",
+              "status": "single-source",
+              "status_html": "<p>Single source · the poster labels their own estimates, and the segment figures were not checked against the filing.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;That €32bn valuation everyone cites&quot; for D'Ieteren's Belron is an internal mark, not a market price.</strong>",
+              "html": "<p><strong>&quot;That €32bn valuation everyone cites&quot; for D'Ieteren's Belron is an internal mark, not a market price.</strong> The link post argues the market values Belron at about 11x EBITDA, and its one substantive comment says the widely quoted €32 billion came from a 1.4% slice changing hands between existing minority private-equity holders, so treating it as an implied market capitalisation &quot;is how people get trapped.&quot; The same comment describes Belron as a toll road where job volumes are flat but average tickets keep rising because a cracked windshield now needs roughly $400 of ADAS camera recalibration, and warns that European holding-company discounts tend to persist even after an IPO surfaces a public price. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x30pf2/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "\"That €32bn valuation everyone cites\" for D'Ieteren's Belron is an internal mark, not a market price. The link post argues the market values Belron at about 11x EBITDA, and its one substantive comment says the widely quoted €32 billion came from a 1.4% slice changing hands between existing minority private-equity holders, so treating it as an implied market capitalisation \"is how people get trapped.\" The same comment describes Belron as a toll road where job volumes are flat but average tickets keep rising because a cracked windshield now needs roughly $400 of ADAS camera recalibration, and warns that European holding-company discounts tend to persist even after an IPO surfaces a public price. Thread Single source · the transaction described was not checked against a filing or announcement.",
+              "status": "single-source",
+              "status_html": "<p>Single source · the transaction described was not checked against a filing or announcement.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Intuit and RELX top a 25-company matrix that scores 30-year durability against present valuation dislocation.</strong>",
+              "html": "<p><strong>Intuit and RELX top a 25-company matrix that scores 30-year durability against present valuation dislocation.</strong> The poster's argument is that these are the only two names rating both B+ durability and a strong dislocation, with Microsoft the sole A+ business but no dislocation, and Tencent a strong dislocation at C durability and therefore off the matrix. They rate NVIDIA, Broadcom, TSMC and ASML only B over 30 years, on the grounds that a technological bottleneck is a long thing to extrapolate. The replies split on Intuit: one says its core business depends on tax filing staying complicated and would move it down first; a self-described large holder makes the more concrete case that assisted tax preparation is a $24 billion market against $5.3 billion of TurboTax revenue, that QuickBooks holds more of the terminal value than TurboTax, and that management cutting prices at the low end is either caution or a tell. A third says the funding of free government filing is the thing to watch. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x2gnui/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Intuit and RELX top a 25-company matrix that scores 30-year durability against present valuation dislocation. The poster's argument is that these are the only two names rating both B+ durability and a strong dislocation, with Microsoft the sole A+ business but no dislocation, and Tencent a strong dislocation at C durability and therefore off the matrix. They rate NVIDIA, Broadcom, TSMC and ASML only B over 30 years, on the grounds that a technological bottleneck is a long thing to extrapolate. The replies split on Intuit: one says its core business depends on tax filing staying complicated and would move it down first; a self-described large holder makes the more concrete case that assisted tax preparation is a $24 billion market against $5.3 billion of TurboTax revenue, that QuickBooks holds more of the terminal value than TurboTax, and that management cutting prices at the low end is either caution or a tell. A third says the funding of free government filing is the thing to watch. Thread Single source · the tiers are the poster's own framework, published on their Substack, and the market figures in the replies were not checked.",
+              "status": "single-source",
+              "status_html": "<p>Single source · the tiers are the poster's own framework, published on their Substack, and the market figures in the replies were not checked.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A doctor who used UpToDate says Open Evidence is &quot;eating their lunch,&quot; against a Wolters Kluwer thread asking whether the company is Moody's or the Buffalo News.</strong>",
+              "html": "<p><strong>A doctor who used UpToDate says Open Evidence is &quot;eating their lunch,&quot; against a Wolters Kluwer thread asking whether the company is Moody's or the Buffalo News.</strong> The link post's framing is the sub's recurring question about information businesses; its only comment is the specific one, from someone who says they used the product at work and cannot see how a subscription at hundreds to thousands a year survives a free competitor that is easier and more relevant. They put UpToDate at about 10% of revenue and disclaim knowledge of the rest. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x2dp9e/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A doctor who used UpToDate says Open Evidence is \"eating their lunch,\" against a Wolters Kluwer thread asking whether the company is Moody's or the Buffalo News. The link post's framing is the sub's recurring question about information businesses; its only comment is the specific one, from someone who says they used the product at work and cannot see how a subscription at hundreds to thousands a year survives a free competitor that is easier and more relevant. They put UpToDate at about 10% of revenue and disclaim knowledge of the rest. Thread Single source · one practitioner's view, and the 10% revenue share was not checked.",
+              "status": "single-source",
+              "status_html": "<p>Single source · one practitioner's view, and the 10% revenue share was not checked.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Process and valuation method",
+          "category": "process",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;I rarely read the full 100-page earnings transcripts anymore. How do you guys actually process this stuff?&quot;</strong>",
+              "html": "<p><strong>&quot;I rarely read the full 100-page earnings transcripts anymore. How do you guys actually process this stuff?&quot;</strong> The thread is mostly about delegating reading to a model, and the two best answers pull in opposite directions. The practical one is to put the filing into a model in its highest reasoning mode, ask for extraction without interpretation, and require a page reference for every figure so each one can be checked. The counterweight, from a commenter who says they use a lot of AI, is that models &quot;do a terrible job of trying to understand what is actually important,&quot; so the useful task is translating legalese and unfamiliar industry terms rather than summarising. A third reframes the question: if small changes in debt or guidance could break the thesis, the price was never safe enough. The cheapest trick in the thread is to search the transcript for &quot;guidance,&quot; &quot;debt&quot; and &quot;margin&quot; and read only those sections. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x27feh/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "\"I rarely read the full 100-page earnings transcripts anymore. How do you guys actually process this stuff?\" The thread is mostly about delegating reading to a model, and the two best answers pull in opposite directions. The practical one is to put the filing into a model in its highest reasoning mode, ask for extraction without interpretation, and require a page reference for every figure so each one can be checked. The counterweight, from a commenter who says they use a lot of AI, is that models \"do a terrible job of trying to understand what is actually important,\" so the useful task is translating legalese and unfamiliar industry terms rather than summarising. A third reframes the question: if small changes in debt or guidance could break the thesis, the price was never safe enough. The cheapest trick in the thread is to search the transcript for \"guidance,\" \"debt\" and \"margin\" and read only those sections. Thread",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The same commenter asked two different posters whether insiders are buying on the open market at the dislocated price, and got no answer either time.</strong>",
+              "html": "<p><strong>The same commenter asked two different posters whether insiders are buying on the open market at the dislocated price, and got no answer either time.</strong> In the Deckers thread and in the durability-matrix thread, they argue that open-market Form 4 purchases by officers are the signal worth weighting, that option exercises and scheduled 10b5-1 sales are noise, and that a cluster of officer buys in one window is the cleanest tell that a discount is real rather than a trap. The matrix poster replied that they track buybacks, capital allocation and ownership but not insider behaviour, and would look into it. It is worth recording because this feed checks exactly that filing, and because a buyback-funded return thesis and a quiet Form 4 cabinet are a combination the sub did not resolve. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x2gcgf/\" target=\"_blank\" rel=\"noopener noreferrer\">Deckers thread</a>, <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x2gnui/\" target=\"_blank\" rel=\"noopener noreferrer\">matrix thread</a></p>",
+              "text": "The same commenter asked two different posters whether insiders are buying on the open market at the dislocated price, and got no answer either time. In the Deckers thread and in the durability-matrix thread, they argue that open-market Form 4 purchases by officers are the signal worth weighting, that option exercises and scheduled 10b5-1 sales are noise, and that a cluster of officer buys in one window is the cleanest tell that a discount is real rather than a trap. The matrix poster replied that they track buybacks, capital allocation and ownership but not insider behaviour, and would look into it. It is worth recording because this feed checks exactly that filing, and because a buyback-funded return thesis and a quiet Form 4 cabinet are a combination the sub did not resolve. Deckers thread , matrix thread",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Information and data businesses are still where the sub sees the most opportunity, now Wolters Kluwer, RELX and Intuit alongside the S&amp;P Global thread from t…",
+              "html": "<p>Information and data businesses are still where the sub sees the most opportunity, now Wolters Kluwer, RELX and Intuit alongside the S&amp;P Global thread from the last run — but the Open Evidence comment is the first time this run that someone with hands-on experience of one of these products argued the AI threat is real rather than overpriced.</p>",
+              "text": "Information and data businesses are still where the sub sees the most opportunity, now Wolters Kluwer, RELX and Intuit alongside the S&P Global thread from the last run — but the Open Evidence comment is the first time this run that someone with hands-on experience of one of these products argued the AI threat is real rather than overpriced.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "TSMC drew 124 comments on the premise that it is overlooked, and nearly every reply rejected the premise: it is a $2.35 trillion company whose shares have tr…",
+              "html": "<p>TSMC drew 124 comments on the premise that it is overlooked, and nearly every reply rejected the premise: it is a $2.35 trillion company whose shares have tripled in 18 months, and the compressed multiple is geopolitical risk rather than inattention. One commenter adds that TSMC deliberately does not charge monopoly margins, in order to stay the only game in town.</p>",
+              "text": "TSMC drew 124 comments on the premise that it is overlooked, and nearly every reply rejected the premise: it is a $2.35 trillion company whose shares have tripled in 18 months, and the compressed multiple is geopolitical risk rather than inattention. One commenter adds that TSMC deliberately does not charge monopoly margins, in order to stay the only game in town.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "&quot;Value investing is dead&quot; drew 92 mostly hostile replies, and the sub&#x27;s answer was consistent: the poster invoked efficient markets and Buffett in the same b…",
+              "html": "<p>&quot;Value investing is dead&quot; drew 92 mostly hostile replies, and the sub's answer was consistent: the poster invoked efficient markets and Buffett in the same breath, and several pointed out that Buffett rejects the first and that value investing now means a good business at a fair price. One reply listed seven purchases over two years as a counterexample. Nothing was settled; it is the same argument the sub has every few months.</p>",
+              "text": "\"Value investing is dead\" drew 92 mostly hostile replies, and the sub's answer was consistent: the poster invoked efficient markets and Buffett in the same breath, and several pointed out that Buffett rejects the first and that value investing now means a good business at a fair price. One reply listed seven purchases over two years as a counterexample. Nothing was settled; it is the same argument the sub has every few months.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Uber against self-driving cars came back with a long post on hybrid human-and-robotaxi supply, three days after the same debate ran.",
+              "html": "<p>Uber against self-driving cars came back with a long post on hybrid human-and-robotaxi supply, three days after the same debate ran. Nothing new was argued, so see the 8 October entry.</p>",
+              "text": "Uber against self-driving cars came back with a long post on hybrid human-and-robotaxi supply, three days after the same debate ran. Nothing new was argued, so see the 8 October entry.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The Deckers thread treats &quot;Burry is long DECK&quot; as settled, twice using it as a contrarian reason to short.</strong>",
+              "html": "<p><strong>The Deckers thread treats &quot;Burry is long DECK&quot; as settled, twice using it as a contrarian reason to short.</strong> It cannot be sourced from a filing. Scion Asset Management's registration was terminated in November 2025 and its last 13F, for the quarter ended 30 September 2025, listed eight holdings that did not include Deckers, so there is no current filing to check. Secondary sites do describe a Scion position in Deckers, but any such position predates the deregistration and nothing requires it to still exist.</p>",
+              "text": "The Deckers thread treats \"Burry is long DECK\" as settled, twice using it as a contrarian reason to short. It cannot be sourced from a filing. Scion Asset Management's registration was terminated in November 2025 and its last 13F, for the quarter ended 30 September 2025, listed eight holdings that did not include Deckers, so there is no current filing to check. Secondary sites do describe a Scion position in Deckers, but any such position predates the deregistration and nothing requires it to still exist. Unconfirmed · checked against coverage of Scion's final 13F and deregistration ; no 13F has been filed since.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · checked against coverage of <a href=\"https://hedgefundalpha.com/strategies/michael-burry-portfolio/\" target=\"_blank\" rel=\"noopener noreferrer\">Scion's final 13F and deregistration</a>; no 13F has been filed since.</p>",
+              "updated": null,
+              "sources": [
+                "hedgefundalpha.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Politicians are selling 2:1 versus buying,&quot; from a third-party aggregator, with the thread reading it as a signal.</strong>",
+              "html": "<p><strong>&quot;Politicians are selling 2:1 versus buying,&quot; from a third-party aggregator, with the thread reading it as a signal.</strong> The figure comes from a dashboard the post links and I did not verify it against congressional disclosures. The most useful reply is structural rather than sceptical: members of Congress sell more than they buy most years because disclosure rules and pre-clearance make holding index funds a nuisance, so they move to cash or Treasuries, particularly before election cycles. The post's own guesses — an impending crash, or raising cash for an Anthropic IPO — have nothing behind them in the thread.</p>",
+              "text": "\"Politicians are selling 2:1 versus buying,\" from a third-party aggregator, with the thread reading it as a signal. The figure comes from a dashboard the post links and I did not verify it against congressional disclosures. The most useful reply is structural rather than sceptical: members of Congress sell more than they buy most years because disclosure rules and pre-clearance make holding index funds a nuisance, so they move to cash or Treasuries, particularly before election cycles. The post's own guesses — an impending crash, or raising cash for an Anthropic IPO — have nothing behind them in the thread. Unconfirmed · the 2:1 ratio was not checked against a primary disclosure source.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · the 2:1 ratio was not checked against a primary disclosure source.</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A commenter claims someone &quot;reverse engineered adobe whole product suite and open-sourced it,&quot; so that &quot;Adobe products are basically free now.&quot;</strong>",
+              "html": "<p><strong>A commenter claims someone &quot;reverse engineered adobe whole product suite and open-sourced it,&quot; so that &quot;Adobe products are basically free now.&quot;</strong> The link given is to a single commercial-looking site, which is not what the claim describes. I found nothing supporting a full open-source reimplementation of Creative Cloud and did not pursue it further.</p>",
+              "text": "A commenter claims someone \"reverse engineered adobe whole product suite and open-sourced it,\" so that \"Adobe products are basically free now.\" The link given is to a single commercial-looking site, which is not what the claim describes. I found nothing supporting a full open-source reimplementation of Creative Cloud and did not pursue it further. Unconfirmed · one comment, and the link does not support the claim made for it.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · one comment, and the link does not support the claim made for it.</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> ValueInvesting.",
+              "html": "<p><strong>Read:</strong> ValueInvesting. <strong>Sources checked:</strong> Berkshire Hathaway's SEC filings and Berkshire's news page, both for anything after 8 October 2026.</p>",
+              "text": "Read: ValueInvesting. Sources checked: Berkshire Hathaway's SEC filings and Berkshire's news page, both for anything after 8 October 2026.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. Berkshire has filed nothing since the Schedule 13G amendment covered in the last entry, and its news page has nothing after 18 September 2026.</p>",
+              "text": "Announced, not discussed: none. Berkshire has filed nothing since the Schedule 13G amendment covered in the last entry, and its news page has nothing after 18 September 2026. Verified against EDGAR's filing index for Berkshire and the 2026 news page",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://data.sec.gov/submissions/CIK0001067983.json\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing index for Berkshire</a> and <a href=\"https://www.berkshirehathaway.com/news/2026news.html\" target=\"_blank\" rel=\"noopener noreferrer\">the 2026 news page</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "berkshirehathaway.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> nvidia and amazon, both of which appear only as comparison names — in the TSMC thread, in a four-way &quot;which is the best value&quot; question t…",
+              "html": "<p><strong>Flagged terms set aside:</strong> <em>nvidia</em> and <em>amazon</em>, both of which appear only as comparison names — in the TSMC thread, in a four-way &quot;which is the best value&quot; question that the feed skips as an allocation post, and as cells in the durability matrix covered above; <em>buffett-style</em>, two near-identical self-promotional posts by one author for a Buffett-letters company checker, at 0 points with no discussion, set aside as promotion rather than a finding.</p>",
+              "text": "Flagged terms set aside: nvidia and amazon , both of which appear only as comparison names — in the TSMC thread, in a four-way \"which is the best value\" question that the feed skips as an allocation post, and as cells in the durability matrix covered above; buffett-style , two near-identical self-promotional posts by one author for a Buffett-letters company checker, at 0 points with no discussion, set aside as promotion rather than a finding.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "title": "Value investing digest",
@@ -303,10 +600,10 @@
         {
           "headline": "<strong>Berkshire Hathaway is adding to Lennar.</strong>",
           "html": "<p><strong>Berkshire Hathaway is adding to Lennar.</strong> It has bought on most trading days since at least 17 September 2026, and filed as a new 10% owner on 21 September. Its Schedule 13G amendment reports 12.5% as of 30 September. After its purchases on 1 and 2 October, it held 28,438,045 Class A shares indirectly.</p>",
-          "text": "Berkshire Hathaway is adding to Lennar. It has bought on most trading days since at least 17 September 2026, and filed as a new 10% owner on 21 September. Its Schedule 13G amendment reports 12.5% as of 30 September. After its purchases on 1 and 2 October, it held 28,438,045 Class A shares indirectly. Verified against the Form 4 filed 5 October , the 13G amendment and the September Form 4s · 2026-10-08",
+          "text": "Berkshire Hathaway is adding to Lennar. It has bought on most trading days since at least 17 September 2026, and filed as a new 10% owner on 21 September. Its Schedule 13G amendment reports 12.5% as of 30 September. After its purchases on 1 and 2 October, it held 28,438,045 Class A shares indirectly. Verified against the Form 4 filed 5 October , the 13G amendment and the September Form 4s; no further Berkshire filings as of 11 October 2026 · 2026-10-11",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0000920760/000119312526414744/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4 filed 5 October</a>, <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526417254/xslSCHEDULE_13G_X02/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the 13G amendment</a> and the September Form 4s · 2026-10-08</p>",
-          "updated": "2026-10-08",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0000920760/000119312526414744/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4 filed 5 October</a>, <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526417254/xslSCHEDULE_13G_X02/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the 13G amendment</a> and the September Form 4s; no further Berkshire filings as of 11 October 2026 · 2026-10-11</p>",
+          "updated": "2026-10-11",
           "sources": [
             "SEC filing"
           ],
@@ -338,6 +635,19 @@
           ],
           "due": null,
           "due_label": null
+        },
+        {
+          "headline": "<strong>&quot;Burry is long DECK&quot; cannot be sourced from a filing.</strong>",
+          "html": "<p><strong>&quot;Burry is long DECK&quot; cannot be sourced from a filing.</strong> The sub uses it as a contrarian reason to short Deckers. Scion Asset Management's registration was terminated in November 2025 and its final 13F, for the quarter ended 30 September 2025, did not list Deckers, so no current filing exists to check.</p>",
+          "text": "\"Burry is long DECK\" cannot be sourced from a filing. The sub uses it as a contrarian reason to short Deckers. Scion Asset Management's registration was terminated in November 2025 and its final 13F, for the quarter ended 30 September 2025, did not list Deckers, so no current filing exists to check. Unconfirmed · checked against coverage of Scion's final 13F and deregistration · 2026-10-11",
+          "status": "unconfirmed",
+          "status_html": "<p><strong>Unconfirmed</strong> · checked against coverage of <a href=\"https://hedgefundalpha.com/strategies/michael-burry-portfolio/\" target=\"_blank\" rel=\"noopener noreferrer\">Scion's final 13F and deregistration</a> · 2026-10-11</p>",
+          "updated": "2026-10-11",
+          "sources": [
+            "hedgefundalpha.com"
+          ],
+          "due": null,
+          "due_label": null
         }
       ]
     },
@@ -358,6 +668,31 @@
           ],
           "due": "2026-12-31",
           "due_label": "targeted close, \"by year end\""
+        },
+        {
+          "headline": "<strong>SpaceX's purchase of 14 MHz of paired 800 MHz spectrum from Grain Management, agreed 8 October 2026 and subject to FCC approval.</strong>",
+          "html": "<p><strong>SpaceX's purchase of 14 MHz of paired 800 MHz spectrum from Grain Management, agreed 8 October 2026 and subject to FCC approval.</strong> Reported at about $8 billion. The FCC separately granted SpaceX's 15,000-satellite direct-to-device constellation on 7 October, waiving the requirement to lease spectrum from a terrestrial carrier. The sub watches whether the sell-off in T-Mobile, Verizon and AT&amp;T was a repricing or an overreaction; 14 MHz is too thin to serve an urban carrier on its own.</p>",
+          "text": "SpaceX's purchase of 14 MHz of paired 800 MHz spectrum from Grain Management, agreed 8 October 2026 and subject to FCC approval. Reported at about $8 billion. The FCC separately granted SpaceX's 15,000-satellite direct-to-device constellation on 7 October, waiving the requirement to lease spectrum from a terrestrial carrier. The sub watches whether the sell-off in T-Mobile, Verizon and AT&T was a repricing or an overreaction; 14 MHz is too thin to serve an urban carrier on its own. Verified for the spectrum terms and the FCC grant against the 7 and 8 October announcements and coverage; the $8 billion price is Reported · 2026-10-11",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the spectrum terms and the FCC grant against the 7 and 8 October announcements and coverage; the $8 billion price is Reported · 2026-10-11</p>",
+          "updated": "2026-10-11",
+          "sources": [],
+          "due": "2032-10-07",
+          "due_label": "half the constellation operational, per the FCC grant; all of it by 2035-10-07"
+        },
+        {
+          "headline": "<strong>American Express's OCC and Federal Reserve consent orders of 8 October 2026.</strong>",
+          "html": "<p><strong>American Express's OCC and Federal Reserve consent orders of 8 October 2026.</strong> A $350 million civil money penalty to the OCC, covering about $13 billion of suspected trade-based money laundering it failed to identify and report between about June 2014 and May 2025. The open question the sub raises is whether regulators follow with growth restrictions, as happened to Wells Fargo and TD; Amex says compliance costs are not expected to affect its 2027 guidance.</p>",
+          "text": "American Express's OCC and Federal Reserve consent orders of 8 October 2026. A $350 million civil money penalty to the OCC, covering about $13 billion of suspected trade-based money laundering it failed to identify and report between about June 2014 and May 2025. The open question the sub raises is whether regulators follow with growth restrictions, as happened to Wells Fargo and TD; Amex says compliance costs are not expected to affect its 2027 guidance. Verified against the OCC news release and Amex's 8-K · 2026-10-11",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-87.html\" target=\"_blank\" rel=\"noopener noreferrer\">the OCC news release</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/0000004962/000000496226000376/axp-20261008.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Amex's 8-K</a> · 2026-10-11</p>",
+          "updated": "2026-10-11",
+          "sources": [
+            "occ.gov",
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
         },
         {
           "headline": "<strong>Exor buyback of up to €500 million, announced 22 September and launched 23 September 2026.</strong>",
@@ -381,22 +716,22 @@
       "items": [
         {
           "headline": "<strong>Uber versus self-driving cars.</strong>",
-          "html": "<p><strong>Uber versus self-driving cars.</strong> One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct.</p>",
-          "text": "Uber versus self-driving cars. One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct. Single source each time; a debate, not a finding · 2026-10-08",
+          "html": "<p><strong>Uber versus self-driving cars.</strong> One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct. Came back on 11 October with no new argument on either side.</p>",
+          "text": "Uber versus self-driving cars. One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct. Came back on 11 October with no new argument on either side. Single source each time; a debate, not a finding · 2026-10-11",
           "status": "single-source",
-          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-08</p>",
-          "updated": "2026-10-08",
+          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-11</p>",
+          "updated": "2026-10-11",
           "sources": [],
           "due": null,
           "due_label": null
         },
         {
           "headline": "<strong>&quot;AI losers&quot; in data and information businesses</strong>",
-          "html": "<p><strong>&quot;AI losers&quot; in data and information businesses</strong> (Wolters Kluwer, S&amp;P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption.</p>",
-          "text": "\"AI losers\" in data and information businesses (Wolters Kluwer, S&P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. Single source · 2026-10-08",
+          "html": "<p><strong>&quot;AI losers&quot; in data and information businesses</strong> (Wolters Kluwer, RELX, Intuit, S&amp;P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded.</p>",
+          "text": "\"AI losers\" in data and information businesses (Wolters Kluwer, RELX, Intuit, S&P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded. Single source either way · 2026-10-11",
           "status": "single-source",
-          "status_html": "<p>Single source · 2026-10-08</p>",
-          "updated": "2026-10-08",
+          "status_html": "<p>Single source either way · 2026-10-11</p>",
+          "updated": "2026-10-11",
           "sources": [],
           "due": null,
           "due_label": null
