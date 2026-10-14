@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11",
+  "generated": "2026-10-14",
   "meta": {
     "feed": "valueinvesting",
     "title": "Value Investing Digest",
@@ -21,6 +21,319 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-14",
+      "title": "Value investing digest",
+      "intro_html": "<p>The run was dominated by &quot;cheap on every metric and still a bad buy&quot;, a 238-comment value-trap thread whose answers were mostly Nike, and by the sub's unease about how much of its own attention AI has taken. The two best-sourced threads were small: a Group 1 Automotive post whose activist story is three filings out of date, and a JPMorgan earnings-call diff whose numbers mostly check out and whose three misses are worth knowing. One Must know story passed the test this run; the Hemnet and Palantir pitches were the only others that showed their assumptions.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Conifer Management's Group 1 Automotive position is 15.4%, not the 9.7% the sub is discussing, and the board seat it &quot;demanded&quot; was agreed three weeks ago.</strong>",
+              "html": "<p><strong>Conifer Management's Group 1 Automotive position is 15.4%, not the 9.7% the sub is discussing, and the board seat it &quot;demanded&quot; was agreed three weeks ago.</strong> The post presents an August filing as current news and an open demand as unresolved; the filings show a stake Conifer has since raised twice and a signed stockholder agreement.</p>\n<ul>\n<li><strong>Why it matters:</strong> this is a filed, concentrated move by Greg Alexander, whose fund the sub treats as a Buffett proxy, into an 11.9-million-share auto retailer — and it is already resolved into board representation with standstill terms, which is a different situation from an activist still pressing for a seat.</li>\n<li><strong>What to watch:</strong> Benjamin Hart's appointment taking effect on 1 November 2026, which expands the board from ten directors to eleven; any Amendment No. 4 to the Schedule 13D; the standstill, which secondary coverage says caps Conifer below 19% absent waivers under its manufacturer agreements.</li>\n<li><strong>Numbers:</strong> as filed, 1,157,100 shares and 9.7% on the original Schedule 13D of 20 August 2026; 1,512,290 shares and 12.7% in Amendment No. 2 of 22 September; 1,840,698 shares and 15.4% in Amendment No. 3 of 29 September, which references about $80.5 million of purchases since the prior amendment. All percentages rest on 11,922,225 shares outstanding as of 24 July 2026. The poster's multiples — 9.55x trailing and 5.87x forward earnings, 0.94x book, 0.12x sales against a 17.95x industry average, and an all-time high of $468 — are as posted and were not checked.</li>\n<li><strong>Caveats:</strong> the post has no comments, so nothing in the thread tests it. Its claim that Alexander is &quot;one of the three people warren buffett trusts to manage his money&quot; traces only to social-media and secondary summaries, not to a Berkshire letter or filing. The 13D's Item 4 is standard investment-purpose language and names no plan beyond communicating with the board; the activist reading is the poster's. The $1 billion-plus of debt taken on for a luxury-dealer acquisition, and the resulting downgrades, are as posted and were not checked.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000103120326000137/exhibit991-92126.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Group 1's 21 September press release on the stockholder agreement</a>, then <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000090514826004293/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Amendment No. 3</a> and <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x5ji9t/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a></li>\n</ul>",
+              "text": "Conifer Management's Group 1 Automotive position is 15.4%, not the 9.7% the sub is discussing, and the board seat it \"demanded\" was agreed three weeks ago. The post presents an August filing as current news and an open demand as unresolved; the filings show a stake Conifer has since raised twice and a signed stockholder agreement. Why it matters: this is a filed, concentrated move by Greg Alexander, whose fund the sub treats as a Buffett proxy, into an 11.9-million-share auto retailer — and it is already resolved into board representation with standstill terms, which is a different situation from an activist still pressing for a seat. What to watch: Benjamin Hart's appointment taking effect on 1 November 2026, which expands the board from ten directors to eleven; any Amendment No. 4 to the Schedule 13D; the standstill, which secondary coverage says caps Conifer below 19% absent waivers under its manufacturer agreements. Numbers: as filed, 1,157,100 shares and 9.7% on the original Schedule 13D of 20 August 2026; 1,512,290 shares and 12.7% in Amendment No. 2 of 22 September; 1,840,698 shares and 15.4% in Amendment No. 3 of 29 September, which references about $80.5 million of purchases since the prior amendment. All percentages rest on 11,922,225 shares outstanding as of 24 July 2026. The poster's multiples — 9.55x trailing and 5.87x forward earnings, 0.94x book, 0.12x sales against a 17.95x industry average, and an all-time high of $468 — are as posted and were not checked. Caveats: the post has no comments, so nothing in the thread tests it. Its claim that Alexander is \"one of the three people warren buffett trusts to manage his money\" traces only to social-media and secondary summaries, not to a Berkshire letter or filing. The 13D's Item 4 is standard investment-purpose language and names no plan beyond communicating with the board; the activist reading is the poster's. The $1 billion-plus of debt taken on for a luxury-dealer acquisition, and the resulting downgrades, are as posted and were not checked. Read next: Group 1's 21 September press release on the stockholder agreement , then Amendment No. 3 and the thread Verified against the Schedule 13D of 20 August, Amendments No. 2 and No. 3, and Group 1's press release of 21 September 2026; the Buffett-trust claim is Reported from secondary sources",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the Schedule 13D of 20 August, Amendments No. 2 and No. 3, and Group 1's press release of 21 September 2026; the Buffett-trust claim is Reported from secondary sources</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Filings and insider moves",
+          "category": "filings",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Bill Ackman did exit Hertz, and the reason is on the record rather than inferred from Pershing Square's website.</strong>",
+              "html": "<p><strong>Bill Ackman did exit Hertz, and the reason is on the record rather than inferred from Pershing Square's website.</strong> The post guesses at an exit because the holding no longer appears on the site; the exit was disclosed in Pershing Square's interim report published on 13 August 2026, with the position closed in July. Pershing Square's CIO is quoted saying the firm lost confidence in management after a funding plan &quot;we did not think was necessary&quot; — a roughly 37-million-share equity offering at $2.70 in June that Ackman called &quot;bungled&quot;. The Q1 2026 13F had 15.2 million shares, then worth about $70 million. The thread itself is mostly short-squeeze talk, and the sharpest comment is the one asking what a squeeze has to do with value investing. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x532ul/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Bill Ackman did exit Hertz, and the reason is on the record rather than inferred from Pershing Square's website. The post guesses at an exit because the holding no longer appears on the site; the exit was disclosed in Pershing Square's interim report published on 13 August 2026, with the position closed in July. Pershing Square's CIO is quoted saying the firm lost confidence in management after a funding plan \"we did not think was necessary\" — a roughly 37-million-share equity offering at $2.70 in June that Ackman called \"bungled\". The Q1 2026 13F had 15.2 million shares, then worth about $70 million. The thread itself is mostly short-squeeze talk, and the sharpest comment is the one asking what a squeeze has to do with value investing. Thread Reported, from Bloomberg's and other coverage of the 13 August interim report ; the exit itself is consistent across sources, and the interim report was not opened directly.",
+              "status": "reported",
+              "status_html": "<p>Reported, from <a href=\"https://www.bloomberg.com/news/articles/2026-08-13/hertz-shares-fall-after-ackman-s-pershing-sells-stake-in-firm\" target=\"_blank\" rel=\"noopener noreferrer\">Bloomberg's and other coverage of the 13 August interim report</a>; the exit itself is consistent across sources, and the interim report was not opened directly.</p>",
+              "updated": "2026-08-13",
+              "sources": [
+                "r/ValueInvesting",
+                "Bloomberg"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Hemnet is pitched as European value priced for extinction, and the poster's own Q2 figure is a year out of date.</strong>",
+              "html": "<p><strong>Hemnet is pitched as European value priced for extinction, and the poster's own Q2 figure is a year out of date.</strong> The write-up is unusually disciplined: it discloses a 3% position about 20% underwater, states the revenue identity as Swedish market activity × Hemnet share × average revenue per listing, and gives a base case of roughly 70% share, 6% annual ARPL growth and about 40% long-run margins for a target of 111 SEK, against roughly 60 SEK if share falls to 60–65% by 2030 — which the poster says is about where the market sits, and which is the honest part of the argument. They attribute the Q2 revenue gap to a billing change to &quot;Sell First, Pay Later&quot; rather than to demand. The one comment asks the right question and gets no answer: why 70–80% share is the floor when free platforms Booli and Boneo are both taking sold listings. The 82% share of sold properties is a 2025 full-year figure, down from 89% in 2024, not a Q2 2026 number. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x5l8xu/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Hemnet is pitched as European value priced for extinction, and the poster's own Q2 figure is a year out of date. The write-up is unusually disciplined: it discloses a 3% position about 20% underwater, states the revenue identity as Swedish market activity × Hemnet share × average revenue per listing, and gives a base case of roughly 70% share, 6% annual ARPL growth and about 40% long-run margins for a target of 111 SEK, against roughly 60 SEK if share falls to 60–65% by 2030 — which the poster says is about where the market sits, and which is the honest part of the argument. They attribute the Q2 revenue gap to a billing change to \"Sell First, Pay Later\" rather than to demand. The one comment asks the right question and gets no answer: why 70–80% share is the floor when free platforms Booli and Boneo are both taking sold listings. The 82% share of sold properties is a 2025 full-year figure, down from 89% in 2024, not a Q2 2026 number. Thread Verified for Q2 2026 net sales of SEK 372 million (down 23% year on year), EBITDA of SEK 172 million (down 34%) at a 46.4% margin, published listings down 14%, and ARPL up 12% to SEK 9,095, against Hemnet's Q2 2026 interim report . The DCF, the 111 SEK target and the 70% share floor are the poster's own model.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for Q2 2026 net sales of SEK 372 million (down 23% year on year), EBITDA of SEK 172 million (down 34%) at a 46.4% margin, published listings down 14%, and ARPL up 12% to SEK 9,095, against <a href=\"https://www.hemnetgroup.se/files/mfn/caf1d168-e8b0-4fe3-bcef-0c1876b9c984/hemnet-quarterly-report-q2-2026-eng.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Hemnet's Q2 2026 interim report</a>. The DCF, the 111 SEK target and the 70% share floor are the poster's own model.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "hemnetgroup.se"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Two AppLovin posts both lean on the Unity lawsuit, and AppLovin lost the only ruling in it so far.</strong>",
+              "html": "<p><strong>Two AppLovin posts both lean on the Unity lawsuit, and AppLovin lost the only ruling in it so far.</strong> The question post asks &quot;Will it beat Unity in court?&quot; as if a win were the catalyst; AppLovin is the plaintiff, and a San Francisco Superior Court judge denied its request for a temporary restraining order against Unity on 2 October 2026, sending the substantive claims to confidential JAMS arbitration. The separate $450 fair-value post, at $272.28, is explicit that its model needs another $1.5 billion of repurchases in H2 2026 and $2.5 billion in 2027 at average prices of $325 and $350, lifting its middle-case 2027 EPS from $19.60 to $20.08 — about 2.5%, so the buyback is a rounding error on a thesis that is really about profit growth. The poster also flags that &quot;future purchases require sufficient authorization&quot;, which is the load-bearing caveat. The best comments on the question post reject the legal framing outright: one says treating a court win as a catalyst means falling for &quot;Management's deflection of their own short-comings&quot; and that the only thing to prove is that the operating margins hold, and another argues the real risk is bot traffic in app advertising rather than the lawsuit. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x5ioax/\" target=\"_blank\" rel=\"noopener noreferrer\">Question thread</a>, <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x5p6f0/\" target=\"_blank\" rel=\"noopener noreferrer\">$450 case</a></p>",
+              "text": "Two AppLovin posts both lean on the Unity lawsuit, and AppLovin lost the only ruling in it so far. The question post asks \"Will it beat Unity in court?\" as if a win were the catalyst; AppLovin is the plaintiff, and a San Francisco Superior Court judge denied its request for a temporary restraining order against Unity on 2 October 2026, sending the substantive claims to confidential JAMS arbitration. The separate $450 fair-value post, at $272.28, is explicit that its model needs another $1.5 billion of repurchases in H2 2026 and $2.5 billion in 2027 at average prices of $325 and $350, lifting its middle-case 2027 EPS from $19.60 to $20.08 — about 2.5%, so the buyback is a rounding error on a thesis that is really about profit growth. The poster also flags that \"future purchases require sufficient authorization\", which is the load-bearing caveat. The best comments on the question post reject the legal framing outright: one says treating a court win as a catalyst means falling for \"Management's deflection of their own short-comings\" and that the only thing to prove is that the operating margins hold, and another argues the real risk is bot traffic in app advertising rather than the lawsuit. Question thread , $450 case Verified for the denied restraining order and the move to JAMS arbitration, and for $1.5 billion of repurchases in the six months to 30 June 2026 with $1.8 billion remaining under the authorization, against AppLovin's Q2 2026 10-Q and coverage of the 2 October ruling. The $450 fair value, the EPS figures and the assumed purchase prices are the poster's own model, linked to their Substack.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the denied restraining order and the move to JAMS arbitration, and for $1.5 billion of repurchases in the six months to 30 June 2026 with $1.8 billion remaining under the authorization, against <a href=\"https://www.sec.gov/Archives/edgar/data/0001751008/000175100826000059/app-20260630.htm\" target=\"_blank\" rel=\"noopener noreferrer\">AppLovin's Q2 2026 10-Q</a> and coverage of the 2 October ruling. The $450 fair value, the EPS figures and the assumed purchase prices are the poster's own model, linked to their Substack.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Micron's &quot;$85B last fiscal year, $8.5B the year before&quot; is right, and it is the whole argument against the stock.</strong>",
+              "html": "<p><strong>Micron's &quot;$85B last fiscal year, $8.5B the year before&quot; is right, and it is the whole argument against the stock.</strong> The post sits at 0 points and its two headline numbers are accurate: fiscal 2026 GAAP net income of $84.969 billion on revenue of $133.188 billion, against $8.539 billion of net income on $37.378 billion a year earlier. Nearly every reply reads that tenfold jump as the reason the ~13x multiple is not cheap rather than evidence that it is — &quot;I find it hard to believe Micron's normalized NI is anywhere near 85 Bln&quot;, and &quot;13x looks cheap until earnings cut in half and suddenly its 26x&quot;. The most developed reply argues this down-cycle should be more orderly than past ones because the build-out is not debt-financed, while still expecting margins to crater by 2030 as volume doubles at half the price. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x5oga2/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Micron's \"$85B last fiscal year, $8.5B the year before\" is right, and it is the whole argument against the stock. The post sits at 0 points and its two headline numbers are accurate: fiscal 2026 GAAP net income of $84.969 billion on revenue of $133.188 billion, against $8.539 billion of net income on $37.378 billion a year earlier. Nearly every reply reads that tenfold jump as the reason the ~13x multiple is not cheap rather than evidence that it is — \"I find it hard to believe Micron's normalized NI is anywhere near 85 Bln\", and \"13x looks cheap until earnings cut in half and suddenly its 26x\". The most developed reply argues this down-cycle should be more orderly than past ones because the build-out is not debt-financed, while still expecting margins to crater by 2030 as volume doubles at half the price. Thread Verified for the fiscal 2026 and 2025 net income and revenue against Micron's Q4 FY26 results release . The ~13x and ~24x multiples, the $150 billion drawdown and the Coke/Pepsi/McDonald's comparison are as posted and were not checked.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the fiscal 2026 and 2025 net income and revenue against <a href=\"https://www.sec.gov/Archives/edgar/data/0000723125/000072312526000018/a2026q4ex991-pressrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Micron's Q4 FY26 results release</a>. The ~13x and ~24x multiples, the $150 billion drawdown and the Coke/Pepsi/McDonald's comparison are as posted and were not checked.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Process and valuation method",
+          "category": "process",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A thread on building a 10-K reading agent produced the run's most reusable material, and the poster summarised it himself.</strong>",
+              "html": "<p><strong>A thread on building a 10-K reading agent produced the run's most reusable material, and the poster summarised it himself.</strong> The question was where the data comes from, and the answers converge on the same failure modes. Point-in-time is the big one: most APIs serve today's restated numbers and never say when a figure was first known, so a backtest that &quot;feels too good to be true&quot; usually is, and the only cheap fix is to snapshot your own inputs with the date you saw them. Second, sanity-check before the model, not after — drop impossible combinations like margins outside 0–100% or net income far above operating income rather than passing them on, which one commenter says killed most of their confident-thesis-on-garbage output. Third, XBRL tags lie by omission: one commenter reports a miner whose operating cash flow was −$49 million with capex filed outside the standard tag, so a naive free cash flow of −$49 million hid a real burn of about −$86 million, and advises keying everything on CIK rather than ticker because tickers collide across exchanges. Fourth, for footnote items (leases, SBC, segment margins) retrieve the passage, extract into a fixed schema with a citation, and check period and units before doing arithmetic — finding a relevant paragraph does not establish that two companies define a metric the same way. The one thing nobody solved is comparing a footnote item across companies that each label it differently. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x52d8o/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A thread on building a 10-K reading agent produced the run's most reusable material, and the poster summarised it himself. The question was where the data comes from, and the answers converge on the same failure modes. Point-in-time is the big one: most APIs serve today's restated numbers and never say when a figure was first known, so a backtest that \"feels too good to be true\" usually is, and the only cheap fix is to snapshot your own inputs with the date you saw them. Second, sanity-check before the model, not after — drop impossible combinations like margins outside 0–100% or net income far above operating income rather than passing them on, which one commenter says killed most of their confident-thesis-on-garbage output. Third, XBRL tags lie by omission: one commenter reports a miner whose operating cash flow was −$49 million with capex filed outside the standard tag, so a naive free cash flow of −$49 million hid a real burn of about −$86 million, and advises keying everything on CIK rather than ticker because tickers collide across exchanges. Fourth, for footnote items (leases, SBC, segment margins) retrieve the passage, extract into a fixed schema with a citation, and check period and units before doing arithmetic — finding a relevant paragraph does not establish that two companies define a metric the same way. The one thing nobody solved is comparing a footnote item across companies that each label it differently. Thread",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A Palantir holder posted a five-year scenario table asking to be argued out of selling, and the one reply with a number went after the exit multiple.</strong>",
+              "html": "<p><strong>A Palantir holder posted a five-year scenario table asking to be argued out of selling, and the one reply with a number went after the exit multiple.</strong> The poster's own figures: price about $208 and market cap about $500 billion, 2026 revenue guidance about $8.15 billion, trailing free cash flow about $3.4 billion, roughly 81x trailing sales, and 3.5% assumed annual dilution. Their four cases need 30% to 60% revenue growth through 2031 to produce −39% to +224% total return, and the conclusion is that 40% annual growth for five years still only returns about 3% a year. The useful reply is that the average price-to-free-cash-flow in the IGV software ETF is about 18, so the 30x used in the <em>bear</em> case is already aggressive — which pushes the whole table down rather than disputing the growth assumption, the opposite of where the poster expected pushback. The rest of the thread is assertion in both directions. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x59wzr/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A Palantir holder posted a five-year scenario table asking to be argued out of selling, and the one reply with a number went after the exit multiple. The poster's own figures: price about $208 and market cap about $500 billion, 2026 revenue guidance about $8.15 billion, trailing free cash flow about $3.4 billion, roughly 81x trailing sales, and 3.5% assumed annual dilution. Their four cases need 30% to 60% revenue growth through 2031 to produce −39% to +224% total return, and the conclusion is that 40% annual growth for five years still only returns about 3% a year. The useful reply is that the average price-to-free-cash-flow in the IGV software ETF is about 18, so the 30x used in the bear case is already aggressive — which pushes the whole table down rather than disputing the growth assumption, the opposite of where the poster expected pushback. The rest of the thread is assertion in both directions. Thread Single source · every figure is the poster's own model or as posted, and the IGV average was not checked.",
+              "status": "single-source",
+              "status_html": "<p>Single source · every figure is the poster's own model or as posted, and the IGV average was not checked.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A JPMorgan earnings-call diff got most of the quarter right and three numbers wrong, and the misses all cut the same way.</strong>",
+              "html": "<p><strong>A JPMorgan earnings-call diff got most of the quarter right and three numbers wrong, and the misses all cut the same way.</strong> The method is worth copying — read consecutive calls side by side and count what changed — and the reported figures hold up: net income of $15.3 billion, diluted EPS of $5.57 against $5.07 a year earlier, a 20% ROTCE, revenue growth of 8% year on year, over 650,000 net new checking accounts, card sales volume up 10%, Q4 guidance of about $28 billion of net interest income and about $27.5 billion of adjusted expense. Three corrections: the quarter's buyback was $664 million of net common repurchases, not &quot;about $1B&quot;; the ~3.2% card net charge-off rate is the guidance figure, while the quarter actually ran at 2.91%; and the $5.57 EPS includes $658 million of net investment securities losses, so excluding them the firm earned $15.8 billion, $5.75 a share, at a 21% ROTCE — which narrows the miss against the roughly $5.85–5.90 the poster says was expected. The 2027 numbers the post gives (NII ex-markets around $107 billion, expenses near the $114 billion consensus) are from the call, not the slides, which show only that a 2027 central case is under preliminary analysis. The three comments are thin; the only substantive one asks what card spend growth was last quarter and notes that rising card spend can itself be a contra-indicator if consumers are low on cash. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x52gn7/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A JPMorgan earnings-call diff got most of the quarter right and three numbers wrong, and the misses all cut the same way. The method is worth copying — read consecutive calls side by side and count what changed — and the reported figures hold up: net income of $15.3 billion, diluted EPS of $5.57 against $5.07 a year earlier, a 20% ROTCE, revenue growth of 8% year on year, over 650,000 net new checking accounts, card sales volume up 10%, Q4 guidance of about $28 billion of net interest income and about $27.5 billion of adjusted expense. Three corrections: the quarter's buyback was $664 million of net common repurchases, not \"about $1B\"; the ~3.2% card net charge-off rate is the guidance figure, while the quarter actually ran at 2.91%; and the $5.57 EPS includes $658 million of net investment securities losses, so excluding them the firm earned $15.8 billion, $5.75 a share, at a 21% ROTCE — which narrows the miss against the roughly $5.85–5.90 the poster says was expected. The 2027 numbers the post gives (NII ex-markets around $107 billion, expenses near the $114 billion consensus) are from the call, not the slides, which show only that a 2027 central case is under preliminary analysis. The three comments are thin; the only substantive one asks what card spend growth was last quarter and notes that rising card spend can itself be a contra-indicator if consumers are low on cash. Thread Verified against JPMorgan's Q3 2026 earnings release and the earnings presentation ; the 2027 call figures and the consensus EPS are Reported as posted.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfexhibit991narrative.htm\" target=\"_blank\" rel=\"noopener noreferrer\">JPMorgan's Q3 2026 earnings release</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065616/a3q26_earningsxpresentat.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the earnings presentation</a>; the 2027 call figures and the consensus EPS are Reported as posted.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A long post arguing AI infrastructure debt is 2007 subprime in new clothing has two verifiable specifics and a mountain of unsourced aggregate.</strong>",
+              "html": "<p><strong>A long post arguing AI infrastructure debt is 2007 subprime in new clothing has two verifiable specifics and a mountain of unsourced aggregate.</strong> The specifics check out. JPMorgan and Goldman Sachs are marketing a $5.012 billion loan package for Volta Infrastructure Holdings — an AI cloud venture tied to Bitdeer and a six-year Anthropic compute agreement at a Norwegian site — underwriting only the $1.3 billion first-lien term loan C that cash-collateralises a letter of credit on the data-centre lease, and marketing the $3.712 billion GPU tranche for roughly 36,000 Nvidia GPUs on a best-efforts basis, priced at SOFR plus 625–650 basis points for an all-in yield reported at 11.21–11.75%. Separately, about 20 banks' roughly $18 billion of loans on Project Jupiter, the 2.45-gigawatt Stargate campus in Doña Ana County developed by Blue Owl's Stack Infrastructure, are quoted at 89–91 cents after Oracle sent a force majeure notice on 24 September 2026 reserving the right to defer lease payments if the campus misses its 2028 opening; Oracle says the project &quot;remains on our planned schedule&quot;. The post's own framing — a 1:1 mapping onto the 2007 CDO machine, a four-step cascade to sovereign contagion — rests on aggregates it does not source, and see Unverified below. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x5b741/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A long post arguing AI infrastructure debt is 2007 subprime in new clothing has two verifiable specifics and a mountain of unsourced aggregate. The specifics check out. JPMorgan and Goldman Sachs are marketing a $5.012 billion loan package for Volta Infrastructure Holdings — an AI cloud venture tied to Bitdeer and a six-year Anthropic compute agreement at a Norwegian site — underwriting only the $1.3 billion first-lien term loan C that cash-collateralises a letter of credit on the data-centre lease, and marketing the $3.712 billion GPU tranche for roughly 36,000 Nvidia GPUs on a best-efforts basis, priced at SOFR plus 625–650 basis points for an all-in yield reported at 11.21–11.75%. Separately, about 20 banks' roughly $18 billion of loans on Project Jupiter, the 2.45-gigawatt Stargate campus in Doña Ana County developed by Blue Owl's Stack Infrastructure, are quoted at 89–91 cents after Oracle sent a force majeure notice on 24 September 2026 reserving the right to defer lease payments if the campus misses its 2028 opening; Oracle says the project \"remains on our planned schedule\". The post's own framing — a 1:1 mapping onto the 2007 CDO machine, a four-step cascade to sovereign contagion — rests on aggregates it does not source, and see Unverified below. Thread Reported for the Volta terms and the Project Jupiter pricing and force majeure notice, from Bloomberg's report on the Volta syndication and coverage of the 24 September notice; no loan document or Oracle filing was opened.",
+              "status": "reported",
+              "status_html": "<p>Reported for the Volta terms and the Project Jupiter pricing and force majeure notice, from <a href=\"https://www.bloomberg.com/news/articles/2026-10-12/jpmorgan-goldman-curb-exposure-on-5-billion-volta-ai-loan-sale\" target=\"_blank\" rel=\"noopener noreferrer\">Bloomberg's report on the Volta syndication</a> and coverage of the 24 September notice; no loan document or Oracle filing was opened.</p>",
+              "updated": "2026-10-12",
+              "sources": [
+                "r/ValueInvesting",
+                "Bloomberg"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "The value-trap question drew 238 comments and the sub&#x27;s answer was Nike, by a wide margin — with the best reply being that Nike is not cheap at all, only che…",
+              "html": "<p>The value-trap question drew 238 comments and the sub's answer was Nike, by a wide margin — with the best reply being that Nike is not cheap at all, only cheap against its own prior highs, and that the free cash flow yield is still poor. The poster's own nominee, Lululemon, drew almost no discussion. Comcast at 7x earnings, The Trade Desk, Adobe and Oracle were the other repeat names, and the most-upvoted joke answer — &quot;Whatever my next buy happens to be&quot; — ran second.</p>",
+              "text": "The value-trap question drew 238 comments and the sub's answer was Nike, by a wide margin — with the best reply being that Nike is not cheap at all, only cheap against its own prior highs, and that the free cash flow yield is still poor. The poster's own nominee, Lululemon, drew almost no discussion. Comcast at 7x earnings, The Trade Desk, Adobe and Oracle were the other repeat names, and the most-upvoted joke answer — \"Whatever my next buy happens to be\" — ran second.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Intuit is the one name the sub actively disagrees about.",
+              "html": "<p>Intuit is the one name the sub actively disagrees about. In the value-trap thread a commenter nominated it on the strength of having done their own taxes with a model; the rebuttal, that QuickBooks rather than TurboTax carries the value and that you cannot have a model hallucinating business expenses, is the same split the 11 October durability-matrix thread produced. Nobody has moved.</p>",
+              "text": "Intuit is the one name the sub actively disagrees about. In the value-trap thread a commenter nominated it on the strength of having done their own taxes with a model; the rebuttal, that QuickBooks rather than TurboTax carries the value and that you cannot have a model hallucinating business expenses, is the same split the 11 October durability-matrix thread produced. Nobody has moved.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "The sub is self-conscious about how much AI has crowded it out.",
+              "html": "<p>The sub is self-conscious about how much AI has crowded it out. &quot;Value Alpha Still Exists&quot; argues that a value sub talking about nothing but AI is itself the contrarian signal, and the sharpest reply is that the post has no substance without naming where to look; the poster's answer was building materials, software and consumer discretionary. A separate thread asking for names insulated from AI volatility drew 57 replies, and the Group 1 Automotive pitch leads on being &quot;brick and mortar old economy&quot;.</p>",
+              "text": "The sub is self-conscious about how much AI has crowded it out. \"Value Alpha Still Exists\" argues that a value sub talking about nothing but AI is itself the contrarian signal, and the sharpest reply is that the post has no substance without naming where to look; the poster's answer was building materials, software and consumer discretionary. A separate thread asking for names insulated from AI volatility drew 57 replies, and the Group 1 Automotive pitch leads on being \"brick and mortar old economy\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Adobe got defended this run, three days after being attacked by a former employee.",
+              "html": "<p>Adobe got defended this run, three days after being attacked by a former employee. The defence is a concrete challenge — generate a logo with a model, then ask for the same logo with one object added — plus switching costs measured in hundreds of terabytes of existing files and a marketing agency that nearly revolted over a pre-AI tool migration. At 75 comments it is the mirror image of the 11 October thread, and the top reply there and here now agree on one thing: a Fortune 500 company is not cancelling its licences for an open-source reimplementation.</p>",
+              "text": "Adobe got defended this run, three days after being attacked by a former employee. The defence is a concrete challenge — generate a logo with a model, then ask for the same logo with one object added — plus switching costs measured in hundreds of terabytes of existing files and a marketing agency that nearly revolted over a pre-AI tool migration. At 75 comments it is the mirror image of the 11 October thread, and the top reply there and here now agree on one thing: a Fortune 500 company is not cancelling its licences for an open-source reimplementation.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Microsoft and Alphabet both at roughly $4 trillion drew 140 comments, and Amazon was pitched as &quot;the most obvious asymmetric bet in the market&quot; on six bullet…",
+              "html": "<p>Microsoft and Alphabet both at roughly $4 trillion drew 140 comments, and Amazon was pitched as &quot;the most obvious asymmetric bet in the market&quot; on six bullet points with no numbers in any of them. Both are the sub's recurring megacap comparison rather than new argument.</p>",
+              "text": "Microsoft and Alphabet both at roughly $4 trillion drew 140 comments, and Amazon was pitched as \"the most obvious asymmetric bet in the market\" on six bullet points with no numbers in any of them. Both are the sub's recurring megacap comparison rather than new argument.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The &quot;tree transplant theory&quot; that moving headquarters to cut costs kills companies is contradicted in its own thread and stale in its lead example.</strong>",
+              "html": "<p><strong>The &quot;tree transplant theory&quot; that moving headquarters to cut costs kills companies is contradicted in its own thread and stale in its lead example.</strong> Its Starbucks case is six months old and describes something different from what the post implies: the $100 million, 2,000-job Nashville office was announced on 21 April 2026 as a Southeast corporate office complementing the Seattle headquarters, which Starbucks is keeping — which the post's own opening update concedes. A commenter says the Tesla claim is wrong in the other direction, that engineering never left California and a new engineering headquarters was established there rather than moved back. Two more replies offer counterexamples (Toyota's move toward its factories, which the poster accepted) and one offers a supporting one (Kellogg moving Kashi to Battle Creek and reversing). Much of the thread's energy went to complaining that the post was written by a model.</p>",
+              "text": "The \"tree transplant theory\" that moving headquarters to cut costs kills companies is contradicted in its own thread and stale in its lead example. Its Starbucks case is six months old and describes something different from what the post implies: the $100 million, 2,000-job Nashville office was announced on 21 April 2026 as a Southeast corporate office complementing the Seattle headquarters, which Starbucks is keeping — which the post's own opening update concedes. A commenter says the Tesla claim is wrong in the other direction, that engineering never left California and a new engineering headquarters was established there rather than moved back. Two more replies offer counterexamples (Toyota's move toward its factories, which the poster accepted) and one offers a supporting one (Kellogg moving Kashi to Battle Creek and reversing). Much of the thread's energy went to complaining that the post was written by a model. Unconfirmed as a pattern · the Starbucks announcement was checked against Starbucks' own release and coverage of 21 April 2026; the Tesla, Boeing, WGU and Samsung claims were not checked, and no attempt was made to test the causal theory.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> as a pattern · the Starbucks announcement was checked against <a href=\"https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Selects-Tennessee-for-Southeast-Corporate-Office-2026-MgIal80vem/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Starbucks' own release</a> and coverage of 21 April 2026; the Tesla, Boeing, WGU and Samsung claims were not checked, and no attempt was made to test the causal theory.</p>",
+              "updated": null,
+              "sources": [
+                "investor.starbucks.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The AI-debt post's aggregate figures are the part doing the argumentative work, and none of them is sourced in it.</strong>",
+              "html": "<p><strong>The AI-debt post's aggregate figures are the part doing the argumentative work, and none of them is sourced in it.</strong> More than $450 billion of AI-related debt issued in 24 months, aggregate hyperscaler leverage doubling from 0.9x to 1.8x in six months, approximately $3 trillion of off-balance-sheet commitments, an estimated $36 billion of data-centre loans held by insurers, and named sovereign wealth funds as the end holders. I did not find primary support for any of them and did not pursue each separately; the two deal-level specifics above are a different matter and do check out.</p>",
+              "text": "The AI-debt post's aggregate figures are the part doing the argumentative work, and none of them is sourced in it. More than $450 billion of AI-related debt issued in 24 months, aggregate hyperscaler leverage doubling from 0.9x to 1.8x in six months, approximately $3 trillion of off-balance-sheet commitments, an estimated $36 billion of data-centre loans held by insurers, and named sovereign wealth funds as the end holders. I did not find primary support for any of them and did not pursue each separately; the two deal-level specifics above are a different matter and do check out. Unconfirmed · the deal terms were checked and the aggregates were not.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · the deal terms were checked and the aggregates were not.</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Pat Dorsey bought this recently&quot; is the only evidence offered for AppLovin by anyone in the thread, and it was not checked.</strong>",
+              "html": "<p><strong>&quot;Pat Dorsey bought this recently&quot; is the only evidence offered for AppLovin by anyone in the thread, and it was not checked.</strong> One comment says so and a reply says he is &quot;down big time&quot;. No filing was cited and I did not look for one.</p>",
+              "text": "\"Pat Dorsey bought this recently\" is the only evidence offered for AppLovin by anyone in the thread, and it was not checked. One comment says so and a reply says he is \"down big time\". No filing was cited and I did not look for one. Unconfirmed · one comment, no filing checked.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · one comment, no filing checked.</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> ValueInvesting.",
+              "html": "<p><strong>Read:</strong> ValueInvesting. <strong>Sources checked:</strong> Berkshire Hathaway's SEC filings and Berkshire's news page, both for anything after 11 October 2026.</p>",
+              "text": "Read: ValueInvesting. Sources checked: Berkshire Hathaway's SEC filings and Berkshire's news page, both for anything after 11 October 2026.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. Berkshire's most recent filing is the Schedule 13G/A of 7 October 2026, already covered by the Lennar entries in the tracker, and its news page has nothing after 18 September 2026.</p>",
+              "text": "Announced, not discussed: none. Berkshire's most recent filing is the Schedule 13G/A of 7 October 2026, already covered by the Lennar entries in the tracker, and its news page has nothing after 18 September 2026. Verified against EDGAR's filing index for Berkshire and the 2026 news page",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing index for Berkshire</a> and <a href=\"https://www.berkshirehathaway.com/news/2026news.html\" target=\"_blank\" rel=\"noopener noreferrer\">the 2026 news page</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "berkshirehathaway.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> roic, which appears in the AppLovin question post and the data-agent thread only as the name of a metric, not as a subject either thread…",
+              "html": "<p><strong>Flagged terms set aside:</strong> <em>roic</em>, which appears in the AppLovin question post and the data-agent thread only as the name of a metric, not as a subject either thread discusses. <em>applovin</em> and <em>jpmorgan</em> are both covered above.</p>",
+              "text": "Flagged terms set aside: roic , which appears in the AppLovin question post and the data-agent thread only as the name of a metric, not as a subject either thread discusses. applovin and jpmorgan are both covered above.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-11",
       "title": "Value investing digest",
@@ -598,6 +911,19 @@
       "lead_html": null,
       "items": [
         {
+          "headline": "<strong>Conifer Management has built a 15.4% stake in Group 1 Automotive and taken a board seat.</strong>",
+          "html": "<p><strong>Conifer Management has built a 15.4% stake in Group 1 Automotive and taken a board seat.</strong> Greg Alexander's fund filed a Schedule 13D on 20 August 2026 at 1,157,100 shares (9.7%), moved to 12.7% on 22 September and to 1,840,698 shares (15.4%) on 29 September, the last amendment citing about $80.5 million of purchases since the prior one. Group 1 signed a stockholder agreement on 21 September expanding its board from ten directors to eleven and adding Conifer's Benjamin Hart. The sub is still discussing the August 9.7% figure as current and the board seat as an open demand.</p>",
+          "text": "Conifer Management has built a 15.4% stake in Group 1 Automotive and taken a board seat. Greg Alexander's fund filed a Schedule 13D on 20 August 2026 at 1,157,100 shares (9.7%), moved to 12.7% on 22 September and to 1,840,698 shares (15.4%) on 29 September, the last amendment citing about $80.5 million of purchases since the prior one. Group 1 signed a stockholder agreement on 21 September expanding its board from ten directors to eleven and adding Conifer's Benjamin Hart. The sub is still discussing the August 9.7% figure as current and the board seat as an open demand. Verified against the Schedule 13D , Amendment No. 3 and Group 1's press release ; no Amendment No. 4 as of 14 October 2026 · 2026-10-14",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000090514826003844/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Schedule 13D</a>, <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000090514826004293/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Amendment No. 3</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000103120326000137/exhibit991-92126.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Group 1's press release</a>; no Amendment No. 4 as of 14 October 2026 · 2026-10-14</p>",
+          "updated": "2026-10-14",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": "2026-11-01",
+          "due_label": "Hart's appointment effective, per Group 1's press release"
+        },
+        {
           "headline": "<strong>Berkshire Hathaway is adding to Lennar.</strong>",
           "html": "<p><strong>Berkshire Hathaway is adding to Lennar.</strong> It has bought on most trading days since at least 17 September 2026, and filed as a new 10% owner on 21 September. Its Schedule 13G amendment reports 12.5% as of 30 September. After its purchases on 1 and 2 October, it held 28,438,045 Class A shares indirectly.</p>",
           "text": "Berkshire Hathaway is adding to Lennar. It has bought on most trading days since at least 17 September 2026, and filed as a new 10% owner on 21 September. Its Schedule 13G amendment reports 12.5% as of 30 September. After its purchases on 1 and 2 October, it held 28,438,045 Class A shares indirectly. Verified against the Form 4 filed 5 October , the 13G amendment and the September Form 4s; no further Berkshire filings as of 11 October 2026 · 2026-10-11",
@@ -606,6 +932,19 @@
           "updated": "2026-10-11",
           "sources": [
             "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Pershing Square exited Hertz in July 2026.</strong>",
+          "html": "<p><strong>Pershing Square exited Hertz in July 2026.</strong> Disclosed in its interim report published 13 August. The Q1 2026 13F held 15.2 million shares, then worth about $70 million; the stated reason was losing confidence in management after a roughly 37-million-share equity offering at $2.70 in June. The sub inferred the exit from Pershing Square's website rather than the disclosure.</p>",
+          "text": "Pershing Square exited Hertz in July 2026. Disclosed in its interim report published 13 August. The Q1 2026 13F held 15.2 million shares, then worth about $70 million; the stated reason was losing confidence in management after a roughly 37-million-share equity offering at $2.70 in June. The sub inferred the exit from Pershing Square's website rather than the disclosure. Reported, from coverage of the 13 August interim report ; consistent across sources, interim report not opened · 2026-10-14",
+          "status": "reported",
+          "status_html": "<p>Reported, from <a href=\"https://www.bloomberg.com/news/articles/2026-08-13/hertz-shares-fall-after-ackman-s-pershing-sells-stake-in-firm\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the 13 August interim report</a>; consistent across sources, interim report not opened · 2026-10-14</p>",
+          "updated": "2026-10-14",
+          "sources": [
+            "Bloomberg"
           ],
           "due": null,
           "due_label": null
@@ -657,6 +996,19 @@
       "lead_html": null,
       "items": [
         {
+          "headline": "<strong>Volta Infrastructure's $5.012 billion loan package, and what it says about AI data-centre credit.</strong>",
+          "html": "<p><strong>Volta Infrastructure's $5.012 billion loan package, and what it says about AI data-centre credit.</strong> JPMorgan and Goldman Sachs underwrote only the $1.3 billion first-lien term loan C, which cash-collateralises a letter of credit on a Bitdeer-leased Norwegian site with a six-year Anthropic compute agreement, and are marketing the $3.712 billion GPU tranche (roughly 36,000 Nvidia GPUs) on a best-efforts basis at SOFR plus 625–650 basis points. The open question is whether the best-efforts tranche places at all.</p>",
+          "text": "Volta Infrastructure's $5.012 billion loan package, and what it says about AI data-centre credit. JPMorgan and Goldman Sachs underwrote only the $1.3 billion first-lien term loan C, which cash-collateralises a letter of credit on a Bitdeer-leased Norwegian site with a six-year Anthropic compute agreement, and are marketing the $3.712 billion GPU tranche (roughly 36,000 Nvidia GPUs) on a best-efforts basis at SOFR plus 625–650 basis points. The open question is whether the best-efforts tranche places at all. Reported, from Bloomberg's report of 12 October 2026 ; no loan document opened · 2026-10-14",
+          "status": "reported",
+          "status_html": "<p>Reported, from <a href=\"https://www.bloomberg.com/news/articles/2026-10-12/jpmorgan-goldman-curb-exposure-on-5-billion-volta-ai-loan-sale\" target=\"_blank\" rel=\"noopener noreferrer\">Bloomberg's report of 12 October 2026</a>; no loan document opened · 2026-10-14</p>",
+          "updated": "2026-10-14",
+          "sources": [
+            "Bloomberg"
+          ],
+          "due": "2026-10-14",
+          "due_label": "commitments due, per reporting on the 9 October launch"
+        },
+        {
           "headline": "<strong>Broadcom's financing for OpenAI chips, reported at more than $50 billion and targeted to close by year end.</strong>",
           "html": "<p><strong>Broadcom's financing for OpenAI chips, reported at more than $50 billion and targeted to close by year end.</strong> The sub's open question is whether the debt sits on Broadcom's books or in a separate vehicle that Broadcom guarantees.</p>",
           "text": "Broadcom's financing for OpenAI chips, reported at more than $50 billion and targeted to close by year end. The sub's open question is whether the debt sits on Broadcom's books or in a separate vehicle that Broadcom guarantees. Reported, from coverage of the WSJ report ; talks described as early · 2026-10-08",
@@ -706,6 +1058,30 @@
           ],
           "due": null,
           "due_label": null
+        },
+        {
+          "headline": "<strong>AppLovin's suit against Unity over the Ad Quality SDK is in arbitration, not in court.</strong>",
+          "html": "<p><strong>AppLovin's suit against Unity over the Ad Quality SDK is in arbitration, not in court.</strong> A San Francisco Superior Court judge denied AppLovin's request for a temporary restraining order on 2 October 2026, sending the substantive claims to confidential JAMS arbitration. The sub discusses a court win as a potential catalyst; AppLovin is the plaintiff and has lost the only ruling so far. Separately, $1.8 billion remained under its repurchase authorization as of 30 June 2026, which bears on pitches that model $4 billion of buybacks through 2027.</p>",
+          "text": "AppLovin's suit against Unity over the Ad Quality SDK is in arbitration, not in court. A San Francisco Superior Court judge denied AppLovin's request for a temporary restraining order on 2 October 2026, sending the substantive claims to confidential JAMS arbitration. The sub discusses a court win as a potential catalyst; AppLovin is the plaintiff and has lost the only ruling so far. Separately, $1.8 billion remained under its repurchase authorization as of 30 June 2026, which bears on pitches that model $4 billion of buybacks through 2027. Verified for the authorization against the Q2 2026 10-Q ; the denied restraining order and the arbitration referral are Reported from coverage of the 2 October ruling · 2026-10-14",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the authorization against <a href=\"https://www.sec.gov/Archives/edgar/data/0001751008/000175100826000059/app-20260630.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q2 2026 10-Q</a>; the denied restraining order and the arbitration referral are Reported from coverage of the 2 October ruling · 2026-10-14</p>",
+          "updated": "2026-10-14",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Project Jupiter: Oracle's force majeure notice of 24 September 2026.</strong>",
+          "html": "<p><strong>Project Jupiter: Oracle's force majeure notice of 24 September 2026.</strong> About 20 banks lent roughly $18 billion against the 2.45-gigawatt Doña Ana County campus developed by Blue Owl's Stack Infrastructure; the loans are quoted at 89–91 cents. The notice reserves Oracle's right to defer lease payments if the campus misses its 2028 opening. Oracle says the project &quot;remains on our planned schedule&quot;.</p>",
+          "text": "Project Jupiter: Oracle's force majeure notice of 24 September 2026. About 20 banks lent roughly $18 billion against the 2.45-gigawatt Doña Ana County campus developed by Blue Owl's Stack Infrastructure; the loans are quoted at 89–91 cents. The notice reserves Oracle's right to defer lease payments if the campus misses its 2028 opening. Oracle says the project \"remains on our planned schedule\". Reported, from coverage of the 24 September notice; no filing or lease document opened · 2026-10-14",
+          "status": "reported",
+          "status_html": "<p>Reported, from coverage of the 24 September notice; no filing or lease document opened · 2026-10-14</p>",
+          "updated": "2026-10-14",
+          "sources": [],
+          "due": null,
+          "due_label": null
         }
       ]
     },
@@ -727,11 +1103,11 @@
         },
         {
           "headline": "<strong>&quot;AI losers&quot; in data and information businesses</strong>",
-          "html": "<p><strong>&quot;AI losers&quot; in data and information businesses</strong> (Wolters Kluwer, RELX, Intuit, S&amp;P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded.</p>",
-          "text": "\"AI losers\" in data and information businesses (Wolters Kluwer, RELX, Intuit, S&P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded. Single source either way · 2026-10-11",
+          "html": "<p><strong>&quot;AI losers&quot; in data and information businesses</strong> (Wolters Kluwer, RELX, Intuit, S&amp;P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded. On 14 October the debate narrowed to Intuit, nominated as a value trap on the strength of one member's own AI-assisted tax return and defended on the grounds that QuickBooks, not TurboTax, carries the value. Adobe was defended on switching costs three days after a former employee called it a trap.</p>",
+          "text": "\"AI losers\" in data and information businesses (Wolters Kluwer, RELX, Intuit, S&P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded. On 14 October the debate narrowed to Intuit, nominated as a value trap on the strength of one member's own AI-assisted tax return and defended on the grounds that QuickBooks, not TurboTax, carries the value. Adobe was defended on switching costs three days after a former employee called it a trap. Single source either way · 2026-10-14",
           "status": "single-source",
-          "status_html": "<p>Single source either way · 2026-10-11</p>",
-          "updated": "2026-10-11",
+          "status_html": "<p>Single source either way · 2026-10-14</p>",
+          "updated": "2026-10-14",
           "sources": [],
           "due": null,
           "due_label": null
