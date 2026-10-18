@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14",
+  "generated": "2026-10-17",
   "meta": {
     "feed": "valueinvesting",
     "title": "Value Investing Digest",
@@ -21,6 +21,342 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-17",
+      "title": "Value investing digest",
+      "intro_html": "<p>Almost every large thread this run was about one thing: whether the credit markets are right about AI infrastructure. CoreWeave's bond yields, Anthropic's finances, the Gartner impairment report and Nvidia's vendor financing drew four of the five biggest discussions, and in three of them the sub was arguing from a figure that is wrong or half-quoted. The best-sourced small threads were elsewhere: an Embecta pitch that names its own bear case, a Deckers write-up whose comments attacked the arithmetic rather than the brands, and a Berkshire valuation post with no replies at all that rebuilt look-through earnings from scratch. Two Must know stories passed the test, both corrections.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The Gartner report the sub dismissed as &quot;non-material&quot; contains the number its CoreWeave threads were arguing about blind: Gartner expects more than 80% of neocloud providers to cease independent operations by 2030.</strong>",
+              "html": "<p><strong>The Gartner report the sub dismissed as &quot;non-material&quot; contains the number its CoreWeave threads were arguing about blind: Gartner expects more than 80% of neocloud providers to cease independent operations by 2030.</strong> The thread discussing the report quotes $7 trillion of spending against $3.6 trillion of revenue and concludes nothing new was said; Gartner's release compares $3.6 trillion of forecast revenue against $8.5 trillion <em>needed</em>, and names the neocloud failure rate outright.</p>\n<ul>\n<li><strong>Why it matters:</strong> three separate threads this run — the 224-point Nvidia-bails-out-CoreWeave post, the KBRA junk-rating post and the Nvidia-is-high-risk post — were each reasoning about whether a tier-two GPU cloud can survive 15% borrowing costs. The research note that triggered the sell-off they were reacting to answers that question with a number, and no one in any of the three threads cited it. The one commenter who did link Gartner's own press releases got three upvotes.</li>\n<li><strong>What to watch:</strong> as published by Gartner, the end-2030 horizon for the $3.5 trillion impairment exposure and the 80%-plus neocloud figure; the end-2032 horizon for the extended $4 trillion write-down scenario and for a 12% return on invested capital being reached at the earliest. For CoreWeave specifically, its next refinancing of the 9.625% 2032 and 9.75% 2031 notes.</li>\n<li><strong>Numbers:</strong> as published by Gartner on 15 October 2026 — nearly $1 trillion of AI infrastructure spending in 2026 and a further $6 trillion between 2027 and 2030; $8.5 trillion of cumulative revenue needed through 2030 to cover announced capital spending, financing costs and a 12% return on invested capital, against no more than $3.6 trillion of enterprise and consumer AI revenue forecast, a shortfall reported at $4.9 trillion; more than $3.5 trillion of spending exposed to impairment by end-2030, rising past $4 trillion through 2032; more than 80% of neocloud providers expected to cease independent operations by 2030. As posted or as reported, not checked: the thread's $760 billion of hyperscaler spending this year, and CoreWeave's roughly $50 billion of debt, ~15% bond yields and credit-default-swap-implied five-year default probability of 63–64%.</li>\n<li><strong>Caveats:</strong> these are a research firm's forecasts, not measurements, and the thread's own best counter — that Gartner also forecast an hour a day in the metaverse — is fair. Gartner's spend figures are close to the post's; the error is in the comparison, not the spending. &quot;More than 80% cease independent operations&quot; is not the same as 80% defaulting: acquisition by a better-funded buyer counts, which is the outcome two commenters independently predicted.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.gartner.com/en/newsroom/press-releases/2026-10-14-gartner-says-over-us-dollars-three-and-a-half-trillion-of-artificial-intelligence-infrastructure-spending-could-be-exposed-to-impairment-by-the-end-of-2030\" target=\"_blank\" rel=\"noopener noreferrer\">Gartner's release of 15 October 2026</a>, then <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x7tp4s/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a></li>\n</ul>",
+              "text": "The Gartner report the sub dismissed as \"non-material\" contains the number its CoreWeave threads were arguing about blind: Gartner expects more than 80% of neocloud providers to cease independent operations by 2030. The thread discussing the report quotes $7 trillion of spending against $3.6 trillion of revenue and concludes nothing new was said; Gartner's release compares $3.6 trillion of forecast revenue against $8.5 trillion needed , and names the neocloud failure rate outright. Why it matters: three separate threads this run — the 224-point Nvidia-bails-out-CoreWeave post, the KBRA junk-rating post and the Nvidia-is-high-risk post — were each reasoning about whether a tier-two GPU cloud can survive 15% borrowing costs. The research note that triggered the sell-off they were reacting to answers that question with a number, and no one in any of the three threads cited it. The one commenter who did link Gartner's own press releases got three upvotes. What to watch: as published by Gartner, the end-2030 horizon for the $3.5 trillion impairment exposure and the 80%-plus neocloud figure; the end-2032 horizon for the extended $4 trillion write-down scenario and for a 12% return on invested capital being reached at the earliest. For CoreWeave specifically, its next refinancing of the 9.625% 2032 and 9.75% 2031 notes. Numbers: as published by Gartner on 15 October 2026 — nearly $1 trillion of AI infrastructure spending in 2026 and a further $6 trillion between 2027 and 2030; $8.5 trillion of cumulative revenue needed through 2030 to cover announced capital spending, financing costs and a 12% return on invested capital, against no more than $3.6 trillion of enterprise and consumer AI revenue forecast, a shortfall reported at $4.9 trillion; more than $3.5 trillion of spending exposed to impairment by end-2030, rising past $4 trillion through 2032; more than 80% of neocloud providers expected to cease independent operations by 2030. As posted or as reported, not checked: the thread's $760 billion of hyperscaler spending this year, and CoreWeave's roughly $50 billion of debt, ~15% bond yields and credit-default-swap-implied five-year default probability of 63–64%. Caveats: these are a research firm's forecasts, not measurements, and the thread's own best counter — that Gartner also forecast an hour a day in the metaverse — is fair. Gartner's spend figures are close to the post's; the error is in the comparison, not the spending. \"More than 80% cease independent operations\" is not the same as 80% defaulting: acquisition by a better-funded buyer counts, which is the outcome two commenters independently predicted. Read next: Gartner's release of 15 October 2026 , then the thread Reported · Gartner's own page returns HTTP 403 to this tool, so the figures were taken from Technology Wire Asia's report and corroborated across several outlets quoting the same release; the primary release was not opened",
+              "status": "reported",
+              "status_html": "<p>Reported · Gartner's own page returns HTTP 403 to this tool, so the figures were taken from <a href=\"https://techwireasia.com/2026/10/gartner-ai-infrastructure-spending-risk/\" target=\"_blank\" rel=\"noopener noreferrer\">Technology Wire Asia's report</a> and corroborated across several outlets quoting the same release; the primary release was not opened</p>",
+              "updated": null,
+              "sources": [
+                "gartner.com",
+                "r/ValueInvesting",
+                "techwireasia.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;The Anthropic S-1 has revealed the dire financial situation&quot; is wrong on both halves: no S-1 is public, and the revenue figure the post builds on is last year's.</strong>",
+              "html": "<p><strong>&quot;The Anthropic S-1 has revealed the dire financial situation&quot; is wrong on both halves: no S-1 is public, and the revenue figure the post builds on is last year's.</strong> The 158-comment thread reasons from roughly $5 billion of revenue to a $300 billion shortfall and a Google takeover; Anthropic's filing was submitted confidentially, and the most recent reported quarter is more than three times the annual figure the post uses.</p>\n<ul>\n<li><strong>Why it matters:</strong> this was the run's most-discussed post and its conclusion — creditor takeover, existing shareholders diluted to zero — rests entirely on comparing a decade of commitments against a single stale year. The two comments that caught it are the two worth reading, and both were buried under replies arguing the conclusion rather than the inputs. The poster also discloses a roughly 40% GOOGL position, which is the share of the portfolio that benefits from the scenario they describe.</li>\n<li><strong>What to watch:</strong> the IPO prospectus if and when it is filed publicly, which is the first document that would make the post's test possible; the annual minimum payment schedule inside it, which is what two commenters correctly asked for and nobody has; KBRA's rating action if audited figures change it; a listing reported as expected in November.</li>\n<li><strong>Numbers:</strong> as reported — Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion in Q2, disclosed to investors at a closed meeting on 14 October 2026 and described as adjusted-profitable; 2025 revenue of about $4.6 billion, which is the &quot;~$5B&quot; the post uses; a confidential S-1 submission on 1 June 2026; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026, the highest speculative grade, first reported 16 October 2026, within a $35 billion Broadcom chip financing led by Apollo in which about $4.4 billion of subordinated debt priced near an 8.5% yield and senior debt near 5.75%; an IPO valuation target reported at up to $2 trillion. As posted, not checked: the $400 billion of non-cancellable commitments and their split across Broadcom, Google Cloud, AWS and Azure, and the $500 billion of AI-related bond issuance.</li>\n<li><strong>Caveats:</strong> the post's underlying worry is not silly, and the best reply says so precisely — $400 billion of fixed commitments becomes a problem quickly if growth stalls. What cannot be done is testing that against a 2025 revenue figure. Two further corrections in the thread are worth recording and were not independently checked: that the Broadcom obligation is a lease, so a default would mean accelerated payments and reclaimed hardware rather than Broadcom receiving equity to swap to Google, and that suppliers would not receive equity in proportion to contract face value. The $12 billion cost figure counts training and research as cost of revenue, which no public document confirms. Several commenters noted that the single most detailed rebuttal in the thread reads as model-written.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC's report of the Q3 figure</a>, then <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x8952f/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a></li>\n</ul>",
+              "text": "\"The Anthropic S-1 has revealed the dire financial situation\" is wrong on both halves: no S-1 is public, and the revenue figure the post builds on is last year's. The 158-comment thread reasons from roughly $5 billion of revenue to a $300 billion shortfall and a Google takeover; Anthropic's filing was submitted confidentially, and the most recent reported quarter is more than three times the annual figure the post uses. Why it matters: this was the run's most-discussed post and its conclusion — creditor takeover, existing shareholders diluted to zero — rests entirely on comparing a decade of commitments against a single stale year. The two comments that caught it are the two worth reading, and both were buried under replies arguing the conclusion rather than the inputs. The poster also discloses a roughly 40% GOOGL position, which is the share of the portfolio that benefits from the scenario they describe. What to watch: the IPO prospectus if and when it is filed publicly, which is the first document that would make the post's test possible; the annual minimum payment schedule inside it, which is what two commenters correctly asked for and nobody has; KBRA's rating action if audited figures change it; a listing reported as expected in November. Numbers: as reported — Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion in Q2, disclosed to investors at a closed meeting on 14 October 2026 and described as adjusted-profitable; 2025 revenue of about $4.6 billion, which is the \"~$5B\" the post uses; a confidential S-1 submission on 1 June 2026; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026, the highest speculative grade, first reported 16 October 2026, within a $35 billion Broadcom chip financing led by Apollo in which about $4.4 billion of subordinated debt priced near an 8.5% yield and senior debt near 5.75%; an IPO valuation target reported at up to $2 trillion. As posted, not checked: the $400 billion of non-cancellable commitments and their split across Broadcom, Google Cloud, AWS and Azure, and the $500 billion of AI-related bond issuance. Caveats: the post's underlying worry is not silly, and the best reply says so precisely — $400 billion of fixed commitments becomes a problem quickly if growth stalls. What cannot be done is testing that against a 2025 revenue figure. Two further corrections in the thread are worth recording and were not independently checked: that the Broadcom obligation is a lease, so a default would mean accelerated payments and reclaimed hardware rather than Broadcom receiving equity to swap to Google, and that suppliers would not receive equity in proportion to contract face value. The $12 billion cost figure counts training and research as cost of revenue, which no public document confirms. Several commenters noted that the single most detailed rebuttal in the thread reads as model-written. Read next: CNBC's report of the Q3 figure , then the thread Reported · the Q3 revenue, the confidential filing date and the KBRA rating are from SiliconANGLE and Crypto Briefing's summary of the FT report , consistent across outlets; CNBC and the FT both return HTTP 403 to this tool and no filing exists on EDGAR to check. That no public S-1 exists is Verified by its absence.",
+              "status": "reported",
+              "status_html": "<p>Reported · the Q3 revenue, the confidential filing date and the KBRA rating are from <a href=\"https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/\" target=\"_blank\" rel=\"noopener noreferrer\">SiliconANGLE</a> and <a href=\"https://cryptobriefing.com/anthropic-bb-plus-credit-rating-kbra/\" target=\"_blank\" rel=\"noopener noreferrer\">Crypto Briefing's summary of the FT report</a>, consistent across outlets; CNBC and the FT both return HTTP 403 to this tool and no filing exists on EDGAR to check. That no public S-1 exists is <strong>Verified</strong> by its absence.</p>",
+              "updated": null,
+              "sources": [
+                "CNBC",
+                "r/ValueInvesting",
+                "siliconangle.com",
+                "cryptobriefing.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Filings and insider moves",
+          "category": "filings",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The Group 1 Automotive activist story is back under a new post with the same stale stake figure, and this time a commenter corrected the fund-concentration claim instead.</strong>",
+              "html": "<p><strong>The Group 1 Automotive activist story is back under a new post with the same stale stake figure, and this time a commenter corrected the fund-concentration claim instead.</strong> A first-time poster's write-up repeats that Greg Alexander's Conifer Management &quot;has now a 9.7% stake in it and has demanded a board seat&quot; — the figure from the 20 August Schedule 13D, superseded twice since, with the board seat agreed on 21 September. What is new is a reply clarifying that the &quot;46% of his fund&quot; in the title refers to Conifer's reported 13F portfolio, not to all assets it manages, and pricing the Hennessy financing: $1.25 billion of senior notes split into $625 million at 6.250% due 2032 and $625 million at 6.625% due 2035, about $80.5 million of annual coupon. The poster's own conclusion is candid — &quot;Based on the ratios i wouldnt buy gpi but greg alexander is like vetoing my entire decision&quot; — and their table shows EBIT margin falling from 6.68% to 4.25% and return on capital employed from 21.38% to 13.81% across 2021 to 2025. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x7ngzl/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The Group 1 Automotive activist story is back under a new post with the same stale stake figure, and this time a commenter corrected the fund-concentration claim instead. A first-time poster's write-up repeats that Greg Alexander's Conifer Management \"has now a 9.7% stake in it and has demanded a board seat\" — the figure from the 20 August Schedule 13D, superseded twice since, with the board seat agreed on 21 September. What is new is a reply clarifying that the \"46% of his fund\" in the title refers to Conifer's reported 13F portfolio, not to all assets it manages, and pricing the Hennessy financing: $1.25 billion of senior notes split into $625 million at 6.250% due 2032 and $625 million at 6.625% due 2035, about $80.5 million of annual coupon. The poster's own conclusion is candid — \"Based on the ratios i wouldnt buy gpi but greg alexander is like vetoing my entire decision\" — and their table shows EBIT margin falling from 6.68% to 4.25% and return on capital employed from 21.38% to 13.81% across 2021 to 2025. Thread Verified for the notes terms and use of proceeds against Group 1's 8-K exhibit of 22 September 2026 , and for the superseded stake against the filings recorded in tracker.md . The five-year ratio table and the earnings-power-value comparison are the poster's own work and were not checked.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the notes terms and use of proceeds against <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000119312526386882/d133710dex991.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Group 1's 8-K exhibit of 22 September 2026</a>, and for the superseded stake against the filings recorded in <a href=\"#tips\" target=\"_blank\" rel=\"noopener noreferrer\">tracker.md</a>. The five-year ratio table and the earnings-power-value comparison are the poster's own work and were not checked.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Embecta (EMBC): a 4x-earnings spin-off where the poster states the bear case first and the thread then supplies a better one.</strong>",
+              "html": "<p><strong>Embecta (EMBC): a 4x-earnings spin-off where the poster states the bear case first and the thread then supplies a better one.</strong> The pitch is that one bad quarter repriced a consumable medical supplier as a terminal decline: a 5 May miss with a hard guidance cut and a dividend cut took the stock down about 58% in a day, and at $6.28 it trades near 4x reduced earnings, with a $11 base case and a $21 three-year target, against roughly two analysts covering it. The poster names the real risk as continued US pen-needle share loss and active securities litigation. The sharpest reply moves the argument off GLP-1s entirely: the volume threat is the shift of Type 1 patients to insulin pumps, plus weekly rather than daily dosing, so &quot;the total market has become the issue&quot; — and the poster concedes it as the real bear case while arguing a shrinking market still works at 4x. A second commenter who sold at a 30% loss in early 2025 lists the pattern that preceded it: recurring &quot;temporary&quot; spin-off costs, high leverage management shrugged at, an insulin pump bought and sold, and no insider buying. A third reconstructs free cash flow per share as $1.23, $0.24 and $2.25 since 2023 with $3.44 trailing, takes the pre-trailing average of about $1.24, and at a 9% discount gets about $13.70 — while arguing the rate should be 12–15% for a company this size. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x8gbrm/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Embecta (EMBC): a 4x-earnings spin-off where the poster states the bear case first and the thread then supplies a better one. The pitch is that one bad quarter repriced a consumable medical supplier as a terminal decline: a 5 May miss with a hard guidance cut and a dividend cut took the stock down about 58% in a day, and at $6.28 it trades near 4x reduced earnings, with a $11 base case and a $21 three-year target, against roughly two analysts covering it. The poster names the real risk as continued US pen-needle share loss and active securities litigation. The sharpest reply moves the argument off GLP-1s entirely: the volume threat is the shift of Type 1 patients to insulin pumps, plus weekly rather than daily dosing, so \"the total market has become the issue\" — and the poster concedes it as the real bear case while arguing a shrinking market still works at 4x. A second commenter who sold at a 30% loss in early 2025 lists the pattern that preceded it: recurring \"temporary\" spin-off costs, high leverage management shrugged at, an insulin pump bought and sold, and no insider buying. A third reconstructs free cash flow per share as $1.23, $0.24 and $2.25 since 2023 with $3.44 trailing, takes the pre-trailing average of about $1.24, and at a 9% discount gets about $13.70 — while arguing the rate should be 12–15% for a company this size. Thread Single source · every figure is as posted, including the 58% single-day fall, the 4x multiple and the Owen Mumford acquisition; the November fiscal Q4 results date is the poster's own catalyst and was not checked.",
+              "status": "single-source",
+              "status_html": "<p>Single source · every figure is as posted, including the 58% single-day fall, the 4x multiple and the Owen Mumford acquisition; the November fiscal Q4 results date is the poster's own catalyst and was not checked.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Deckers (DECK) was pitched twice by the same member on the same day, and both threads got answered on arithmetic rather than on footwear.</strong>",
+              "html": "<p><strong>Deckers (DECK) was pitched twice by the same member on the same day, and both threads got answered on arithmetic rather than on footwear.</strong> The short version compares Deckers at $85.71 against Broadcom, Micron and Nebius; the long version is a 14-factor scorecard producing 76.5/100, which is unusually honest about where its own weight sits — it states that the base case needs both $8.30 of EPS and multiple expansion to 15x, that holding the 11.5x multiple gives about $95.45 and roughly 10.3% after costs, and that shifting the scenario weights from 25/50/25 to 27/50/23 drops the expected return below the 40% hurdle. Two replies pushed harder than the author did. One works out that if the alternative to the $124.50 base case is $95.45, the favourable outcome needs roughly an 84.5% probability to reach a 40% expected return, rising to about 88.5% against $85.39. The other reframes the price on owner earnings: about $1.02 billion last year against a five-year average of $748 million, so a 6.2% average-year earnings yield on a $12.0 billion market value versus a 10-year Treasury at 5.2% — &quot;thin for a business whose earnings swing with fashion&quot; — and tells the author to drop the &quot;MUST BUY&quot; and the 12-month target. Both threads converge on the same disclosed fact: last quarter's net income fell about 6.6% while the diluted share count fell about 7.4%, so EPS rose from $0.93 to $0.94 on the buyback alone. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x82vih/\" target=\"_blank\" rel=\"noopener noreferrer\">Comparison post</a>, <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x8hp6f/\" target=\"_blank\" rel=\"noopener noreferrer\">scorecard</a></p>",
+              "text": "Deckers (DECK) was pitched twice by the same member on the same day, and both threads got answered on arithmetic rather than on footwear. The short version compares Deckers at $85.71 against Broadcom, Micron and Nebius; the long version is a 14-factor scorecard producing 76.5/100, which is unusually honest about where its own weight sits — it states that the base case needs both $8.30 of EPS and multiple expansion to 15x, that holding the 11.5x multiple gives about $95.45 and roughly 10.3% after costs, and that shifting the scenario weights from 25/50/25 to 27/50/23 drops the expected return below the 40% hurdle. Two replies pushed harder than the author did. One works out that if the alternative to the $124.50 base case is $95.45, the favourable outcome needs roughly an 84.5% probability to reach a 40% expected return, rising to about 88.5% against $85.39. The other reframes the price on owner earnings: about $1.02 billion last year against a five-year average of $748 million, so a 6.2% average-year earnings yield on a $12.0 billion market value versus a 10-year Treasury at 5.2% — \"thin for a business whose earnings swing with fashion\" — and tells the author to drop the \"MUST BUY\" and the 12-month target. Both threads converge on the same disclosed fact: last quarter's net income fell about 6.6% while the diluted share count fell about 7.4%, so EPS rose from $0.93 to $0.94 on the buyback alone. Comparison post , scorecard Single source · the FY2026 revenue of $5.47 billion, 57.7% gross margin, $1.26 billion of operating profit, $1.60 billion of cash with no borrowings, the $7.35–$7.50 FY2027 guidance range and the buyback figures are as posted with links to Deckers' own releases, which were not opened. The scorecard, the scenario probabilities, the $8.30 EPS and the owner-earnings reconstruction are the posters' own models. One commenter linked their own valuation site.",
+              "status": "single-source",
+              "status_html": "<p>Single source · the FY2026 revenue of $5.47 billion, 57.7% gross margin, $1.26 billion of operating profit, $1.60 billion of cash with no borrowings, the $7.35–$7.50 FY2027 guidance range and the buyback figures are as posted with links to Deckers' own releases, which were not opened. The scorecard, the scenario probabilities, the $8.30 EPS and the owner-earnings reconstruction are the posters' own models. One commenter linked their own valuation site.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Farmer Mac's AGM.PRG preferred was posted as a &quot;shoot holes in this&quot; exercise and the two replies found the two holes.</strong>",
+              "html": "<p><strong>Farmer Mac's AGM.PRG preferred was posted as a &quot;shoot holes in this&quot; exercise and the two replies found the two holes.</strong> The pitch: a 7.6% yield at about $16.40 against a $25 par, a government charter with a $1.5 billion Treasury line written into it, charge-offs that have never exceeded 0.10% in a year and roughly 50% loan-to-value. The first reply names the structural answer — &quot;'too important to fail' is not synonymous with 'shareholders will be protected'&quot;, with common equity in the first loss position and preferred in the second — and adds a specific exposure to watch: how much new business is tied to data-centre development, on roughly 15x leverage where a 1% charge-off would take a large share of profit. The second raises farm input costs and the risk of political interference. The poster's own best detail came in reply: Fannie and Freddie preferred still carried investment-grade ratings five days before conservatorship. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x7ta3p/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Farmer Mac's AGM.PRG preferred was posted as a \"shoot holes in this\" exercise and the two replies found the two holes. The pitch: a 7.6% yield at about $16.40 against a $25 par, a government charter with a $1.5 billion Treasury line written into it, charge-offs that have never exceeded 0.10% in a year and roughly 50% loan-to-value. The first reply names the structural answer — \"'too important to fail' is not synonymous with 'shareholders will be protected'\", with common equity in the first loss position and preferred in the second — and adds a specific exposure to watch: how much new business is tied to data-centre development, on roughly 15x leverage where a 1% charge-off would take a large share of profit. The second raises farm input costs and the risk of political interference. The poster's own best detail came in reply: Fannie and Freddie preferred still carried investment-grade ratings five days before conservatorship. Thread Single source · all figures are as posted, including the yield, the price, the charter line and the charge-off history; no 10-K was opened and the 15x leverage figure is the commenter's recollection.",
+              "status": "single-source",
+              "status_html": "<p>Single source · all figures are as posted, including the yield, the price, the charter line and the charge-off history; no 10-K was opened and the 15x leverage figure is the commenter's recollection.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A &quot;value dystopia&quot; post built five demographic and climate theses into a named basket, and the only numbers in it are for the two Hong Kong listings.</strong>",
+              "html": "<p><strong>A &quot;value dystopia&quot; post built five demographic and climate theses into a named basket, and the only numbers in it are for the two Hong Kong listings.</strong> The categories are ageing and falling birth rates, climate adaptation, cybersecurity, labour automation and post-2028 US policy, with Nordic and US names under each. The poster is explicit that the thesis is directional rather than valued, and the one place figures appear is the robotics pair: UBTech at a price-to-sales ratio of 18.2x on about HK$42 billion, against Unitree's STAR Market debut priced at 35.89x 2025 sales and 219x earnings and trading afterwards near 357 billion yuan, about $53 billion. At 25 comments this got far less engagement than its length suggests. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x7hmj0/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A \"value dystopia\" post built five demographic and climate theses into a named basket, and the only numbers in it are for the two Hong Kong listings. The categories are ageing and falling birth rates, climate adaptation, cybersecurity, labour automation and post-2028 US policy, with Nordic and US names under each. The poster is explicit that the thesis is directional rather than valued, and the one place figures appear is the robotics pair: UBTech at a price-to-sales ratio of 18.2x on about HK$42 billion, against Unitree's STAR Market debut priced at 35.89x 2025 sales and 219x earnings and trading afterwards near 357 billion yuan, about $53 billion. At 25 comments this got far less engagement than its length suggests. Thread Single source · a list of ideas, not a valuation; the UBTech and Unitree multiples are as posted and were not checked.",
+              "status": "single-source",
+              "status_html": "<p>Single source · a list of ideas, not a valuation; the UBTech and Unitree multiples are as posted and were not checked.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Process and valuation method",
+          "category": "process",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The run's most reusable post has zero comments: a reconstruction of Berkshire's discontinued look-through earnings, with the method spelled out.</strong>",
+              "html": "<p><strong>The run's most reusable post has zero comments: a reconstruction of Berkshire's discontinued look-through earnings, with the method spelled out.</strong> The problem is real and specific — Berkshire's GAAP earnings capture mark-to-market swings on its equity book, and the operating-earnings measure it prefers instead ($47.4 billion in 2024, as the poster quotes from the letter) counts only dividends received from holdings below 20% ownership, so Apple contributes its 0.3% dividend rather than its share of profit. Buffett published look-through earnings in the 1990s and stopped. The reconstruction: for each year, take the top five holdings in the sub-20% category, which the poster says run about 70% of that category's value, look up each payout ratio, weight by position value, and add the retained share of earnings Berkshire is entitled to but has not received to published operating earnings. Then chart the share-price range against that figure using the prior year's number, since that is what was knowable at the time. The poster says a model was used to explain the accounting treatments but not for the arithmetic, and flags that they could have made a mistake. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x8r4sz/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a> · <a href=\"https://imgur.com/a/3Tj3ZBD\" target=\"_blank\" rel=\"noopener noreferrer\">their chart</a></p>",
+              "text": "The run's most reusable post has zero comments: a reconstruction of Berkshire's discontinued look-through earnings, with the method spelled out. The problem is real and specific — Berkshire's GAAP earnings capture mark-to-market swings on its equity book, and the operating-earnings measure it prefers instead ($47.4 billion in 2024, as the poster quotes from the letter) counts only dividends received from holdings below 20% ownership, so Apple contributes its 0.3% dividend rather than its share of profit. Buffett published look-through earnings in the 1990s and stopped. The reconstruction: for each year, take the top five holdings in the sub-20% category, which the poster says run about 70% of that category's value, look up each payout ratio, weight by position value, and add the retained share of earnings Berkshire is entitled to but has not received to published operating earnings. Then chart the share-price range against that figure using the prior year's number, since that is what was knowable at the time. The poster says a model was used to explain the accounting treatments but not for the arithmetic, and flags that they could have made a mistake. Thread · their chart Single source · the $47.4 billion operating-earnings figure is quoted from the 2024 letter and the method is the poster's own; nothing in it was checked, and no one in the sub has reviewed it.",
+              "status": "single-source",
+              "status_html": "<p>Single source · the $47.4 billion operating-earnings figure is quoted from the 2024 letter and the method is the poster's own; nothing in it was checked, and no one in the sub has reviewed it.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "imgur.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>TSMC's quarter checks out, and the margin softness the post worries about has a different stated cause than the one it gives.</strong>",
+              "html": "<p><strong>TSMC's quarter checks out, and the margin softness the post worries about has a different stated cause than the one it gives.</strong> The post's figures are right: net profit of NT$763.06 billion, a 69% jump, and a 66.4% gross margin. It attributes the margin coming in short of hopes to overseas fabs and rising memory and component prices, and credits pricing power for passing those on. TSMC's own release puts the quarter-on-quarter gross margin decline of 1.3 percentage points down to dilution from the initial ramp of its N2 process, and attributes the result to demand for leading-edge nodes, with 7nm and below at 79% of wafer revenue. The thread is mostly agreement plus the standard Taiwan-risk one-liner; the one substantive comment is from an engineer at a competitor describing TSMC's process design kits and customer service as the thing Intel cannot replicate, &quot;they simple don't know how to be a foundry&quot;. A separate commenter notes Berkshire bought and sold TSMC citing geopolitical risk and capital intensity. The post's secondary claim — that China's CXMT advancing memory designs helped push the KOSPI down 9.0% in a month — was not checked. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x88x6o/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "TSMC's quarter checks out, and the margin softness the post worries about has a different stated cause than the one it gives. The post's figures are right: net profit of NT$763.06 billion, a 69% jump, and a 66.4% gross margin. It attributes the margin coming in short of hopes to overseas fabs and rising memory and component prices, and credits pricing power for passing those on. TSMC's own release puts the quarter-on-quarter gross margin decline of 1.3 percentage points down to dilution from the initial ramp of its N2 process, and attributes the result to demand for leading-edge nodes, with 7nm and below at 79% of wafer revenue. The thread is mostly agreement plus the standard Taiwan-risk one-liner; the one substantive comment is from an engineer at a competitor describing TSMC's process design kits and customer service as the thing Intel cannot replicate, \"they simple don't know how to be a foundry\". A separate commenter notes Berkshire bought and sold TSMC citing geopolitical risk and capital intensity. The post's secondary claim — that China's CXMT advancing memory designs helped push the KOSPI down 9.0% in a month — was not checked. Thread Verified for Q3 2026 revenue of NT$1,494.24 billion (US$46.72 billion), net income of NT$763.06 billion, diluted EPS of NT$29.43, a 66.4% gross margin, a 58.7% operating margin, net income up 68.7% year on year and 8.0% quarter on quarter, the N2 ramp as the stated margin driver, and Q4 guidance of US$52.3–54.3 billion at a 65–67% gross margin, against TSMC's Form 6-K . The CXMT and KOSPI claims are as posted.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for Q3 2026 revenue of NT$1,494.24 billion (US$46.72 billion), net income of NT$763.06 billion, diluted EPS of NT$29.43, a 66.4% gross margin, a 58.7% operating margin, net income up 68.7% year on year and 8.0% quarter on quarter, the N2 ramp as the stated margin driver, and Q4 guidance of US$52.3–54.3 billion at a 65–67% gross margin, against <a href=\"https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm\" target=\"_blank\" rel=\"noopener noreferrer\">TSMC's Form 6-K</a>. The CXMT and KOSPI claims are as posted.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The Indonesia thread's premise is right and its most detailed comment gets the sequence wrong: MSCI is proposing to move Indonesia straight from Emerging Market to Standalone, not down a rung from Frontier.</strong>",
+              "html": "<p><strong>The Indonesia thread's premise is right and its most detailed comment gets the sequence wrong: MSCI is proposing to move Indonesia straight from Emerging Market to Standalone, not down a rung from Frontier.</strong> The 11% single-day fall happened and the proposal is real. The sub's most-upvoted responses are not analysis but a string of Indonesians advising against investing there — &quot;The rule of law are not dependable if you're a foreigner. Hell, it is true even if you are local&quot; — and one reply arguing the insider trading is itself part of why MSCI is acting. The one worked-out comment, from a member who had posted on Indonesia three times over eight months, draws the 1997–98 parallel and extends it to a Singapore trade: if Indonesia falls, the STI and Singapore bank stocks at all-time highs fall with it, and they would buy DBS, then OCBC and UOB. Its claim that this &quot;comes after the last downgrade from developing to frontier status&quot; is wrong — Indonesia is in the Emerging Market indexes now, and the consultation proposes Standalone directly. The one named pitch, Bank Mandiri at a P/E of 5 and a 14% dividend yield, drew the thread's best rebuttal: a loan-to-deposit ratio near 99% a few quarters ago, and a staff referral quota for opening savings accounts, with warning letters for missing it. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x7uf9t/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The Indonesia thread's premise is right and its most detailed comment gets the sequence wrong: MSCI is proposing to move Indonesia straight from Emerging Market to Standalone, not down a rung from Frontier. The 11% single-day fall happened and the proposal is real. The sub's most-upvoted responses are not analysis but a string of Indonesians advising against investing there — \"The rule of law are not dependable if you're a foreigner. Hell, it is true even if you are local\" — and one reply arguing the insider trading is itself part of why MSCI is acting. The one worked-out comment, from a member who had posted on Indonesia three times over eight months, draws the 1997–98 parallel and extends it to a Singapore trade: if Indonesia falls, the STI and Singapore bank stocks at all-time highs fall with it, and they would buy DBS, then OCBC and UOB. Its claim that this \"comes after the last downgrade from developing to frontier status\" is wrong — Indonesia is in the Emerging Market indexes now, and the consultation proposes Standalone directly. The one named pitch, Bank Mandiri at a P/E of 5 and a 14% dividend yield, drew the thread's best rebuttal: a loan-to-deposit ratio near 99% a few quarters ago, and a staff referral quota for opening savings accounts, with warning letters for missing it. Thread Verified for the proposal, the current Emerging Market classification, the 15 October 2026 consultation launch, the 30 April 2027 consultation close and the decision due by 30 June 2027, and for the stated reasons (opaque ownership structures, concentrated shareholdings, suspected coordinated trading), from MSCI's release as reported by Euronews and the Jakarta Post ; MSCI's own page returns HTTP 403 to this tool. The 11% fall and the roughly $65 billion of value lost are Reported. Bank Mandiri's multiple and yield are as posted.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the proposal, the current Emerging Market classification, the 15 October 2026 consultation launch, the 30 April 2027 consultation close and the decision due by 30 June 2027, and for the stated reasons (opaque ownership structures, concentrated shareholdings, suspected coordinated trading), from <a href=\"https://ir.msci.com/news-releases/news-release-details/msci-launches-consultation-proposal-reclassify-indonesia\" target=\"_blank\" rel=\"noopener noreferrer\">MSCI's release</a> as reported by <a href=\"https://www.euronews.com/2026/10/16/indonesian-stocks-plunge-11-as-msci-proposes-emerging-market-downgrade\" target=\"_blank\" rel=\"noopener noreferrer\">Euronews</a> and <a href=\"https://www.thejakartapost.com/business/2026/10/16/msci-weighs-downgrading-indonesia-to-standalone-market-status\" target=\"_blank\" rel=\"noopener noreferrer\">the Jakarta Post</a>; MSCI's own page returns HTTP 403 to this tool. The 11% fall and the roughly $65 billion of value lost are Reported. Bank Mandiri's multiple and yield are as posted.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "ir.msci.com",
+                "euronews.com",
+                "thejakartapost.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Jensen Huang's remark that the sub read as pre-positioning a bailout came with a second half the sub left out, and the backstop it refers to is $6.3 billion with terms on record.</strong>",
+              "html": "<p><strong>Jensen Huang's remark that the sub read as pre-positioning a bailout came with a second half the sub left out, and the backstop it refers to is $6.3 billion with terms on record.</strong> The run's biggest post, at 224 points, quotes Huang saying CoreWeave's &quot;cost of capital is actually decreasing&quot; and argues that if Nvidia steps in again, it reveals how narrow Nvidia's growth really is. At the same Stockholm appearance on 15 October, Huang also said Nvidia does not need to backstop CoreWeave — which neither that post nor the separate Nvidia-is-high-risk post mentions. The existing arrangement, signed in September 2025, commits Nvidia to buy unsold compute capacity from CoreWeave through 13 April 2032 up to $6.3 billion, not the $6.8 billion the second post gives, and it only triggers on capacity CoreWeave fails to sell elsewhere. The thread's best replies are the structural ones: that Nvidia has no choice because neoclouds are around a third of its revenue, and the opposite point that CoreWeave's whole debt plus market capitalisation is barely 1% of Nvidia's enterprise value, so a rescue would be cheap and consistent with a &quot;Balance sheet-as-a-Service&quot; posture. One reply makes the simplest objection to the premise — a supplier caring about a distributor's finances is ordinary, as Coca-Cola does with its bottlers. Two commenters dismissed the post as model-written. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1x8gtjt/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Jensen Huang's remark that the sub read as pre-positioning a bailout came with a second half the sub left out, and the backstop it refers to is $6.3 billion with terms on record. The run's biggest post, at 224 points, quotes Huang saying CoreWeave's \"cost of capital is actually decreasing\" and argues that if Nvidia steps in again, it reveals how narrow Nvidia's growth really is. At the same Stockholm appearance on 15 October, Huang also said Nvidia does not need to backstop CoreWeave — which neither that post nor the separate Nvidia-is-high-risk post mentions. The existing arrangement, signed in September 2025, commits Nvidia to buy unsold compute capacity from CoreWeave through 13 April 2032 up to $6.3 billion, not the $6.8 billion the second post gives, and it only triggers on capacity CoreWeave fails to sell elsewhere. The thread's best replies are the structural ones: that Nvidia has no choice because neoclouds are around a third of its revenue, and the opposite point that CoreWeave's whole debt plus market capitalisation is barely 1% of Nvidia's enterprise value, so a rescue would be cheap and consistent with a \"Balance sheet-as-a-Service\" posture. One reply makes the simplest objection to the premise — a supplier caring about a distributor's finances is ordinary, as Coca-Cola does with its bottlers. Two commenters dismissed the post as model-written. Thread Reported · the $6.3 billion backstop, its September 2025 date and 13 April 2032 end, and Huang's 15 October remarks in Stockholm are from coverage of the appearance and the backstop's terms ; no Nvidia or CoreWeave filing was opened. The one-third-of-revenue and 1%-of-enterprise-value figures are as posted.",
+              "status": "reported",
+              "status_html": "<p>Reported · the $6.3 billion backstop, its September 2025 date and 13 April 2032 end, and Huang's 15 October remarks in Stockholm are from <a href=\"https://www.roic.ai/news/nvidias-huang-says-no-backstop-needed-for-coreweave-as-ai-debt-fears-mount-10-15-2026\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the appearance</a> and <a href=\"https://finance.yahoo.com/news/coreweaves-6-3-billion-backstop-103000258.html\" target=\"_blank\" rel=\"noopener noreferrer\">the backstop's terms</a>; no Nvidia or CoreWeave filing was opened. The one-third-of-revenue and 1%-of-enterprise-value figures are as posted.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "roic.ai",
+                "Yahoo Finance"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "The sub rejected an AI-disruption thesis for the first time in several runs, and did it with job titles.",
+              "html": "<p>The sub rejected an AI-disruption thesis for the first time in several runs, and did it with job titles. A post arguing AI-assisted reverse engineering will erode the terminal value of Adobe and Autodesk drew 82 comments led overwhelmingly by practitioners — a civil design engineer, an architect working in shared BIM models, a marketer, an IT provider to engineers — all saying the same thing: the moat is not the code. The most-upvoted reply lists what someone citing the Artcraft project reveals about themselves; the most useful one concedes the point and sharpens it, arguing Artcraft is a technical proof of concept rather than a competitor, but that cheapening software creation weakens the first moat and exposes the others — file formats, muscle memory, switching costs — to being tested more often. The OpenOffice-versus-Office comparison appeared in three separate replies. This is the third consecutive run in which Adobe has been argued about and the second in which it was defended.</p>",
+              "text": "The sub rejected an AI-disruption thesis for the first time in several runs, and did it with job titles. A post arguing AI-assisted reverse engineering will erode the terminal value of Adobe and Autodesk drew 82 comments led overwhelmingly by practitioners — a civil design engineer, an architect working in shared BIM models, a marketer, an IT provider to engineers — all saying the same thing: the moat is not the code. The most-upvoted reply lists what someone citing the Artcraft project reveals about themselves; the most useful one concedes the point and sharpens it, arguing Artcraft is a technical proof of concept rather than a competitor, but that cheapening software creation weakens the first moat and exposes the others — file formats, muscle memory, switching costs — to being tested more often. The OpenOffice-versus-Office comparison appeared in three separate replies. This is the third consecutive run in which Adobe has been argued about and the second in which it was defended.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "&quot;Why we getting this stuff in &#x27;value&#x27; investing?&quot; is now a recurring comment rather than an occasional one, appearing under the TSMC post this run.",
+              "html": "<p>&quot;Why we getting this stuff in 'value' investing?&quot; is now a recurring comment rather than an occasional one, appearing under the TSMC post this run. The same tension produced the run's top joke, that this week's sell-off will bring a wave of new long-term investors who were AI zero-day options traders last week, at 50 points.</p>",
+              "text": "\"Why we getting this stuff in 'value' investing?\" is now a recurring comment rather than an occasional one, appearing under the TSMC post this run. The same tension produced the run's top joke, that this week's sell-off will bring a wave of new long-term investors who were AI zero-day options traders last week, at 50 points.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Micron is the name the sub cannot agree on and the disagreement is always the same shape.",
+              "html": "<p>Micron is the name the sub cannot agree on and the disagreement is always the same shape. It appears as the bear comparison in both Deckers posts (&quot;deciding what its earnings look like through a full cycle&quot;), as the bull rebuttal in the Deckers thread (&quot;sold out through 2027... it's a need and it's not a want&quot;), and in a side-by-side AppLovin comparison. Nobody argues about the numbers, only about where in the cycle they sit.</p>",
+              "text": "Micron is the name the sub cannot agree on and the disagreement is always the same shape. It appears as the bear comparison in both Deckers posts (\"deciding what its earnings look like through a full cycle\"), as the bull rebuttal in the Deckers thread (\"sold out through 2027... it's a need and it's not a want\"), and in a side-by-side AppLovin comparison. Nobody argues about the numbers, only about where in the cycle they sit.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Volatility threads drew more participation than any pitch.",
+              "html": "<p>Volatility threads drew more participation than any pitch. A post asking whether members change strategy when the VIX passes 22 ran to 26 comments, and &quot;Should I sell now?&quot; reached 57 comments at 0 points, both of which the feed skips as personal allocation questions. The &quot;MAG 10, which to buy in this dip?&quot; thread at 193 comments is the sub's standing megacap poll with no new argument in it.</p>",
+              "text": "Volatility threads drew more participation than any pitch. A post asking whether members change strategy when the VIX passes 22 ran to 26 comments, and \"Should I sell now?\" reached 57 comments at 0 points, both of which the feed skips as personal allocation questions. The \"MAG 10, which to buy in this dip?\" thread at 193 comments is the sub's standing megacap poll with no new argument in it.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;25% of 2028 revenue is coming directly from vendor financing aka circular financing. The companies CFO just acknowledged it&quot; conflates two different things, and the thread's best reply says so before I checked.</strong>",
+              "html": "<p><strong>&quot;25% of 2028 revenue is coming directly from vendor financing aka circular financing. The companies CFO just acknowledged it&quot; conflates two different things, and the thread's best reply says so before I checked.</strong> The 25% figure does trace to Nvidia's CFO describing an expectation of using the balance sheet to support roughly a quarter of next year's business, but the structure she described is minimum revenue guarantees that let lenders underwrite projects, not loans — &quot;We're not making loans.&quot; The top-rated correction in the thread draws exactly that distinction, notes that vendor financing in its ordinary sense is routine receivables practice, and asks for the exact quote, which the poster did not supply. I found secondary reporting of the remark and did not open the call transcript or filing, so the quote itself remains unchecked. The post's Lucent parallel — 24% of forward revenue from companies it financed, then bankruptcy — is as posted.</p>",
+              "text": "\"25% of 2028 revenue is coming directly from vendor financing aka circular financing. The companies CFO just acknowledged it\" conflates two different things, and the thread's best reply says so before I checked. The 25% figure does trace to Nvidia's CFO describing an expectation of using the balance sheet to support roughly a quarter of next year's business, but the structure she described is minimum revenue guarantees that let lenders underwrite projects, not loans — \"We're not making loans.\" The top-rated correction in the thread draws exactly that distinction, notes that vendor financing in its ordinary sense is routine receivables practice, and asks for the exact quote, which the poster did not supply. I found secondary reporting of the remark and did not open the call transcript or filing, so the quote itself remains unchecked. The post's Lucent parallel — 24% of forward revenue from companies it financed, then bankruptcy — is as posted. Unconfirmed for the quote · the 25% attribution and the \"we're not making loans\" framing are Reported from coverage of the guidance ; no transcript or 8-K was opened. The claim that Huang's statement is \"a CLEAR LIE\" is the poster's characterisation.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> for the quote · the 25% attribution and the &quot;we're not making loans&quot; framing are Reported from <a href=\"https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the guidance</a>; no transcript or 8-K was opened. The claim that Huang's statement is &quot;a CLEAR LIE&quot; is the poster's characterisation.</p>",
+              "updated": null,
+              "sources": [
+                "Yahoo Finance"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Coreweave has a majoy deal with Anthropic which secured the best junk rating&quot; attaches the rating to the wrong company and the wrong deal.</strong>",
+              "html": "<p><strong>&quot;Coreweave has a majoy deal with Anthropic which secured the best junk rating&quot; attaches the rating to the wrong company and the wrong deal.</strong> The BB+ is Anthropic's own issuer rating from KBRA, assigned in June 2026 and tied to a $35 billion Broadcom chip financing, not to anything CoreWeave secured. CoreWeave does have a multiyear Anthropic agreement, signed in April 2026 with undisclosed terms, but it is not what was rated. The thread's own best contribution is the poster's follow-up quoting reporting that KBRA was not given free cash flow or EBITDA and had to estimate them, which is the part that matters; the rest is &quot;never heard of a kbra&quot; and the observation that if one leg of circular financing breaks it takes the rest with it.</p>",
+              "text": "\"Coreweave has a majoy deal with Anthropic which secured the best junk rating\" attaches the rating to the wrong company and the wrong deal. The BB+ is Anthropic's own issuer rating from KBRA, assigned in June 2026 and tied to a $35 billion Broadcom chip financing, not to anything CoreWeave secured. CoreWeave does have a multiyear Anthropic agreement, signed in April 2026 with undisclosed terms, but it is not what was rated. The thread's own best contribution is the poster's follow-up quoting reporting that KBRA was not given free cash flow or EBITDA and had to estimate them, which is the part that matters; the rest is \"never heard of a kbra\" and the observation that if one leg of circular financing breaks it takes the rest with it. Unconfirmed as stated in the title · the rating and its $35 billion financing context are Reported from Crypto Briefing ; KBRA's own rating action was not opened, and no document ties the rating to a CoreWeave deal.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> as stated in the title · the rating and its $35 billion financing context are Reported from <a href=\"https://cryptobriefing.com/anthropic-bb-plus-credit-rating-kbra/\" target=\"_blank\" rel=\"noopener noreferrer\">Crypto Briefing</a>; KBRA's own rating action was not opened, and no document ties the rating to a CoreWeave deal.</p>",
+              "updated": null,
+              "sources": [
+                "cryptobriefing.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The Indonesia-to-Singapore contagion thesis is a named, dated prediction with no test attached.</strong>",
+              "html": "<p><strong>The Indonesia-to-Singapore contagion thesis is a named, dated prediction with no test attached.</strong> If Indonesia falls further, the STI and Singapore bank stocks fall hard and the Singapore dollar weakens as it did by about 15% in 1997–98. The 1997–98 figures given — an 80–85% Rupiah devaluation, a 60% fall in Indonesian equities, a 50–60% fall in the STI — were not checked, and no threshold was offered for when the trade would be wrong.</p>",
+              "text": "The Indonesia-to-Singapore contagion thesis is a named, dated prediction with no test attached. If Indonesia falls further, the STI and Singapore bank stocks fall hard and the Singapore dollar weakens as it did by about 15% in 1997–98. The 1997–98 figures given — an 80–85% Rupiah devaluation, a 60% fall in Indonesian equities, a 50–60% fall in the STI — were not checked, and no threshold was offered for when the trade would be wrong. Unconfirmed · one commenter's blog post, reproduced in the thread; no historical series checked.",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · one commenter's blog post, reproduced in the thread; no historical series checked.</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> ValueInvesting.",
+              "html": "<p><strong>Read:</strong> ValueInvesting. <strong>Sources checked:</strong> Berkshire Hathaway's SEC filings and Berkshire's news page, both for anything after 14 October 2026. Gartner's, MSCI's and CNBC's own pages all return HTTP 403 to this tool and were read through secondary reporting instead, as each status line says.</p>",
+              "text": "Read: ValueInvesting. Sources checked: Berkshire Hathaway's SEC filings and Berkshire's news page, both for anything after 14 October 2026. Gartner's, MSCI's and CNBC's own pages all return HTTP 403 to this tool and were read through secondary reporting instead, as each status line says.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. Berkshire has filed nothing on or after 14 October — its most recent filing remains the Schedule 13G/A of 7 October 2026, already covered by the Lennar entry in the tracker — and its news page has nothing after 18 September 2026.</p>",
+              "text": "Announced, not discussed: none. Berkshire has filed nothing on or after 14 October — its most recent filing remains the Schedule 13G/A of 7 October 2026, already covered by the Lennar entry in the tracker — and its news page has nothing after 18 September 2026. Verified against EDGAR's filing index for Berkshire and the 2026 news page",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing index for Berkshire</a> and <a href=\"https://www.berkshirehathaway.com/news/2026news.html\" target=\"_blank\" rel=\"noopener noreferrer\">the 2026 news page</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "berkshirehathaway.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> coreweave is covered in Must know and in the Market and macro and Unverified sections.",
+              "html": "<p><strong>Flagged terms set aside:</strong> <em>coreweave</em> is covered in Must know and in the Market and macro and Unverified sections.</p>",
+              "text": "Flagged terms set aside: coreweave is covered in Must know and in the Market and macro and Unverified sections.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "title": "Value investing digest",
@@ -912,11 +1248,11 @@
       "items": [
         {
           "headline": "<strong>Conifer Management has built a 15.4% stake in Group 1 Automotive and taken a board seat.</strong>",
-          "html": "<p><strong>Conifer Management has built a 15.4% stake in Group 1 Automotive and taken a board seat.</strong> Greg Alexander's fund filed a Schedule 13D on 20 August 2026 at 1,157,100 shares (9.7%), moved to 12.7% on 22 September and to 1,840,698 shares (15.4%) on 29 September, the last amendment citing about $80.5 million of purchases since the prior one. Group 1 signed a stockholder agreement on 21 September expanding its board from ten directors to eleven and adding Conifer's Benjamin Hart. The sub is still discussing the August 9.7% figure as current and the board seat as an open demand.</p>",
-          "text": "Conifer Management has built a 15.4% stake in Group 1 Automotive and taken a board seat. Greg Alexander's fund filed a Schedule 13D on 20 August 2026 at 1,157,100 shares (9.7%), moved to 12.7% on 22 September and to 1,840,698 shares (15.4%) on 29 September, the last amendment citing about $80.5 million of purchases since the prior one. Group 1 signed a stockholder agreement on 21 September expanding its board from ten directors to eleven and adding Conifer's Benjamin Hart. The sub is still discussing the August 9.7% figure as current and the board seat as an open demand. Verified against the Schedule 13D , Amendment No. 3 and Group 1's press release ; no Amendment No. 4 as of 14 October 2026 · 2026-10-14",
+          "html": "<p><strong>Conifer Management has built a 15.4% stake in Group 1 Automotive and taken a board seat.</strong> Greg Alexander's fund filed a Schedule 13D on 20 August 2026 at 1,157,100 shares (9.7%), moved to 12.7% on 22 September and to 1,840,698 shares (15.4%) on 29 September, the last amendment citing about $80.5 million of purchases since the prior one. Group 1 signed a stockholder agreement on 21 September expanding its board from ten directors to eleven and adding Conifer's Benjamin Hart. The sub repeated the August 9.7% figure as current again on 17 October under a new post, which also described the position as &quot;46% of his fund&quot; — a commenter correctly clarified that this is Conifer's reported 13F portfolio, not all assets it manages.</p>",
+          "text": "Conifer Management has built a 15.4% stake in Group 1 Automotive and taken a board seat. Greg Alexander's fund filed a Schedule 13D on 20 August 2026 at 1,157,100 shares (9.7%), moved to 12.7% on 22 September and to 1,840,698 shares (15.4%) on 29 September, the last amendment citing about $80.5 million of purchases since the prior one. Group 1 signed a stockholder agreement on 21 September expanding its board from ten directors to eleven and adding Conifer's Benjamin Hart. The sub repeated the August 9.7% figure as current again on 17 October under a new post, which also described the position as \"46% of his fund\" — a commenter correctly clarified that this is Conifer's reported 13F portfolio, not all assets it manages. Verified against the Schedule 13D , Amendment No. 3 and Group 1's press release ; no Amendment No. 4 as of 17 October 2026 · 2026-10-17",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000090514826003844/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Schedule 13D</a>, <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000090514826004293/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Amendment No. 3</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000103120326000137/exhibit991-92126.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Group 1's press release</a>; no Amendment No. 4 as of 14 October 2026 · 2026-10-14</p>",
-          "updated": "2026-10-14",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000090514826003844/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Schedule 13D</a>, <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000090514826004293/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Amendment No. 3</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000103120326000137/exhibit991-92126.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Group 1's press release</a>; no Amendment No. 4 as of 17 October 2026 · 2026-10-17</p>",
+          "updated": "2026-10-17",
           "sources": [
             "SEC filing"
           ],
@@ -1009,6 +1345,20 @@
           "due_label": "commitments due, per reporting on the 9 October launch"
         },
         {
+          "headline": "<strong>Anthropic's IPO, and the credit terms already on record ahead of it.</strong>",
+          "html": "<p><strong>Anthropic's IPO, and the credit terms already on record ahead of it.</strong> The S-1 was submitted confidentially on 1 June 2026 and no public prospectus exists, so the sub is reasoning from 2025 figures. What is reported: Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion, described as adjusted-profitable and disclosed at a closed investor meeting on 14 October; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026 within a $35 billion Broadcom chip financing led by Apollo, with about $4.4 billion of subordinated debt near an 8.5% yield and senior debt near 5.75%; a listing expected in November at a valuation target reported up to $2 trillion. KBRA was reportedly not given free cash flow or EBITDA and estimated them.</p>",
+          "text": "Anthropic's IPO, and the credit terms already on record ahead of it. The S-1 was submitted confidentially on 1 June 2026 and no public prospectus exists, so the sub is reasoning from 2025 figures. What is reported: Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion, described as adjusted-profitable and disclosed at a closed investor meeting on 14 October; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026 within a $35 billion Broadcom chip financing led by Apollo, with about $4.4 billion of subordinated debt near an 8.5% yield and senior debt near 5.75%; a listing expected in November at a valuation target reported up to $2 trillion. KBRA was reportedly not given free cash flow or EBITDA and estimated them. Reported, from SiliconANGLE and Crypto Briefing's summary of the FT report ; no filing exists on EDGAR and KBRA's rating action was not opened. That no public S-1 exists is Verified by its absence · 2026-10-17",
+          "status": "reported",
+          "status_html": "<p>Reported, from <a href=\"https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/\" target=\"_blank\" rel=\"noopener noreferrer\">SiliconANGLE</a> and <a href=\"https://cryptobriefing.com/anthropic-bb-plus-credit-rating-kbra/\" target=\"_blank\" rel=\"noopener noreferrer\">Crypto Briefing's summary of the FT report</a>; no filing exists on EDGAR and KBRA's rating action was not opened. That no public S-1 exists is <strong>Verified</strong> by its absence · 2026-10-17</p>",
+          "updated": "2026-10-17",
+          "sources": [
+            "siliconangle.com",
+            "cryptobriefing.com"
+          ],
+          "due": "2026-11-30",
+          "due_label": "listing \"expected in November\", as reported"
+        },
+        {
           "headline": "<strong>Broadcom's financing for OpenAI chips, reported at more than $50 billion and targeted to close by year end.</strong>",
           "html": "<p><strong>Broadcom's financing for OpenAI chips, reported at more than $50 billion and targeted to close by year end.</strong> The sub's open question is whether the debt sits on Broadcom's books or in a separate vehicle that Broadcom guarantees.</p>",
           "text": "Broadcom's financing for OpenAI chips, reported at more than $50 billion and targeted to close by year end. The sub's open question is whether the debt sits on Broadcom's books or in a separate vehicle that Broadcom guarantees. Reported, from coverage of the WSJ report ; talks described as early · 2026-10-08",
@@ -1020,6 +1370,48 @@
           ],
           "due": "2026-12-31",
           "due_label": "targeted close, \"by year end\""
+        },
+        {
+          "headline": "<strong>MSCI's consultation on reclassifying Indonesia from Emerging Market to Standalone Market status, launched 15 October 2026.</strong>",
+          "html": "<p><strong>MSCI's consultation on reclassifying Indonesia from Emerging Market to Standalone Market status, launched 15 October 2026.</strong> Indonesian equities fell more than 11% on the announcement, reported as about $65 billion of value. MSCI cites opaque ownership structures, concentrated shareholdings and suspected coordinated trading. The sub's open question is Singapore contagion — whether the STI and Singapore bank stocks at all-time highs fall with it, as in 1997–98.</p>",
+          "text": "MSCI's consultation on reclassifying Indonesia from Emerging Market to Standalone Market status, launched 15 October 2026. Indonesian equities fell more than 11% on the announcement, reported as about $65 billion of value. MSCI cites opaque ownership structures, concentrated shareholdings and suspected coordinated trading. The sub's open question is Singapore contagion — whether the STI and Singapore bank stocks at all-time highs fall with it, as in 1997–98. Verified for the proposal, dates and stated reasons from MSCI's release as reported by Euronews and the Jakarta Post ; MSCI's own page returns HTTP 403, and the 11% fall and $65 billion are Reported · 2026-10-17",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the proposal, dates and stated reasons from <a href=\"https://ir.msci.com/news-releases/news-release-details/msci-launches-consultation-proposal-reclassify-indonesia\" target=\"_blank\" rel=\"noopener noreferrer\">MSCI's release</a> as reported by <a href=\"https://www.euronews.com/2026/10/16/indonesian-stocks-plunge-11-as-msci-proposes-emerging-market-downgrade\" target=\"_blank\" rel=\"noopener noreferrer\">Euronews</a> and <a href=\"https://www.thejakartapost.com/business/2026/10/16/msci-weighs-downgrading-indonesia-to-standalone-market-status\" target=\"_blank\" rel=\"noopener noreferrer\">the Jakarta Post</a>; MSCI's own page returns HTTP 403, and the 11% fall and $65 billion are Reported · 2026-10-17</p>",
+          "updated": "2026-10-17",
+          "sources": [
+            "ir.msci.com",
+            "euronews.com",
+            "thejakartapost.com"
+          ],
+          "due": "2027-04-30",
+          "due_label": "consultation closes; decision due by 2027-06-30"
+        },
+        {
+          "headline": "<strong>Gartner's AI infrastructure forecast, and whether the sub is reading it.</strong>",
+          "html": "<p><strong>Gartner's AI infrastructure forecast, and whether the sub is reading it.</strong> As published 15 October 2026: nearly $1 trillion of AI infrastructure spending in 2026 plus $6 trillion over 2027–2030; $8.5 trillion of cumulative revenue needed through 2030 to cover capital spending, financing costs and a 12% return on invested capital, against no more than $3.6 trillion forecast; more than $3.5 trillion exposed to impairment by end-2030, past $4 trillion through 2032; more than 80% of neocloud providers expected to cease independent operations by 2030. The sub's thread on the report quoted $7 trillion against $3.6 trillion, called it non-material, and cited none of the neocloud figure its own CoreWeave threads turned on.</p>",
+          "text": "Gartner's AI infrastructure forecast, and whether the sub is reading it. As published 15 October 2026: nearly $1 trillion of AI infrastructure spending in 2026 plus $6 trillion over 2027–2030; $8.5 trillion of cumulative revenue needed through 2030 to cover capital spending, financing costs and a 12% return on invested capital, against no more than $3.6 trillion forecast; more than $3.5 trillion exposed to impairment by end-2030, past $4 trillion through 2032; more than 80% of neocloud providers expected to cease independent operations by 2030. The sub's thread on the report quoted $7 trillion against $3.6 trillion, called it non-material, and cited none of the neocloud figure its own CoreWeave threads turned on. Reported · Gartner's own page returns HTTP 403, so the figures come from Technology Wire Asia and corroborating outlets quoting the same release · 2026-10-17",
+          "status": "reported",
+          "status_html": "<p>Reported · Gartner's own page returns HTTP 403, so the figures come from <a href=\"https://techwireasia.com/2026/10/gartner-ai-infrastructure-spending-risk/\" target=\"_blank\" rel=\"noopener noreferrer\">Technology Wire Asia</a> and corroborating outlets quoting the same release · 2026-10-17</p>",
+          "updated": "2026-10-17",
+          "sources": [
+            "techwireasia.com"
+          ],
+          "due": "2030-12-31",
+          "due_label": "the impairment-exposure horizon as stated"
+        },
+        {
+          "headline": "<strong>Nvidia's $6.3 billion compute-capacity backstop for CoreWeave, signed September 2025 and running to 13 April 2032.</strong>",
+          "html": "<p><strong>Nvidia's $6.3 billion compute-capacity backstop for CoreWeave, signed September 2025 and running to 13 April 2032.</strong> Nvidia buys capacity CoreWeave fails to sell elsewhere; it is not a payment due in full. Huang said in Stockholm on 15 October 2026 both that CoreWeave's cost of capital is coming down and that Nvidia does not need to backstop it — the sub quotes the first half only, and one post gives the size as $6.8 billion. CoreWeave's 9.625% 2032 and 9.75% 2031 notes were quoted near 15% yields in mid-October against roughly $50 billion of debt and lease obligations.</p>",
+          "text": "Nvidia's $6.3 billion compute-capacity backstop for CoreWeave, signed September 2025 and running to 13 April 2032. Nvidia buys capacity CoreWeave fails to sell elsewhere; it is not a payment due in full. Huang said in Stockholm on 15 October 2026 both that CoreWeave's cost of capital is coming down and that Nvidia does not need to backstop it — the sub quotes the first half only, and one post gives the size as $6.8 billion. CoreWeave's 9.625% 2032 and 9.75% 2031 notes were quoted near 15% yields in mid-October against roughly $50 billion of debt and lease obligations. Reported, from coverage of the Stockholm remarks and of the backstop's terms ; no Nvidia or CoreWeave filing opened · 2026-10-17",
+          "status": "reported",
+          "status_html": "<p>Reported, from <a href=\"https://www.roic.ai/news/nvidias-huang-says-no-backstop-needed-for-coreweave-as-ai-debt-fears-mount-10-15-2026\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the Stockholm remarks</a> and <a href=\"https://finance.yahoo.com/news/coreweaves-6-3-billion-backstop-103000258.html\" target=\"_blank\" rel=\"noopener noreferrer\">of the backstop's terms</a>; no Nvidia or CoreWeave filing opened · 2026-10-17</p>",
+          "updated": "2026-10-17",
+          "sources": [
+            "roic.ai",
+            "Yahoo Finance"
+          ],
+          "due": "2032-04-13",
+          "due_label": "backstop expiry, as reported"
         },
         {
           "headline": "<strong>SpaceX's purchase of 14 MHz of paired 800 MHz spectrum from Grain Management, agreed 8 October 2026 and subject to FCC approval.</strong>",
@@ -1066,6 +1458,19 @@
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> for the authorization against <a href=\"https://www.sec.gov/Archives/edgar/data/0001751008/000175100826000059/app-20260630.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q2 2026 10-Q</a>; the denied restraining order and the arbitration referral are Reported from coverage of the 2 October ruling · 2026-10-14</p>",
           "updated": "2026-10-14",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Group 1 Automotive's Hennessy acquisition and the $1.25 billion of notes that funded it.</strong>",
+          "html": "<p><strong>Group 1 Automotive's Hennessy acquisition and the $1.25 billion of notes that funded it.</strong> Ten dealerships carrying Lexus, Jaguar/Land Rover and Porsche, expected to generate about $1.7 billion of annualised revenue, bought largely with new debt: $625 million of 6.250% senior unsecured notes due 2032 and $625 million of 6.625% notes due 2035, closed 22 September 2026 for about $1,236 million of net proceeds, or roughly $80.5 million of annual coupon. The open question the sub raised on 17 October is whether the acquisition earns enough on the capital committed to reverse a return on capital employed that fell from 21.38% in 2021 to 13.81% in 2025.</p>",
+          "text": "Group 1 Automotive's Hennessy acquisition and the $1.25 billion of notes that funded it. Ten dealerships carrying Lexus, Jaguar/Land Rover and Porsche, expected to generate about $1.7 billion of annualised revenue, bought largely with new debt: $625 million of 6.250% senior unsecured notes due 2032 and $625 million of 6.625% notes due 2035, closed 22 September 2026 for about $1,236 million of net proceeds, or roughly $80.5 million of annual coupon. The open question the sub raised on 17 October is whether the acquisition earns enough on the capital committed to reverse a return on capital employed that fell from 21.38% in 2021 to 13.81% in 2025. Verified for the notes terms, the closing date and the use of proceeds against Group 1's 8-K exhibit of 22 September 2026 ; the ratio series is one member's own calculation · 2026-10-17",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the notes terms, the closing date and the use of proceeds against <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000119312526386882/d133710dex991.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Group 1's 8-K exhibit of 22 September 2026</a>; the ratio series is one member's own calculation · 2026-10-17</p>",
+          "updated": "2026-10-17",
           "sources": [
             "SEC filing"
           ],
