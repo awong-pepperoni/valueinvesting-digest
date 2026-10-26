@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23",
+  "generated": "2026-10-26",
   "meta": {
     "feed": "valueinvesting",
     "title": "Value Investing Digest",
@@ -21,6 +21,293 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-26",
+      "title": "Value investing digest",
+      "intro_html": "<p>This was a pre-earnings run. Alphabet, Amazon and Microsoft report this week and SoFi on Tuesday, and the biggest threads were &quot;Is GOOGL a buy?&quot; (216 points), &quot;One stock for 10 years&quot; (174) and a Netflix bear-case request (144) — questions rather than arguments. The useful material is smaller. A Nike-versus-Pepsi yield post had a commenter who opened Nike's 10-K, and a SoFi post asked how much of its tangible book is fair-value marks. Both are checking methods that work beyond the one stock. Netflix's own letter confirms the figures in both Netflix threads, and Lula's runoff win landed on MercadoLibre after the scan's snapshot was taken. Last run's unsourced claim about Sea insider selling now has filings-based coverage behind it.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Nike's 4.4% dividend yield is no longer covered by free cash flow, and the commenter who opened the 10-K found the &quot;cheap on earnings&quot; multiple was also understated.</strong>",
+              "html": "<p><strong>Nike's 4.4% dividend yield is no longer covered by free cash flow, and the commenter who opened the 10-K found the &quot;cheap on earnings&quot; multiple was also understated.</strong> A 5-point post separated Nike's earnings multiple from the cash behind its dividend. The best reply checked both against the filing.</p>\n<ul>\n<li><strong>Why it matters:</strong> &quot;Deep value&quot; for Nike rests on a trailing P/E at the bottom of its own history. The post's point is that the yield rose because the price fell, and the cash paying it fell faster. Its method is to test a yield against free cash flow before believing it, and to quote payout on cash, not earnings, which the sub's own threads were not doing. The correction is what made the thread worth reading. Nike's FY2026 diluted EPS was $2.10. At the poster's ~$37 price, the commenter put that near 17.6x, against the post's ~14x, and asked whether the post was using forward or adjusted earnings. The post's 2nd-percentile reading depends on which earnings figure is used, and the poster did not answer.</li>\n<li><strong>What to watch:</strong> the poster's own condition is &quot;a full year with fcf back above ~1.5x the dividend&quot;. For PepsiCo it is North American volumes turning up. Nike's fiscal year ends in May, so the two companies' annual figures do not line up, which the poster flags.</li>\n<li><strong>Numbers:</strong> as filed in Nike's FY2026 10-K: cash provided by operations of $2,868 million against $3,698 million in FY2025, and diluted EPS of $2.10 against $2.16. As stated in Nike's FY2026 results release: dividends of $2.4 billion, up 5%, and operating cash &quot;was more than offset by cash dividends and capital expenditures&quot;. Not checked: the commenter's $684 million of capex and $2.407 billion of dividends paid, the poster's FCF series of $6.6 billion, $3.3 billion and $2.2 billion, and every PepsiCo figure, including the commenter's $7.67 billion of 2025 FCF against about $7.64 billion of dividends. The dividend-discount values (~$44 for Nike, ~$158 for PepsiCo) and the ~$111 PepsiCo DCF are the poster's own models.</li>\n<li><strong>Caveats:</strong> FCF here means operating cash less capex. PepsiCo's non-GAAP definition adds asset-sale proceeds, which the commenter says gives $8.2 billion, so cross-company comparisons need one definition. Nike's FY2026 operating cash includes about $0.3 billion of tariff recoveries, per the release. A self-described PepsiCo employee in the thread says they were short the stock for two quarters. That is one person's view, with a stated position.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xf3wpi/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>, then <a href=\"https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000088/nke-20260531.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Nike's FY2026 10-K</a></li>\n</ul>",
+              "text": "Nike's 4.4% dividend yield is no longer covered by free cash flow, and the commenter who opened the 10-K found the \"cheap on earnings\" multiple was also understated. A 5-point post separated Nike's earnings multiple from the cash behind its dividend. The best reply checked both against the filing. Why it matters: \"Deep value\" for Nike rests on a trailing P/E at the bottom of its own history. The post's point is that the yield rose because the price fell, and the cash paying it fell faster. Its method is to test a yield against free cash flow before believing it, and to quote payout on cash, not earnings, which the sub's own threads were not doing. The correction is what made the thread worth reading. Nike's FY2026 diluted EPS was $2.10. At the poster's ~$37 price, the commenter put that near 17.6x, against the post's ~14x, and asked whether the post was using forward or adjusted earnings. The post's 2nd-percentile reading depends on which earnings figure is used, and the poster did not answer. What to watch: the poster's own condition is \"a full year with fcf back above ~1.5x the dividend\". For PepsiCo it is North American volumes turning up. Nike's fiscal year ends in May, so the two companies' annual figures do not line up, which the poster flags. Numbers: as filed in Nike's FY2026 10-K: cash provided by operations of $2,868 million against $3,698 million in FY2025, and diluted EPS of $2.10 against $2.16. As stated in Nike's FY2026 results release: dividends of $2.4 billion, up 5%, and operating cash \"was more than offset by cash dividends and capital expenditures\". Not checked: the commenter's $684 million of capex and $2.407 billion of dividends paid, the poster's FCF series of $6.6 billion, $3.3 billion and $2.2 billion, and every PepsiCo figure, including the commenter's $7.67 billion of 2025 FCF against about $7.64 billion of dividends. The dividend-discount values (~$44 for Nike, ~$158 for PepsiCo) and the ~$111 PepsiCo DCF are the poster's own models. Caveats: FCF here means operating cash less capex. PepsiCo's non-GAAP definition adds asset-sale proceeds, which the commenter says gives $8.2 billion, so cross-company comparisons need one definition. Nike's FY2026 operating cash includes about $0.3 billion of tariff recoveries, per the release. A self-described PepsiCo employee in the thread says they were short the stock for two quarters. That is one person's view, with a stated position. Read next: the thread , then Nike's FY2026 10-K Verified for Nike's operating cash flow and diluted EPS against the 10-K, and for the dividend total and the coverage statement against Nike's FY2026 results release . The capex line and every PepsiCo figure are Single source.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for Nike's operating cash flow and diluted EPS against the 10-K, and for the dividend total and the coverage statement against <a href=\"https://about.nike.com/en-GB/newsroom/releases/nike-inc-reports-fiscal-2026-fourth-quarter-and-full-year-results\" target=\"_blank\" rel=\"noopener noreferrer\">Nike's FY2026 results release</a>. The capex line and every PepsiCo figure are Single source.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing",
+                "about.nike.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>SoFi's fair-value loan marks are a large share of its tangible book, and one reply turned &quot;should I haircut them?&quot; into which price-to-book multiple you are actually paying.</strong>",
+              "html": "<p><strong>SoFi's fair-value loan marks are a large share of its tangible book, and one reply turned &quot;should I haircut them?&quot; into which price-to-book multiple you are actually paying.</strong> SoFi reports on Tuesday 27 October. A 41-point post valued it as a bank and asked what to do with the marks.</p>\n<ul>\n<li><strong>Why it matters:</strong> SoFi carries its personal and student loans at fair value, so its book value depends on a model's default and discount assumptions. The reusable reply works through it. If the marks are about 21% of tangible book, writing them off entirely makes the post's ~2x multiple about 2.5x, and halving them makes it about 2.2x. The 2x headline is the most flattering of the three. A bank earning its cost of equity is worth about 1x book, so a 2x multiple on a ~6.7% ROTE is a bet that returns roughly double. The reply also says what to watch: not the level of the marks but whether the default assumption behind them keeps rising while the marks hold. Loan sales near the marks support today's level, but the buyer is pricing the same assumption.</li>\n<li><strong>What to watch:</strong> Q3 results on 27 October. Watch the weighted-average default-rate input for personal loans against 4.77% at 30 June, the size of the fair-value adjustment, and share count growth, which the post puts at about 16% in a year.</li>\n<li><strong>Numbers:</strong> as filed in the Q2 2026 10-Q: net income of $156,592 thousand for the quarter; total equity of $11,076,227 thousand, goodwill of $1,425,015 thousand and intangible assets of $226,528 thousand at 30 June 2026; 1,291,570,324 shares outstanding at 31 July 2026; a personal-loan weighted-average annual default rate of 4.77% against 4.57% at 31 March, with the discount rate up to 4.97% from 4.61%. As posted, not checked: $7.34 of tangible book a share, the ~$14.60 close, the ~$2.0 billion of marks above unpaid principal, the 6.7% ROTE and the 16% share growth. The commenter's 2.5x and 2.2x are their own arithmetic on the poster's figures.</li>\n<li><strong>Caveats:</strong> the marks figure and its 21% share were not checked against the filing's fair-value note, which this tool could not reach. The poster said the 20% student-loan default figure a commenter raised is mostly federal loans, which SoFi does not hold, and put SoFi's own student-loan charge-off rate at 0.61%. That is also unchecked. The 10-Q says personal-loan marks fell from the prior quarter on a higher discount rate. One commenter's suggested alternative, &quot;Fitch holds its securitisation loans at 7%&quot;, came with no report, rating action or date, and is <strong>Unconfirmed</strong>.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xejhut/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>, then <a href=\"https://www.sec.gov/Archives/edgar/data/0001818874/000181887426000054/sofi-20260630.htm\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi's Q2 2026 10-Q</a></li>\n</ul>",
+              "text": "SoFi's fair-value loan marks are a large share of its tangible book, and one reply turned \"should I haircut them?\" into which price-to-book multiple you are actually paying. SoFi reports on Tuesday 27 October. A 41-point post valued it as a bank and asked what to do with the marks. Why it matters: SoFi carries its personal and student loans at fair value, so its book value depends on a model's default and discount assumptions. The reusable reply works through it. If the marks are about 21% of tangible book, writing them off entirely makes the post's ~2x multiple about 2.5x, and halving them makes it about 2.2x. The 2x headline is the most flattering of the three. A bank earning its cost of equity is worth about 1x book, so a 2x multiple on a ~6.7% ROTE is a bet that returns roughly double. The reply also says what to watch: not the level of the marks but whether the default assumption behind them keeps rising while the marks hold. Loan sales near the marks support today's level, but the buyer is pricing the same assumption. What to watch: Q3 results on 27 October. Watch the weighted-average default-rate input for personal loans against 4.77% at 30 June, the size of the fair-value adjustment, and share count growth, which the post puts at about 16% in a year. Numbers: as filed in the Q2 2026 10-Q: net income of $156,592 thousand for the quarter; total equity of $11,076,227 thousand, goodwill of $1,425,015 thousand and intangible assets of $226,528 thousand at 30 June 2026; 1,291,570,324 shares outstanding at 31 July 2026; a personal-loan weighted-average annual default rate of 4.77% against 4.57% at 31 March, with the discount rate up to 4.97% from 4.61%. As posted, not checked: $7.34 of tangible book a share, the ~$14.60 close, the ~$2.0 billion of marks above unpaid principal, the 6.7% ROTE and the 16% share growth. The commenter's 2.5x and 2.2x are their own arithmetic on the poster's figures. Caveats: the marks figure and its 21% share were not checked against the filing's fair-value note, which this tool could not reach. The poster said the 20% student-loan default figure a commenter raised is mostly federal loans, which SoFi does not hold, and put SoFi's own student-loan charge-off rate at 0.61%. That is also unchecked. The 10-Q says personal-loan marks fell from the prior quarter on a higher discount rate. One commenter's suggested alternative, \"Fitch holds its securitisation loans at 7%\", came with no report, rating action or date, and is Unconfirmed . Read next: the thread , then SoFi's Q2 2026 10-Q Verified for net income, equity, goodwill, intangibles and share count against the 10-Q. The default-rate and discount-rate inputs are Reported from a search summary of the same 10-Q, because the fair-value note was beyond what this tool returned. The earnings date is Verified against SoFi's 29 September announcement .",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for net income, equity, goodwill, intangibles and share count against the 10-Q. The default-rate and discount-rate inputs are Reported from a search summary of the same 10-Q, because the fair-value note was beyond what this tool returned. The earnings date is <strong>Verified</strong> against <a href=\"https://s27.q4cdn.com/749715820/files/doc_news/SoFi-Schedules-Conference-Call-to-Discuss-Q3-2026-Results-2026.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi's 29 September announcement</a>.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing",
+                "s27.q4cdn.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Filings and insider moves",
+          "category": "filings",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The weekly insider-filings post got the best correction of the run, and the poster accepted it.</strong>",
+              "html": "<p><strong>The weekly insider-filings post got the best correction of the run, and the poster accepted it.</strong> The table lists RAPP's cluster buy (six insiders, about $1.6 million) and TRV's selling (six insiders, -$64 million). A commenter pointed out that since April 2023, Form 4 has a checkbox for trades under a 10b5-1 plan, so planned sales can be separated from discretionary ones. Code P also covers buying into an underwritten offering, which is common right after a trial readout. The poster replied that only TRV and SNX were not planned. A second commenter said Rapport Therapeutics is a pre-revenue biotech whose phase 2 readout was &quot;mediocre at best&quot;. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xeqvin/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The weekly insider-filings post got the best correction of the run, and the poster accepted it. The table lists RAPP's cluster buy (six insiders, about $1.6 million) and TRV's selling (six insiders, -$64 million). A commenter pointed out that since April 2023, Form 4 has a checkbox for trades under a 10b5-1 plan, so planned sales can be separated from discretionary ones. Code P also covers buying into an underwritten offering, which is common right after a trial readout. The poster replied that only TRV and SNX were not planned. A second commenter said Rapport Therapeutics is a pre-revenue biotech whose phase 2 readout was \"mediocre at best\". Thread Single source · no Form 4 in the table was opened; the 10b5-1 checkbox point is a description of the form, not a claim about any filer",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Form 4 in the table was opened; the 10b5-1 checkbox point is a description of the form, not a claim about any filer</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Sea Limited's insider selling now has coverage behind it, and the coverage says the sales ran on pre-set plans.</strong>",
+              "html": "<p><strong>Sea Limited's insider selling now has coverage behind it, and the coverage says the sales ran on pre-set plans.</strong> Last run this feed recorded the sub's &quot;almost pathological&quot; insider-selling claim as Unconfirmed. This run's Sea post says 100% of the &quot;$500+ million&quot; of sales were under 10b5-1 plans and that insiders owned 40% at end-2025. Coverage of the Form 4s names COO Gang Ye selling 40,000 shares on 16–17 July 2026 under a plan adopted 4 September 2025. It also reports smaller July–August sales by the general counsel and a finance officer under plans adopted in March 2026, and says Sea is buying back stock under a $1 billion program. The rest of the thread is covered under Stock pitches. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xfna0v/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Sea Limited's insider selling now has coverage behind it, and the coverage says the sales ran on pre-set plans. Last run this feed recorded the sub's \"almost pathological\" insider-selling claim as Unconfirmed. This run's Sea post says 100% of the \"$500+ million\" of sales were under 10b5-1 plans and that insiders owned 40% at end-2025. Coverage of the Form 4s names COO Gang Ye selling 40,000 shares on 16–17 July 2026 under a plan adopted 4 September 2025. It also reports smaller July–August sales by the general counsel and a finance officer under plans adopted in March 2026, and says Sea is buying back stock under a $1 billion program. The rest of the thread is covered under Stock pitches. Thread Reported, from coverage of the Form 4s ; no Form 4 was opened, and the coverage gives conflicting role labels for one filer. The $500 million total and the 40% are Single source.",
+              "status": "reported",
+              "status_html": "<p>Reported, from <a href=\"https://www.webull.com/news/15238888233706496\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the Form 4s</a>; no Form 4 was opened, and the coverage gives conflicting role labels for one filer. The $500 million total and the 40% are Single source.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "webull.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Netflix's Q3 letter confirms the figures both Netflix threads used, and the bull's one cash adjustment doesn't appear in it.</strong>",
+              "html": "<p><strong>Netflix's Q3 letter confirms the figures both Netflix threads used, and the bull's one cash adjustment doesn't appear in it.</strong> The 144-point bear-case request rests on the ad-revenue cut and $12.5 billion of FCF. The 7-point &quot;Problems and Questions&quot; post rests on the content-versus-buyback split. The letter confirms 2026 ad revenue now expected at about $2.7 billion against about $3 billion before, and repurchases of $10.78 billion in nine months. The post's &quot;$15.0B in cash for content&quot; matches the letter's $14.93 billion of additions to content assets. The FCF guide is now about $12.0 billion, not $12.5 billion, and the letter attributes the cut to a real-estate transaction expected in Q4. A holder's reply adjusts the $12 billion to about $9.2 billion for &quot;the one time termination fee&quot;. The letter does not mention a termination fee, though this feed recorded a reported $2.8 billion Warner Bros. Discovery break fee on 20 October. In the bigger thread, the most-upvoted reply says the stock went from severely overvalued to slightly undervalued, and that a 52-week low is no reason to buy. A second reply notes that the poster's own $79 DCF sits below the price. The structural objection is that YouTube pays nothing up front for content. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xeycwc/\" target=\"_blank\" rel=\"noopener noreferrer\">Bear-case thread</a> · <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xfcl91/\" target=\"_blank\" rel=\"noopener noreferrer\">Problems thread</a></p>",
+              "text": "Netflix's Q3 letter confirms the figures both Netflix threads used, and the bull's one cash adjustment doesn't appear in it. The 144-point bear-case request rests on the ad-revenue cut and $12.5 billion of FCF. The 7-point \"Problems and Questions\" post rests on the content-versus-buyback split. The letter confirms 2026 ad revenue now expected at about $2.7 billion against about $3 billion before, and repurchases of $10.78 billion in nine months. The post's \"$15.0B in cash for content\" matches the letter's $14.93 billion of additions to content assets. The FCF guide is now about $12.0 billion, not $12.5 billion, and the letter attributes the cut to a real-estate transaction expected in Q4. A holder's reply adjusts the $12 billion to about $9.2 billion for \"the one time termination fee\". The letter does not mention a termination fee, though this feed recorded a reported $2.8 billion Warner Bros. Discovery break fee on 20 October. In the bigger thread, the most-upvoted reply says the stock went from severely overvalued to slightly undervalued, and that a 52-week low is no reason to buy. A second reply notes that the poster's own $79 DCF sits below the price. The structural objection is that YouTube pays nothing up front for content. Bear-case thread · Problems thread Verified for the ad guide, the FCF guide and its stated reason, nine-month repurchases, content additions, Q3 revenue growth of 12%, a 34.6% operating margin and $0.87 diluted EPS, against Netflix's Q3 2026 letter . The 18x forward multiple, the $107–135 2030 range, the 47% ad-tier share of sign-ups and the 5% sports cap are as posted. The letter does not mention the engagement report going annual.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the ad guide, the FCF guide and its stated reason, nine-month repurchases, content additions, Q3 revenue growth of 12%, a 34.6% operating margin and $0.87 diluted EPS, against <a href=\"https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/ex991_q326.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Netflix's Q3 2026 letter</a>. The 18x forward multiple, the $107–135 2030 range, the 47% ad-tier share of sign-ups and the 5% sports cap are as posted. The letter does not mention the engagement report going annual.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The Sea follow-up pitch puts its thesis on Shopee's EBITDA-to-GMV ratio, and the best reply is about structure, not margins.</strong>",
+              "html": "<p><strong>The Sea follow-up pitch puts its thesis on Shopee's EBITDA-to-GMV ratio, and the best reply is about structure, not margins.</strong> The poster argues every basis point on ~$190 billion of 2027 GMV is $19 million of EBITDA against a ~$44 billion EV. Shopee runs at about 0.6% now, against 1.13% in Q1 2025 and ~3% for Chinese peers. Commenters from the region repeat last run's point that PDD and Temu are already there. One quotes Sea's CFO on the Q2 call declining to say investment has peaked. The objection nobody answered: if Monee is split off in an IPO, the parent may trade at a holding-company discount, as JD did. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xfna0v/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The Sea follow-up pitch puts its thesis on Shopee's EBITDA-to-GMV ratio, and the best reply is about structure, not margins. The poster argues every basis point on ~$190 billion of 2027 GMV is $19 million of EBITDA against a ~$44 billion EV. Shopee runs at about 0.6% now, against 1.13% in Q1 2025 and ~3% for Chinese peers. Commenters from the region repeat last run's point that PDD and Temu are already there. One quotes Sea's CFO on the Q2 call declining to say investment has peaked. The objection nobody answered: if Monee is split off in an IPO, the parent may trade at a holding-company discount, as JD did. Thread Single source · every ratio and GMV figure is as posted; the CFO quote is from a third-party recap the commenter linked and was not checked against a transcript",
+              "status": "single-source",
+              "status_html": "<p>Single source · every ratio and GMV figure is as posted; the CFO quote is from a third-party recap the commenter linked and was not checked against a transcript</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The Sandisk pitch's contract figures are real, and the thread's objection is about what happens to price, not volume.</strong>",
+              "html": "<p><strong>The Sandisk pitch's contract figures are real, and the thread's objection is about what happens to price, not volume.</strong> The post cites $94 billion of minimum revenue under long-term agreements, backed by $16.5 billion of guarantees. Coverage of the August investor day reports $93.9 billion at floor pricing across ten agreements, with $16.5 billion of customer deposits and instruments. The strongest reply: about two-thirds of the earnings growth is price rather than units, so new capacity at Sandisk or a competitor ends the scarcity behind the margins. Another notes that buying back 2% of the company at ~$1,500 against a ~$1,280 price is not obviously good capital allocation. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xe9923/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The Sandisk pitch's contract figures are real, and the thread's objection is about what happens to price, not volume. The post cites $94 billion of minimum revenue under long-term agreements, backed by $16.5 billion of guarantees. Coverage of the August investor day reports $93.9 billion at floor pricing across ten agreements, with $16.5 billion of customer deposits and instruments. The strongest reply: about two-thirds of the earnings growth is price rather than units, so new capacity at Sandisk or a competitor ends the scarcity behind the margins. Another notes that buying back 2% of the company at ~$1,500 against a ~$1,280 price is not obviously good capital allocation. Thread Reported for the $93.9 billion and $16.5 billion, from coverage of the guidance ; no Sandisk filing opened. The 6x forward P/E, the buyback price and the HBF thesis are as posted.",
+              "status": "reported",
+              "status_html": "<p>Reported for the $93.9 billion and $16.5 billion, from <a href=\"https://www.webull.com/news/15402269500974080\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the guidance</a>; no Sandisk filing opened. The 6x forward P/E, the buyback price and the HBF thesis are as posted.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "webull.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The Check Point thread's best reply replaced a $200 re-rating with a buyback floor.</strong>",
+              "html": "<p><strong>The Check Point thread's best reply replaced a $200 re-rating with a buyback floor.</strong> The post bets on the appliance business returning to growth in Q4 and a re-rating toward peer multiples. The top reply says Palo Alto and Fortinet earn their multiples on 20%+ growth against Check Point's ~5%. The stronger case is ~$1.2 billion of FCF on ~$2.8 billion of revenue, returned through buybacks. Another commenter says EBITDA has been flat for ten years and margins have slid for three. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xf0grh/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The Check Point thread's best reply replaced a $200 re-rating with a buyback floor. The post bets on the appliance business returning to growth in Q4 and a re-rating toward peer multiples. The top reply says Palo Alto and Fortinet earn their multiples on 20%+ growth against Check Point's ~5%. The stronger case is ~$1.2 billion of FCF on ~$2.8 billion of revenue, returned through buybacks. Another commenter says EBITDA has been flat for ten years and margins have slid for three. Thread Single source · no Check Point filing opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Check Point filing opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Process and valuation method",
+          "category": "process",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A 0-point post argued that how much entry timing matters depends on how much of the return comes from the multiple, and the thread answered only the prose.</strong>",
+              "html": "<p><strong>A 0-point post argued that how much entry timing matters depends on how much of the return comes from the multiple, and the thread answered only the prose.</strong> The author bought every trading day from October 2021 to October 2025, held each for a year, and measured how widely the outcomes spread. Cheniere's standard deviation was 18 points and NVIDIA's 91. The claim is that timing matters in proportion to how much of the return rides on the exit multiple rather than on contracted cash. The author names the test that would falsify it and concedes NVIDIA is where causation is weakest. All three replies were about the writing being AI-generated. The author discloses positions in all five names, including Itron, which the feed covered on 20 October. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xfvoei/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A 0-point post argued that how much entry timing matters depends on how much of the return comes from the multiple, and the thread answered only the prose. The author bought every trading day from October 2021 to October 2025, held each for a year, and measured how widely the outcomes spread. Cheniere's standard deviation was 18 points and NVIDIA's 91. The claim is that timing matters in proportion to how much of the return rides on the exit multiple rather than on contracted cash. The author names the test that would falsify it and concedes NVIDIA is where causation is weakest. All three replies were about the writing being AI-generated. The author discloses positions in all five names, including Itron, which the feed covered on 20 October. Thread Single source · the dispersion, drawdown and rate-regression figures are the author's own and unpublished outside their Substack",
+              "status": "single-source",
+              "status_html": "<p>Single source · the dispersion, drawdown and rate-regression figures are the author's own and unpublished outside their Substack</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Lula won Brazil's runoff on 25 October, and the MercadoLibre thread's best answer is that the election is the wrong variable.</strong>",
+              "html": "<p><strong>Lula won Brazil's runoff on 25 October, and the MercadoLibre thread's best answer is that the election is the wrong variable.</strong> The post reports MELI down 15% &quot;after the election&quot; and asks whether the fundamentals have changed. The top reply says Brazilian assets are being repriced. For MELI, it says, the question is whether Brazilian rates settle higher for longer, which will show in the lending numbers over several quarters, and the 4 November results will say more than Sunday did. Another commenter notes that the market had rallied when Flávio Bolsonaro led the first round. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xfv1yb/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Lula won Brazil's runoff on 25 October, and the MercadoLibre thread's best answer is that the election is the wrong variable. The post reports MELI down 15% \"after the election\" and asks whether the fundamentals have changed. The top reply says Brazilian assets are being repriced. For MELI, it says, the question is whether Brazilian rates settle higher for longer, which will show in the lending numbers over several quarters, and the 4 November results will say more than Sunday did. Another commenter notes that the market had rallied when Flávio Bolsonaro led the first round. Thread Reported · Lula at 51.79% of valid votes to Flávio Bolsonaro's 48.21%, the real falling roughly 8–12% and a B3 circuit breaker at Monday's open, from early-session reports by Rio Times and RankiaPro ; Flávio Bolsonaro was reported as contesting the result. MELI's 15% fall and the 4 November date are as posted.",
+              "status": "reported",
+              "status_html": "<p>Reported · Lula at 51.79% of valid votes to Flávio Bolsonaro's 48.21%, the real falling roughly 8–12% and a B3 circuit breaker at Monday's open, from early-session reports by <a href=\"https://www.riotimesonline.com/brazil-real-falls-after-lula-runoff-win/\" target=\"_blank\" rel=\"noopener noreferrer\">Rio Times</a> and <a href=\"https://rankiapro.com/en/news/lula-reelection-brazil-assets-repricing/\" target=\"_blank\" rel=\"noopener noreferrer\">RankiaPro</a>; Flávio Bolsonaro was reported as contesting the result. MELI's 15% fall and the 4 November date are as posted.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "riotimesonline.com",
+                "rankiapro.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Amazon is spending $220 billion and still can't keep up&quot; is accurate to Jassy's July call, but &quot;largely booked through 2027&quot; is the press's phrase, not his.</strong>",
+              "html": "<p><strong>&quot;Amazon is spending $220 billion and still can't keep up&quot; is accurate to Jassy's July call, but &quot;largely booked through 2027&quot; is the press's phrase, not his.</strong> On the Q2 call, Jassy raised 2026 capex to about $220 billion and said Amazon &quot;will still not have enough capacity to meet all the demand we have in 2026&quot;, that the same would be true in 2027, and that 2028 demand is &quot;striking&quot;. The thread's useful exchange is about token pricing. One side says enterprises pay API rates. The other says the open question is demand at current prices, since doubling demand with a 75–80% price drop is a problem. One reply gives frontier API pricing at $1.50–$10 per million tokens. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xedrul/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "\"Amazon is spending $220 billion and still can't keep up\" is accurate to Jassy's July call, but \"largely booked through 2027\" is the press's phrase, not his. On the Q2 call, Jassy raised 2026 capex to about $220 billion and said Amazon \"will still not have enough capacity to meet all the demand we have in 2026\", that the same would be true in 2027, and that 2028 demand is \"striking\". The thread's useful exchange is about token pricing. One side says enterprises pay API rates. The other says the open question is demand at current prices, since doubling demand with a 75–80% price drop is a problem. One reply gives frontier API pricing at $1.50–$10 per million tokens. Thread Reported for the capex figure and the quotes, from coverage of the 30 July call ; the transcript was not opened. The 29 October date and every token price are as posted.",
+              "status": "reported",
+              "status_html": "<p>Reported for the capex figure and the quotes, from <a href=\"https://letsdatascience.com/news/aws-revenue-growth-outruns-available-ai-capacity-b0361d90\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the 30 July call</a>; the transcript was not opened. The 29 October date and every token price are as posted.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "letsdatascience.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "The megacaps took the run&#x27;s attention before their reports.",
+              "html": "<p>The megacaps took the run's attention before their reports. &quot;Is GOOGL a buy?&quot;, &quot;One stock for 10 years&quot;, &quot;Google -v- Amazon&quot;, &quot;Amazon is a better long term hold&quot; and &quot;Earnings this week&quot; together drew several hundred comments. In the one of these read here, replies ranged from &quot;always inverse Reddit&quot; to a capex-will-dump-it call. The questions were mostly allocation questions, which this feed skips.</p>",
+              "text": "The megacaps took the run's attention before their reports. \"Is GOOGL a buy?\", \"One stock for 10 years\", \"Google -v- Amazon\", \"Amazon is a better long term hold\" and \"Earnings this week\" together drew several hundred comments. In the one of these read here, replies ranged from \"always inverse Reddit\" to a capex-will-dump-it call. The questions were mostly allocation questions, which this feed skips.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Netflix was the run&#x27;s argument.",
+              "html": "<p>Netflix was the run's argument. Most of the 287 comments in the bear-case thread were about content and YouTube, not the numbers. The two posts read the same 18x forward multiple as &quot;no-brainer&quot; and as &quot;fairly valued, not cheap&quot;.</p>",
+              "text": "Netflix was the run's argument. Most of the 287 comments in the bear-case thread were about content and YouTube, not the numbers. The two posts read the same 18x forward multiple as \"no-brainer\" and as \"fairly valued, not cheap\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;DeepSeek is at 0.02 cents a million tokens&quot; and &quot;Anthropic put out 16 billion revenue and 9 billion hardware spend&quot; anchor the run's most-upvoted unit-economics comment.</strong>",
+              "html": "<p><strong>&quot;DeepSeek is at 0.02 cents a million tokens&quot; and &quot;Anthropic put out 16 billion revenue and 9 billion hardware spend&quot; anchor the run's most-upvoted unit-economics comment.</strong> The comment derives $32 per B200 GPU-hour of net token revenue from them and calls the result &quot;a nuclear bomb&quot; for AI margins. This feed's tracker has Anthropic's Q3 revenue reported at $16.8 billion. The $9 billion hardware figure, the DeepSeek price and the GPU-hour rental rates come with no source. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xf1vds/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "\"DeepSeek is at 0.02 cents a million tokens\" and \"Anthropic put out 16 billion revenue and 9 billion hardware spend\" anchor the run's most-upvoted unit-economics comment. The comment derives $32 per B200 GPU-hour of net token revenue from them and calls the result \"a nuclear bomb\" for AI margins. This feed's tracker has Anthropic's Q3 revenue reported at $16.8 billion. The $9 billion hardware figure, the DeepSeek price and the GPU-hour rental rates come with no source. Thread Unconfirmed · one comment; no pricing page or Anthropic disclosure was cited or found for the $9 billion",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · one comment; no pricing page or Anthropic disclosure was cited or found for the $9 billion</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> ValueInvesting.",
+              "html": "<p><strong>Read:</strong> ValueInvesting. <strong>Sources checked:</strong> Berkshire Hathaway's SEC filing index and Berkshire's news page, for anything after 23 October 2026.</p>",
+              "text": "Read: ValueInvesting. Sources checked: Berkshire Hathaway's SEC filing index and Berkshire's news page, for anything after 23 October 2026.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> Ajit Jain&#x27;s Form 4 filed 23 October 2026 reports charitable gifts of 19 Class B shares on 21 October, leaving 298 held directly and 67,60…",
+              "html": "<p><strong>Announced, not discussed:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000172845126000005/xslF345X06/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Ajit Jain's Form 4 filed 23 October 2026</a> reports charitable gifts of 19 Class B shares on 21 October, leaving 298 held directly and 67,608 indirectly through the Jain Foundation, plus Class A holdings through family trusts and the foundation. It is a gift, not a sale. Berkshire's news page has nothing after 18 September 2026.</p>",
+              "text": "Announced, not discussed: Ajit Jain's Form 4 filed 23 October 2026 reports charitable gifts of 19 Class B shares on 21 October, leaving 298 held directly and 67,608 indirectly through the Jain Foundation, plus Class A holdings through family trusts and the foundation. It is a gift, not a sale. Berkshire's news page has nothing after 18 September 2026. Verified against EDGAR's filing index for Berkshire and the 2026 news page",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing index for Berkshire</a> and <a href=\"https://www.berkshirehathaway.com/news/2026news.html\" target=\"_blank\" rel=\"noopener noreferrer\">the 2026 news page</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "berkshirehathaway.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> amzn is covered under Market and macro through the Amazon capex thread.",
+              "html": "<p><strong>Flagged terms set aside:</strong> <em>amzn</em> is covered under Market and macro through the Amazon capex thread. <em>msft</em> appears only as a ticker in two personal-allocation posts, which this feed skips. Microsoft's results this week were not discussed in any thread read here.</p>",
+              "text": "Flagged terms set aside: amzn is covered under Market and macro through the Amazon capex thread. msft appears only as a ticker in two personal-allocation posts, which this feed skips. Microsoft's results this week were not discussed in any thread read here.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-23",
       "title": "Value investing digest",
@@ -2016,11 +2303,11 @@
         },
         {
           "headline": "<strong>Ajit Jain sold nearly all his Berkshire shares.</strong>",
-          "html": "<p><strong>Ajit Jain sold nearly all his Berkshire shares.</strong> He sold 39,700 at about $503.09 on 28 September, leaving 50. The sub has not discussed it.</p>",
-          "text": "Ajit Jain sold nearly all his Berkshire shares. He sold 39,700 at about $503.09 on 28 September, leaving 50. The sub has not discussed it. Verified against the Form 4 · 2026-10-08",
+          "html": "<p><strong>Ajit Jain sold nearly all his Berkshire shares.</strong> He sold 39,700 at about $503.09 on 28 September, leaving 50. The sub has not discussed it. A further Form 4 filed 23 October 2026 reports charitable gifts of 19 Class B shares on 21 October, leaving 298 Class B shares held directly and 67,608 indirectly through the Jain Foundation, with Class A shares held directly, through family trusts and through the foundation. The 298 Class B shares after the gift have not been reconciled with the &quot;leaving 50&quot; figure recorded on 8 October.</p>",
+          "text": "Ajit Jain sold nearly all his Berkshire shares. He sold 39,700 at about $503.09 on 28 September, leaving 50. The sub has not discussed it. A further Form 4 filed 23 October 2026 reports charitable gifts of 19 Class B shares on 21 October, leaving 298 Class B shares held directly and 67,608 indirectly through the Jain Foundation, with Class A shares held directly, through family trusts and through the foundation. The 298 Class B shares after the gift have not been reconciled with the \"leaving 50\" figure recorded on 8 October. Verified against the September Form 4 and the 23 October Form 4 · 2026-10-26",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000172845126000004/xslF345X06/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4</a> · 2026-10-08</p>",
-          "updated": "2026-10-08",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000172845126000004/xslF345X06/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the September Form 4</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000172845126000005/xslF345X06/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the 23 October Form 4</a> · 2026-10-26</p>",
+          "updated": "2026-10-26",
           "sources": [
             "SEC filing"
           ],
@@ -2074,14 +2361,29 @@
           "due_label": "commitments due, per reporting on the 9 October launch"
         },
         {
-          "headline": "<strong>Sea Limited's Sea Cloud and the possible Monee IPO.</strong>",
-          "html": "<p><strong>Sea Limited's Sea Cloud and the possible Monee IPO.</strong> Coverage of an internal memo from Forrest Li describes &quot;an AI-first enterprise platform called Sea Cloud&quot; built on infrastructure that has run Shopee, Garena and Monee for about a decade. The sub's pitch argues the sell-off assumes a CoreWeave-style capex commitment that Sea has not announced; the open question, named in the thread, is whether &quot;AI-first&quot; means hosting compute for others or building capacity, and the next disclosure is the Q3 call. The Monee IPO is unconfirmed and undated.</p>",
-          "text": "Sea Limited's Sea Cloud and the possible Monee IPO. Coverage of an internal memo from Forrest Li describes \"an AI-first enterprise platform called Sea Cloud\" built on infrastructure that has run Shopee, Garena and Monee for about a decade. The sub's pitch argues the sell-off assumes a CoreWeave-style capex commitment that Sea has not announced; the open question, named in the thread, is whether \"AI-first\" means hosting compute for others or building capacity, and the next disclosure is the Q3 call. The Monee IPO is unconfirmed and undated. Reported, from MarketBeat's calendar and coverage of the memo quoted in the thread; no Sea filing or the memo itself was opened · 2026-10-23",
+          "headline": "<strong>SoFi's fair-value loan marks, and the default assumption under them.</strong>",
+          "html": "<p><strong>SoFi's fair-value loan marks, and the default assumption under them.</strong> SoFi carries its personal and student loans at fair value. At 30 June 2026 the weighted-average annual default-rate input for personal loans was 4.77%, up from 4.57% at 31 March, and the discount rate was 4.97%, up from 4.61%. The sub's open question, raised on 26 October, is how much of tangible book to trust. A member puts the marks at about $2.0 billion above unpaid principal, about 21% of tangible book, which makes the headline ~2x price-to-tangible-book about 2.5x if the marks are removed. The figure to watch in Q3 is whether the default input rises again while the marks hold.</p>",
+          "text": "SoFi's fair-value loan marks, and the default assumption under them. SoFi carries its personal and student loans at fair value. At 30 June 2026 the weighted-average annual default-rate input for personal loans was 4.77%, up from 4.57% at 31 March, and the discount rate was 4.97%, up from 4.61%. The sub's open question, raised on 26 October, is how much of tangible book to trust. A member puts the marks at about $2.0 billion above unpaid principal, about 21% of tangible book, which makes the headline ~2x price-to-tangible-book about 2.5x if the marks are removed. The figure to watch in Q3 is whether the default input rises again while the marks hold. Reported for the default and discount inputs, from a search summary of the Q2 2026 10-Q ; the earnings date is Verified against SoFi's announcement . The $2.0 billion and 21% are Single source · 2026-10-26",
           "status": "reported",
-          "status_html": "<p>Reported, from <a href=\"https://www.marketbeat.com/earnings/reports/2026-11-10-sea-limited-stock/\" target=\"_blank\" rel=\"noopener noreferrer\">MarketBeat's calendar</a> and coverage of the memo quoted in the thread; no Sea filing or the memo itself was opened · 2026-10-23</p>",
+          "status_html": "<p>Reported for the default and discount inputs, from a search summary of <a href=\"https://www.sec.gov/Archives/edgar/data/0001818874/000181887426000054/sofi-20260630.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q2 2026 10-Q</a>; the earnings date is <strong>Verified</strong> against <a href=\"https://s27.q4cdn.com/749715820/files/doc_news/SoFi-Schedules-Conference-Call-to-Discuss-Q3-2026-Results-2026.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi's announcement</a>. The $2.0 billion and 21% are Single source · 2026-10-26</p>",
+          "updated": "2026-10-26",
+          "sources": [
+            "SEC filing",
+            "s27.q4cdn.com"
+          ],
+          "due": "2026-10-27",
+          "due_label": "Q3 2026 results, as announced"
+        },
+        {
+          "headline": "<strong>Sea Limited's Sea Cloud and the possible Monee IPO.</strong>",
+          "html": "<p><strong>Sea Limited's Sea Cloud and the possible Monee IPO.</strong> Coverage of an internal memo from Forrest Li describes &quot;an AI-first enterprise platform called Sea Cloud&quot; built on infrastructure that has run Shopee, Garena and Monee for about a decade. The sub's pitch argues the sell-off assumes a CoreWeave-style capex commitment that Sea has not announced; the open question, named in the thread, is whether &quot;AI-first&quot; means hosting compute for others or building capacity, and the next disclosure is the Q3 call. The Monee IPO is unconfirmed and undated; on 26 October a commenter argued that splitting Monee off would leave the parent at a holding-company discount. Insider selling, which the sub called &quot;almost pathological&quot; on 23 October without a source, is now covered from the Form 4s. Coverage reports COO Gang Ye sold 40,000 shares on 16–17 July 2026 under a 10b5-1 plan adopted 4 September 2025. It also reports smaller July–August sales by other officers under plans adopted in March 2026, alongside a $1 billion company buyback. The sub's &quot;$500+ million&quot; total and &quot;insiders owned 40% at end-2025&quot; are one member's figures.</p>",
+          "text": "Sea Limited's Sea Cloud and the possible Monee IPO. Coverage of an internal memo from Forrest Li describes \"an AI-first enterprise platform called Sea Cloud\" built on infrastructure that has run Shopee, Garena and Monee for about a decade. The sub's pitch argues the sell-off assumes a CoreWeave-style capex commitment that Sea has not announced; the open question, named in the thread, is whether \"AI-first\" means hosting compute for others or building capacity, and the next disclosure is the Q3 call. The Monee IPO is unconfirmed and undated; on 26 October a commenter argued that splitting Monee off would leave the parent at a holding-company discount. Insider selling, which the sub called \"almost pathological\" on 23 October without a source, is now covered from the Form 4s. Coverage reports COO Gang Ye sold 40,000 shares on 16–17 July 2026 under a 10b5-1 plan adopted 4 September 2025. It also reports smaller July–August sales by other officers under plans adopted in March 2026, alongside a $1 billion company buyback. The sub's \"$500+ million\" total and \"insiders owned 40% at end-2025\" are one member's figures. Reported, from MarketBeat's calendar , coverage of the memo quoted in the thread and coverage of the insider Form 4s ; no Sea filing, Form 4 or the memo itself was opened · 2026-10-26",
+          "status": "reported",
+          "status_html": "<p>Reported, from <a href=\"https://www.marketbeat.com/earnings/reports/2026-11-10-sea-limited-stock/\" target=\"_blank\" rel=\"noopener noreferrer\">MarketBeat's calendar</a>, coverage of the memo quoted in the thread and <a href=\"https://www.webull.com/news/15238888233706496\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the insider Form 4s</a>; no Sea filing, Form 4 or the memo itself was opened · 2026-10-26</p>",
           "updated": "2026-11-10",
           "sources": [
-            "marketbeat.com"
+            "marketbeat.com",
+            "webull.com"
           ],
           "due": "2026-11-10",
           "due_label": "Q3 2026 results and call, listed as estimated"
