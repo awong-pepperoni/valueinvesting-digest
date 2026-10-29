@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26",
+  "generated": "2026-10-29",
   "meta": {
     "feed": "valueinvesting",
     "title": "Value Investing Digest",
@@ -21,6 +21,255 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-10-29",
+      "title": "Value investing digest",
+      "intro_html": "<p>Alphabet's results took over the run. The 471-point &quot;Can we shut up about GOOG finally?&quot; and four other Google threads argued about one quarter, and the filed release settles most of the factual disputes in them, including the corrections. The second-most-upvoted thread was a Meta Muse product test (464 points), which is a user review, not an analysis. The smaller useful material: a Sprouts reply that caught a 53-week-year adjustment in the guidance, a reverse-DCF Reddit pitch with a good methodological objection, and Anthropic's S-1, which is now public.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Alphabet's Q3 release shows that the &quot;miss&quot; was below the operating line, and that Alphabet funded $51 billion of capex with no buybacks and new stock and bond sales.</strong>",
+              "html": "<p><strong>Alphabet's Q3 release shows that the &quot;miss&quot; was below the operating line, and that Alphabet funded $51 billion of capex with no buybacks and new stock and bond sales.</strong> The sub split between &quot;missed on nearly everything&quot; and &quot;a 0.5% miss&quot;. The filed numbers support neither side's headline.</p>\n<ul>\n<li><strong>Why it matters:</strong> the bull reply in the biggest thread is right that operations grew. Operating income rose 30% and Cloud revenue doubled. It is also wrong on the revenue figure it used to correct the post. The bear posts are right that cash flow turned negative, and the release shows how the gap was funded: no repurchases, $28.7 billion of net proceeds from senior notes, and $12.4 billion of at-the-market sales of Class A and Class C stock. The reusable point is to separate &quot;EPS missed&quot; into operating income and other income before deciding what missed. One post put the miss down to &quot;$8.7B paper loss on AI startups&quot;. The release confirms an $8,664 million net loss on equity securities but does not name the investees.</li>\n<li><strong>What to watch:</strong> whether at-the-market issuance continues in Q4; whether buybacks resume; the 2027 capex figure several commenters attribute to the call (&quot;north of $300bn&quot;), which was not checked; and the Q4 report, which one post puts in February.</li>\n<li><strong>Numbers:</strong> as filed for Q3 2026 against Q3 2025: revenue $127,577 million against $102,346 million (+25%); Search &amp; other $63,350 million (+12%); Google Cloud revenue $30,709 million against $15,157 million (+103%), with Cloud operating income of $11,121 million against $3,594 million; operating income $40,576 million against $31,228 million (+30%), a 31.8% margin; other income (expense), net of −$8,221 million, including an $8,664 million net loss on equity securities, against a $10,734 million gain a year earlier; net income $26,468 million against $34,979 million; diluted EPS $2.12 against $2.87; purchases of property and equipment $51,355 million against $23,953 million; operating cash flow $42,290 million; free cash flow −$9,065 million; repurchases $0 against $11,504 million; headcount 204,757. As posted, not checked: the &quot;$3 expected&quot; EPS consensus, the &quot;$128.2 billion&quot; revenue consensus, and the &quot;100-year bond&quot;.</li>\n<li><strong>Caveats:</strong> the 162-point reply that called the quarter &quot;an absolute money printing machine&quot; gave revenue as $126.7 billion, and another thread said $128 billion and a third $119 billion; the filed figure is $127.6 billion. Two commenters attributed the EPS drop to a &quot;spacex reevaluation&quot; and the negative cash flow to a &quot;5bn eu fine&quot;. The release names no investee and mentions no fine, so both are <strong>Unconfirmed</strong>. Cloud's backlog and the &quot;$300 billion of new cloud revenue in the next 24 months&quot; are attributed to the call and were not checked.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xhz8ol/\" target=\"_blank\" rel=\"noopener noreferrer\">the 471-point thread</a>, then <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's Q3 2026 release</a></li>\n</ul>",
+              "text": "Alphabet's Q3 release shows that the \"miss\" was below the operating line, and that Alphabet funded $51 billion of capex with no buybacks and new stock and bond sales. The sub split between \"missed on nearly everything\" and \"a 0.5% miss\". The filed numbers support neither side's headline. Why it matters: the bull reply in the biggest thread is right that operations grew. Operating income rose 30% and Cloud revenue doubled. It is also wrong on the revenue figure it used to correct the post. The bear posts are right that cash flow turned negative, and the release shows how the gap was funded: no repurchases, $28.7 billion of net proceeds from senior notes, and $12.4 billion of at-the-market sales of Class A and Class C stock. The reusable point is to separate \"EPS missed\" into operating income and other income before deciding what missed. One post put the miss down to \"$8.7B paper loss on AI startups\". The release confirms an $8,664 million net loss on equity securities but does not name the investees. What to watch: whether at-the-market issuance continues in Q4; whether buybacks resume; the 2027 capex figure several commenters attribute to the call (\"north of $300bn\"), which was not checked; and the Q4 report, which one post puts in February. Numbers: as filed for Q3 2026 against Q3 2025: revenue $127,577 million against $102,346 million (+25%); Search & other $63,350 million (+12%); Google Cloud revenue $30,709 million against $15,157 million (+103%), with Cloud operating income of $11,121 million against $3,594 million; operating income $40,576 million against $31,228 million (+30%), a 31.8% margin; other income (expense), net of −$8,221 million, including an $8,664 million net loss on equity securities, against a $10,734 million gain a year earlier; net income $26,468 million against $34,979 million; diluted EPS $2.12 against $2.87; purchases of property and equipment $51,355 million against $23,953 million; operating cash flow $42,290 million; free cash flow −$9,065 million; repurchases $0 against $11,504 million; headcount 204,757. As posted, not checked: the \"$3 expected\" EPS consensus, the \"$128.2 billion\" revenue consensus, and the \"100-year bond\". Caveats: the 162-point reply that called the quarter \"an absolute money printing machine\" gave revenue as $126.7 billion, and another thread said $128 billion and a third $119 billion; the filed figure is $127.6 billion. Two commenters attributed the EPS drop to a \"spacex reevaluation\" and the negative cash flow to a \"5bn eu fine\". The release names no investee and mentions no fine, so both are Unconfirmed . Cloud's backlog and the \"$300 billion of new cloud revenue in the next 24 months\" are attributed to the call and were not checked. Read next: the 471-point thread , then Alphabet's Q3 2026 release Verified for every filed figure above against the 8-K exhibit filed 28 October 2026. Consensus figures and call remarks are Single source.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for every filed figure above against the 8-K exhibit filed 28 October 2026. Consensus figures and call remarks are Single source.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Sprouts' cut guidance is on a 52-week basis, so the pitch's &quot;$5.32 to $4.96&quot; understates the cut, and the commenter who caught it was right against the release.</strong>",
+              "html": "<p><strong>Sprouts' cut guidance is on a 52-week basis, so the pitch's &quot;$5.32 to $4.96&quot; understates the cut, and the commenter who caught it was right against the release.</strong> A 14-point post called Sprouts a single-digit-P/E defensive buy after the after-hours fall. The best reply checked the earnings it was dividing by.</p>\n<ul>\n<li><strong>Why it matters:</strong> fiscal 2026 has 53 weeks. A guide that includes the extra week can't be compared with one that excludes it. The reply's method applies to any retailer with a 53-week year: put both guides on the same basis before measuring the revision. The same reply makes a second point: total revenue growth from new stores can hide whether existing stores have stabilised.</li>\n<li><strong>What to watch:</strong> Q4 guidance of comparable store sales of −2.0% to −4.0% and diluted EPS of $0.47–0.51 on a 13-week basis; whether the &quot;affordability&quot; investments the CEO describes show up as margin pressure; buybacks, at $89 million in Q3.</li>\n<li><strong>Numbers:</strong> as filed: Q3 net sales of $2.3 billion (+5%), comparable store sales of −0.9%, diluted EPS of $1.21 against $1.22; full-year 2026 outlook on a 52-week basis of comparable store sales ~−1.7% and diluted EPS ~$4.80; the 53rd week estimated at about $190 million of sales, $20 million of EBIT and $0.16 of diluted EPS. The prior full-year guide of $5.32–5.40 was also on a 52-week basis, per July coverage. As posted, not checked: the poster's ~$49 entry and the commenter's comparable transactions of −3.3% and basket size of +2.5%, which the release does not report.</li>\n<li><strong>Caveats:</strong> the post's &quot;same-store sales of -1.7%&quot; is the full-year guide, not the quarter, which was −0.9%. The commenter's 9.9x and 10.2x multiples are their own arithmetic on the poster's price.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xi7hdg/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>, then <a href=\"https://www.sec.gov/Archives/edgar/data/0001575515/000157551526000059/sfm-20260927xex991.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Sprouts' Q3 2026 release</a></li>\n</ul>",
+              "text": "Sprouts' cut guidance is on a 52-week basis, so the pitch's \"$5.32 to $4.96\" understates the cut, and the commenter who caught it was right against the release. A 14-point post called Sprouts a single-digit-P/E defensive buy after the after-hours fall. The best reply checked the earnings it was dividing by. Why it matters: fiscal 2026 has 53 weeks. A guide that includes the extra week can't be compared with one that excludes it. The reply's method applies to any retailer with a 53-week year: put both guides on the same basis before measuring the revision. The same reply makes a second point: total revenue growth from new stores can hide whether existing stores have stabilised. What to watch: Q4 guidance of comparable store sales of −2.0% to −4.0% and diluted EPS of $0.47–0.51 on a 13-week basis; whether the \"affordability\" investments the CEO describes show up as margin pressure; buybacks, at $89 million in Q3. Numbers: as filed: Q3 net sales of $2.3 billion (+5%), comparable store sales of −0.9%, diluted EPS of $1.21 against $1.22; full-year 2026 outlook on a 52-week basis of comparable store sales ~−1.7% and diluted EPS ~$4.80; the 53rd week estimated at about $190 million of sales, $20 million of EBIT and $0.16 of diluted EPS. The prior full-year guide of $5.32–5.40 was also on a 52-week basis, per July coverage. As posted, not checked: the poster's ~$49 entry and the commenter's comparable transactions of −3.3% and basket size of +2.5%, which the release does not report. Caveats: the post's \"same-store sales of -1.7%\" is the full-year guide, not the quarter, which was −0.9%. The commenter's 9.9x and 10.2x multiples are their own arithmetic on the poster's price. Read next: the thread , then Sprouts' Q3 2026 release Verified for the quarter, the 52-week outlook and the 53rd-week estimate against the 8-K exhibit; the prior guide's basis is Reported from July coverage",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the quarter, the 52-week outlook and the 53rd-week estimate against the 8-K exhibit; the prior guide's basis is Reported from <a href=\"https://www.marketbeat.com/instant-alerts/sprouts-farmers-market-nasdaqsfm-releases-fy-2026-earnings-guidance-2026-07-29/\" target=\"_blank\" rel=\"noopener noreferrer\">July coverage</a></p>",
+              "updated": "2026-07-29",
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing",
+                "marketbeat.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Filings and insider moves",
+          "category": "filings",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Anthropic's S-1 became public on 26 October, so the sub no longer has to reason from 2025 figures.</strong>",
+              "html": "<p><strong>Anthropic's S-1 became public on 26 October, so the sub no longer has to reason from 2025 figures.</strong> A 124-point post quoted five Q3 fund letters on Anthropic. Greenlight wrote that &quot;We have no idea what Anthropic will look like or whether it will even exist 10 years from now&quot;. 1492 Capital argued that a company describing catastrophic risk can't also ask public markets to underwrite unlimited liability at a $2 trillion valuation. Baillie Gifford, which holds it privately, welcomed &quot;greater independent scrutiny&quot;. The letters were written before the filing and quote a &quot;whispered&quot; or &quot;forecast&quot; $2 trillion valuation. Commenters asked whether the funds are buying, and nobody answered. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xh4vt0/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Anthropic's S-1 became public on 26 October, so the sub no longer has to reason from 2025 figures. A 124-point post quoted five Q3 fund letters on Anthropic. Greenlight wrote that \"We have no idea what Anthropic will look like or whether it will even exist 10 years from now\". 1492 Capital argued that a company describing catastrophic risk can't also ask public markets to underwrite unlimited liability at a $2 trillion valuation. Baillie Gifford, which holds it privately, welcomed \"greater independent scrutiny\". The letters were written before the filing and quote a \"whispered\" or \"forecast\" $2 trillion valuation. Commenters asked whether the funds are buying, and nobody answered. Thread Verified that Anthropic, PBC (CIK 0002130357) filed an S-1 on 26 October 2026, against EDGAR's full-text index. The S-1 was too large for this tool to open, so no figure from it is repeated here. Nasdaq and the ticker ANT are Reported from coverage , and coverage gives conflicting revenue and loss figures. The letter quotes are from the post; the letters were not opened.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> that Anthropic, PBC (CIK 0002130357) filed an S-1 on 26 October 2026, against EDGAR's full-text index. The S-1 was too large for this tool to open, so no figure from it is repeated here. Nasdaq and the ticker ANT are Reported from <a href=\"https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-files-its-s-1/\" target=\"_blank\" rel=\"noopener noreferrer\">coverage</a>, and coverage gives conflicting revenue and loss figures. The letter quotes are from the post; the letters were not opened.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "iposcoop.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>SoFi's fair-value marks fell by about a third in Q3, which answers the question this feed's last Must know left open.</strong>",
+              "html": "<p><strong>SoFi's fair-value marks fell by about a third in Q3, which answers the question this feed's last Must know left open.</strong> A 2-point SoFi post's author said in a reply that &quot;800 million of loan value&quot; in losses was offset by &quot;735 million in hedging gains&quot;, and that 2027 guidance prices in two rate hikes. The release shows cumulative fair-value adjustments on loans of $1,399.5 million at 30 September, against $2,027.1 million at 30 June. Personal loans went from $1,222.8 million to $1,023.8 million and student loans from $704.6 million to $348.6 million. The release attributes the higher discount rates mainly to benchmark rate increases of 76 and 90 basis points. It reports Q3 GAAP net income of $241.0 million, diluted EPS of $0.18, tangible book value of $7.48 a share, and a personal-loan net charge-off rate of 2.26%, or about 3.4% excluding late-stage delinquent loan sales. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xihlds/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "SoFi's fair-value marks fell by about a third in Q3, which answers the question this feed's last Must know left open. A 2-point SoFi post's author said in a reply that \"800 million of loan value\" in losses was offset by \"735 million in hedging gains\", and that 2027 guidance prices in two rate hikes. The release shows cumulative fair-value adjustments on loans of $1,399.5 million at 30 September, against $2,027.1 million at 30 June. Personal loans went from $1,222.8 million to $1,023.8 million and student loans from $704.6 million to $348.6 million. The release attributes the higher discount rates mainly to benchmark rate increases of 76 and 90 basis points. It reports Q3 GAAP net income of $241.0 million, diluted EPS of $0.18, tangible book value of $7.48 a share, and a personal-loan net charge-off rate of 2.26%, or about 3.4% excluding late-stage delinquent loan sales. Thread Verified against SoFi's Q3 2026 release . The release does not report hedging gains or state a rate assumption for 2027, so the $735 million and the \"2 hikes\" are Unconfirmed . The personal-loan default-rate input was not checked; it will be in the 10-Q.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001818874/000181887426000065/a2026q3earningsrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi's Q3 2026 release</a>. The release does not report hedging gains or state a rate assumption for 2027, so the $735 million and the &quot;2 hikes&quot; are <strong>Unconfirmed</strong>. The personal-loan default-rate input was not checked; it will be in the 10-Q.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The Reddit reverse-DCF pitch got the right objection: rerun it without the assumed earnings beat.</strong>",
+              "html": "<p><strong>The Reddit reverse-DCF pitch got the right objection: rerun it without the assumed earnings beat.</strong> The poster assumes a 9% beat on guidance of 49% revenue growth, then 30% growth in 2027 and 20% in 2028, a 10% discount rate, and FCF margin rising from 21% to 30%. On that basis the price needs only 8.2% growth in years 3–10, or 13.5% without the margin expansion. The reply: the beat history is public, so building it into the starting revenue assumes the thing you are trying to test. Run both cases and see which one the thesis depends on. The longest bull reply framed Reddit's revenue as users times ARPU with a coming &quot;ARPU ceiling&quot;, and argued that ad targeting and ad load leave room before it binds. The poster's own bear case is US daily active uniques slipping from 53.5 million to 53.2 million on &quot;choppy google referrals&quot;. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xhuyed/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The Reddit reverse-DCF pitch got the right objection: rerun it without the assumed earnings beat. The poster assumes a 9% beat on guidance of 49% revenue growth, then 30% growth in 2027 and 20% in 2028, a 10% discount rate, and FCF margin rising from 21% to 30%. On that basis the price needs only 8.2% growth in years 3–10, or 13.5% without the margin expansion. The reply: the beat history is public, so building it into the starting revenue assumes the thing you are trying to test. Run both cases and see which one the thesis depends on. The longest bull reply framed Reddit's revenue as users times ARPU with a coming \"ARPU ceiling\", and argued that ad targeting and ad load leave room before it binds. The poster's own bear case is US daily active uniques slipping from 53.5 million to 53.2 million on \"choppy google referrals\". Thread Single source · every growth rate and the DAU figures are as posted. Reddit's Q3 revenue guidance of $860–870 million is Reported from coverage of the Q2 report , and the report date was not confirmed.",
+              "status": "single-source",
+              "status_html": "<p>Single source · every growth rate and the DAU figures are as posted. Reddit's Q3 revenue guidance of $860–870 million is Reported from <a href=\"https://www.benzinga.com/quote/RDDT/earnings-forecasts\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the Q2 report</a>, and the report date was not confirmed.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "benzinga.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>GE HealthCare's beat came with slower orders, and the useful reply says the backlog dip needs explaining before it is read as weaker demand.</strong>",
+              "html": "<p><strong>GE HealthCare's beat came with slower orders, and the useful reply says the backlog dip needs explaining before it is read as weaker demand.</strong> The poster, who discloses a long position, says the quarter beat on revenue and margin but orders grew 4.0% organically against 11.1% in Q2. Book-to-bill was 1.03 against 1.15, and backlog fell to $23.7 billion from $23.9 billion. The reply: book-to-bill above 1.0 still means orders exceeded revenue. The $0.2 billion fall could be currency or cancellations, which mean different things for the thesis. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xhtfpl/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "GE HealthCare's beat came with slower orders, and the useful reply says the backlog dip needs explaining before it is read as weaker demand. The poster, who discloses a long position, says the quarter beat on revenue and margin but orders grew 4.0% organically against 11.1% in Q2. Book-to-bill was 1.03 against 1.15, and backlog fell to $23.7 billion from $23.9 billion. The reply: book-to-bill above 1.0 still means orders exceeded revenue. The $0.2 billion fall could be currency or cancellations, which mean different things for the thesis. Thread Reported for revenue, organic growth, orders, book-to-bill, backlog, adjusted EBIT margin and adjusted EPS, from a search summary of GE HealthCare's Q3 2026 release . The segment figures, the raised guidance range and the $945 million SOFIE Biosciences acquisition were not found and are Single source.",
+              "status": "reported",
+              "status_html": "<p>Reported for revenue, organic growth, orders, book-to-bill, backlog, adjusted EBIT margin and adjusted EPS, from a search summary of <a href=\"https://www.sec.gov/Archives/edgar/data/0001932393/000193239326000058/release3q26earnings.htm\" target=\"_blank\" rel=\"noopener noreferrer\">GE HealthCare's Q3 2026 release</a>. The segment figures, the raised guidance range and the $945 million SOFIE Biosciences acquisition were not found and are Single source.</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The Boeing thread's best reply is a slip table, not a reason.</strong>",
+              "html": "<p><strong>The Boeing thread's best reply is a slip table, not a reason.</strong> It asked why the stock fell 11% on $464 million of Q3 free cash flow. One commenter tabulated how guidance moved from July to October: 737 at 47 a month &quot;into early 2027&quot;, 52 a month in &quot;back half of 2027&quot;, the 500-delivery 737 target dropped, 787 deliveries at the low end of 90–100, and the $10 billion FCF target pushed to 2029. Another commenter said the cash came from defence, not commercial aircraft. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xhgn8v/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The Boeing thread's best reply is a slip table, not a reason. It asked why the stock fell 11% on $464 million of Q3 free cash flow. One commenter tabulated how guidance moved from July to October: 737 at 47 a month \"into early 2027\", 52 a month in \"back half of 2027\", the 500-delivery 737 target dropped, 787 deliveries at the low end of 90–100, and the $10 billion FCF target pushed to 2029. Another commenter said the cash came from defence, not commercial aircraft. Thread Single source · no Boeing release was opened; every figure is as posted",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Boeing release was opened; every figure is as posted</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Process and valuation method",
+          "category": "process",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A five-number screen post (earnings yield, return on capital, Acquirer's Multiple, FS-Score, DCF) is a tool promotion, but its answer on earnings yield is worth keeping.</strong>",
+              "html": "<p><strong>A five-number screen post (earnings yield, return on capital, Acquirer's Multiple, FS-Score, DCF) is a tool promotion, but its answer on earnings yield is worth keeping.</strong> Asked whether earnings yield is meaningless when the stock keeps falling, the author said a falling price is what raises the yield. What matters is whether earnings fall with it, which is why the screen pairs it with a quality score. The poster discloses owning Adobe and building the tool. Their per-ticker replies (an Oracle FCF of −$28.7 billion, Uber's yield including a one-off tax benefit) are the tool's output, not filings. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xhokka/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A five-number screen post (earnings yield, return on capital, Acquirer's Multiple, FS-Score, DCF) is a tool promotion, but its answer on earnings yield is worth keeping. Asked whether earnings yield is meaningless when the stock keeps falling, the author said a falling price is what raises the yield. What matters is whether earnings fall with it, which is why the screen pairs it with a quality score. The poster discloses owning Adobe and building the tool. Their per-ticker replies (an Oracle FCF of −$28.7 billion, Uber's yield including a one-off tax benefit) are the tool's output, not filings. Thread Single source · the author's own figures; none were checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the author's own figures; none were checked</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>&quot;I cut cloud costs 90% with LLMs&quot; drew the right objection: that says more about how inefficient the starting point was than about cloud demand.</strong>",
+              "html": "<p><strong>&quot;I cut cloud costs 90% with LLMs&quot; drew the right objection: that says more about how inefficient the starting point was than about cloud demand.</strong> A self-described former Microsoft employee says rewriting internal services in Rust with an LLM agent let their division move them on-prem, and asks how much hyperscaler revenue is exposed. The top reply notes Google Cloud grew 103% last quarter, which the release confirms. Another reply says a 90% cut means the organisation was inefficient to begin with. A third commenter, at an insurtech, sees the same savings but expects a Jevons effect: spending stays the same and buys more. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xigvj2/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "\"I cut cloud costs 90% with LLMs\" drew the right objection: that says more about how inefficient the starting point was than about cloud demand. A self-described former Microsoft employee says rewriting internal services in Rust with an LLM agent let their division move them on-prem, and asks how much hyperscaler revenue is exposed. The top reply notes Google Cloud grew 103% last quarter, which the release confirms. Another reply says a 90% cut means the organisation was inefficient to begin with. A third commenter, at an insurtech, sees the same savings but expects a Jevons effect: spending stays the same and buys more. Thread Single source · one person's account; the 103% is Verified against Alphabet's release",
+              "status": "single-source",
+              "status_html": "<p>Single source · one person's account; the 103% is <strong>Verified</strong> against Alphabet's release</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Google: five threads, from &quot;screaming buy&quot; to &quot;still expensive&quot;, a link post whose comments mostly mocked its title.",
+              "html": "<p>Google: five threads, from &quot;screaming buy&quot; to &quot;still expensive&quot;, a link post whose comments mostly mocked its title. The most-upvoted reply across them was about the sub flipping on price direction, not about the company.</p>",
+              "text": "Google: five threads, from \"screaming buy\" to \"still expensive\", a link post whose comments mostly mocked its title. The most-upvoted reply across them was about the sub flipping on price direction, not about the company.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Meta Muse: two posts by the same author, at 464 and 0 points, tested the agent on errands and found it slower than doing them by hand.",
+              "html": "<p>Meta Muse: two posts by the same author, at 464 and 0 points, tested the agent on errands and found it slower than doing them by hand. The top reply, at 445 points, said speed is the wrong measure for something that runs in the background. Nobody tied it to Meta's numbers.</p>",
+              "text": "Meta Muse: two posts by the same author, at 464 and 0 points, tested the agent on errands and found it slower than doing them by hand. The top reply, at 445 points, said speed is the wrong measure for something that runs in the background. Nobody tied it to Meta's numbers.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "A 25-point &quot;Can we get back to the bones here?&quot; post asked for margins of safety and downside cases, then listed NFLX, UBER, MELI, APP and RDDT as value.",
+              "html": "<p>A 25-point &quot;Can we get back to the bones here?&quot; post asked for margins of safety and downside cases, then listed NFLX, UBER, MELI, APP and RDDT as value.</p>",
+              "text": "A 25-point \"Can we get back to the bones here?\" post asked for margins of safety and downside cases, then listed NFLX, UBER, MELI, APP and RDDT as value.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> ValueInvesting.",
+              "html": "<p><strong>Read:</strong> ValueInvesting. <strong>Sources checked:</strong> Berkshire Hathaway's SEC filing index and Berkshire's news page, for anything after 26 October 2026.</p>",
+              "text": "Read: ValueInvesting. Sources checked: Berkshire Hathaway's SEC filing index and Berkshire's news page, for anything after 26 October 2026.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. Berkshire's last filing is the Ajit Jain Form 4 of 23 October, covered on 26 October, and its news page has nothing after 18 September 2026.</p>",
+              "text": "Announced, not discussed: none. Berkshire's last filing is the Ajit Jain Form 4 of 23 October, covered on 26 October, and its news page has nothing after 18 September 2026. Verified against EDGAR's filing index for Berkshire and the 2026 news page",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing index for Berkshire</a> and <a href=\"https://www.berkshirehathaway.com/news/2026news.html\" target=\"_blank\" rel=\"noopener noreferrer\">the 2026 news page</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "berkshirehathaway.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> goog is covered in Must know.",
+              "html": "<p><strong>Flagged terms set aside:</strong> <em>goog</em> is covered in Must know. <em>rddt</em> is covered under Stock pitches. <em>rtn</em> is the &quot;5Yr Rtn&quot; column header in two FCF-margin screen posts, not a ticker in context; the screens were link posts to a data vendor with no discussion.</p>",
+              "text": "Flagged terms set aside: goog is covered in Must know. rddt is covered under Stock pitches. rtn is the \"5Yr Rtn\" column header in two FCF-margin screen posts, not a ticker in context; the screens were link posts to a data vendor with no discussion.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "title": "Value investing digest",
@@ -2361,20 +2610,6 @@
           "due_label": "commitments due, per reporting on the 9 October launch"
         },
         {
-          "headline": "<strong>SoFi's fair-value loan marks, and the default assumption under them.</strong>",
-          "html": "<p><strong>SoFi's fair-value loan marks, and the default assumption under them.</strong> SoFi carries its personal and student loans at fair value. At 30 June 2026 the weighted-average annual default-rate input for personal loans was 4.77%, up from 4.57% at 31 March, and the discount rate was 4.97%, up from 4.61%. The sub's open question, raised on 26 October, is how much of tangible book to trust. A member puts the marks at about $2.0 billion above unpaid principal, about 21% of tangible book, which makes the headline ~2x price-to-tangible-book about 2.5x if the marks are removed. The figure to watch in Q3 is whether the default input rises again while the marks hold.</p>",
-          "text": "SoFi's fair-value loan marks, and the default assumption under them. SoFi carries its personal and student loans at fair value. At 30 June 2026 the weighted-average annual default-rate input for personal loans was 4.77%, up from 4.57% at 31 March, and the discount rate was 4.97%, up from 4.61%. The sub's open question, raised on 26 October, is how much of tangible book to trust. A member puts the marks at about $2.0 billion above unpaid principal, about 21% of tangible book, which makes the headline ~2x price-to-tangible-book about 2.5x if the marks are removed. The figure to watch in Q3 is whether the default input rises again while the marks hold. Reported for the default and discount inputs, from a search summary of the Q2 2026 10-Q ; the earnings date is Verified against SoFi's announcement . The $2.0 billion and 21% are Single source · 2026-10-26",
-          "status": "reported",
-          "status_html": "<p>Reported for the default and discount inputs, from a search summary of <a href=\"https://www.sec.gov/Archives/edgar/data/0001818874/000181887426000054/sofi-20260630.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q2 2026 10-Q</a>; the earnings date is <strong>Verified</strong> against <a href=\"https://s27.q4cdn.com/749715820/files/doc_news/SoFi-Schedules-Conference-Call-to-Discuss-Q3-2026-Results-2026.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi's announcement</a>. The $2.0 billion and 21% are Single source · 2026-10-26</p>",
-          "updated": "2026-10-26",
-          "sources": [
-            "SEC filing",
-            "s27.q4cdn.com"
-          ],
-          "due": "2026-10-27",
-          "due_label": "Q3 2026 results, as announced"
-        },
-        {
           "headline": "<strong>Sea Limited's Sea Cloud and the possible Monee IPO.</strong>",
           "html": "<p><strong>Sea Limited's Sea Cloud and the possible Monee IPO.</strong> Coverage of an internal memo from Forrest Li describes &quot;an AI-first enterprise platform called Sea Cloud&quot; built on infrastructure that has run Shopee, Garena and Monee for about a decade. The sub's pitch argues the sell-off assumes a CoreWeave-style capex commitment that Sea has not announced; the open question, named in the thread, is whether &quot;AI-first&quot; means hosting compute for others or building capacity, and the next disclosure is the Q3 call. The Monee IPO is unconfirmed and undated; on 26 October a commenter argued that splitting Monee off would leave the parent at a holding-company discount. Insider selling, which the sub called &quot;almost pathological&quot; on 23 October without a source, is now covered from the Form 4s. Coverage reports COO Gang Ye sold 40,000 shares on 16–17 July 2026 under a 10b5-1 plan adopted 4 September 2025. It also reports smaller July–August sales by other officers under plans adopted in March 2026, alongside a $1 billion company buyback. The sub's &quot;$500+ million&quot; total and &quot;insiders owned 40% at end-2025&quot; are one member's figures.</p>",
           "text": "Sea Limited's Sea Cloud and the possible Monee IPO. Coverage of an internal memo from Forrest Li describes \"an AI-first enterprise platform called Sea Cloud\" built on infrastructure that has run Shopee, Garena and Monee for about a decade. The sub's pitch argues the sell-off assumes a CoreWeave-style capex commitment that Sea has not announced; the open question, named in the thread, is whether \"AI-first\" means hosting compute for others or building capacity, and the next disclosure is the Q3 call. The Monee IPO is unconfirmed and undated; on 26 October a commenter argued that splitting Monee off would leave the parent at a holding-company discount. Insider selling, which the sub called \"almost pathological\" on 23 October without a source, is now covered from the Form 4s. Coverage reports COO Gang Ye sold 40,000 shares on 16–17 July 2026 under a 10b5-1 plan adopted 4 September 2025. It also reports smaller July–August sales by other officers under plans adopted in March 2026, alongside a $1 billion company buyback. The sub's \"$500+ million\" total and \"insiders owned 40% at end-2025\" are one member's figures. Reported, from MarketBeat's calendar , coverage of the memo quoted in the thread and coverage of the insider Form 4s ; no Sea filing, Form 4 or the memo itself was opened · 2026-10-26",
@@ -2390,14 +2625,15 @@
         },
         {
           "headline": "<strong>Anthropic's IPO, and the credit terms already on record ahead of it.</strong>",
-          "html": "<p><strong>Anthropic's IPO, and the credit terms already on record ahead of it.</strong> The S-1 was submitted confidentially on 1 June 2026 and no public prospectus exists, so the sub is reasoning from 2025 figures. What is reported: Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion, described as adjusted-profitable and disclosed at a closed investor meeting on 14 October; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026 within a $35 billion Broadcom chip financing led by Apollo, with about $4.4 billion of subordinated debt near an 8.5% yield and senior debt near 5.75%; a listing expected in November at a valuation target reported up to $2 trillion. KBRA was reportedly not given free cash flow or EBITDA and estimated them.</p>",
-          "text": "Anthropic's IPO, and the credit terms already on record ahead of it. The S-1 was submitted confidentially on 1 June 2026 and no public prospectus exists, so the sub is reasoning from 2025 figures. What is reported: Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion, described as adjusted-profitable and disclosed at a closed investor meeting on 14 October; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026 within a $35 billion Broadcom chip financing led by Apollo, with about $4.4 billion of subordinated debt near an 8.5% yield and senior debt near 5.75%; a listing expected in November at a valuation target reported up to $2 trillion. KBRA was reportedly not given free cash flow or EBITDA and estimated them. Reported, from SiliconANGLE and Crypto Briefing's summary of the FT report ; no filing exists on EDGAR and KBRA's rating action was not opened. That no public S-1 exists is Verified by its absence · 2026-10-17",
-          "status": "reported",
-          "status_html": "<p>Reported, from <a href=\"https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/\" target=\"_blank\" rel=\"noopener noreferrer\">SiliconANGLE</a> and <a href=\"https://cryptobriefing.com/anthropic-bb-plus-credit-rating-kbra/\" target=\"_blank\" rel=\"noopener noreferrer\">Crypto Briefing's summary of the FT report</a>; no filing exists on EDGAR and KBRA's rating action was not opened. That no public S-1 exists is <strong>Verified</strong> by its absence · 2026-10-17</p>",
-          "updated": "2026-10-17",
+          "html": "<p><strong>Anthropic's IPO, and the credit terms already on record ahead of it.</strong> The S-1 was submitted confidentially on 1 June 2026 and made public on 26 October 2026 (Anthropic, PBC, CIK 0002130357, file number 333-299633). Coverage reports a Nasdaq listing under ANT, with share count and price range not yet set, and gives conflicting revenue and loss figures from it. What was reported before the filing: Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion, described as adjusted-profitable and disclosed at a closed investor meeting on 14 October; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026 within a $35 billion Broadcom chip financing led by Apollo, with about $4.4 billion of subordinated debt near an 8.5% yield and senior debt near 5.75%; a listing expected in November at a valuation target reported up to $2 trillion. KBRA was reportedly not given free cash flow or EBITDA and estimated them.</p>",
+          "text": "Anthropic's IPO, and the credit terms already on record ahead of it. The S-1 was submitted confidentially on 1 June 2026 and made public on 26 October 2026 (Anthropic, PBC, CIK 0002130357, file number 333-299633). Coverage reports a Nasdaq listing under ANT, with share count and price range not yet set, and gives conflicting revenue and loss figures from it. What was reported before the filing: Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion, described as adjusted-profitable and disclosed at a closed investor meeting on 14 October; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026 within a $35 billion Broadcom chip financing led by Apollo, with about $4.4 billion of subordinated debt near an 8.5% yield and senior debt near 5.75%; a listing expected in November at a valuation target reported up to $2 trillion. KBRA was reportedly not given free cash flow or EBITDA and estimated them. Verified that the S-1 was filed publicly on 26 October 2026, against EDGAR's full-text index; the S-1 itself was too large for this tool to open, so none of its figures are recorded here. The pre-filing items are Reported, from SiliconANGLE and Crypto Briefing's summary of the FT report , and the listing details from coverage of the filing · 2026-10-29",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> that the S-1 was filed publicly on 26 October 2026, against EDGAR's full-text index; the S-1 itself was too large for this tool to open, so none of its figures are recorded here. The pre-filing items are Reported, from <a href=\"https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/\" target=\"_blank\" rel=\"noopener noreferrer\">SiliconANGLE</a> and <a href=\"https://cryptobriefing.com/anthropic-bb-plus-credit-rating-kbra/\" target=\"_blank\" rel=\"noopener noreferrer\">Crypto Briefing's summary of the FT report</a>, and the listing details from <a href=\"https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-files-its-s-1/\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the filing</a> · 2026-10-29</p>",
+          "updated": "2026-10-29",
           "sources": [
             "siliconangle.com",
-            "cryptobriefing.com"
+            "cryptobriefing.com",
+            "iposcoop.com"
           ],
           "due": "2026-11-30",
           "due_label": "listing \"expected in November\", as reported"
@@ -2510,6 +2746,19 @@
           "due_label": null
         },
         {
+          "headline": "<strong>SoFi's fair-value loan marks, and the default assumption under them.</strong>",
+          "html": "<p><strong>SoFi's fair-value loan marks, and the default assumption under them.</strong> SoFi carries its personal and student loans at fair value. At 30 June 2026 the weighted-average annual default-rate input for personal loans was 4.77%, up from 4.57% at 31 March, and the discount rate was 4.97%, up from 4.61%. The sub's open question, raised on 26 October, is how much of tangible book to trust. A member then put the marks at about $2.0 billion above unpaid principal, about 21% of tangible book. Q3 shrank them: cumulative fair-value adjustments on loans were $1,399.5 million at 30 September 2026, against $2,027.1 million at 30 June. Personal loans went from $1,222.8 million to $1,023.8 million and student loans from $704.6 million to $348.6 million, which the release attributes mainly to benchmark rate increases of 76 and 90 basis points. Tangible book value was $7.48 a share. The open item is the Q3 default-rate input, which the release does not give.</p>",
+          "text": "SoFi's fair-value loan marks, and the default assumption under them. SoFi carries its personal and student loans at fair value. At 30 June 2026 the weighted-average annual default-rate input for personal loans was 4.77%, up from 4.57% at 31 March, and the discount rate was 4.97%, up from 4.61%. The sub's open question, raised on 26 October, is how much of tangible book to trust. A member then put the marks at about $2.0 billion above unpaid principal, about 21% of tangible book. Q3 shrank them: cumulative fair-value adjustments on loans were $1,399.5 million at 30 September 2026, against $2,027.1 million at 30 June. Personal loans went from $1,222.8 million to $1,023.8 million and student loans from $704.6 million to $348.6 million, which the release attributes mainly to benchmark rate increases of 76 and 90 basis points. Tangible book value was $7.48 a share. The open item is the Q3 default-rate input, which the release does not give. Verified for the Q3 adjustments and tangible book against SoFi's Q3 2026 release ; the Q2 inputs are Reported from a search summary of the Q2 2026 10-Q ; the Q3 10-Q was not checked · 2026-10-29",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the Q3 adjustments and tangible book against <a href=\"https://www.sec.gov/Archives/edgar/data/0001818874/000181887426000065/a2026q3earningsrelease.htm\" target=\"_blank\" rel=\"noopener noreferrer\">SoFi's Q3 2026 release</a>; the Q2 inputs are Reported from a search summary of <a href=\"https://www.sec.gov/Archives/edgar/data/0001818874/000181887426000054/sofi-20260630.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q2 2026 10-Q</a>; the Q3 10-Q was not checked · 2026-10-29</p>",
+          "updated": "2026-10-29",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
           "headline": "<strong>Jana Partners at Fiserv is a small and shrinking position, not a control stake.</strong>",
           "html": "<p><strong>Jana Partners at Fiserv is a small and shrinking position, not a control stake.</strong> Disclosed in February 2026 at about 2.2 million shares, less than 1% of the company, and since cut by roughly 17% while Jana pressed publicly for further asset sales — including a sale of debit network assets — and board changes, while backing CEO Mike Lyons. The sub cites &quot;Jana Partners' influence&quot; as a possible bull thesis for Fiserv without naming the size.</p>",
           "text": "Jana Partners at Fiserv is a small and shrinking position, not a control stake. Disclosed in February 2026 at about 2.2 million shares, less than 1% of the company, and since cut by roughly 17% while Jana pressed publicly for further asset sales — including a sale of debit network assets — and board changes, while backing CEO Mike Lyons. The sub cites \"Jana Partners' influence\" as a possible bull thesis for Fiserv without naming the size. Reported, from Bloomberg's February report and later coverage of the letter and the reduction ; no Schedule 13D or 13F was opened · 2026-10-23",
@@ -2570,6 +2819,19 @@
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> for the notes terms, the closing date and the use of proceeds against <a href=\"https://www.sec.gov/Archives/edgar/data/0001031203/000119312526386882/d133710dex991.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Group 1's 8-K exhibit of 22 September 2026</a>; the ratio series is one member's own calculation · 2026-10-17</p>",
           "updated": "2026-10-17",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Alphabet is funding its capex with new debt and stock, not cash flow, and has stopped buying back shares.</strong>",
+          "html": "<p><strong>Alphabet is funding its capex with new debt and stock, not cash flow, and has stopped buying back shares.</strong> As filed for Q3 2026: purchases of property and equipment of $51,355 million against $42,290 million of operating cash flow, free cash flow of −$9,065 million, no repurchases (against $11,504 million a year earlier), $28.7 billion of net proceeds from senior unsecured notes, and $12.4 billion of at-the-market stock sales ($4.3 billion of Class A, $8.1 billion of Class C). The sub's open questions are whether the at-the-market sales continue and whether buybacks return. Several commenters attribute a 2027 capex figure &quot;north of $300bn&quot; to the call, which was not checked.</p>",
+          "text": "Alphabet is funding its capex with new debt and stock, not cash flow, and has stopped buying back shares. As filed for Q3 2026: purchases of property and equipment of $51,355 million against $42,290 million of operating cash flow, free cash flow of −$9,065 million, no repurchases (against $11,504 million a year earlier), $28.7 billion of net proceeds from senior unsecured notes, and $12.4 billion of at-the-market stock sales ($4.3 billion of Class A, $8.1 billion of Class C). The sub's open questions are whether the at-the-market sales continue and whether buybacks return. Several commenters attribute a 2027 capex figure \"north of $300bn\" to the call, which was not checked. Verified against Alphabet's Q3 2026 release ; the 2027 capex figure is Single source · 2026-10-29",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Alphabet's Q3 2026 release</a>; the 2027 capex figure is Single source · 2026-10-29</p>",
+          "updated": "2026-10-29",
           "sources": [
             "SEC filing"
           ],
