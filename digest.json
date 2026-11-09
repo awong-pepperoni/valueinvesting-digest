@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29",
+  "generated": "2026-11-08",
   "meta": {
     "feed": "valueinvesting",
     "title": "Value Investing Digest",
@@ -21,6 +21,440 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-06",
+      "title": "Value investing digest",
+      "intro_html": "<p>This run came the day after a sharp sell-off on 5 November, which coverage blames on a Democratic midterm sweep and fears of data-centre restrictions. Most of the hot list reacted to it: &quot;Why Is the Stock Market Getting Destroyed Today?&quot; (310 points), &quot;What are you buying today?&quot; and a 296-point post calling Nvidia a bargain at 13x forward earnings. The best material was the pushback on that post, a long Uber pitch with a reply that challenges its free-cash-flow figure, and a backtest of seven value screens run under the same conditions.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A low forward P/E on a chipmaker near peak earnings is a warning, not a bargain, and the sub's two cheapest-looking names show why.</strong>",
+              "html": "<p><strong>A low forward P/E on a chipmaker near peak earnings is a warning, not a bargain, and the sub's two cheapest-looking names show why.</strong> A 296-point post quoted The Kobeissi Letter putting Nvidia at &quot;~13x&quot; forward earnings after the sell-off. A smaller thread on semiconductors and an SK hynix post at &quot;2.5x forward earnings&quot; drew the correction.</p>\n<ul>\n<li><strong>Why it matters:</strong> the method applies to any cyclical business. For a cyclical, &quot;low P/E = Expensive. High P/E = cheap&quot;, as one SK hynix reply put it, because the multiple is low when earnings are at the top of the cycle. The semiconductors post says Micron and Sandisk sit at about 3x forward earnings but &quot;they're probably at 50x 2029 or 2030 earnings&quot;, and that Nvidia &quot;might be 13x 2027 but it could be 25x 2028 and 30x 2029&quot;. The most upvoted analytical reply on the Nvidia post (61 points) agreed it is cheap on the numbers but said the multiple prices risks the numbers don't show: hyperscalers running short of capital, Broadcom's custom chips, and data-centre slowdowns. A 15-point reply called it &quot;the most quintessentially cyclical industry, pitched as a value investment at logarithmically peak earnings&quot;. On the SK hynix post, one reply said long-term agreements &quot;don't mean that much&quot; if memory prices crash, because customers can forfeit advance payments and renegotiate nearer spot prices.</li>\n<li><strong>What to watch:</strong> new memory capacity, which one commenter says Samsung and SK hynix bring online in 2028; another reply says supply is &quot;the tell&quot; and points to Micron pausing its Taiwan plant this week (not checked). Nvidia's results, which a commenter says are 11 days away (not checked).</li>\n<li><strong>Numbers:</strong> as published in SK hynix's preliminary Q3 2026 results: revenue of 104.6155 trillion won, up 328% year on year; operating profit of 83.3338 trillion won, an 80% operating margin; net profit of 39.7756 trillion won; about 100 trillion won of shareholder returns targeted for 2026, of which the Kioxia gains fund a 10,000-won special dividend; long-term agreements covering &quot;more than 50% of total production capacity for 2027 and 2028&quot;; and the company &quot;expects the structure in which demand exceeds supply to persist through 2030&quot;. As posted, not checked: the $609 billion market cap, 2.53x forward P/E, $91.9 billion trailing free cash flow and $72.8 billion net cash for SK hynix, and Nvidia's &quot;~13x&quot; forward P/E against the S&amp;P 500's &quot;~20x&quot;. Reported: SK hynix fell 9.5% in Seoul on the day.</li>\n<li><strong>Caveats:</strong> forward P/E rests on analysts' estimates, which one reply called &quot;not a fact, but an expectation&quot;. The SK hynix figures are preliminary and the release says they may change during the audit. The poster's dollar figures are their own conversions; the release gives none. The poster says the 2026 returns are &quot;largely related to gains from its Kioxia investment&quot;, but the release ties those gains to the special dividend and counts the 40 trillion won buyback announced in August in the same total.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xp3ne2/\" target=\"_blank\" rel=\"noopener noreferrer\">the semiconductors thread</a>, then <a href=\"https://news.skhynix.com/en/q3-2026-business-results/\" target=\"_blank\" rel=\"noopener noreferrer\">SK hynix's Q3 2026 results</a></li>\n</ul>",
+              "text": "A low forward P/E on a chipmaker near peak earnings is a warning, not a bargain, and the sub's two cheapest-looking names show why. A 296-point post quoted The Kobeissi Letter putting Nvidia at \"~13x\" forward earnings after the sell-off. A smaller thread on semiconductors and an SK hynix post at \"2.5x forward earnings\" drew the correction. Why it matters: the method applies to any cyclical business. For a cyclical, \"low P/E = Expensive. High P/E = cheap\", as one SK hynix reply put it, because the multiple is low when earnings are at the top of the cycle. The semiconductors post says Micron and Sandisk sit at about 3x forward earnings but \"they're probably at 50x 2029 or 2030 earnings\", and that Nvidia \"might be 13x 2027 but it could be 25x 2028 and 30x 2029\". The most upvoted analytical reply on the Nvidia post (61 points) agreed it is cheap on the numbers but said the multiple prices risks the numbers don't show: hyperscalers running short of capital, Broadcom's custom chips, and data-centre slowdowns. A 15-point reply called it \"the most quintessentially cyclical industry, pitched as a value investment at logarithmically peak earnings\". On the SK hynix post, one reply said long-term agreements \"don't mean that much\" if memory prices crash, because customers can forfeit advance payments and renegotiate nearer spot prices. What to watch: new memory capacity, which one commenter says Samsung and SK hynix bring online in 2028; another reply says supply is \"the tell\" and points to Micron pausing its Taiwan plant this week (not checked). Nvidia's results, which a commenter says are 11 days away (not checked). Numbers: as published in SK hynix's preliminary Q3 2026 results: revenue of 104.6155 trillion won, up 328% year on year; operating profit of 83.3338 trillion won, an 80% operating margin; net profit of 39.7756 trillion won; about 100 trillion won of shareholder returns targeted for 2026, of which the Kioxia gains fund a 10,000-won special dividend; long-term agreements covering \"more than 50% of total production capacity for 2027 and 2028\"; and the company \"expects the structure in which demand exceeds supply to persist through 2030\". As posted, not checked: the $609 billion market cap, 2.53x forward P/E, $91.9 billion trailing free cash flow and $72.8 billion net cash for SK hynix, and Nvidia's \"~13x\" forward P/E against the S&P 500's \"~20x\". Reported: SK hynix fell 9.5% in Seoul on the day. Caveats: forward P/E rests on analysts' estimates, which one reply called \"not a fact, but an expectation\". The SK hynix figures are preliminary and the release says they may change during the audit. The poster's dollar figures are their own conversions; the release gives none. The poster says the 2026 returns are \"largely related to gains from its Kioxia investment\", but the release ties those gains to the special dividend and counts the 40 trillion won buyback announced in August in the same total. Read next: the semiconductors thread , then SK hynix's Q3 2026 results Verified for the SK hynix figures against the company's release; the Nvidia multiple and every other figure are Single source",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the SK hynix figures against the company's release; the Nvidia multiple and every other figure are Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "news.skhynix.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The Uber pitch's &quot;13.5x free cash flow&quot; depends on which free cash flow you use, and one reply puts it nearer 19x.</strong>",
+              "html": "<p><strong>The Uber pitch's &quot;13.5x free cash flow&quot; depends on which free cash flow you use, and one reply puts it nearer 19x.</strong> A long pitch values Uber at $100 a share by DCF against a $68.78 close on 5 November, arguing the market prices only the robotaxi bear case. The useful reply says about $3 billion of last year's $10 billion of free cash flow was temporary.</p>\n<ul>\n<li><strong>Why it matters:</strong> before putting a multiple on free cash flow, take out what won't recur. The reply says the temporary items were &quot;mostly shrinking insurance float and a tax bill that was unusually low&quot;, that Yahoo's trailing figure is $7.4 billion, about 19x a $140 billion market cap, and that its own DCF gave about $81. On that basis it calls $69 &quot;a fair-to-decent price, just not a 13x stock&quot;. The poster's own watch item, buybacks, is now on record: $750 million in Q3, below the $1 billion a quarter the poster said would change their mind.</li>\n<li><strong>What to watch:</strong> Q4 gross bookings against the $63.25–65.25 billion guide; whether buybacks return to the &quot;about 50% of annual FCF&quot; the poster says management promised; the result of the Delivery Hero offer at €41.50 a share, whose acceptance period the poster says ended on 5 November.</li>\n<li><strong>Numbers:</strong> as filed for Q3 2026: gross bookings $59.8 billion (+20%); revenue $14.8 billion (+10%); GAAP diluted EPS $0.25; non-GAAP EPS $0.88 (+35%); adjusted EBITDA $2,963 million (+31%); operating cash flow $2,639 million; free cash flow $2,535 million; $750 million of shares repurchased; Q4 outlook of gross bookings $63.25–65.25 billion, non-GAAP EPS $0.95–0.99 and adjusted EBITDA $3.13–3.23 billion. As posted, not checked: the $10.1 billion trailing free cash flow, the DCF inputs (12% growth for five years, a 10.5% discount rate, 3% terminal growth) and the $81–126 sensitivity range, the CEO's 141,000-share purchase at $70.96 on 10 September, and the Amazon Prime arrangement for Uber Eats announced on 5 November.</li>\n<li><strong>Caveats:</strong> the $100 value is the poster's own model, and the reply's $81 is another member's. The reply's $3 billion of temporary items was not checked. The Q3 release mentions neither Delivery Hero nor Amazon, so both rest on the poster. Other commenters argued the robotaxi side: one asked what happens if Waymo or Zoox buys Lyft, and another replied that Lyft's network is too small to threaten Uber's.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xp4mhw/\" target=\"_blank\" rel=\"noopener noreferrer\">the Uber pitch</a>, then <a href=\"https://www.sec.gov/Archives/edgar/data/0001543151/000154315126000039/uberq326earningspressrelea.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Uber's Q3 2026 release</a></li>\n</ul>",
+              "text": "The Uber pitch's \"13.5x free cash flow\" depends on which free cash flow you use, and one reply puts it nearer 19x. A long pitch values Uber at $100 a share by DCF against a $68.78 close on 5 November, arguing the market prices only the robotaxi bear case. The useful reply says about $3 billion of last year's $10 billion of free cash flow was temporary. Why it matters: before putting a multiple on free cash flow, take out what won't recur. The reply says the temporary items were \"mostly shrinking insurance float and a tax bill that was unusually low\", that Yahoo's trailing figure is $7.4 billion, about 19x a $140 billion market cap, and that its own DCF gave about $81. On that basis it calls $69 \"a fair-to-decent price, just not a 13x stock\". The poster's own watch item, buybacks, is now on record: $750 million in Q3, below the $1 billion a quarter the poster said would change their mind. What to watch: Q4 gross bookings against the $63.25–65.25 billion guide; whether buybacks return to the \"about 50% of annual FCF\" the poster says management promised; the result of the Delivery Hero offer at €41.50 a share, whose acceptance period the poster says ended on 5 November. Numbers: as filed for Q3 2026: gross bookings $59.8 billion (+20%); revenue $14.8 billion (+10%); GAAP diluted EPS $0.25; non-GAAP EPS $0.88 (+35%); adjusted EBITDA $2,963 million (+31%); operating cash flow $2,639 million; free cash flow $2,535 million; $750 million of shares repurchased; Q4 outlook of gross bookings $63.25–65.25 billion, non-GAAP EPS $0.95–0.99 and adjusted EBITDA $3.13–3.23 billion. As posted, not checked: the $10.1 billion trailing free cash flow, the DCF inputs (12% growth for five years, a 10.5% discount rate, 3% terminal growth) and the $81–126 sensitivity range, the CEO's 141,000-share purchase at $70.96 on 10 September, and the Amazon Prime arrangement for Uber Eats announced on 5 November. Caveats: the $100 value is the poster's own model, and the reply's $81 is another member's. The reply's $3 billion of temporary items was not checked. The Q3 release mentions neither Delivery Hero nor Amazon, so both rest on the poster. Other commenters argued the robotaxi side: one asked what happens if Waymo or Zoox buys Lyft, and another replied that Lyft's network is too small to threaten Uber's. Read next: the Uber pitch , then Uber's Q3 2026 release Verified for the Q3 figures against the 8-K exhibit; the DCF, the reply's normalised free cash flow and the Delivery Hero and Amazon items are Single source",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the Q3 figures against the 8-K exhibit; the DCF, the reply's normalised free cash flow and the Delivery Hero and Amazon items are Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Build-A-Bear (BBW): the pitch says the market still values a growing licensing business as a mall retailer.</strong>",
+              "html": "<p><strong>Build-A-Bear (BBW): the pitch says the market still values a growing licensing business as a mall retailer.</strong> The poster gives $31.54 at the 4 November close, about 8.6x forward earnings, a 2.9% yield, no financial debt and a $47 base case, on the argument that growth now comes from partner and franchise locations (177 and 118, against 379 company stores) that other companies pay to run. The best objection asked about the guidance cut: if the Q2 miss was demand, the asset-light story gets harder, and same-store sales say more than store count. The poster replied that same-store sales fell 9% in Q2, blamed a weak product line, and cited card-transaction data showing +7% year on year in August. One commenter said the sub needs more posts like it. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xonaf4/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Build-A-Bear (BBW): the pitch says the market still values a growing licensing business as a mall retailer. The poster gives $31.54 at the 4 November close, about 8.6x forward earnings, a 2.9% yield, no financial debt and a $47 base case, on the argument that growth now comes from partner and franchise locations (177 and 118, against 379 company stores) that other companies pay to run. The best objection asked about the guidance cut: if the Q2 miss was demand, the asset-light story gets harder, and same-store sales say more than store count. The poster replied that same-store sales fell 9% in Q2, blamed a weak product line, and cited card-transaction data showing +7% year on year in August. One commenter said the sub needs more posts like it. Thread Single source · no Build-A-Bear filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Build-A-Bear filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Remitly: the &quot;6x '28 earnings&quot; case needs earnings to more than double, and a reply says dilution eats the cash flow.</strong>",
+              "html": "<p><strong>Remitly: the &quot;6x '28 earnings&quot; case needs earnings to more than double, and a reply says dilution eats the cash flow.</strong> The poster takes sell-side 2028 revenue of $2.8 billion, assumes a 25% operating margin against about 15% today, and gets about $625 million of operating income against a $4 billion enterprise value. One reply says Q3 revenue rose about 22% to about $510 million and the buyback was raised to $500 million, yet the stock fell about 20% on the day. The sharper reply says the cheapness needs earnings to more than double, and that the share count rising about 6.8% a year adds up to more than the roughly $200 million of free cash flow, so it asks how much stock compensation the poster counts as a cost. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xpas3y/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Remitly: the \"6x '28 earnings\" case needs earnings to more than double, and a reply says dilution eats the cash flow. The poster takes sell-side 2028 revenue of $2.8 billion, assumes a 25% operating margin against about 15% today, and gets about $625 million of operating income against a $4 billion enterprise value. One reply says Q3 revenue rose about 22% to about $510 million and the buyback was raised to $500 million, yet the stock fell about 20% on the day. The sharper reply says the cheapness needs earnings to more than double, and that the share count rising about 6.8% a year adds up to more than the roughly $200 million of free cash flow, so it asks how much stock compensation the poster counts as a cost. Thread Single source · no Remitly filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Remitly filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Process and valuation method",
+          "category": "process",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A backtest of seven value screens on identical terms found the start date mattered more than the screen.</strong>",
+              "html": "<p><strong>A backtest of seven value screens on identical terms found the start date mattered more than the screen.</strong> In the poster's words, &quot;Shifting the start quarter has in most cases a bigger impact than the strategy.&quot; The member backtested seven screens (PEG after Lynch, Magic Formula, Acquirer's Multiple, Piotroski, Trending Value, GARP and a multi-factor composite) on identical terms: a reconstructed developed-markets universe of about 1,700 names, top 10 equal-weighted, rebalanced quarterly, mid-2016 to mid-2026, dividends reinvested, no costs or taxes. Only PEG beat MSCI World in most five-year windows (15 of 21); the screens built on EV/EBIT trailed it. The poster lists the limits: some survivorship bias, overlapping windows that are not independent samples, and drawdowns measured only at quarter ends. Asked how to use PEG, the poster gave the rules as encoded: P/E divided by five-year earnings growth plus dividend yield, skipping companies growing faster than 50% a year, debt-to-equity under 0.33, and inventory not growing more than 10 points faster than sales. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xp8rd0/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A backtest of seven value screens on identical terms found the start date mattered more than the screen. In the poster's words, \"Shifting the start quarter has in most cases a bigger impact than the strategy.\" The member backtested seven screens (PEG after Lynch, Magic Formula, Acquirer's Multiple, Piotroski, Trending Value, GARP and a multi-factor composite) on identical terms: a reconstructed developed-markets universe of about 1,700 names, top 10 equal-weighted, rebalanced quarterly, mid-2016 to mid-2026, dividends reinvested, no costs or taxes. Only PEG beat MSCI World in most five-year windows (15 of 21); the screens built on EV/EBIT trailed it. The poster lists the limits: some survivorship bias, overlapping windows that are not independent samples, and drawdowns measured only at quarter ends. Asked how to use PEG, the poster gave the rules as encoded: P/E divided by five-year earnings growth plus dividend yield, skipping companies growing faster than 50% a year, debt-to-equity under 0.33, and inventory not growing more than 10 points faster than sales. Thread Single source · one member's backtest, not reproduced",
+              "status": "single-source",
+              "status_html": "<p>Single source · one member's backtest, not reproduced</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A Danaher 13F tally shows how much a copy trade gives up to the filing delay.</strong>",
+              "html": "<p><strong>A Danaher 13F tally shows how much a copy trade gives up to the filing delay.</strong> A research account says 9 of the 49 managers it follows bought Danaher in Q2 and none sold, with Eagle Capital accounting for 2.8 million of the 4.4 million shares bought. It says the stock is up 19% from the 30 June close but about 12% for someone who bought when the filings came out in mid-August. It gives 16 November as the Q3 13F due date. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xpcwlm/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A Danaher 13F tally shows how much a copy trade gives up to the filing delay. A research account says 9 of the 49 managers it follows bought Danaher in Q2 and none sold, with Eagle Capital accounting for 2.8 million of the 4.4 million shares bought. It says the stock is up 19% from the 30 June close but about 12% for someone who bought when the filings came out in mid-August. It gives 16 November as the Q3 13F due date. Thread Single source · no 13F was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no 13F was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The 5 November sell-off was blamed on the midterms and the risk of limits on data centres.</strong>",
+              "html": "<p><strong>The 5 November sell-off was blamed on the midterms and the risk of limits on data centres.</strong> Coverage puts the Nasdaq down 5.52% to 24,315.00 and the S&amp;P 500 down 4.36% to 7,353.73, a day after the Dow's best post-midterm gain in 44 years. It attributes the fall to fears that a Democratic sweep would slow data-centre building, and reports Nvidia down 9.2% and AMD down 17.3%. In the sub's thread, the most upvoted serious replies blamed the midterms and data-centre politics, and one added that things &quot;were already heading south last week&quot;. A 119-point comment linked the data-centre page of Gina Hinojosa, whom it calls Texas's governor-elect. A follow-up thread on Texas split between commenters who expect the hyperscalers to gain from rules that shut out smaller builders (&quot;Neoclouds could be fucked&quot;) and those who think building moves overseas. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xoupoc/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a>, <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xp4pe7/\" target=\"_blank\" rel=\"noopener noreferrer\">Texas thread</a></p>",
+              "text": "The 5 November sell-off was blamed on the midterms and the risk of limits on data centres. Coverage puts the Nasdaq down 5.52% to 24,315.00 and the S&P 500 down 4.36% to 7,353.73, a day after the Dow's best post-midterm gain in 44 years. It attributes the fall to fears that a Democratic sweep would slow data-centre building, and reports Nvidia down 9.2% and AMD down 17.3%. In the sub's thread, the most upvoted serious replies blamed the midterms and data-centre politics, and one added that things \"were already heading south last week\". A 119-point comment linked the data-centre page of Gina Hinojosa, whom it calls Texas's governor-elect. A follow-up thread on Texas split between commenters who expect the hyperscalers to gain from rules that shut out smaller builders (\"Neoclouds could be fucked\") and those who think building moves overseas. Thread , Texas thread Reported, from Fox Business and AP via Yahoo Finance as read through search summaries; the AP piece gives Nvidia −8% and AMD −14% in an earlier intraday version. The Texas election result was not checked",
+              "status": "reported",
+              "status_html": "<p>Reported, from <a href=\"https://www.foxbusiness.com/markets/stocks-nov-5-2026\" target=\"_blank\" rel=\"noopener noreferrer\">Fox Business</a> and <a href=\"https://finance.yahoo.com/markets/stocks/articles/ai-data-center-concerns-trigger-205202808.html\" target=\"_blank\" rel=\"noopener noreferrer\">AP via Yahoo Finance</a> as read through search summaries; the AP piece gives Nvidia −8% and AMD −14% in an earlier intraday version. The Texas election result was not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "foxbusiness.com",
+                "Yahoo Finance"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Alphabet is still the default answer: &quot;Google.",
+              "html": "<p>Alphabet is still the default answer: &quot;Google. No better company positioned for the next 10 years&quot; was the top stock pick in the buying thread, and Google, VOO, Micron and MercadoLibre also came up. The top reply overall (251 points) was &quot;Sitting out today&quot;.</p>",
+              "text": "Alphabet is still the default answer: \"Google. No better company positioned for the next 10 years\" was the top stock pick in the buying thread, and Google, VOO, Micron and MercadoLibre also came up. The top reply overall (251 points) was \"Sitting out today\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "A post calling Meta, Amazon, Alphabet and ServiceNow &quot;great buying opportunities&quot; was criticised for giving no numbers (&quot;I would expect more numbers from a v…",
+              "html": "<p>A post calling Meta, Amazon, Alphabet and ServiceNow &quot;great buying opportunities&quot; was criticised for giving no numbers (&quot;I would expect more numbers from a value investing subreddit&quot;) and for putting ServiceNow alongside the other three.</p>",
+              "text": "A post calling Meta, Amazon, Alphabet and ServiceNow \"great buying opportunities\" was criticised for giving no numbers (\"I would expect more numbers from a value investing subreddit\") and for putting ServiceNow alongside the other three.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Members praised two posts for doing the work: the Build-A-Bear pitch, and a ten-stock portfolio post with a short thesis for each name.",
+              "html": "<p>Members praised two posts for doing the work: the Build-A-Bear pitch, and a ten-stock portfolio post with a short thesis for each name.</p>",
+              "text": "Members praised two posts for doing the work: the Build-A-Bear pitch, and a ten-stock portfolio post with a short thesis for each name.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> ValueInvesting.",
+              "html": "<p><strong>Read:</strong> ValueInvesting. <strong>Sources checked:</strong> Berkshire Hathaway's SEC filing index and Berkshire's news page, for 1 to 6 November 2026.</p>",
+              "text": "Read: ValueInvesting. Sources checked: Berkshire Hathaway's SEC filing index and Berkshire's news page, for 1 to 6 November 2026.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> Berkshire and Warren Buffett filed a Form 4 on 3 November reporting indirect purchases of Sirius XM common stock: 743,965 shares at a $28…",
+              "html": "<p><strong>Announced, not discussed:</strong> Berkshire and Warren Buffett filed a Form 4 on 3 November reporting indirect purchases of Sirius XM common stock: 743,965 shares at a $28.8913 weighted average on 30 October, 66,968 at $29.466 on 2 November and 113,348 at $30.233 on 3 November, leaving 125,731,398 shares held through GEICO and four subsidiary pension plans. <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526445930/0001193125-26-445930-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Filing index</a>. Berkshire's news page lists &quot;Information Regarding Third Quarter Earnings Release&quot; dated 4 November 2026; the notice is a PDF this tool could not read, and no Q3 results were posted by this run.</p>",
+              "text": "Announced, not discussed: Berkshire and Warren Buffett filed a Form 4 on 3 November reporting indirect purchases of Sirius XM common stock: 743,965 shares at a $28.8913 weighted average on 30 October, 66,968 at $29.466 on 2 November and 113,348 at $30.233 on 3 November, leaving 125,731,398 shares held through GEICO and four subsidiary pension plans. Filing index . Berkshire's news page lists \"Information Regarding Third Quarter Earnings Release\" dated 4 November 2026; the notice is a PDF this tool could not read, and no Q3 results were posted by this run. Verified against the Form 4 and EDGAR's filing index for Berkshire",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the Form 4 and <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing index for Berkshire</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged no unfamiliar recurring terms.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists could not cover 2026-11-01 to 2026-11-06; official sources were checked for that window.",
+              "html": "<p>Hot lists could not cover 2026-11-01 to 2026-11-06; official sources were checked for that window.</p>",
+              "text": "Hot lists could not cover 2026-11-01 to 2026-11-06; official sources were checked for that window.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Value investing digest",
+      "intro_html": "<p>This run came after the sell-off. Most of the hot list was dip-buying questions (&quot;What dips are you buying?&quot;, &quot;Which Mag-7 offers the best value?&quot;), and a 333-point post told members who panic over red days to leave. Reddit (the company) drew three posts after what one poster calls a 29% fall on 30 October, and the best reply among them used the filed numbers to ask what the bull case depends on. Alphabet came back as a $601 &quot;fair value&quot; model that the comments took apart. The one live corporate action was a member's holding, High Liner Foods, being bought out.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Reddit's Q3 growth came from charging more per user, not from more users, and the best reply asks what has to be true for that to keep going.</strong>",
+              "html": "<p><strong>Reddit's Q3 growth came from charging more per user, not from more users, and the best reply asks what has to be true for that to keep going.</strong> A 9-point post modelled ARPU growth of 25% a year carrying revenue even as logged-out users fall. The useful reply checked the quarter against that assumption.</p>\n<ul>\n<li><strong>Why it matters:</strong> the reply's method applies to any ad business: when the user count stops growing, every dollar of growth has to come from ad pricing and ad load, so ask what makes those keep rising while the audience doesn't. It notes that global DAUq was 130.3 million in both Q2 and Q3, so the quarter's growth was all monetisation, and that the 10-Q still lists dependence on Google search traffic as a risk, which is the poster's own bear scenario. The reply names what would change its view: Q4 DAUq. Flat-to-up users plus hitting the guide makes the poster's 25% look conservative; a sharp logged-out drop with the guide still met means ARPU is carrying even more, &quot;which gets harder to repeat&quot;. A separate 32-point post argued the reverse case, that good results under weak management make it a value stock, at an enterprise value it puts at 13.5x earnings.</li>\n<li><strong>What to watch:</strong> Q4 revenue against the $1,000–1,030 million guide; Q4 DAUq, total and US; whether buybacks continue after $100 million in Q3.</li>\n<li><strong>Numbers:</strong> as filed for Q3 2026: revenue $895 million (+53% year on year); net income $283 million, 32% of revenue; diluted EPS $1.40; free cash flow $363 million; DAUq 130.3 million (+12%), of which US 50.7 million (−2%) and international 79.6 million (+24%); ARPU $6.87 global, $13.82 US, $2.43 international; cash, equivalents and marketable securities $3.03 billion; about 670 thousand shares repurchased for $100 million at an average $149.81; Q4 outlook of revenue $1,000–1,030 million and adjusted EBITDA $480–510 million. As posted, not checked: the ARPU growth series of 23, 47, 41, 42, 44, 36 and 36%, the poster's FY2027 revenue of $4.039 billion and DAU falling to 92.0 million, the $18 billion market cap, the 29% one-day fall, and the other post's &quot;2026 EPS around $5.50&quot;, $14.6 billion enterprise value and &quot;Q3 earnings were up 70%&quot;.</li>\n<li><strong>Caveats:</strong> the poster's FY2027 revenue and P/E-based market caps are their own model. The Q2 DAUq of 130.3 million was not checked against the Q2 release, so &quot;flat&quot; is the commenter's comparison. The last entry recorded a pitch giving US daily active uniques as 53.5 million falling to 53.2 million; the Q3 release gives US DAUq as 50.7 million, so that pitch was either using another measure or wrong. In the second thread a deleted comment raised insider selling, and the poster said management could &quot;press the pause-button&quot; on planned sales; no Form 4 was opened.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xku59t/\" target=\"_blank\" rel=\"noopener noreferrer\">the ARPU thread</a>, then <a href=\"https://www.sec.gov/Archives/edgar/data/0001713445/000171344526000114/earningspressreleaseq326.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Reddit's Q3 2026 release</a></li>\n</ul>",
+              "text": "Reddit's Q3 growth came from charging more per user, not from more users, and the best reply asks what has to be true for that to keep going. A 9-point post modelled ARPU growth of 25% a year carrying revenue even as logged-out users fall. The useful reply checked the quarter against that assumption. Why it matters: the reply's method applies to any ad business: when the user count stops growing, every dollar of growth has to come from ad pricing and ad load, so ask what makes those keep rising while the audience doesn't. It notes that global DAUq was 130.3 million in both Q2 and Q3, so the quarter's growth was all monetisation, and that the 10-Q still lists dependence on Google search traffic as a risk, which is the poster's own bear scenario. The reply names what would change its view: Q4 DAUq. Flat-to-up users plus hitting the guide makes the poster's 25% look conservative; a sharp logged-out drop with the guide still met means ARPU is carrying even more, \"which gets harder to repeat\". A separate 32-point post argued the reverse case, that good results under weak management make it a value stock, at an enterprise value it puts at 13.5x earnings. What to watch: Q4 revenue against the $1,000–1,030 million guide; Q4 DAUq, total and US; whether buybacks continue after $100 million in Q3. Numbers: as filed for Q3 2026: revenue $895 million (+53% year on year); net income $283 million, 32% of revenue; diluted EPS $1.40; free cash flow $363 million; DAUq 130.3 million (+12%), of which US 50.7 million (−2%) and international 79.6 million (+24%); ARPU $6.87 global, $13.82 US, $2.43 international; cash, equivalents and marketable securities $3.03 billion; about 670 thousand shares repurchased for $100 million at an average $149.81; Q4 outlook of revenue $1,000–1,030 million and adjusted EBITDA $480–510 million. As posted, not checked: the ARPU growth series of 23, 47, 41, 42, 44, 36 and 36%, the poster's FY2027 revenue of $4.039 billion and DAU falling to 92.0 million, the $18 billion market cap, the 29% one-day fall, and the other post's \"2026 EPS around $5.50\", $14.6 billion enterprise value and \"Q3 earnings were up 70%\". Caveats: the poster's FY2027 revenue and P/E-based market caps are their own model. The Q2 DAUq of 130.3 million was not checked against the Q2 release, so \"flat\" is the commenter's comparison. The last entry recorded a pitch giving US daily active uniques as 53.5 million falling to 53.2 million; the Q3 release gives US DAUq as 50.7 million, so that pitch was either using another measure or wrong. In the second thread a deleted comment raised insider selling, and the poster said management could \"press the pause-button\" on planned sales; no Form 4 was opened. Read next: the ARPU thread , then Reddit's Q3 2026 release Verified for every filed figure above against the 8-K exhibit; the poster's model and the second post's figures are Single source",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for every filed figure above against the 8-K exhibit; the poster's model and the second post's figures are Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Filings and insider moves",
+          "category": "filings",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>High Liner Foods agreed on 26 October to be bought by Umios for C$27.00 a share in cash.</strong>",
+              "html": "<p><strong>High Liner Foods agreed on 26 October to be bought by Umios for C$27.00 a share in cash.</strong> A 33-point post by a member whose family holds it called it their fifth takeover in two years, all in Canadian small caps, and complained that the sub is &quot;far to tech heavy&quot;. Commenters asked for the thesis, which the poster did not give. Coverage reports a 79% premium to the 23 October close, about C$804 million of equity value, a plan of arrangement needing 75% of votes at a meeting expected in December, a support agreement from Thornridge Holdings for about 41.4% of shares, and a close expected in Q1 2027. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xkfhkf/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "High Liner Foods agreed on 26 October to be bought by Umios for C$27.00 a share in cash. A 33-point post by a member whose family holds it called it their fifth takeover in two years, all in Canadian small caps, and complained that the sub is \"far to tech heavy\". Commenters asked for the thesis, which the poster did not give. Coverage reports a 79% premium to the 23 October close, about C$804 million of equity value, a plan of arrangement needing 75% of votes at a meeting expected in December, a support agreement from Thornridge Holdings for about 41.4% of shares, and a close expected in Q1 2027. Thread Reported, from BNN Bloomberg and Global News via search summaries; the company's own release was not opened, and one outlet's \"$1.25-billion\" headline figure was not reconciled",
+              "status": "reported",
+              "status_html": "<p>Reported, from <a href=\"https://www.bnnbloomberg.ca/business/company-news/2026/10/26/high-liner-foods-to-be-bought-by-umios-in-deal-valued-at-804m/\" target=\"_blank\" rel=\"noopener noreferrer\">BNN Bloomberg</a> and <a href=\"https://globalnews.ca/news/12121342/high-liner-foods-umios/\" target=\"_blank\" rel=\"noopener noreferrer\">Global News</a> via search summaries; the company's own release was not opened, and one outlet's &quot;$1.25-billion&quot; headline figure was not reconciled</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "bnnbloomberg.ca",
+                "globalnews.ca"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Charter (CHTR): a falling capex bill is the whole thesis, and the replies say it only works if EBITDA holds.</strong>",
+              "html": "<p><strong>Charter (CHTR): a falling capex bill is the whole thesis, and the replies say it only works if EBITDA holds.</strong> The poster gives trailing capex of $12.1 billion against EBITDA of $22.3 billion, capex guided down to $8 billion by 2028, about $112 billion of debt (87% of enterprise value, 87% fixed-rate), a P/E of 3 and price to free cash flow of 2.8x. The replies: Charter hasn't shown it can keep EBITDA flat; an EBITDA decline of 3–4% a year would leave leverage where it is; and &quot;For $0.18 you can get $1 of debt&quot;. One former Liberty Broadband holder put it in the &quot;Too Hard pile&quot;. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xklomc/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Charter (CHTR): a falling capex bill is the whole thesis, and the replies say it only works if EBITDA holds. The poster gives trailing capex of $12.1 billion against EBITDA of $22.3 billion, capex guided down to $8 billion by 2028, about $112 billion of debt (87% of enterprise value, 87% fixed-rate), a P/E of 3 and price to free cash flow of 2.8x. The replies: Charter hasn't shown it can keep EBITDA flat; an EBITDA decline of 3–4% a year would leave leverage where it is; and \"For $0.18 you can get $1 of debt\". One former Liberty Broadband holder put it in the \"Too Hard pile\". Thread Single source · every figure is as posted; no Charter filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · every figure is as posted; no Charter filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Brightstar Lottery: a pitch that expects a revenue miss on 10 November and buys anyway.</strong>",
+              "html": "<p><strong>Brightstar Lottery: a pitch that expects a revenue miss on 10 November and buys anyway.</strong> The poster says Q3 2026 is up against a record Powerball run in Q3 2025, expects the full-year revenue target to be cut, and calls the roughly 10% dividend with this debt load something that &quot;screams value trap&quot;, while still buying under $10. The best reply looks at the balance sheet, not revenue: it says company-reported net debt went from about $2.75 billion at the end of Q1 to $3.79 billion at the end of Q2, against a market cap near $1.8 billion, with adjusted EBITDA flat at $287 million and $286 million. The poster says the jump paid for a long Italian lottery contract. Another commenter asked whether the dividend, which they say pays out all GAAP earnings, can survive. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xkyyus/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Brightstar Lottery: a pitch that expects a revenue miss on 10 November and buys anyway. The poster says Q3 2026 is up against a record Powerball run in Q3 2025, expects the full-year revenue target to be cut, and calls the roughly 10% dividend with this debt load something that \"screams value trap\", while still buying under $10. The best reply looks at the balance sheet, not revenue: it says company-reported net debt went from about $2.75 billion at the end of Q1 to $3.79 billion at the end of Q2, against a market cap near $1.8 billion, with adjusted EBITDA flat at $287 million and $286 million. The poster says the jump paid for a long Italian lottery contract. Another commenter asked whether the dividend, which they say pays out all GAAP earnings, can survive. Thread Single source · the net-debt and EBITDA figures, the dividend yield and the 10 November date were not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the net-debt and EBITDA figures, the dividend yield and the 10 November date were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Process and valuation method",
+          "category": "process",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The $601 Alphabet &quot;fair value&quot; post got the right objection: take the investment gains out of GAAP earnings before putting a multiple on them.</strong>",
+              "html": "<p><strong>The $601 Alphabet &quot;fair value&quot; post got the right objection: take the investment gains out of GAAP earnings before putting a multiple on them.</strong> The post multiplies trailing GAAP EPS of $15.61 by sector and &quot;historical premium&quot; multiples. Two replies say trailing earnings include large one-off gains on the SpaceX and Anthropic stakes. One puts trailing operating income at $157 billion and other income at $128 billion, and adds that &quot;anyone who thinks a number is more reliable just because it's GAAP doesn't know GAAP&quot;. A 73-point reply asked how a quarter with 24.65% revenue growth produced the post's 29% growth rate. The post promotes the author's textbook and video. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xkkoxh/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The $601 Alphabet \"fair value\" post got the right objection: take the investment gains out of GAAP earnings before putting a multiple on them. The post multiplies trailing GAAP EPS of $15.61 by sector and \"historical premium\" multiples. Two replies say trailing earnings include large one-off gains on the SpaceX and Anthropic stakes. One puts trailing operating income at $157 billion and other income at $128 billion, and adds that \"anyone who thinks a number is more reliable just because it's GAAP doesn't know GAAP\". A 73-point reply asked how a quarter with 24.65% revenue growth produced the post's 29% growth rate. The post promotes the author's textbook and video. Thread Single source · the trailing figures were not checked; Q3 alone had an $8,664 million net loss on equity securities, per the release recorded on 29 October",
+              "status": "single-source",
+              "status_html": "<p>Single source · the trailing figures were not checked; Q3 alone had an $8,664 million net loss on equity securities, per the release recorded on 29 October</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Broker targets are not what a private buyer would pay.&quot;</strong>",
+              "html": "<p><strong>&quot;Broker targets are not what a private buyer would pay.&quot;</strong> A thread asked for stocks at a third or more below private-market value. The best reply pointed out that both of the poster's examples (CeoTronics, Amadeus Fire) leaned on broker price targets, which predict where a stock trades in a year, while a buyer starts from cash flow. Another commenter rejected both picks on margins and debt. The most specific nomination was Weyerhaeuser, on the claim that its timberland alone would cost at least 40% more than its market cap. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xkn80i/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "\"Broker targets are not what a private buyer would pay.\" A thread asked for stocks at a third or more below private-market value. The best reply pointed out that both of the poster's examples (CeoTronics, Amadeus Fire) leaned on broker price targets, which predict where a stock trades in a year, while a buyer starts from cash flow. Another commenter rejected both picks on margins and debt. The most specific nomination was Weyerhaeuser, on the claim that its timberland alone would cost at least 40% more than its market cap. Thread Single source · the Weyerhaeuser claim was not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the Weyerhaeuser claim was not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A Netflix reply against anchoring: a stock down from a bubble high is not at a discount.</strong>",
+              "html": "<p><strong>A Netflix reply against anchoring: a stock down from a bubble high is not at a discount.</strong> Asked whether Netflix is cheap at about 18x earnings after a 45% fall, the top analytical reply said the sub too often treats a fall from an overvalued price as a discount without asking whether the old price made sense. It argues Netflix's growth now comes from price rises, advertising and lower-margin markets, which makes Disney a better comparison than the Mag-7. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xkmfik/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A Netflix reply against anchoring: a stock down from a bubble high is not at a discount. Asked whether Netflix is cheap at about 18x earnings after a 45% fall, the top analytical reply said the sub too often treats a fall from an overvalued price as a discount without asking whether the old price made sense. It argues Netflix's growth now comes from price rises, advertising and lower-margin markets, which makes Disney a better comparison than the Mag-7. Thread Single source",
+              "status": "single-source",
+              "status_html": "<p>Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Alphabet is still the default dip buy: &quot;Google&quot; topped the Mag-7 thread at 103 points, and the dips thread&#x27;s top serious answers were Alphabet and index funds.",
+              "html": "<p>Alphabet is still the default dip buy: &quot;Google&quot; topped the Mag-7 thread at 103 points, and the dips thread's top serious answers were Alphabet and index funds. Commenters disagreed about Alphabet's forward P/E (17x, 18.5x and 20x were all given), and nobody sourced one. The &quot;search or cash flow?&quot; thread split; one reply argued the market shrugged off Amazon's spending, so the worry must be search.</p>",
+              "text": "Alphabet is still the default dip buy: \"Google\" topped the Mag-7 thread at 103 points, and the dips thread's top serious answers were Alphabet and index funds. Commenters disagreed about Alphabet's forward P/E (17x, 18.5x and 20x were all given), and nobody sourced one. The \"search or cash flow?\" thread split; one reply argued the market shrugged off Amazon's spending, so the worry must be search.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Nvidia: two posts by the same member asked how durable CUDA&#x27;s lock-in is against hyperscalers&#x27; own chips.",
+              "html": "<p>Nvidia: two posts by the same member asked how durable CUDA's lock-in is against hyperscalers' own chips. The replies called it a switching cost that erodes over years rather than a permanent moat, and one owner pointed out that about 90% of revenue is AI, so &quot;if AI disappoints&quot; is not a safe scenario for it.</p>",
+              "text": "Nvidia: two posts by the same member asked how durable CUDA's lock-in is against hyperscalers' own chips. The replies called it a switching cost that erodes over years rather than a permanent moat, and one owner pointed out that about 90% of revenue is AI, so \"if AI disappoints\" is not a safe scenario for it.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "A 53-point list of &quot;20 stocks at a discount&quot; gave percentage falls with no valuation, and the &quot;unpopular stock you own&quot; thread was mostly one-word tickers.",
+              "html": "<p>A 53-point list of &quot;20 stocks at a discount&quot; gave percentage falls with no valuation, and the &quot;unpopular stock you own&quot; thread was mostly one-word tickers. Verizon led it on dark fibre and what its backers called an overblown SpaceX threat.</p>",
+              "text": "A 53-point list of \"20 stocks at a discount\" gave percentage falls with no valuation, and the \"unpopular stock you own\" thread was mostly one-word tickers. Verizon led it on dark fibre and what its backers called an overblown SpaceX threat.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> ValueInvesting.",
+              "html": "<p><strong>Read:</strong> ValueInvesting. <strong>Sources checked:</strong> Berkshire Hathaway's SEC filing index and Berkshire's news page, for anything after 29 October 2026.</p>",
+              "text": "Read: ValueInvesting. Sources checked: Berkshire Hathaway's SEC filing index and Berkshire's news page, for anything after 29 October 2026.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> Berkshire and Warren Buffett filed a Form 4 on 29 October reporting an indirect sale of 382,563 DaVita shares at $180.4305 on 27 October,…",
+              "html": "<p><strong>Announced, not discussed:</strong> Berkshire and Warren Buffett filed a Form 4 on 29 October reporting an indirect sale of 382,563 DaVita shares at $180.4305 on 27 October, leaving 28,314,666 shares held through GEICO and two subsidiary pension plans. <a href=\"https://www.sec.gov/Archives/edgar/data/315090/000119312526438090/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Form 4</a>. Berkshire's news page has nothing after 18 September 2026.</p>",
+              "text": "Announced, not discussed: Berkshire and Warren Buffett filed a Form 4 on 29 October reporting an indirect sale of 382,563 DaVita shares at $180.4305 on 27 October, leaving 28,314,666 shares held through GEICO and two subsidiary pension plans. Form 4 . Berkshire's news page has nothing after 18 September 2026. Verified against the Form 4 and EDGAR's filing index for Berkshire . That the sale was a sale back to DaVita under the 2024 agreement that keeps Berkshire at 45% is Unconfirmed: the Form 4 gives no reason and the agreement was not opened.",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the Form 4 and <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing index for Berkshire</a>. That the sale was a sale back to DaVita under the 2024 agreement that keeps Berkshire at 45% is Unconfirmed: the Form 4 gives no reason and <a href=\"https://sec.gov/Archives/edgar/data/927066/000092706624000083/ex101-brksharerepurchaseag.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the agreement</a> was not opened.</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> cuda is covered under Community sentiment.",
+              "html": "<p><strong>Flagged terms set aside:</strong> <em>cuda</em> is covered under Community sentiment.</p>",
+              "text": "Flagged terms set aside: cuda is covered under Community sentiment.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-29",
       "title": "Value investing digest",
@@ -2564,6 +2998,32 @@
           "due_label": null
         },
         {
+          "headline": "<strong>Berkshire Hathaway is trimming DaVita.</strong>",
+          "html": "<p><strong>Berkshire Hathaway is trimming DaVita.</strong> Berkshire and Warren Buffett reported an indirect sale of 382,563 DaVita shares at $180.4305 on 27 October 2026, leaving 28,314,666 shares: 13,341,058 held by GEICO and 14,973,608 by two subsidiary pension plans. Coverage describes a July 2026 sale as part of a 2024 agreement under which DaVita buys back shares from Berkshire to hold it at 45%; the October Form 4 gives no reason. The sub has not discussed it.</p>",
+          "text": "Berkshire Hathaway is trimming DaVita. Berkshire and Warren Buffett reported an indirect sale of 382,563 DaVita shares at $180.4305 on 27 October 2026, leaving 28,314,666 shares: 13,341,058 held by GEICO and 14,973,608 by two subsidiary pension plans. Coverage describes a July 2026 sale as part of a 2024 agreement under which DaVita buys back shares from Berkshire to hold it at 45%; the October Form 4 gives no reason. The sub has not discussed it. Verified for the October sale against the Form 4 filed 29 October 2026 ; the link to the repurchase agreement is Unconfirmed · 2026-11-01",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the October sale against <a href=\"https://www.sec.gov/Archives/edgar/data/315090/000119312526438090/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4 filed 29 October 2026</a>; the link to the repurchase agreement is Unconfirmed · 2026-11-01</p>",
+          "updated": "2026-11-01",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Berkshire Hathaway is buying Sirius XM.</strong>",
+          "html": "<p><strong>Berkshire Hathaway is buying Sirius XM.</strong> Berkshire and Warren Buffett reported indirect purchases of 743,965 shares at a $28.8913 weighted average on 30 October 2026, 66,968 at $29.466 on 2 November and 113,348 at $30.233 on 3 November, leaving 125,731,398 shares: 109,746,508 held by GEICO and 15,984,890 by four subsidiary pension plans. The sub has not discussed it.</p>",
+          "text": "Berkshire Hathaway is buying Sirius XM. Berkshire and Warren Buffett reported indirect purchases of 743,965 shares at a $28.8913 weighted average on 30 October 2026, 66,968 at $29.466 on 2 November and 113,348 at $30.233 on 3 November, leaving 125,731,398 shares: 109,746,508 held by GEICO and 15,984,890 by four subsidiary pension plans. The sub has not discussed it. Verified against the Form 4 filed 3 November 2026 · 2026-11-06",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526445930/0001193125-26-445930-index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4 filed 3 November 2026</a> · 2026-11-06</p>",
+          "updated": "2026-11-06",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
           "headline": "<strong>Rolf Buch's Vonovia call options date from December 2025, and he is no longer CEO.</strong>",
           "html": "<p><strong>Rolf Buch's Vonovia call options date from December 2025, and he is no longer CEO.</strong> He bought 38,000 call options on 29 December 2025 (€28 strike, expiring 17 December 2027), shortly before handing over to Luka Mucic. The sub has cited it as fresh insider buying.</p>",
           "text": "Rolf Buch's Vonovia call options date from December 2025, and he is no longer CEO. He bought 38,000 call options on 29 December 2025 (€28 strike, expiring 17 December 2027), shortly before handing over to Luka Mucic. The sub has cited it as fresh insider buying. Verified for the trade and the CEO change, against the directors' dealings notice and the succession announcement ; a €36-strike tranche is Unconfirmed · 2026-10-08",
@@ -2663,6 +3123,20 @@
           ],
           "due": "2027-01-19",
           "due_label": "Charter Effective Date, as filed"
+        },
+        {
+          "headline": "<strong>Umios's takeover of High Liner Foods at C$27.00 a share in cash, agreed 26 October 2026.</strong>",
+          "html": "<p><strong>Umios's takeover of High Liner Foods at C$27.00 a share in cash, agreed 26 October 2026.</strong> Reported as a 79% premium to the 23 October close and about C$804 million of equity value, by court-approved plan of arrangement needing 75% of votes at a meeting expected in December, with Thornridge Holdings (about 41.4%) signed to support it. Raised in the sub by a holder on 1 November with no thesis attached.</p>",
+          "text": "Umios's takeover of High Liner Foods at C$27.00 a share in cash, agreed 26 October 2026. Reported as a 79% premium to the 23 October close and about C$804 million of equity value, by court-approved plan of arrangement needing 75% of votes at a meeting expected in December, with Thornridge Holdings (about 41.4%) signed to support it. Raised in the sub by a holder on 1 November with no thesis attached. Reported, from BNN Bloomberg and Global News ; the company's release was not opened · 2026-11-01",
+          "status": "reported",
+          "status_html": "<p>Reported, from <a href=\"https://www.bnnbloomberg.ca/business/company-news/2026/10/26/high-liner-foods-to-be-bought-by-umios-in-deal-valued-at-804m/\" target=\"_blank\" rel=\"noopener noreferrer\">BNN Bloomberg</a> and <a href=\"https://globalnews.ca/news/12121342/high-liner-foods-umios/\" target=\"_blank\" rel=\"noopener noreferrer\">Global News</a>; the company's release was not opened · 2026-11-01</p>",
+          "updated": "2026-11-01",
+          "sources": [
+            "bnnbloomberg.ca",
+            "globalnews.ca"
+          ],
+          "due": "2027-03-31",
+          "due_label": "close \"expected in the first quarter of 2027\", as reported"
         },
         {
           "headline": "<strong>MSCI's consultation on reclassifying Indonesia from Emerging Market to Standalone Market status, launched 15 October 2026.</strong>",
@@ -2886,12 +3360,27 @@
       "items": [
         {
           "headline": "<strong>Uber versus self-driving cars.</strong>",
-          "html": "<p><strong>Uber versus self-driving cars.</strong> One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct. Came back on 11 October with no new argument on either side.</p>",
-          "text": "Uber versus self-driving cars. One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct. Came back on 11 October with no new argument on either side. Single source each time; a debate, not a finding · 2026-10-11",
+          "html": "<p><strong>Uber versus self-driving cars.</strong> One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct. Came back on 11 October with no new argument on either side. On 6 November a long DCF pitch argued the price already assumes the bear case. New on the bear side: if Waymo or Zoox bought Lyft, they would have their own distribution, to which a commenter replied that Lyft's network is too small. A reply also disputed the pitch's 13.5x free-cash-flow multiple, putting it nearer 19x once temporary items are removed. As filed, Q3 2026 buybacks were $750 million, against the &quot;about 50% of annual FCF&quot; the pitch says management promised. The pitch also says the €41.50-a-share Delivery Hero offer's acceptance period ended on 5 November with no result yet.</p>",
+          "text": "Uber versus self-driving cars. One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct. Came back on 11 October with no new argument on either side. On 6 November a long DCF pitch argued the price already assumes the bear case. New on the bear side: if Waymo or Zoox bought Lyft, they would have their own distribution, to which a commenter replied that Lyft's network is too small. A reply also disputed the pitch's 13.5x free-cash-flow multiple, putting it nearer 19x once temporary items are removed. As filed, Q3 2026 buybacks were $750 million, against the \"about 50% of annual FCF\" the pitch says management promised. The pitch also says the €41.50-a-share Delivery Hero offer's acceptance period ended on 5 November with no result yet. Single source each time; a debate, not a finding. The Q3 buyback figure is Verified against Uber's Q3 2026 release ; the Delivery Hero terms and timing were not checked · 2026-11-06",
           "status": "single-source",
-          "status_html": "<p>Single source each time; a debate, not a finding · 2026-10-11</p>",
-          "updated": "2026-10-11",
-          "sources": [],
+          "status_html": "<p>Single source each time; a debate, not a finding. The Q3 buyback figure is <strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001543151/000154315126000039/uberq326earningspressrelea.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Uber's Q3 2026 release</a>; the Delivery Hero terms and timing were not checked · 2026-11-06</p>",
+          "updated": "2026-11-06",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
+          "headline": "<strong>Whether a low forward P/E makes a chipmaker cheap.</strong>",
+          "html": "<p><strong>Whether a low forward P/E makes a chipmaker cheap.</strong> Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at &quot;~13x&quot; forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it &quot;expects the structure in which demand exceeds supply to persist through 2030&quot;.</p>",
+          "text": "Whether a low forward P/E makes a chipmaker cheap. Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at \"~13x\" forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it \"expects the structure in which demand exceeds supply to persist through 2030\". Single source each · a debate, not a finding; the SK hynix quote is Verified against its Q3 2026 results · 2026-11-06",
+          "status": "single-source",
+          "status_html": "<p>Single source each · a debate, not a finding; the SK hynix quote is <strong>Verified</strong> against <a href=\"https://news.skhynix.com/en/q3-2026-business-results/\" target=\"_blank\" rel=\"noopener noreferrer\">its Q3 2026 results</a> · 2026-11-06</p>",
+          "updated": "2026-11-06",
+          "sources": [
+            "news.skhynix.com"
+          ],
           "due": null,
           "due_label": null
         },
