@@ -22,6 +22,282 @@
   },
   "digests": [
     {
+      "date": "2026-11-09",
+      "title": "Value investing digest",
+      "intro_html": "<p>Over the weekend the sub turned to Nvidia's governance. Its board opened an independent investigation into Jensen Huang's ties to a suspected Chinese intelligence asset, and three threads asked whether this should cost Nvidia anything in its valuation. The more useful material was Berkshire's Q3 results, which landed alongside a thread testing a price-to-book &quot;buyback line&quot;, plus pushback on a semiconductor memo and on pitches for Pepsi, McCormick and ServiceNow.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Berkshire bought back about $9.6 billion of its own stock in Q3, and the sub's attempt to turn that into a price-to-book trigger got the right correction.</strong>",
+              "html": "<p><strong>Berkshire bought back about $9.6 billion of its own stock in Q3, and the sub's attempt to turn that into a price-to-book trigger got the right correction.</strong> A 24-point post takes the highest price-to-book Berkshire is known to have paid for its B shares (1.457x, in September 2023) and applies it to Q3 book value. That gives a &quot;theoretical&quot; buyback ceiling of $522.76 a B share. The replies explain why that number is a lens, not a rule.</p>\n<ul>\n<li><strong>Why it matters:</strong> the method applies to any company whose buyback rule is &quot;below intrinsic value&quot; rather than a fixed multiple. One reply says Berkshire dropped its 1.2x book-value ceiling in 2018, and that since then the stated test has been a price below a conservative estimate of intrinsic value while keeping at least $20 billion of cash. Another says book value lags the operating businesses: it puts BNSF at $44 billion on the books and &quot;at least 3X that&quot; in reality, so the multiple Berkshire will pay keeps rising. A third commenter's own figures put a March 2024 A-share purchase at 1.567x, which would break the poster's 1.457x line. The poster answers that the line is &quot;All theoretical&quot; and cites Buffett's 2014 letter, which describes buying &quot;modestly above the level at which the company would repurchase its shares&quot;.</li>\n<li><strong>What to watch:</strong> the average prices in the Q3 10-Q's monthly repurchase table, which this run could not read; whether buybacks continue in Q4 now that B shares trade above the line (a commenter puts the 6 November close at about $571); the pricing of Berkshire's new yen notes, covered below.</li>\n<li><strong>Numbers:</strong> as filed in the Q3 2026 release: net earnings attributable to shareholders of $22,112 million for the quarter and $57,885 million for nine months; operating earnings of $12,705 million for the quarter; investment gains of $9,407 million; &quot;approximately $9.6 billion in treasury shares during the third quarter of 2026, bringing the nine-month total to about $14.4 billion&quot;. As filed in the 10-Q: Berkshire shareholders' equity of $761,368 million at 30 September; $336,735 million of short-term Treasury bills plus $36,034 million and $4,666 million of cash in the two segments; 480,476 Class A and 1,403,805,594 Class B shares outstanding at 28 October. As posted, not checked: book value of $358.79 per B-share equivalent, the 1.457x ratio, the &quot;record&quot; description of the Q3 buyback, and &quot;~$377B of cash&quot;.</li>\n<li><strong>Caveats:</strong> the release gives no average repurchase price, so nobody in the thread knows how close to the line Berkshire bought. The 2018 policy change and the $20 billion floor come from a commenter; this run did not check them against Berkshire's own disclosure. The poster also says Berkshire &quot;did buy back some shares in October&quot;, and nothing filed so far shows that.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xr025q/\" target=\"_blank\" rel=\"noopener noreferrer\">the buyback-line thread</a>, then <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526452530/brka-ex99_1.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Berkshire's Q3 2026 release</a></li>\n</ul>",
+              "text": "Berkshire bought back about $9.6 billion of its own stock in Q3, and the sub's attempt to turn that into a price-to-book trigger got the right correction. A 24-point post takes the highest price-to-book Berkshire is known to have paid for its B shares (1.457x, in September 2023) and applies it to Q3 book value. That gives a \"theoretical\" buyback ceiling of $522.76 a B share. The replies explain why that number is a lens, not a rule. Why it matters: the method applies to any company whose buyback rule is \"below intrinsic value\" rather than a fixed multiple. One reply says Berkshire dropped its 1.2x book-value ceiling in 2018, and that since then the stated test has been a price below a conservative estimate of intrinsic value while keeping at least $20 billion of cash. Another says book value lags the operating businesses: it puts BNSF at $44 billion on the books and \"at least 3X that\" in reality, so the multiple Berkshire will pay keeps rising. A third commenter's own figures put a March 2024 A-share purchase at 1.567x, which would break the poster's 1.457x line. The poster answers that the line is \"All theoretical\" and cites Buffett's 2014 letter, which describes buying \"modestly above the level at which the company would repurchase its shares\". What to watch: the average prices in the Q3 10-Q's monthly repurchase table, which this run could not read; whether buybacks continue in Q4 now that B shares trade above the line (a commenter puts the 6 November close at about $571); the pricing of Berkshire's new yen notes, covered below. Numbers: as filed in the Q3 2026 release: net earnings attributable to shareholders of $22,112 million for the quarter and $57,885 million for nine months; operating earnings of $12,705 million for the quarter; investment gains of $9,407 million; \"approximately $9.6 billion in treasury shares during the third quarter of 2026, bringing the nine-month total to about $14.4 billion\". As filed in the 10-Q: Berkshire shareholders' equity of $761,368 million at 30 September; $336,735 million of short-term Treasury bills plus $36,034 million and $4,666 million of cash in the two segments; 480,476 Class A and 1,403,805,594 Class B shares outstanding at 28 October. As posted, not checked: book value of $358.79 per B-share equivalent, the 1.457x ratio, the \"record\" description of the Q3 buyback, and \"~$377B of cash\". Caveats: the release gives no average repurchase price, so nobody in the thread knows how close to the line Berkshire bought. The 2018 policy change and the $20 billion floor come from a commenter; this run did not check them against Berkshire's own disclosure. The poster also says Berkshire \"did buy back some shares in October\", and nothing filed so far shows that. Read next: the buyback-line thread , then Berkshire's Q3 2026 release Verified for the earnings, repurchase totals, equity, cash and share counts against the 8-K exhibit and the Q3 10-Q ; the price-to-book series and the policy history are Single source",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the earnings, repurchase totals, equity, cash and share counts against the 8-K exhibit and <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526452412/brka-20260930.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q3 10-Q</a>; the price-to-book series and the policy history are Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Filings and insider moves",
+          "category": "filings",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Berkshire filed a preliminary prospectus on 9 November for three series of yen senior notes.</strong>",
+              "html": "<p><strong>Berkshire filed a preliminary prospectus on 9 November for three series of yen senior notes.</strong> A 1-point post with no comments flagged it, adding that past yen issues partly rolled over maturing bonds. The draft leaves the coupons, maturities and amounts blank, names Mizuho and BofA Securities as joint book-runners, and states: &quot;We expect to use the net proceeds of this offering for general corporate purposes.&quot; It also refers to the 0.955% notes due 2026 (¥73.4 billion) and the 0.203% notes due 2027 (¥23.0 billion), which supports the poster's point that some of the money refinances maturing debt rather than buying Japanese stocks. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xrqmg6/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Berkshire filed a preliminary prospectus on 9 November for three series of yen senior notes. A 1-point post with no comments flagged it, adding that past yen issues partly rolled over maturing bonds. The draft leaves the coupons, maturities and amounts blank, names Mizuho and BofA Securities as joint book-runners, and states: \"We expect to use the net proceeds of this offering for general corporate purposes.\" It also refers to the 0.955% notes due 2026 (¥73.4 billion) and the 0.203% notes due 2027 (¥23.0 billion), which supports the poster's point that some of the money refinances maturing debt rather than buying Japanese stocks. Thread Verified against the 424B5 ; the refinancing link comes from a summary of the first part of the document, not the full text",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526452592/d86634d424b5.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 424B5</a>; the refinancing link comes from a summary of the first part of the document, not the full text</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Greenhaven dumped all its Accenture while Pzena loaded up&quot; is half sourced.</strong>",
+              "html": "<p><strong>&quot;Greenhaven dumped all its Accenture while Pzena loaded up&quot; is half sourced.</strong> The post says Greenhaven sold its whole Accenture stake (about 3.4 million shares) in Q3 while Pzena added 18% to more than 6 million shares. It also says Yacktman roughly halved its Coca-Cola stake and Parnassus sold nearly all its Realty Income. The post promotes the author's own 13F tool and drew no comments. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xrhd2j/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "\"Greenhaven dumped all its Accenture while Pzena loaded up\" is half sourced. The post says Greenhaven sold its whole Accenture stake (about 3.4 million shares) in Q3 while Pzena added 18% to more than 6 million shares. It also says Yacktman roughly halved its Coca-Cola stake and Parnassus sold nearly all its Realty Income. The post promotes the author's own 13F tool and drew no comments. Thread Reported for the Greenhaven exit, from Valuesider citing the 13F filed 26 October 2026 against a Q2 holding of 3,384,681 shares on Fintel ; Unconfirmed for the Pzena, Yacktman and Parnassus moves; no 13F was opened",
+              "status": "reported",
+              "status_html": "<p>Reported for the Greenhaven exit, from <a href=\"https://valuesider.com/insights/2026-q3/edgar-wachenheim-iii-acn-position-exited\" target=\"_blank\" rel=\"noopener noreferrer\">Valuesider</a> citing the 13F filed 26 October 2026 against a Q2 holding of 3,384,681 shares on <a href=\"https://fintel.io/so/us/acn/greenhaven-associates\" target=\"_blank\" rel=\"noopener noreferrer\">Fintel</a>; <strong>Unconfirmed</strong> for the Pzena, Yacktman and Parnassus moves; no 13F was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "valuesider.com",
+                "fintel.io"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Pepsi (PEP): the pitch calls it cheap against its own history, and the top reply says it is one of the dearer stocks on growth.</strong>",
+              "html": "<p><strong>Pepsi (PEP): the pitch calls it cheap against its own history, and the top reply says it is one of the dearer stocks on growth.</strong> The poster gives $141 a share, a forward P/E of about 16.5x (the 4th percentile of its 10-year range, against a median of 22.9x), and Coca-Cola at 27.8x. The 12-point reply gives a PEG of 4.57 and a free-cash-flow yield under 6%, and says Coca-Cola is cheaper because it grows &quot;drastically faster&quot;. Others pointed to flat revenue, commodity costs and GLP-1 drugs as the reasons the multiple fell, and one said &quot;defensive just means it might fall less, not that it won't fall&quot;. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xqs4ba/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Pepsi (PEP): the pitch calls it cheap against its own history, and the top reply says it is one of the dearer stocks on growth. The poster gives $141 a share, a forward P/E of about 16.5x (the 4th percentile of its 10-year range, against a median of 22.9x), and Coca-Cola at 27.8x. The 12-point reply gives a PEG of 4.57 and a free-cash-flow yield under 6%, and says Coca-Cola is cheaper because it grows \"drastically faster\". Others pointed to flat revenue, commodity costs and GLP-1 drugs as the reasons the multiple fell, and one said \"defensive just means it might fall less, not that it won't fall\". Thread Single source · every figure is as posted; no Pepsi filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · every figure is as posted; no Pepsi filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>McCormick (MKC): the pitch's forward P/E describes a company its shareholders will own only 35% of.</strong>",
+              "html": "<p><strong>McCormick (MKC): the pitch's forward P/E describes a company its shareholders will own only 35% of.</strong> The poster cites a 15x forward P/E, a 4% yield and a PEG of 0.70, with the stock down 30% this year. The best reply says the forward P/E is &quot;just the old McCormick, about a third of the combined sales&quot;, and that it is better to wait for the first full year of numbers after the deal. Other replies point to the cash, new debt and new shares funding the deal, $2.11 billion of short-term debt against $331 million of cash, and EV of about 25x free cash flow on $742 million. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xr1d6i/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "McCormick (MKC): the pitch's forward P/E describes a company its shareholders will own only 35% of. The poster cites a 15x forward P/E, a 4% yield and a PEG of 0.70, with the stock down 30% this year. The best reply says the forward P/E is \"just the old McCormick, about a third of the combined sales\", and that it is better to wait for the first full year of numbers after the deal. Other replies point to the cash, new debt and new shares funding the deal, $2.11 billion of short-term debt against $331 million of cash, and EV of about 25x free cash flow on $742 million. Thread Reported for the deal terms, from coverage of the 31 March 2026 announcement : McCormick shareholders to own 35%, Unilever shareholders 55.1% and Unilever 9.9%, with $15.7 billion of cash and about $29.1 billion of shares, closing expected mid-2027. The commenters' balance-sheet figures are Single source",
+              "status": "reported",
+              "status_html": "<p>Reported for the deal terms, from <a href=\"https://www.financierworldwide.com/fw-news/2026/4/2/mccormick-combines-with-unilever-food-units-in-448bn-deal\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the 31 March 2026 announcement</a>: McCormick shareholders to own 35%, Unilever shareholders 55.1% and Unilever 9.9%, with $15.7 billion of cash and about $29.1 billion of shares, closing expected mid-2027. The commenters' balance-sheet figures are Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "financierworldwide.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Celsius (CELH): a commenter showed that &quot;Alani Nu passed Celsius&quot; is mostly Celsius passing itself, and the release confirms it.</strong>",
+              "html": "<p><strong>Celsius (CELH): a commenter showed that &quot;Alani Nu passed Celsius&quot; is mostly Celsius passing itself, and the release confirms it.</strong> The thread linked a Barron's piece. The useful reply says Celsius bought Alani Nu, that the Alani Nu brand grew while the CELSIUS brand shrank, and that gross margin fell on aluminium, fuel and distribution mix. So the problem is the flagship brand, not the category. Another reply calls it about 30x free cash flow on $321 million and says &quot;growth is the whole bet&quot;. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xqw2qv/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Celsius (CELH): a commenter showed that \"Alani Nu passed Celsius\" is mostly Celsius passing itself, and the release confirms it. The thread linked a Barron's piece. The useful reply says Celsius bought Alani Nu, that the Alani Nu brand grew while the CELSIUS brand shrank, and that gross margin fell on aluminium, fuel and distribution mix. So the problem is the flagship brand, not the category. Another reply calls it about 30x free cash flow on $321 million and says \"growth is the whole bet\". Thread Verified against Celsius's Q3 2026 release : revenue up 16.8% to $847.2 million, Alani Nu up about 24% to $410.1 million, CELSIUS brand down about 6% to $356.8 million, and gross margin of 46.8% against 51.3%. The release mentions \"its new brand-led organizational structure\". The valuation figures are Single source",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001341766/000134176626000059/ex9913q2026.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Celsius's Q3 2026 release</a>: revenue up 16.8% to $847.2 million, Alani Nu up about 24% to $410.1 million, CELSIUS brand down about 6% to $356.8 million, and gross margin of 46.8% against 51.3%. The release mentions &quot;its new brand-led organizational structure&quot;. The valuation figures are Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Kratos (KTOS): the backlog nearly doubled in five quarters with almost no Defense Department contract announcements behind it.</strong>",
+              "html": "<p><strong>Kratos (KTOS): the backlog nearly doubled in five quarters with almost no Defense Department contract announcements behind it.</strong> A student's pitch gives RPO rising from $1.41 billion (June 2025) to $2.65 billion (September 2026) and EV/sales of 3.2x. One reply found a February 2026 announcement the tool missed and suggested a $1.45 billion MACH-TB award made through a different procurement channel. The other said operating cash flow is still negative and the company sold $1.35 billion of new stock this year. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xrg0i7/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Kratos (KTOS): the backlog nearly doubled in five quarters with almost no Defense Department contract announcements behind it. A student's pitch gives RPO rising from $1.41 billion (June 2025) to $2.65 billion (September 2026) and EV/sales of 3.2x. One reply found a February 2026 announcement the tool missed and suggested a $1.45 billion MACH-TB award made through a different procurement channel. The other said operating cash flow is still negative and the company sold $1.35 billion of new stock this year. Thread Single source · no Kratos filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Kratos filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>ServiceNow (NOW): &quot;22x forward earnings&quot; excludes stock compensation, and the replies say that changes the picture.</strong>",
+              "html": "<p><strong>ServiceNow (NOW): &quot;22x forward earnings&quot; excludes stock compensation, and the replies say that changes the picture.</strong> One commenter put the real forward multiple in the &quot;mid to high 40s&quot; once amortisation and stock compensation are counted. Another argued that EV/FCF of about 22x is the better measure for a company growing 20%, because buybacks offset the dilution. The poster cites Q4 cRPO growth guidance of 18.5%. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xqwz9s/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "ServiceNow (NOW): \"22x forward earnings\" excludes stock compensation, and the replies say that changes the picture. One commenter put the real forward multiple in the \"mid to high 40s\" once amortisation and stock compensation are counted. Another argued that EV/FCF of about 22x is the better measure for a company growing 20%, because buybacks offset the dilution. The poster cites Q4 cRPO growth guidance of 18.5%. Thread Single source · no ServiceNow filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no ServiceNow filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Process and valuation method",
+          "category": "process",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The cyclical-P/E argument from the last entry came back as a research-shop memo, and the sub rejected the messenger more than the method.</strong>",
+              "html": "<p><strong>The cyclical-P/E argument from the last entry came back as a research-shop memo, and the sub rejected the messenger more than the method.</strong> A 58-point post from &quot;Cascadia Analytics&quot; makes the same point the last entry's Must know did: Micron at 3.6x forward earnings is a peak reading, and the only honest denominator for a cyclical is earnings averaged across the cycle. It cites FactSet via Morningstar for a fall in the SOX forward P/E from 26.1x to 13.0x. The two top replies (87 and 85 points) called it AI-generated, hosted on what one called &quot;a property management domain&quot;. The objections worth keeping: a 40% earnings fall would still leave Micron at a P/E of 6.3; there is no inventory to &quot;clear&quot; in a shortage; and long-term contracts beyond 2028 are not addressed. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xqqqga/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The cyclical-P/E argument from the last entry came back as a research-shop memo, and the sub rejected the messenger more than the method. A 58-point post from \"Cascadia Analytics\" makes the same point the last entry's Must know did: Micron at 3.6x forward earnings is a peak reading, and the only honest denominator for a cyclical is earnings averaged across the cycle. It cites FactSet via Morningstar for a fall in the SOX forward P/E from 26.1x to 13.0x. The two top replies (87 and 85 points) called it AI-generated, hosted on what one called \"a property management domain\". The objections worth keeping: a 40% earnings fall would still leave Micron at a P/E of 6.3; there is no inventory to \"clear\" in a shortage; and long-term contracts beyond 2028 are not addressed. Thread Single source · none of the memo's figures were checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · none of the memo's figures were checked</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Nvidia's board opened an independent investigation on 8 November into Jensen Huang's ties to an executive U.S. intelligence reportedly says passed information to Beijing.</strong>",
+              "html": "<p><strong>Nvidia's board opened an independent investigation on 8 November into Jensen Huang's ties to an executive U.S. intelligence reportedly says passed information to Beijing.</strong> Three threads (65, 50 and 23 points) asked whether this deserves a discount in Nvidia's multiple. The most useful reply said a discount needs &quot;a plausible path from the investigation to cash flows&quot;, such as confirmed exposure of sensitive information, fallout with customers or regulators, or leadership disruption, and that personal conduct alone is not enough. Another commenter argued that if Nvidia is strategic infrastructure, choosing its CEO stops being only the board's decision. The 50-point thread was mostly dip-buying (&quot;If NVDA drops 10% or more on Monday…. I'm buying!&quot;); one reply compared Nvidia's long-run path to Cisco's after 2000. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xra4bp/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a>, <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xrfbvj/\" target=\"_blank\" rel=\"noopener noreferrer\">buying thread</a></p>",
+              "text": "Nvidia's board opened an independent investigation on 8 November into Jensen Huang's ties to an executive U.S. intelligence reportedly says passed information to Beijing. Three threads (65, 50 and 23 points) asked whether this deserves a discount in Nvidia's multiple. The most useful reply said a discount needs \"a plausible path from the investigation to cash flows\", such as confirmed exposure of sensitive information, fallout with customers or regulators, or leadership disruption, and that personal conduct alone is not enough. Another commenter argued that if Nvidia is strategic infrastructure, choosing its CEO stops being only the board's decision. The 50-point thread was mostly dip-buying (\"If NVDA drops 10% or more on Monday…. I'm buying!\"); one reply compared Nvidia's long-run path to Cisco's after 2000. Thread , buying thread Reported, from CNBC's text of the board statement and Huang's email : \"A committee of independent directors, assisted by outside independent counsel, will oversee the investigation\", and the board \"has no reason to believe that either national security or NVIDIA secrets were compromised\". CNBC reports the shares down about 5% premarket on 9 November and results due 17 November. The congressional request for a closed-door briefing, proposed for 18 November, is Reported from coverage of the 4 November letter . No Nvidia filing was opened",
+              "status": "reported",
+              "status_html": "<p>Reported, from <a href=\"https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-email-board-of-directors-statement.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC's text of the board statement and Huang's email</a>: &quot;A committee of independent directors, assisted by outside independent counsel, will oversee the investigation&quot;, and the board &quot;has no reason to believe that either national security or NVIDIA secrets were compromised&quot;. <a href=\"https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> reports the shares down about 5% premarket on 9 November and results due 17 November. The congressional request for a closed-door briefing, proposed for 18 November, is Reported from <a href=\"https://redstate.com/ben-smith/2026/11/05/gop-chairmen-want-answers-from-nvidias-jensen-huang-after-alleged-chinese-spy-plot-n2209092\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the 4 November letter</a>. No Nvidia filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "CNBC",
+                "redstate.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A former hedge-fund analyst argued the AI build-out looks more like the 1990s telecom fibre bubble than the dot-com one.</strong>",
+              "html": "<p><strong>A former hedge-fund analyst argued the AI build-out looks more like the 1990s telecom fibre bubble than the dot-com one.</strong> The essay's evidence: $500 billion of fibre spending in 1993–2002, under 5% of capacity in use by 2002, and Tobin's q falling for Meta (to about 6.2x) and Alphabet (about 9x) while capex hits records. It compares CoreWeave and Oracle borrowing against GPUs to the vendor financing of 2000. The best counter-argument in the thread was that the AGI scenario skews the expected value, and the author agreed the technology can be revolutionary and still come with a crash. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xr69cz/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A former hedge-fund analyst argued the AI build-out looks more like the 1990s telecom fibre bubble than the dot-com one. The essay's evidence: $500 billion of fibre spending in 1993–2002, under 5% of capacity in use by 2002, and Tobin's q falling for Meta (to about 6.2x) and Alphabet (about 9x) while capex hits records. It compares CoreWeave and Oracle borrowing against GPUs to the vendor financing of 2000. The best counter-argument in the thread was that the AGI scenario skews the expected value, and the author agreed the technology can be revolutionary and still come with a crash. Thread Single source · the historical and q figures were not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the historical and q figures were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "The healthcare thread was mostly one-word answers (Novo, UNH, JNJ, MDT), and the top reply, at 44 points, was &quot;Time to rotate out now that this sub is asking…",
+              "html": "<p>The healthcare thread was mostly one-word answers (Novo, UNH, JNJ, MDT), and the top reply, at 44 points, was &quot;Time to rotate out now that this sub is asking questions on the sector&quot;.</p>",
+              "text": "The healthcare thread was mostly one-word answers (Novo, UNH, JNJ, MDT), and the top reply, at 44 points, was \"Time to rotate out now that this sub is asking questions on the sector\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "A post arguing that this year&#x27;s worst S&amp;P 500 stocks (FIS, CSGP, BSX, NRG) will fall less was rejected on its logic.",
+              "html": "<p>A post arguing that this year's worst S&amp;P 500 stocks (FIS, CSGP, BSX, NRG) will fall less was rejected on its logic. A former FIS employee called it &quot;horribly managed&quot;, and a commenter at a competitor said Boston Scientific will keep losing ablation business.</p>",
+              "text": "A post arguing that this year's worst S&P 500 stocks (FIS, CSGP, BSX, NRG) will fall less was rejected on its logic. A former FIS employee called it \"horribly managed\", and a commenter at a competitor said Boston Scientific will keep losing ablation business.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Wolters Kluwer came back on the other side of the &quot;AI losers&quot; debate, pitched by a holder as a winner because checking whether information is correct becomes…",
+              "html": "<p>Wolters Kluwer came back on the other side of the &quot;AI losers&quot; debate, pitched by a holder as a winner because checking whether information is correct becomes scarce. A reply said the idea is already priced in.</p>",
+              "text": "Wolters Kluwer came back on the other side of the \"AI losers\" debate, pitched by a holder as a winner because checking whether information is correct becomes scarce. A reply said the idea is already priced in.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> ValueInvesting.",
+              "html": "<p><strong>Read:</strong> ValueInvesting. The link post &quot;The AI Buildout Won't Stop&quot; has no body and was skipped; the link post &quot;Something, Nothing, or Everything?&quot; was read through its comments, which were about Huang. <strong>Sources checked:</strong> Berkshire Hathaway's SEC filing index and Berkshire's news page, for 6 to 9 November 2026.</p>",
+              "text": "Read: ValueInvesting. The link post \"The AI Buildout Won't Stop\" has no body and was skipped; the link post \"Something, Nothing, or Everything?\" was read through its comments, which were about Huang. Sources checked: Berkshire Hathaway's SEC filing index and Berkshire's news page, for 6 to 9 November 2026.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none beyond what is covered above.",
+              "html": "<p><strong>Announced, not discussed:</strong> none beyond what is covered above. Berkshire's news page lists &quot;Third Quarter Earnings 2026&quot; on 7 November, and EDGAR shows an 8-K (results), the Q3 10-Q and a 424B5 (yen notes) on 9 November; all three are covered in Must know and Filings. The Q3 10-Q's monthly repurchase table could not be read with this tool.</p>",
+              "text": "Announced, not discussed: none beyond what is covered above. Berkshire's news page lists \"Third Quarter Earnings 2026\" on 7 November, and EDGAR shows an 8-K (results), the Q3 10-Q and a 424B5 (yen notes) on 9 November; all three are covered in Must know and Filings. The Q3 10-Q's monthly repurchase table could not be read with this tool. Verified against EDGAR's filing index for Berkshire and Berkshire's news page",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing index for Berkshire</a> and <a href=\"https://www.berkshirehathaway.com/news/2026news.html\" target=\"_blank\" rel=\"noopener noreferrer\">Berkshire's news page</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "berkshirehathaway.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> nov is a month abbreviation in two post titles (a special-situations newsletter and the Kratos pitch), not a name.",
+              "html": "<p><strong>Flagged terms set aside:</strong> <em>nov</em> is a month abbreviation in two post titles (a special-situations newsletter and the Kratos pitch), not a name.</p>",
+              "text": "Flagged terms set aside: nov is a month abbreviation in two post titles (a special-situations newsletter and the Kratos pitch), not a name.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-06",
       "title": "Value investing digest",
       "intro_html": "<p>This run came the day after a sharp sell-off on 5 November, which coverage blames on a Democratic midterm sweep and fears of data-centre restrictions. Most of the hot list reacted to it: &quot;Why Is the Stock Market Getting Destroyed Today?&quot; (310 points), &quot;What are you buying today?&quot; and a 296-point post calling Nvidia a bargain at 13x forward earnings. The best material was the pushback on that post, a long Uber pitch with a reply that challenges its free-cash-flow figure, and a backtest of seven value screens run under the same conditions.</p>",
@@ -3084,6 +3360,19 @@
           "due_label": "Q3 2026 results and call, listed as estimated"
         },
         {
+          "headline": "<strong>Nvidia's board investigation into Jensen Huang, opened 8 November 2026.</strong>",
+          "html": "<p><strong>Nvidia's board investigation into Jensen Huang, opened 8 November 2026.</strong> A committee of independent directors, assisted by outside independent counsel, is reviewing Huang's ties to a MegaSpeed executive whom U.S. intelligence reportedly says passed information to Beijing. The board says it has &quot;no reason to believe that either national security or NVIDIA secrets were compromised&quot;, and Huang stays on as CEO. Separately, three House committee chairs have asked him for a closed-door briefing, proposed for 18 November. The sub's question is whether any of this reaches cash flows, which one reply says needs confirmed exposure, customer or regulatory fallout, or leadership disruption.</p>",
+          "text": "Nvidia's board investigation into Jensen Huang, opened 8 November 2026. A committee of independent directors, assisted by outside independent counsel, is reviewing Huang's ties to a MegaSpeed executive whom U.S. intelligence reportedly says passed information to Beijing. The board says it has \"no reason to believe that either national security or NVIDIA secrets were compromised\", and Huang stays on as CEO. Separately, three House committee chairs have asked him for a closed-door briefing, proposed for 18 November. The sub's question is whether any of this reaches cash flows, which one reply says needs confirmed exposure, customer or regulatory fallout, or leadership disruption. Reported, from CNBC's text of the board statement and CNBC on 9 November ; no Nvidia filing opened · 2026-11-09",
+          "status": "reported",
+          "status_html": "<p>Reported, from <a href=\"https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-email-board-of-directors-statement.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC's text of the board statement</a> and <a href=\"https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC on 9 November</a>; no Nvidia filing opened · 2026-11-09</p>",
+          "updated": "2026-11-09",
+          "sources": [
+            "CNBC"
+          ],
+          "due": "2026-11-17",
+          "due_label": "Q3 results, as reported"
+        },
+        {
           "headline": "<strong>Anthropic's IPO, and the credit terms already on record ahead of it.</strong>",
           "html": "<p><strong>Anthropic's IPO, and the credit terms already on record ahead of it.</strong> The S-1 was submitted confidentially on 1 June 2026 and made public on 26 October 2026 (Anthropic, PBC, CIK 0002130357, file number 333-299633). Coverage reports a Nasdaq listing under ANT, with share count and price range not yet set, and gives conflicting revenue and loss figures from it. What was reported before the filing: Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion, described as adjusted-profitable and disclosed at a closed investor meeting on 14 October; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026 within a $35 billion Broadcom chip financing led by Apollo, with about $4.4 billion of subordinated debt near an 8.5% yield and senior debt near 5.75%; a listing expected in November at a valuation target reported up to $2 trillion. KBRA was reportedly not given free cash flow or EBITDA and estimated them.</p>",
           "text": "Anthropic's IPO, and the credit terms already on record ahead of it. The S-1 was submitted confidentially on 1 June 2026 and made public on 26 October 2026 (Anthropic, PBC, CIK 0002130357, file number 333-299633). Coverage reports a Nasdaq listing under ANT, with share count and price range not yet set, and gives conflicting revenue and loss figures from it. What was reported before the filing: Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion, described as adjusted-profitable and disclosed at a closed investor meeting on 14 October; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026 within a $35 billion Broadcom chip financing led by Apollo, with about $4.4 billion of subordinated debt near an 8.5% yield and senior debt near 5.75%; a listing expected in November at a valuation target reported up to $2 trillion. KBRA was reportedly not given free cash flow or EBITDA and estimated them. Verified that the S-1 was filed publicly on 26 October 2026, against EDGAR's full-text index; the S-1 itself was too large for this tool to open, so none of its figures are recorded here. The pre-filing items are Reported, from SiliconANGLE and Crypto Briefing's summary of the FT report , and the listing details from coverage of the filing · 2026-10-29",
@@ -3154,6 +3443,19 @@
           "due_label": "consultation closes; decision due by 2027-06-30"
         },
         {
+          "headline": "<strong>McCormick's combination with Unilever's food business, announced 31 March 2026.</strong>",
+          "html": "<p><strong>McCormick's combination with Unilever's food business, announced 31 March 2026.</strong> McCormick pays $15.7 billion of cash and about $29.1 billion of shares; on completion, McCormick shareholders own 35%, Unilever shareholders 55.1% and Unilever 9.9%. The sub's point on 9 November was that McCormick's 15x forward P/E describes only the old company.</p>",
+          "text": "McCormick's combination with Unilever's food business, announced 31 March 2026. McCormick pays $15.7 billion of cash and about $29.1 billion of shares; on completion, McCormick shareholders own 35%, Unilever shareholders 55.1% and Unilever 9.9%. The sub's point on 9 November was that McCormick's 15x forward P/E describes only the old company. Reported, from coverage of the announcement ; no McCormick filing opened · 2026-11-09",
+          "status": "reported",
+          "status_html": "<p>Reported, from <a href=\"https://www.financierworldwide.com/fw-news/2026/4/2/mccormick-combines-with-unilever-food-units-in-448bn-deal\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the announcement</a>; no McCormick filing opened · 2026-11-09</p>",
+          "updated": "2026-11-09",
+          "sources": [
+            "financierworldwide.com"
+          ],
+          "due": "2027-06-30",
+          "due_label": "close \"expected in mid-2027\", as reported"
+        },
+        {
           "headline": "<strong>Alcoa's AliGroup acquisition from South32, funded with $2.6 billion of new notes.</strong>",
           "html": "<p><strong>Alcoa's AliGroup acquisition from South32, funded with $2.6 billion of new notes.</strong> $1.5 billion of 6.625% senior notes due 2034 and $1.1 billion of 6.875% notes due 2036 completed 23 September 2026, with proceeds and cash on hand funding approximately $3.1 billion of cash consideration; remaining bridge commitments were terminated. South32 shareholders approved on 15 October 2026 and the deal is stated as on track to close in the first half of 2027. The sub's open question is whether Alcoa is buying more of a loss-making alumina business at a cyclical peak in aluminium; a commenter could not reconcile the bear case's $5.5 billion of two-year obligations with filings showing roughly $1 million of long-term debt due within a year and no maturity on the new notes before 2034.</p>",
           "text": "Alcoa's AliGroup acquisition from South32, funded with $2.6 billion of new notes. $1.5 billion of 6.625% senior notes due 2034 and $1.1 billion of 6.875% notes due 2036 completed 23 September 2026, with proceeds and cash on hand funding approximately $3.1 billion of cash consideration; remaining bridge commitments were terminated. South32 shareholders approved on 15 October 2026 and the deal is stated as on track to close in the first half of 2027. The sub's open question is whether Alcoa is buying more of a loss-making alumina business at a cyclical peak in aluminium; a commenter could not reconcile the bear case's $5.5 billion of two-year obligations with filings showing roughly $1 million of long-term debt due within a year and no maturity on the new notes before 2034. Verified for the notes terms, the dates and the use of proceeds against Alcoa's notes announcement and its Q3 2026 release of 15 October ; the survival test and the segment figures are one member's own work · 2026-10-20",
@@ -3204,6 +3506,19 @@
           "sources": [],
           "due": "2032-10-07",
           "due_label": "half the constellation operational, per the FCC grant; all of it by 2035-10-07"
+        },
+        {
+          "headline": "<strong>Berkshire Hathaway is buying back its own stock again: about $9.6 billion in Q3 2026 and about $14.4 billion over nine months.</strong>",
+          "html": "<p><strong>Berkshire Hathaway is buying back its own stock again: about $9.6 billion in Q3 2026 and about $14.4 billion over nine months.</strong> On 9 November it also filed a preliminary prospectus for three series of yen senior notes, with amounts and coupons blank and the proceeds for &quot;general corporate purposes&quot;. The draft refers to ¥73.4 billion of 0.955% notes due 2026 and ¥23.0 billion of 0.203% notes due 2027. The sub's open question is whether buybacks continue with B shares above the $522.76 price-to-book line one member draws. Commenters say Berkshire's actual test is intrinsic value, not a book multiple.</p>",
+          "text": "Berkshire Hathaway is buying back its own stock again: about $9.6 billion in Q3 2026 and about $14.4 billion over nine months. On 9 November it also filed a preliminary prospectus for three series of yen senior notes, with amounts and coupons blank and the proceeds for \"general corporate purposes\". The draft refers to ¥73.4 billion of 0.955% notes due 2026 and ¥23.0 billion of 0.203% notes due 2027. The sub's open question is whether buybacks continue with B shares above the $522.76 price-to-book line one member draws. Commenters say Berkshire's actual test is intrinsic value, not a book multiple. Verified for the repurchase totals against the Q3 2026 release and for the offering against the 424B5 ; the average repurchase prices in the 10-Q were not read · 2026-11-09",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the repurchase totals against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526452530/brka-ex99_1.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q3 2026 release</a> and for the offering against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526452592/d86634d424b5.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 424B5</a>; the average repurchase prices in the 10-Q were not read · 2026-11-09</p>",
+          "updated": "2026-11-09",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": null,
+          "due_label": null
         },
         {
           "headline": "<strong>Meta's $25 billion New Mexico judgment, entered 21 October 2026 and under appeal.</strong>",
@@ -3373,11 +3688,11 @@
         },
         {
           "headline": "<strong>Whether a low forward P/E makes a chipmaker cheap.</strong>",
-          "html": "<p><strong>Whether a low forward P/E makes a chipmaker cheap.</strong> Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at &quot;~13x&quot; forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it &quot;expects the structure in which demand exceeds supply to persist through 2030&quot;.</p>",
-          "text": "Whether a low forward P/E makes a chipmaker cheap. Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at \"~13x\" forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it \"expects the structure in which demand exceeds supply to persist through 2030\". Single source each · a debate, not a finding; the SK hynix quote is Verified against its Q3 2026 results · 2026-11-06",
+          "html": "<p><strong>Whether a low forward P/E makes a chipmaker cheap.</strong> Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at &quot;~13x&quot; forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it &quot;expects the structure in which demand exceeds supply to persist through 2030&quot;.\nOn 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x.</p>",
+          "text": "Whether a low forward P/E makes a chipmaker cheap. Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at \"~13x\" forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it \"expects the structure in which demand exceeds supply to persist through 2030\". On 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x. Single source each · a debate, not a finding; the SK hynix quote is Verified against its Q3 2026 results · 2026-11-09",
           "status": "single-source",
-          "status_html": "<p>Single source each · a debate, not a finding; the SK hynix quote is <strong>Verified</strong> against <a href=\"https://news.skhynix.com/en/q3-2026-business-results/\" target=\"_blank\" rel=\"noopener noreferrer\">its Q3 2026 results</a> · 2026-11-06</p>",
-          "updated": "2026-11-06",
+          "status_html": "<p>Single source each · a debate, not a finding; the SK hynix quote is <strong>Verified</strong> against <a href=\"https://news.skhynix.com/en/q3-2026-business-results/\" target=\"_blank\" rel=\"noopener noreferrer\">its Q3 2026 results</a> · 2026-11-09</p>",
+          "updated": "2026-11-09",
           "sources": [
             "news.skhynix.com"
           ],
@@ -3397,11 +3712,11 @@
         },
         {
           "headline": "<strong>&quot;AI losers&quot; in data and information businesses</strong>",
-          "html": "<p><strong>&quot;AI losers&quot; in data and information businesses</strong> (Wolters Kluwer, RELX, Intuit, S&amp;P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded. On 14 October the debate narrowed to Intuit, nominated as a value trap on the strength of one member's own AI-assisted tax return and defended on the grounds that QuickBooks, not TurboTax, carries the value. Adobe was defended on switching costs three days after a former employee called it a trap. On 23 October both names came back with better material on each side: a filings-sourced Adobe memo whose argument is what the price implies rather than what it is worth — about 2.1% annual owner-earnings growth for ten years at a 10% required return — against a US Steel analogy the author rebutted at length; and a Wolters Kluwer holder calling it fairly valued rather than cheap, naming Expert AI adoption, corporate expense growth and earnings quality as the open questions and waiting for the November report, which the thread does not date.</p>",
-          "text": "\"AI losers\" in data and information businesses (Wolters Kluwer, RELX, Intuit, S&P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded. On 14 October the debate narrowed to Intuit, nominated as a value trap on the strength of one member's own AI-assisted tax return and defended on the grounds that QuickBooks, not TurboTax, carries the value. Adobe was defended on switching costs three days after a former employee called it a trap. On 23 October both names came back with better material on each side: a filings-sourced Adobe memo whose argument is what the price implies rather than what it is worth — about 2.1% annual owner-earnings growth for ten years at a 10% required return — against a US Steel analogy the author rebutted at length; and a Wolters Kluwer holder calling it fairly valued rather than cheap, naming Expert AI adoption, corporate expense growth and earnings quality as the open questions and waiting for the November report, which the thread does not date. Single source either way · 2026-10-23",
+          "html": "<p><strong>&quot;AI losers&quot; in data and information businesses</strong> (Wolters Kluwer, RELX, Intuit, S&amp;P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded. On 14 October the debate narrowed to Intuit, nominated as a value trap on the strength of one member's own AI-assisted tax return and defended on the grounds that QuickBooks, not TurboTax, carries the value. Adobe was defended on switching costs three days after a former employee called it a trap. On 23 October both names came back with better material on each side: a filings-sourced Adobe memo whose argument is what the price implies rather than what it is worth — about 2.1% annual owner-earnings growth for ten years at a 10% required return — against a US Steel analogy the author rebutted at length; and a Wolters Kluwer holder calling it fairly valued rather than cheap, naming Expert AI adoption, corporate expense growth and earnings quality as the open questions and waiting for the November report, which the thread does not date. On 9 November a holder pitched Wolters Kluwer and Verisk as AI winners instead, arguing that checking whether information is correct becomes scarce; a reply said that is already priced in.</p>",
+          "text": "\"AI losers\" in data and information businesses (Wolters Kluwer, RELX, Intuit, S&P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded. On 14 October the debate narrowed to Intuit, nominated as a value trap on the strength of one member's own AI-assisted tax return and defended on the grounds that QuickBooks, not TurboTax, carries the value. Adobe was defended on switching costs three days after a former employee called it a trap. On 23 October both names came back with better material on each side: a filings-sourced Adobe memo whose argument is what the price implies rather than what it is worth — about 2.1% annual owner-earnings growth for ten years at a 10% required return — against a US Steel analogy the author rebutted at length; and a Wolters Kluwer holder calling it fairly valued rather than cheap, naming Expert AI adoption, corporate expense growth and earnings quality as the open questions and waiting for the November report, which the thread does not date. On 9 November a holder pitched Wolters Kluwer and Verisk as AI winners instead, arguing that checking whether information is correct becomes scarce; a reply said that is already priced in. Single source either way · 2026-11-09",
           "status": "single-source",
-          "status_html": "<p>Single source either way · 2026-10-23</p>",
-          "updated": "2026-10-23",
+          "status_html": "<p>Single source either way · 2026-11-09</p>",
+          "updated": "2026-11-09",
           "sources": [],
           "due": null,
           "due_label": null
