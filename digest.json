@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09",
+  "generated": "2026-11-12",
   "meta": {
     "feed": "valueinvesting",
     "title": "Value Investing Digest",
@@ -21,6 +21,245 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-12",
+      "title": "Value investing digest",
+      "intro_html": "<p>Nvidia dominated again. Over three days the question moved from whether the board investigation deserved a discount to whether Nvidia at &quot;around 10x&quot; forward earnings is a value stock, and the run ended with Huang's resignation, which the threads read had not yet caught up with. The other material worth reading was Costco's $30 special dividend, which the sub turned into an argument about paying a high multiple for predictability, plus asset-based pitches for Macy's and Weyerhaeuser and a worked note on Bogle's return formula.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Jensen Huang resigned as Nvidia's CEO and from its board on 11 November, and CFO Colette Kress is interim CEO.</strong>",
+              "html": "<p><strong>Jensen Huang resigned as Nvidia's CEO and from its board on 11 November, and CFO Colette Kress is interim CEO.</strong> Nvidia's 8-K, filed the morning of 12 November, gives no reason. Three days earlier the board had said it had confidence in him, and the sub's working assumption was that he would stay.</p>\n<ul>\n<li><strong>Why it matters:</strong> this corrects what the sub was treating as settled. A 53-point post argued that the affair &quot;is only a headline risk&quot; because resignation was &quot;unlikely&quot;. In the 327-point &quot;is NVIDIA actually a Value Stock?&quot; thread, a reply on key-person risk had 85 points: &quot;If Jensen Huang gets replaced as CEO, it is not unlikely for many of the crucial engineers to follow him.&quot; Another said the risk &quot;may already be factored into the price&quot;. Barron's coverage, pasted into a thread, says there is &quot;no clear candidate to take over as CEO within the company&quot;. It also notes that Nvidia has no dual-class stock and Huang holds only 3.4% (citing FactSet). The best reply on succession: &quot;If the CTO becomes CEO, buy the dip. If the CFO becomes the CEO, buy AMD.&quot; A commenter asked whether Kress could be implicated in the China export questions herself; nobody had an answer.</li>\n<li><strong>What to watch:</strong> Q3 fiscal 2027 results on 17 November at about 1:20 p.m. PT, &quot;as previously scheduled&quot; per the release; the permanent CEO search, which covers internal and external candidates; the House committees' request for Huang to appear, which Barron's says could lead to subpoenas; and whether a later filing gives a reason or the terms of his departure.</li>\n<li><strong>Numbers:</strong> as filed: resignation accepted 11 November 2026, effective immediately; Kress, 59, CFO since 2013, stays CFO as well; Harvey C. Jones, 73, a director since 1993, appointed the board's first chair. As posted, not checked: &quot;around $158&quot; a share and a forward P/E &quot;around 10x&quot; in the value thread, and &quot;~21x trailing&quot; and &quot;~14x forward&quot; at about $167 in the headline-risk post. Also as posted: Barron's text, quoted by a commenter, gives &quot;less than 11 times forward earnings&quot; against a five-year average of 33.7x, Citi cutting its target to $225 from $285, and shares down 6.9% to $161.75 premarket. Reported: shares down about 10% after the announcement.</li>\n<li><strong>Caveats:</strong> none of the threads fetched this run had reacted to the resignation itself; all of them argue about the possibility. The filing says nothing about severance, equity treatment or a disagreement. The second relationship, with Kimberly Powell, Nvidia's vice president of healthcare, is reported by the New York Times; Nvidia has not confirmed it.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvidiaannouncesceotransiti.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Nvidia's 8-K and release</a>, then <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xtz7d7/\" target=\"_blank\" rel=\"noopener noreferrer\">the value-stock thread</a></li>\n</ul>",
+              "text": "Jensen Huang resigned as Nvidia's CEO and from its board on 11 November, and CFO Colette Kress is interim CEO. Nvidia's 8-K, filed the morning of 12 November, gives no reason. Three days earlier the board had said it had confidence in him, and the sub's working assumption was that he would stay. Why it matters: this corrects what the sub was treating as settled. A 53-point post argued that the affair \"is only a headline risk\" because resignation was \"unlikely\". In the 327-point \"is NVIDIA actually a Value Stock?\" thread, a reply on key-person risk had 85 points: \"If Jensen Huang gets replaced as CEO, it is not unlikely for many of the crucial engineers to follow him.\" Another said the risk \"may already be factored into the price\". Barron's coverage, pasted into a thread, says there is \"no clear candidate to take over as CEO within the company\". It also notes that Nvidia has no dual-class stock and Huang holds only 3.4% (citing FactSet). The best reply on succession: \"If the CTO becomes CEO, buy the dip. If the CFO becomes the CEO, buy AMD.\" A commenter asked whether Kress could be implicated in the China export questions herself; nobody had an answer. What to watch: Q3 fiscal 2027 results on 17 November at about 1:20 p.m. PT, \"as previously scheduled\" per the release; the permanent CEO search, which covers internal and external candidates; the House committees' request for Huang to appear, which Barron's says could lead to subpoenas; and whether a later filing gives a reason or the terms of his departure. Numbers: as filed: resignation accepted 11 November 2026, effective immediately; Kress, 59, CFO since 2013, stays CFO as well; Harvey C. Jones, 73, a director since 1993, appointed the board's first chair. As posted, not checked: \"around $158\" a share and a forward P/E \"around 10x\" in the value thread, and \"~21x trailing\" and \"~14x forward\" at about $167 in the headline-risk post. Also as posted: Barron's text, quoted by a commenter, gives \"less than 11 times forward earnings\" against a five-year average of 33.7x, Citi cutting its target to $225 from $285, and shares down 6.9% to $161.75 premarket. Reported: shares down about 10% after the announcement. Caveats: none of the threads fetched this run had reacted to the resignation itself; all of them argue about the possibility. The filing says nothing about severance, equity treatment or a disagreement. The second relationship, with Kimberly Powell, Nvidia's vice president of healthcare, is reported by the New York Times; Nvidia has not confirmed it. Read next: Nvidia's 8-K and release , then the value-stock thread Verified for the resignation, the interim CEO, the chair and the results date against the 8-K ; the share moves and the Powell report are Reported, from CNBC and Axios ; the multiples are Single source",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the resignation, the interim CEO, the chair and the results date against <a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 8-K</a>; the share moves and the Powell report are Reported, from <a href=\"https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and <a href=\"https://www.axios.com/2026/11/12/nvidia-jensen-huang-out\" target=\"_blank\" rel=\"noopener noreferrer\">Axios</a>; the multiples are Single source</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "r/ValueInvesting",
+                "CNBC",
+                "axios.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Costco declared a $30 special dividend, about $13.3 billion, and a new $4 billion buyback through November 2030.</strong>",
+              "html": "<p><strong>Costco declared a $30 special dividend, about $13.3 billion, and a new $4 billion buyback through November 2030.</strong> The 332-point thread asked why a company at roughly 47–50x earnings would hand cash back rather than reinvest it.</p>\n<ul>\n<li><strong>Why it matters:</strong> the thread tested two reusable ideas. The first is whether buybacks at a high multiple add any value. &quot;Stock buybacks at 47 P/E? Not very accretive to shareholders&quot;, and another reply put $4 billion against a company worth about $500 billion. The second is what a high multiple is paying for. One reply (39 points) saw &quot;a disconnect&quot;: a near-3% special dividend says the board does not see a hyper-growth company, while a 50x P/E prices one. The longest answer argued that the length of a DCF should follow how predictable the cash flows are, 15 to 20 years for companies with 20 to 30 years of steady earnings growth. It groups Costco with Moody's, Cintas, Rollins and Waste Management. Its author values Costco at $660–774 against about $1,080 and expects the stock to &quot;go sideways until the business results catch up with the valuation&quot;.</li>\n<li><strong>What to watch:</strong> record date 24 November, paid 4 December 2026. The new program replaces the 2023 one, which was due to expire in January 2027 with $3.1 billion used.</li>\n<li><strong>Numbers:</strong> as filed in Costco's release of 10 November: $30 a share, &quot;approximately $13.3 billion&quot;, up to $4 billion of repurchases expiring November 2030. As posted, not checked: about $1,000–1,080 a share, a forward P/E of about 47, and $184 million of tariff refunds and interest, which one commenter set against the dividend (citing Yahoo Finance).</li>\n<li><strong>Caveats:</strong> the release gives no reason for the dividend or how it is funded, so the link to the tariff refunds is commenters' speculation. The $660–774 range and the Morningstar figure ($770) that commenter cites are one member's account.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xt1kte/\" target=\"_blank\" rel=\"noopener noreferrer\">the Costco thread</a>, then <a href=\"https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Declares-30-Special-Cash-Dividend-and-Reauthorizes-Stock-Repurchase-Program/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Costco's release</a></li>\n</ul>",
+              "text": "Costco declared a $30 special dividend, about $13.3 billion, and a new $4 billion buyback through November 2030. The 332-point thread asked why a company at roughly 47–50x earnings would hand cash back rather than reinvest it. Why it matters: the thread tested two reusable ideas. The first is whether buybacks at a high multiple add any value. \"Stock buybacks at 47 P/E? Not very accretive to shareholders\", and another reply put $4 billion against a company worth about $500 billion. The second is what a high multiple is paying for. One reply (39 points) saw \"a disconnect\": a near-3% special dividend says the board does not see a hyper-growth company, while a 50x P/E prices one. The longest answer argued that the length of a DCF should follow how predictable the cash flows are, 15 to 20 years for companies with 20 to 30 years of steady earnings growth. It groups Costco with Moody's, Cintas, Rollins and Waste Management. Its author values Costco at $660–774 against about $1,080 and expects the stock to \"go sideways until the business results catch up with the valuation\". What to watch: record date 24 November, paid 4 December 2026. The new program replaces the 2023 one, which was due to expire in January 2027 with $3.1 billion used. Numbers: as filed in Costco's release of 10 November: $30 a share, \"approximately $13.3 billion\", up to $4 billion of repurchases expiring November 2030. As posted, not checked: about $1,000–1,080 a share, a forward P/E of about 47, and $184 million of tariff refunds and interest, which one commenter set against the dividend (citing Yahoo Finance). Caveats: the release gives no reason for the dividend or how it is funded, so the link to the tariff refunds is commenters' speculation. The $660–774 range and the Morningstar figure ($770) that commenter cites are one member's account. Read next: the Costco thread , then Costco's release Verified for the dividend, dates and program terms against Costco's release; the valuation figures are Single source",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the dividend, dates and program terms against Costco's release; the valuation figures are Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "investor.costco.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Filings and insider moves",
+          "category": "filings",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A HeyHolder staffer listed 19 Korean companies that filed decisions to cancel treasury shares between 9 and 12 November.</strong>",
+              "html": "<p><strong>A HeyHolder staffer listed 19 Korean companies that filed decisions to cancel treasury shares between 9 and 12 November.</strong> The largest by share of stock is Humax, cancelling 22.21% (1,671,373 shares). The poster says most of those shares came from its 1 October merger with Humax Holdings and from buying out shareholders who opposed it. Shinsegae, Youngone and F&amp;F are the largest by amount, at about KRW 60–79 billion each. Hanjin Logistics and Heungkuk Metaltech are cancelling all their treasury shares. The post discloses that its author works on the site, and it drew one comment. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xu4gn9/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A HeyHolder staffer listed 19 Korean companies that filed decisions to cancel treasury shares between 9 and 12 November. The largest by share of stock is Humax, cancelling 22.21% (1,671,373 shares). The poster says most of those shares came from its 1 October merger with Humax Holdings and from buying out shareholders who opposed it. Shinsegae, Youngone and F&F are the largest by amount, at about KRW 60–79 billion each. Hanjin Logistics and Heungkuk Metaltech are cancelling all their treasury shares. The post discloses that its author works on the site, and it drew one comment. Thread Single source · DART confirms a Humax share-cancellation decision filed 10 November 2026, but the page returned no figures; the other 18 filings were not opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · DART confirms a Humax share-cancellation decision filed 10 November 2026, but the page returned no figures; the other 18 filings were not opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Macy's (M): the pitch says the real estate alone is worth more than the company.</strong>",
+              "html": "<p><strong>Macy's (M): the pitch says the real estate alone is worth more than the company.</strong> The poster gives $1.4 billion of cash, $2.433 billion of long-term debt, $2.656 billion of lease liabilities, $800 million of 2025 free cash flow, and $4.282 billion of real estate at historical cost. Grown at 5% a year for 25 years, that becomes $14.56 billion, against a $6.48 billion market cap. The best objection asked whether 5% is conservative for mall sites, especially the ones being closed. It suggested counting the property in the margin of safety rather than the intrinsic value, because &quot;the stock will most likely perform on the basis of cash flows&quot;. Another commenter put median commercial real estate growth since 2001 at 4.63% and called 2–4% the conservative range. Others said Kohl's has better real estate and more free cash flow (about $1 billion against $800 million) at under half Macy's market cap. A Sears comparison was rebutted: Sears had no free cash flow for eight years, the poster said, and Macy's is paying down debt. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xtr0n8/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Macy's (M): the pitch says the real estate alone is worth more than the company. The poster gives $1.4 billion of cash, $2.433 billion of long-term debt, $2.656 billion of lease liabilities, $800 million of 2025 free cash flow, and $4.282 billion of real estate at historical cost. Grown at 5% a year for 25 years, that becomes $14.56 billion, against a $6.48 billion market cap. The best objection asked whether 5% is conservative for mall sites, especially the ones being closed. It suggested counting the property in the margin of safety rather than the intrinsic value, because \"the stock will most likely perform on the basis of cash flows\". Another commenter put median commercial real estate growth since 2001 at 4.63% and called 2–4% the conservative range. Others said Kohl's has better real estate and more free cash flow (about $1 billion against $800 million) at under half Macy's market cap. A Sears comparison was rebutted: Sears had no free cash flow for eight years, the poster said, and Macy's is paying down debt. Thread Single source · no Macy's filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Macy's filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Weyerhaeuser (WY): the pitch calls it a cyclical at the bottom, and the best reply says the land is worth only what timber buyers will pay.</strong>",
+              "html": "<p><strong>Weyerhaeuser (WY): the pitch calls it a cyclical at the bottom, and the best reply says the land is worth only what timber buyers will pay.</strong> The poster says timber prices are so low that margins are near zero, the stock is at about $20 against a high of about $40, and land minus debt exceeds the market cap. The reply says 2022 was an outlier, the product of post-Covid stimulus and supply bottlenecks. It says most of the land is &quot;only valuable in the value of the timber it produces&quot;, so the only buyers are other timber companies. It expects about $1 a share of normalised earnings, which at 15x gives about $15. Another commenter said operating cash flow does not cover the dividend. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xu7uck/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Weyerhaeuser (WY): the pitch calls it a cyclical at the bottom, and the best reply says the land is worth only what timber buyers will pay. The poster says timber prices are so low that margins are near zero, the stock is at about $20 against a high of about $40, and land minus debt exceeds the market cap. The reply says 2022 was an outlier, the product of post-Covid stimulus and supply bottlenecks. It says most of the land is \"only valuable in the value of the timber it produces\", so the only buyers are other timber companies. It expects about $1 a share of normalised earnings, which at 15x gives about $15. Another commenter said operating cash flow does not cover the dividend. Thread Single source · no Weyerhaeuser filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Weyerhaeuser filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>91APP (6741.TWO): the pitch says net cash is 44% of the market cap of a Taiwanese retail-software company at about 9x earnings.</strong>",
+              "html": "<p><strong>91APP (6741.TWO): the pitch says net cash is 44% of the market cap of a Taiwanese retail-software company at about 9x earnings.</strong> The poster gives NT$42.40 at the 11 November close and NT$2.07 billion of net cash against a NT$4.7 billion market cap. Gross margin has been 74–75% for five years and 92% of revenue is recurring. The poster calls the NT$1.0 billion iCHEF acquisition poor: it earned about 3.6% pre-tax in H1 2026. Named flags are founder vehicles selling 16.1 million shares since 2022, and a 2022 buyback at NT$134. The thesis breaks, the poster says, on gross margin under 68%, falling revenue, or operating margin under 20% for two quarters; Q3 results are due by 14 November. The poster does not own shares. The replies added nothing beyond a note that cash-heavy balance sheets are common in Asia. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xtmqmx/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "91APP (6741.TWO): the pitch says net cash is 44% of the market cap of a Taiwanese retail-software company at about 9x earnings. The poster gives NT$42.40 at the 11 November close and NT$2.07 billion of net cash against a NT$4.7 billion market cap. Gross margin has been 74–75% for five years and 92% of revenue is recurring. The poster calls the NT$1.0 billion iCHEF acquisition poor: it earned about 3.6% pre-tax in H1 2026. Named flags are founder vehicles selling 16.1 million shares since 2022, and a 2022 buyback at NT$134. The thesis breaks, the poster says, on gross margin under 68%, falling revenue, or operating margin under 20% for two quarters; Q3 results are due by 14 November. The poster does not own shares. The replies added nothing beyond a note that cash-heavy balance sheets are common in Asia. Thread Single source · no 91APP filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no 91APP filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>MercadoLibre (MELI): asked for a valuation, the poster applied 3–6x sales to all of MELI, and a reply questioned whether one multiple fits two businesses.</strong>",
+              "html": "<p><strong>MercadoLibre (MELI): asked for a valuation, the poster applied 3–6x sales to all of MELI, and a reply questioned whether one multiple fits two businesses.</strong> The post itself is a link. The poster's reply takes about $38.52 billion of revenue, grows it 30% then 20%, and applies 3–6x sales across 51 million shares. That gives $180–360 billion of market cap, or $3,500–7,000 a share. The best reply accepts the arithmetic and the credit-cohort argument, which it says MELI's Q3 shareholder letter supports. It points out that one sales multiple across commerce and fintech brings back together the two businesses the poster just said need separate valuations. It also says shipping, fulfilment and marketing costs will not reverse when credit growth normalises. Another commenter pointed to the weakening real, with Brazil about half the business. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xtuu3c/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "MercadoLibre (MELI): asked for a valuation, the poster applied 3–6x sales to all of MELI, and a reply questioned whether one multiple fits two businesses. The post itself is a link. The poster's reply takes about $38.52 billion of revenue, grows it 30% then 20%, and applies 3–6x sales across 51 million shares. That gives $180–360 billion of market cap, or $3,500–7,000 a share. The best reply accepts the arithmetic and the credit-cohort argument, which it says MELI's Q3 shareholder letter supports. It points out that one sales multiple across commerce and fintech brings back together the two businesses the poster just said need separate valuations. It also says shipping, fulfilment and marketing costs will not reverse when credit growth normalises. Another commenter pointed to the weakening real, with Brazil about half the business. Thread Single source · no MELI filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no MELI filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Hims &amp; Hers (HIMS): the poster called the Q3 numbers &quot;NOT good&quot;, citing gross margin down from 74% to 57%.</strong>",
+              "html": "<p><strong>Hims &amp; Hers (HIMS): the poster called the Q3 numbers &quot;NOT good&quot;, citing gross margin down from 74% to 57%.</strong> The post gives revenue of $890.4 million (+49%), EPS of −$0.14, and FY26 revenue guidance of $3.13–3.15 billion, all below the estimates it quotes. It says subscribers fell quarter on quarter for the first time. A reply asked how a 1,700-basis-point margin drop squares with the platform being the moat. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xtkqwi/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Hims & Hers (HIMS): the poster called the Q3 numbers \"NOT good\", citing gross margin down from 74% to 57%. The post gives revenue of $890.4 million (+49%), EPS of −$0.14, and FY26 revenue guidance of $3.13–3.15 billion, all below the estimates it quotes. It says subscribers fell quarter on quarter for the first time. A reply asked how a 1,700-basis-point margin drop squares with the platform being the moat. Thread Single source · the figures were not checked against Hims & Hers' release",
+              "status": "single-source",
+              "status_html": "<p>Single source · the figures were not checked against Hims &amp; Hers' release</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Process and valuation method",
+          "category": "process",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A member worked through Bogle's return formula to show how a falling P/E can sink a fast grower.</strong>",
+              "html": "<p><strong>A member worked through Bogle's return formula to show how a falling P/E can sink a fast grower.</strong> The formula is return = shareholder yield + earnings growth + change in P/E. The example is stock A, growing 15% at 30x, against stock B, growing 5% with a 5% yield at 15x. Over five years at constant multiples, A returns about 101% and B about 63%. If A's multiple falls to 20, A returns about 34% and B wins. The poster also rearranges the formula into a &quot;fair starting P/E&quot; for a given discount rate. The best reply: at a long enough horizon every company's return on equity and P/E converge on the cost of equity, so &quot;value vs growth boils down to current shareholder yield vs how long until growth reverts to the mean&quot;. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xto1ps/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A member worked through Bogle's return formula to show how a falling P/E can sink a fast grower. The formula is return = shareholder yield + earnings growth + change in P/E. The example is stock A, growing 15% at 30x, against stock B, growing 5% with a 5% yield at 15x. Over five years at constant multiples, A returns about 101% and B about 63%. If A's multiple falls to 20, A returns about 34% and B wins. The poster also rearranges the formula into a \"fair starting P/E\" for a given discount rate. The best reply: at a long enough horizon every company's return on equity and P/E converge on the cost of equity, so \"value vs growth boils down to current shareholder yield vs how long until growth reverts to the mean\". Thread Single source · the post's worked example was not re-derived; the \"fair starting P/E\" lines contain typos in the post",
+              "status": "single-source",
+              "status_html": "<p>Single source · the post's worked example was not re-derived; the &quot;fair starting P/E&quot; lines contain typos in the post</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "A moderator said Nvidia posts with &quot;nothing new to add&quot; may start being locked, and asked one thread to &quot;focus this thread on valuation&quot;.",
+              "html": "<p>A moderator said Nvidia posts with &quot;nothing new to add&quot; may start being locked, and asked one thread to &quot;focus this thread on valuation&quot;.</p>",
+              "text": "A moderator said Nvidia posts with \"nothing new to add\" may start being locked, and asked one thread to \"focus this thread on valuation\".",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Staples look stretched to some members: a Coca-Cola thread at a $97.83 high drew &quot;All these staples are getting bid to the sky.",
+              "html": "<p>Staples look stretched to some members: a Coca-Cola thread at a $97.83 high drew &quot;All these staples are getting bid to the sky. It won't last&quot;. One reply said the stock is up 41% this year on about 2% sales growth in 2025, and another blamed credit worries for the premium on companies with large free cash flow.</p>",
+              "text": "Staples look stretched to some members: a Coca-Cola thread at a $97.83 high drew \"All these staples are getting bid to the sky. It won't last\". One reply said the stock is up 41% this year on about 2% sales growth in 2025, and another blamed credit worries for the premium on companies with large free cash flow.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "A post asking for the bear case on second-order AI &quot;picks and shovels&quot; (power, nuclear, cooling) was promotional; its author linked their own product twice.",
+              "html": "<p>A post asking for the bear case on second-order AI &quot;picks and shovels&quot; (power, nuclear, cooling) was promotional; its author linked their own product twice. One reply said nuclear takes 10+ years to bring online, against an expected 1–3 years of build-out, and said SoftBank had cancelled gas-turbine orders. That claim was not checked.</p>",
+              "text": "A post asking for the bear case on second-order AI \"picks and shovels\" (power, nuclear, cooling) was promotional; its author linked their own product twice. One reply said nuclear takes 10+ years to bring online, against an expected 1–3 years of build-out, and said SoftBank had cancelled gas-turbine orders. That claim was not checked.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> ValueInvesting (23 posts in the scan).",
+              "html": "<p><strong>Read:</strong> ValueInvesting (23 posts in the scan). Skipped: both weekly megathreads, the cash-allocation poll, a promotional macro post on an &quot;AI unwind&quot;, a sector-taxonomy post, a TA-timing question, a Prada question with no numbers, the exchanges post (Nasdaq, ICE), and a Cascadia Analytics NXP memo with no comments, from the same shop the 9 November entry recorded. The Sea Limited thread was read; it had no substance, and Sea's Q3 2026 results could not be found by search. <strong>Sources checked:</strong> Berkshire Hathaway's SEC filing index and Berkshire's news page, for 9 to 12 November 2026. The direct EDGAR request with <code>curl</code> needed approval in this unattended run, so EDGAR was read with WebFetch instead.</p>",
+              "text": "Read: ValueInvesting (23 posts in the scan). Skipped: both weekly megathreads, the cash-allocation poll, a promotional macro post on an \"AI unwind\", a sector-taxonomy post, a TA-timing question, a Prada question with no numbers, the exchanges post (Nasdaq, ICE), and a Cascadia Analytics NXP memo with no comments, from the same shop the 9 November entry recorded. The Sea Limited thread was read; it had no substance, and Sea's Q3 2026 results could not be found by search. Sources checked: Berkshire Hathaway's SEC filing index and Berkshire's news page, for 9 to 12 November 2026. The direct EDGAR request with curl needed approval in this unattended run, so EDGAR was read with WebFetch instead.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. EDGAR shows no Berkshire filing after the three of 9 November (8-K, 10-Q, 424B5), all covered in the last entry, and the news page's latest item is &quot;Third Quarter Earnings 2026&quot; on 7 November. Nvidia's 8-K of 12 November is not a configured source, but it is covered in Must know.</p>",
+              "text": "Announced, not discussed: none. EDGAR shows no Berkshire filing after the three of 9 November (8-K, 10-Q, 424B5), all covered in the last entry, and the news page's latest item is \"Third Quarter Earnings 2026\" on 7 November. Nvidia's 8-K of 12 November is not a configured source, but it is covered in Must know. Verified against EDGAR's filing index for Berkshire and Berkshire's news page",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing index for Berkshire</a> and <a href=\"https://www.berkshirehathaway.com/news/2026news.html\" target=\"_blank\" rel=\"noopener noreferrer\">Berkshire's news page</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "berkshirehathaway.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged no unfamiliar recurring terms.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged no unfamiliar recurring terms.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "title": "Value investing digest",
@@ -3360,17 +3599,18 @@
           "due_label": "Q3 2026 results and call, listed as estimated"
         },
         {
-          "headline": "<strong>Nvidia's board investigation into Jensen Huang, opened 8 November 2026.</strong>",
-          "html": "<p><strong>Nvidia's board investigation into Jensen Huang, opened 8 November 2026.</strong> A committee of independent directors, assisted by outside independent counsel, is reviewing Huang's ties to a MegaSpeed executive whom U.S. intelligence reportedly says passed information to Beijing. The board says it has &quot;no reason to believe that either national security or NVIDIA secrets were compromised&quot;, and Huang stays on as CEO. Separately, three House committee chairs have asked him for a closed-door briefing, proposed for 18 November. The sub's question is whether any of this reaches cash flows, which one reply says needs confirmed exposure, customer or regulatory fallout, or leadership disruption.</p>",
-          "text": "Nvidia's board investigation into Jensen Huang, opened 8 November 2026. A committee of independent directors, assisted by outside independent counsel, is reviewing Huang's ties to a MegaSpeed executive whom U.S. intelligence reportedly says passed information to Beijing. The board says it has \"no reason to believe that either national security or NVIDIA secrets were compromised\", and Huang stays on as CEO. Separately, three House committee chairs have asked him for a closed-door briefing, proposed for 18 November. The sub's question is whether any of this reaches cash flows, which one reply says needs confirmed exposure, customer or regulatory fallout, or leadership disruption. Reported, from CNBC's text of the board statement and CNBC on 9 November ; no Nvidia filing opened · 2026-11-09",
-          "status": "reported",
-          "status_html": "<p>Reported, from <a href=\"https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-email-board-of-directors-statement.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC's text of the board statement</a> and <a href=\"https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC on 9 November</a>; no Nvidia filing opened · 2026-11-09</p>",
-          "updated": "2026-11-09",
+          "headline": "<strong>Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO.</strong>",
+          "html": "<p><strong>Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO.</strong> On 8 November the board opened an independent investigation into Huang's ties to a MegaSpeed executive, whom U.S. intelligence reportedly says passed information to Beijing, and said it had confidence in him. On 11 November it accepted his resignation as President, CEO and director, effective immediately, after the New York Times reported a second relationship, with Kimberly Powell, Nvidia's vice president of healthcare. Kress, CFO since 2013, also stays CFO. Harvey C. Jones, a director since 1993, became the board's first chair. A search for a permanent CEO covers internal and external candidates. The 8-K gives no reason and says nothing on severance or equity. The House committees' request for Huang to appear, proposed for 18 November, is still outstanding. The sub's open question has shifted from whether the investigation reaches cash flows to whether key engineers follow Huang out, and who succeeds him.</p>",
+          "text": "Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO. On 8 November the board opened an independent investigation into Huang's ties to a MegaSpeed executive, whom U.S. intelligence reportedly says passed information to Beijing, and said it had confidence in him. On 11 November it accepted his resignation as President, CEO and director, effective immediately, after the New York Times reported a second relationship, with Kimberly Powell, Nvidia's vice president of healthcare. Kress, CFO since 2013, also stays CFO. Harvey C. Jones, a director since 1993, became the board's first chair. A search for a permanent CEO covers internal and external candidates. The 8-K gives no reason and says nothing on severance or equity. The House committees' request for Huang to appear, proposed for 18 November, is still outstanding. The sub's open question has shifted from whether the investigation reaches cash flows to whether key engineers follow Huang out, and who succeeds him. Verified for the resignation, the interim CEO, the chair and the results date against the 8-K filed 12 November 2026 and its press release ; the investigation and the Powell report are Reported, from CNBC and CNBC on 11 November · 2026-11-12",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the resignation, the interim CEO, the chair and the results date against <a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 8-K filed 12 November 2026</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvidiaannouncesceotransiti.htm\" target=\"_blank\" rel=\"noopener noreferrer\">its press release</a>; the investigation and the Powell report are Reported, from <a href=\"https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-email-board-of-directors-statement.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and <a href=\"https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC on 11 November</a> · 2026-11-12</p>",
+          "updated": "2026-11-12",
           "sources": [
+            "SEC filing",
             "CNBC"
           ],
           "due": "2026-11-17",
-          "due_label": "Q3 results, as reported"
+          "due_label": "Q3 fiscal 2027 results, \"as previously scheduled\""
         },
         {
           "headline": "<strong>Anthropic's IPO, and the credit terms already on record ahead of it.</strong>",
@@ -3386,6 +3626,19 @@
           ],
           "due": "2026-11-30",
           "due_label": "listing \"expected in November\", as reported"
+        },
+        {
+          "headline": "<strong>Costco's $30 special dividend and new $4 billion buyback, announced 10 November 2026.</strong>",
+          "html": "<p><strong>Costco's $30 special dividend and new $4 billion buyback, announced 10 November 2026.</strong> About $13.3 billion in total, record date 24 November and paid 4 December; the buyback runs to November 2030 and replaces the 2023 program, under which $3.1 billion had been used. The sub's open question is why a company at roughly 47–50x earnings returns cash rather than reinvests it, and whether buybacks at that multiple add value.</p>",
+          "text": "Costco's $30 special dividend and new $4 billion buyback, announced 10 November 2026. About $13.3 billion in total, record date 24 November and paid 4 December; the buyback runs to November 2030 and replaces the 2023 program, under which $3.1 billion had been used. The sub's open question is why a company at roughly 47–50x earnings returns cash rather than reinvests it, and whether buybacks at that multiple add value. Verified against Costco's release ; the multiples are as posted · 2026-11-12",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> against <a href=\"https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Declares-30-Special-Cash-Dividend-and-Reauthorizes-Stock-Repurchase-Program/default.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Costco's release</a>; the multiples are as posted · 2026-11-12</p>",
+          "updated": "2026-11-12",
+          "sources": [
+            "investor.costco.com"
+          ],
+          "due": "2026-12-04",
+          "due_label": "special dividend payable, as announced"
         },
         {
           "headline": "<strong>Broadcom's financing for OpenAI chips, reported at more than $50 billion and targeted to close by year end.</strong>",
