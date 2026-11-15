@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12",
+  "generated": "2026-11-15",
   "meta": {
     "feed": "valueinvesting",
     "title": "Value Investing Digest",
@@ -21,6 +21,276 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-15",
+      "title": "Value investing digest",
+      "intro_html": "<p>Nvidia remained the background question, now as &quot;buy the dip&quot; and &quot;is circular financing bad&quot; threads ahead of the 17 November results. The specific material was elsewhere: Berkshire priced its yen bonds, and careful pitches with stated assumptions on CATL, Deckers, Wise and Lululemon drew comments that tested them. The top-scoring post, a link calling staples the real bubble, had no argument attached beyond its comments.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Berkshire Hathaway priced ¥182.3 billion of yen senior notes on 13 November, and its own prospectus says the money refinances maturing yen notes.</strong>",
+              "html": "<p><strong>Berkshire Hathaway priced ¥182.3 billion of yen senior notes on 13 November, and its own prospectus says the money refinances maturing yen notes.</strong> The 30-point thread called the offering Buffett's &quot;free-money glitch&quot; for buying Japanese trading houses, but the stated use is to roll over the 2026 and 2027 notes.</p>\n<ul>\n<li><strong>Why it matters:</strong> this corrects how the sub reads the offering. The poster's own quote from the draft prospectus says the proceeds go to &quot;general corporate purposes, including to refinance the 2026 Senior Notes and 2027 Senior Notes&quot;. The 9 November draft refers to ¥73.4 billion of notes due 2026 and ¥23.0 billion due 2027, so most of this issue replaces debt rather than adding new money for stock. The thread's explanation is the history of the program, not this deal. One reply called it &quot;a pretty routine refinancing move&quot;. A commenter's case for why the issues stay small, that Berkshire won't pass 10% of the trading houses without their boards' approval, is the commenter's account. Another asked whether this is just a carry trade, and the poster said yen debt funding yen stock carries no currency risk apart from balance-sheet revaluation.</li>\n<li><strong>What to watch:</strong> settlement on 19 November 2026, per the term sheet. Then any Form 4 or 13F showing Berkshire adding to its Japanese holdings, which would show new money going into stock rather than refinancing.</li>\n<li><strong>Numbers:</strong> as filed in the pricing term sheet: five series, all at 100% of face. ¥92.0 billion of 2.624% notes due 29 November 2029; ¥57.3 billion of 3.007% due 8 December 2031; ¥16.1 billion of 3.313% due 29 November 2033; ¥2.7 billion of 3.661% due 8 December 2036; ¥14.2 billion of 4.571% due 29 November 2056. As posted, not checked: about $1.141 billion in dollars, and the Japanese holdings at 13.0% of Berkshire's portfolio, citing CNBC.</li>\n<li><strong>Caveats:</strong> the prospectus gives no split between refinancing and other corporate purposes. The coupons are much higher than the 0.955% and 0.203% on the notes being refinanced, so the gap between dividends and coupons that the thread describes is narrower on this issue. That is a comparison of filed coupons, not a figure from the filing.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526459815/d127427dfwp.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the pricing term sheet</a>, then <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xvf1sp/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a></li>\n</ul>",
+              "text": "Berkshire Hathaway priced ¥182.3 billion of yen senior notes on 13 November, and its own prospectus says the money refinances maturing yen notes. The 30-point thread called the offering Buffett's \"free-money glitch\" for buying Japanese trading houses, but the stated use is to roll over the 2026 and 2027 notes. Why it matters: this corrects how the sub reads the offering. The poster's own quote from the draft prospectus says the proceeds go to \"general corporate purposes, including to refinance the 2026 Senior Notes and 2027 Senior Notes\". The 9 November draft refers to ¥73.4 billion of notes due 2026 and ¥23.0 billion due 2027, so most of this issue replaces debt rather than adding new money for stock. The thread's explanation is the history of the program, not this deal. One reply called it \"a pretty routine refinancing move\". A commenter's case for why the issues stay small, that Berkshire won't pass 10% of the trading houses without their boards' approval, is the commenter's account. Another asked whether this is just a carry trade, and the poster said yen debt funding yen stock carries no currency risk apart from balance-sheet revaluation. What to watch: settlement on 19 November 2026, per the term sheet. Then any Form 4 or 13F showing Berkshire adding to its Japanese holdings, which would show new money going into stock rather than refinancing. Numbers: as filed in the pricing term sheet: five series, all at 100% of face. ¥92.0 billion of 2.624% notes due 29 November 2029; ¥57.3 billion of 3.007% due 8 December 2031; ¥16.1 billion of 3.313% due 29 November 2033; ¥2.7 billion of 3.661% due 8 December 2036; ¥14.2 billion of 4.571% due 29 November 2056. As posted, not checked: about $1.141 billion in dollars, and the Japanese holdings at 13.0% of Berkshire's portfolio, citing CNBC. Caveats: the prospectus gives no split between refinancing and other corporate purposes. The coupons are much higher than the 0.955% and 0.203% on the notes being refinanced, so the gap between dividends and coupons that the thread describes is narrower on this issue. That is a comparison of filed coupons, not a figure from the filing. Read next: the pricing term sheet , then the thread Verified for the series, amounts, coupons, maturities and dates against the pricing term sheet, and for the use of proceeds and the maturing notes against the 424B5 of 9 November ; the 10% limit and the portfolio share are Single source",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the series, amounts, coupons, maturities and dates against the pricing term sheet, and for the use of proceeds and the maturing notes against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526452592/d86634d424b5.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 424B5 of 9 November</a>; the 10% limit and the portfolio share are Single source</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>CATL (300750.SZ / 3750.HK): the poster asks why operating cash flow fell to RMB 1.4 billion in Q3 against RMB 21.2 billion of net profit.</strong>",
+              "html": "<p><strong>CATL (300750.SZ / 3750.HK): the poster asks why operating cash flow fell to RMB 1.4 billion in Q3 against RMB 21.2 billion of net profit.</strong> The figures are posted from Wind data. Revenue was RMB 165.2 billion, up 59%, while gross margin fell from 28.2% to 20.7% over three quarters. Since year-end, receivables are up 48%, inventory 53%, notes payable 48% and interest-bearing debt 59%. The poster gives 16.7x trailing earnings on the H shares and 12.5x on the A shares, with the Shenzhen line about 25% cheaper. The best replies agreed that the cash-flow line is the whole question. One said receivables and inventory are carrying the growth while notes payable show suppliers carrying some too, which next to the margin drop &quot;looks like they're buying volume&quot;. Its test: if Q4 operating cash flow recovers as receivables are collected, it was timing; if not, &quot;12.5x isn't as cheap as it looks&quot;. Two replies said the A/H gap comes from different buyer pools and capital rules and can stay wide for years. The poster holds no position. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xvp1f3/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "CATL (300750.SZ / 3750.HK): the poster asks why operating cash flow fell to RMB 1.4 billion in Q3 against RMB 21.2 billion of net profit. The figures are posted from Wind data. Revenue was RMB 165.2 billion, up 59%, while gross margin fell from 28.2% to 20.7% over three quarters. Since year-end, receivables are up 48%, inventory 53%, notes payable 48% and interest-bearing debt 59%. The poster gives 16.7x trailing earnings on the H shares and 12.5x on the A shares, with the Shenzhen line about 25% cheaper. The best replies agreed that the cash-flow line is the whole question. One said receivables and inventory are carrying the growth while notes payable show suppliers carrying some too, which next to the margin drop \"looks like they're buying volume\". Its test: if Q4 operating cash flow recovers as receivables are collected, it was timing; if not, \"12.5x isn't as cheap as it looks\". Two replies said the A/H gap comes from different buyer pools and capital rules and can stay wide for years. The poster holds no position. Thread Single source · no CATL filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no CATL filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Deckers (DECK): the pitch says $86.82 implies free cash flow falling 1–2% a year for a decade.</strong>",
+              "html": "<p><strong>Deckers (DECK): the pitch says $86.82 implies free cash flow falling 1–2% a year for a decade.</strong> The poster gives about 11x underlying earnings against a FY2022–26 range of 14–32x, ROIC above 50% in every one of those years, no financial debt and about $1.2 billion of cash. The DCF assumes $7–8 a share of free cash flow growing 3–5% for ten years, discounted at 9–10%, for $100–150. Underlying EPS of about $7.35 strips about $0.52 of one-off tariff refunds from the guidance. The poster states when they'd change their mind: HOKA sales down year on year for two quarters running, or gross margin excluding tariffs below 55%. The next check is Q3 FY27 results, expected late January 2027 with no date set. The only reply asked what the moat is beyond brand and scale. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xwrra1/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Deckers (DECK): the pitch says $86.82 implies free cash flow falling 1–2% a year for a decade. The poster gives about 11x underlying earnings against a FY2022–26 range of 14–32x, ROIC above 50% in every one of those years, no financial debt and about $1.2 billion of cash. The DCF assumes $7–8 a share of free cash flow growing 3–5% for ten years, discounted at 9–10%, for $100–150. Underlying EPS of about $7.35 strips about $0.52 of one-off tariff refunds from the guidance. The poster states when they'd change their mind: HOKA sales down year on year for two quarters running, or gross margin excluding tariffs below 55%. The next check is Q3 FY27 results, expected late January 2027 with no date set. The only reply asked what the moat is beyond brand and scale. Thread Single source · no Deckers filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Deckers filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Wise: a holder's H1 FY27 review says Personal growth now depends on adding customers, because volume per Personal customer fell about 1%.</strong>",
+              "html": "<p><strong>Wise: a holder's H1 FY27 review says Personal growth now depends on adding customers, because volume per Personal customer fell about 1%.</strong> As posted: take rate 0.49%, net revenue up 23% to about $1.4 billion, income before tax up only 9% on operating expenses up 28%, and Business volume up 35% to $43.6 billion. The poster's own estimates, which Wise doesn't report: inactive customers at about 29% against about 30% a year earlier, and acquisition cost rising from about $15 to $22 to $27 over three years. They also flag receivables from payment processors rising from $74 million to $223 million, which they say Wise did not explain and no analyst asked about. The only reply said the post &quot;reads like a paid post&quot;; the poster also posted it twice and links their own Substack. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xw9n7j/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Wise: a holder's H1 FY27 review says Personal growth now depends on adding customers, because volume per Personal customer fell about 1%. As posted: take rate 0.49%, net revenue up 23% to about $1.4 billion, income before tax up only 9% on operating expenses up 28%, and Business volume up 35% to $43.6 billion. The poster's own estimates, which Wise doesn't report: inactive customers at about 29% against about 30% a year earlier, and acquisition cost rising from about $15 to $22 to $27 over three years. They also flag receivables from payment processors rising from $74 million to $223 million, which they say Wise did not explain and no analyst asked about. The only reply said the post \"reads like a paid post\"; the poster also posted it twice and links their own Substack. Thread Single source · Wise's results were not opened; the churn and acquisition-cost figures are the poster's own arithmetic",
+              "status": "single-source",
+              "status_html": "<p>Single source · Wise's results were not opened; the churn and acquisition-cost figures are the poster's own arithmetic</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Lululemon (LULU): the pitch says about $110 implies revenue falling 8% a year for five years.</strong>",
+              "html": "<p><strong>Lululemon (LULU): the pitch says about $110 implies revenue falling 8% a year for five years.</strong> The poster gives 9–11x earnings, no debt, $1.39 billion of cash, Q3 operating-margin guidance of about 6.5% against 17% a year earlier, and gross margin of 54–55% without the tariff refund. It argues the product mix was wrong rather than the moat broken, with the new CEO's product reaching stores around late 2027. It also notes that H1 buybacks of $695 million were more than twice free cash flow, at an average of about $141. The objections: Alo and Vuori make it &quot;now a turnaround&quot;, a woman in the target market said she can buy equal quality for a fraction of the price, and another reply asked whether the thesis was written by an LLM. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xwgc8u/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Lululemon (LULU): the pitch says about $110 implies revenue falling 8% a year for five years. The poster gives 9–11x earnings, no debt, $1.39 billion of cash, Q3 operating-margin guidance of about 6.5% against 17% a year earlier, and gross margin of 54–55% without the tariff refund. It argues the product mix was wrong rather than the moat broken, with the new CEO's product reaching stores around late 2027. It also notes that H1 buybacks of $695 million were more than twice free cash flow, at an average of about $141. The objections: Alo and Vuori make it \"now a turnaround\", a woman in the target market said she can buy equal quality for a fraction of the price, and another reply asked whether the thesis was written by an LLM. Thread Single source · no Lululemon filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Lululemon filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Broadcom (AVGO): a poster asked whether about 45x trailing earnings is a value price for revenue up 85%, and the replies said trailing is the wrong multiple.</strong>",
+              "html": "<p><strong>Broadcom (AVGO): a poster asked whether about 45x trailing earnings is a value price for revenue up 85%, and the replies said trailing is the wrong multiple.</strong> The poster gives a $495 June high, a $289.77 low on 6 November, and Q3 revenue of $29.6 billion. They disclose that they run a stock-picking show whose co-host picked AVGO. The most useful reply said trailing earnings are stale at 85% growth, so the question is what forward earnings look like if growth halves and how much of the backlog depends on a few AI customers. It added that revenue from frontier labs deserves a lower multiple than the stable base. Another said adjusted earnings put it nearer 25x and under 20x on 2027 estimates. Several named customer concentration in OpenAI and Anthropic as the risk. Broadcom reports Q4 on 9 December; the poster's consensus of about $35.6 billion compares with the company's own Q3 outlook of about $34.8 billion. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xvacu0/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Broadcom (AVGO): a poster asked whether about 45x trailing earnings is a value price for revenue up 85%, and the replies said trailing is the wrong multiple. The poster gives a $495 June high, a $289.77 low on 6 November, and Q3 revenue of $29.6 billion. They disclose that they run a stock-picking show whose co-host picked AVGO. The most useful reply said trailing earnings are stale at 85% growth, so the question is what forward earnings look like if growth halves and how much of the backlog depends on a few AI customers. It added that revenue from frontier labs deserves a lower multiple than the stable base. Another said adjusted earnings put it nearer 25x and under 20x on 2027 estimates. Several named customer concentration in OpenAI and Anthropic as the risk. Broadcom reports Q4 on 9 December; the poster's consensus of about $35.6 billion compares with the company's own Q3 outlook of about $34.8 billion. Thread Single source for the pitch; the 9 December date and the $34.8 billion outlook are Reported, from a search summary of Broadcom's announcement ; the release was not opened",
+              "status": "single-source",
+              "status_html": "<p>Single source for the pitch; the 9 December date and the $34.8 billion outlook are Reported, from a search summary of <a href=\"https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-fourth-quarter-and-fiscal-year-2026\" target=\"_blank\" rel=\"noopener noreferrer\">Broadcom's announcement</a>; the release was not opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "investors.broadcom.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Process and valuation method",
+          "category": "process",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Members said Vanguard's finding that 75% of Russell 3000 stocks trailed the index tells you little, because stock pickers don't choose at random.</strong>",
+              "html": "<p><strong>Members said Vanguard's finding that 75% of Russell 3000 stocks trailed the index tells you little, because stock pickers don't choose at random.</strong> The paper, as quoted, says 10 of about 12,500 stocks produced up to 31% of wealth creation from 1990 to 2025, and 56% failed to beat the risk-free rate. The best reply said the Russell 3000 is the wrong universe, since it holds thousands of small caps and historically only about 55–70% are profitable, so most value investors discard the losers before they start. A second reply said total wealth creation matters only to billionaires: a $1 billion company that becomes $60 billion beats an Apple holder who saw $400 billion become $4 trillion. A third reply pushed back on both: you cannot know you are a good picker &quot;until it's too late&quot;. Another said the paper argues against an equal-weight index, since that underweights the few winners. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xwd2o1/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Members said Vanguard's finding that 75% of Russell 3000 stocks trailed the index tells you little, because stock pickers don't choose at random. The paper, as quoted, says 10 of about 12,500 stocks produced up to 31% of wealth creation from 1990 to 2025, and 56% failed to beat the risk-free rate. The best reply said the Russell 3000 is the wrong universe, since it holds thousands of small caps and historically only about 55–70% are profitable, so most value investors discard the losers before they start. A second reply said total wealth creation matters only to billionaires: a $1 billion company that becomes $60 billion beats an Apple holder who saw $400 billion become $4 trillion. A third reply pushed back on both: you cannot know you are a good picker \"until it's too late\". Another said the paper argues against an equal-weight index, since that underweights the few winners. Thread Single source · the Vanguard paper was not opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · the Vanguard paper was not opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The best answer to &quot;is circular financing bad?&quot; was that it works only if the company at the end of the chain earns cash from the product.</strong>",
+              "html": "<p><strong>The best answer to &quot;is circular financing bad?&quot; was that it works only if the company at the end of the chain earns cash from the product.</strong> That reply (72 points) compared Nvidia to Cisco, Nortel and Lucent extending equipment credit to dot-com companies with no revenue. A reply under it named OpenAI and Anthropic as the end of today's chain. The counter-example (18 points) was John Malone's TCI, which seeded cable channels to drive subscriptions and compounded at 30% a year for 25 years. That worked because the demand was real. A third answer called it ordinary vendor financing, as at Dell and Caterpillar, where the questions are scale, credit risk and whether end demand lasts. Another reply said TSMC would not let one buyer book all its capacity. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xwjf0e/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The best answer to \"is circular financing bad?\" was that it works only if the company at the end of the chain earns cash from the product. That reply (72 points) compared Nvidia to Cisco, Nortel and Lucent extending equipment credit to dot-com companies with no revenue. A reply under it named OpenAI and Anthropic as the end of today's chain. The counter-example (18 points) was John Malone's TCI, which seeded cable channels to drive subscriptions and compounded at 30% a year for 25 years. That worked because the demand was real. A third answer called it ordinary vendor financing, as at Dell and Caterpillar, where the questions are scale, credit risk and whether end demand lasts. Another reply said TSMC would not let one buyer book all its capacity. Thread Single source · the historical comparisons were not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the historical comparisons were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A poster listed AI companies' CDS spreads and asked whether they signal trouble.</strong>",
+              "html": "<p><strong>A poster listed AI companies' CDS spreads and asked whether they signal trouble.</strong> As posted, with no source named beyond YouTube videos: Microsoft 53 bp, Alphabet 88 bp, Nvidia 128 bp, AMD 141 bp, Broadcom 192 bp, Oracle 295 bp, CoreWeave 947 bp. They add CoreWeave facilities at about SOFR + 6.5% and Nebius at SOFR + 2.75%. One reply called widening spreads a late-cycle signal; nobody checked the figures. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xwj93f/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A poster listed AI companies' CDS spreads and asked whether they signal trouble. As posted, with no source named beyond YouTube videos: Microsoft 53 bp, Alphabet 88 bp, Nvidia 128 bp, AMD 141 bp, Broadcom 192 bp, Oracle 295 bp, CoreWeave 947 bp. They add CoreWeave facilities at about SOFR + 6.5% and Nebius at SOFR + 2.75%. One reply called widening spreads a late-cycle signal; nobody checked the figures. Thread Single source · no spread was checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · no spread was checked</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>The top post of the run (239 points) called consumer staples the real bubble, and its comments mostly argued valuation by comparison.</strong>",
+              "html": "<p><strong>The top post of the run (239 points) called consumer staples the real bubble, and its comments mostly argued valuation by comparison.</strong> Commenters set &quot;Nvidia 20 pe&quot; against Walmart &quot;at 46 with their 5% growth&quot; and Costco &quot;at 40 p/e&quot;, and gave the Nasdaq a P/E of 19; none of these was checked. The one substantive reply said staples are easier to value because &quot;the last 5 years of sales can tell us a lot about the next 5&quot;, which AI chip demand can't offer. It compared Nvidia to Sun Microsystems, whose decline only insiders testing Linux could see coming. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xwqodo/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The top post of the run (239 points) called consumer staples the real bubble, and its comments mostly argued valuation by comparison. Commenters set \"Nvidia 20 pe\" against Walmart \"at 46 with their 5% growth\" and Costco \"at 40 p/e\", and gave the Nasdaq a P/E of 19; none of these was checked. The one substantive reply said staples are easier to value because \"the last 5 years of sales can tell us a lot about the next 5\", which AI chip demand can't offer. It compared Nvidia to Sun Microsystems, whose decline only insiders testing Linux could see coming. Thread Single source · the post is a link with no body; the multiples are as posted",
+              "status": "single-source",
+              "status_html": "<p>Single source · the post is a link with no body; the multiples are as posted</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Nvidia dip-buying threads keep coming (&quot;Thee posts are non stop&quot;).",
+              "html": "<p>Nvidia dip-buying threads keep coming (&quot;Thee posts are non stop&quot;). The 46-point one turned on smuggling, sanctions and whether circular financing survives Huang. Commenters also linked a SemiAnalysis piece on a world without Huang and a report that employees overwhelmingly want him back.</p>",
+              "text": "Nvidia dip-buying threads keep coming (\"Thee posts are non stop\"). The 46-point one turned on smuggling, sanctions and whether circular financing survives Huang. Commenters also linked a SemiAnalysis piece on a world without Huang and a report that employees overwhelmingly want him back.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Disney drew a pasted Barron&#x27;s piece crediting CEO Josh D&#x27;Amaro&#x27;s layoffs and Disney+ profitability for a 29% rise since late March, ahead of Q4 results it da…",
+              "html": "<p>Disney drew a pasted Barron's piece crediting CEO Josh D'Amaro's layoffs and Disney+ profitability for a 29% rise since late March, ahead of Q4 results it dates to &quot;Tuesday&quot;. It quotes a Morningstar analyst putting sum-of-the-parts value at $155. One reply noted that trailing 24.5x against forward 15.9x implies earnings up 54% on 6.8% revenue growth.</p>",
+              "text": "Disney drew a pasted Barron's piece crediting CEO Josh D'Amaro's layoffs and Disney+ profitability for a 29% rise since late March, ahead of Q4 results it dates to \"Tuesday\". It quotes a Morningstar analyst putting sum-of-the-parts value at $155. One reply noted that trailing 24.5x against forward 15.9x implies earnings up 54% on 6.8% revenue growth.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "A Novo Nordisk post on CagriSema&#x27;s REDEFINE-9 tolerability data drew two replies, both about the Wegovy pill instead.",
+              "html": "<p>A Novo Nordisk post on CagriSema's REDEFINE-9 tolerability data drew two replies, both about the Wegovy pill instead.</p>",
+              "text": "A Novo Nordisk post on CagriSema's REDEFINE-9 tolerability data drew two replies, both about the Wegovy pill instead.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Commenters say Nvidia's interim CEO clashed with Huang over circular financing and has said she will scale it back.</strong>",
+              "html": "<p><strong>Commenters say Nvidia's interim CEO clashed with Huang over circular financing and has said she will scale it back.</strong> One reply: &quot;News just came out the new CEO clashed with Jensen about circular financing&quot;; another: &quot;even the new CEO announced she will tune it down&quot;. Neither gave a source. A search found only Kress's August remarks as CFO defending the financing (&quot;We see it differently&quot;).</p>",
+              "text": "Commenters say Nvidia's interim CEO clashed with Huang over circular financing and has said she will scale it back. One reply: \"News just came out the new CEO clashed with Jensen about circular financing\"; another: \"even the new CEO announced she will tune it down\". Neither gave a source. A search found only Kress's August remarks as CFO defending the financing (\"We see it differently\"). Unconfirmed · searched for November coverage of Kress on Nvidia's investments; found only August earnings-call coverage",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · searched for November coverage of Kress on Nvidia's investments; found only <a href=\"https://stocktwits.com/news-articles/markets/equity/nvidia-brushes-off-circular-financing-fears-after-massive-sales-beat-we-see-it-differently/cZY8N3lRJpQ\" target=\"_blank\" rel=\"noopener noreferrer\">August earnings-call coverage</a></p>",
+              "updated": null,
+              "sources": [
+                "stocktwits.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> ValueInvesting (23 posts in the scan).",
+              "html": "<p><strong>Read:</strong> ValueInvesting (23 posts in the scan). Skipped: both weekly megathreads, a portfolio-cutting question, a question about checking prices daily, a Beyond Meat retrospective, a Templeton quotes post, a &quot;hardest part of fundamental analysis&quot; question, a no-numbers Starbucks question, a screen of five stocks with one comment, a Ceotronics pitch with one comment, the duplicate Wise post, and a DCF template update for the hyperscalers with three comments. <strong>Sources checked:</strong> Berkshire Hathaway's SEC filing index and Berkshire's news page, for 12 to 15 November 2026. EDGAR was read with WebFetch. The company index lists nothing after 9 November, but the pricing term sheet the sub linked is on EDGAR with files posted on 13 November; the FWP-filtered index returned HTTP 503.</p>",
+              "text": "Read: ValueInvesting (23 posts in the scan). Skipped: both weekly megathreads, a portfolio-cutting question, a question about checking prices daily, a Beyond Meat retrospective, a Templeton quotes post, a \"hardest part of fundamental analysis\" question, a no-numbers Starbucks question, a screen of five stocks with one comment, a Ceotronics pitch with one comment, the duplicate Wise post, and a DCF template update for the hyperscalers with three comments. Sources checked: Berkshire Hathaway's SEC filing index and Berkshire's news page, for 12 to 15 November 2026. EDGAR was read with WebFetch. The company index lists nothing after 9 November, but the pricing term sheet the sub linked is on EDGAR with files posted on 13 November; the FWP-filtered index returned HTTP 503.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none.",
+              "html": "<p><strong>Announced, not discussed:</strong> none. The yen pricing term sheet is covered in Must know, and Berkshire's news page has nothing after &quot;Third Quarter Earnings 2026&quot; on 7 November.</p>",
+              "text": "Announced, not discussed: none. The yen pricing term sheet is covered in Must know, and Berkshire's news page has nothing after \"Third Quarter Earnings 2026\" on 7 November. Verified against EDGAR's filing index for Berkshire , the term sheet's EDGAR folder and Berkshire's news page",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing index for Berkshire</a>, <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526459815/\" target=\"_blank\" rel=\"noopener noreferrer\">the term sheet's EDGAR folder</a> and <a href=\"https://www.berkshirehathaway.com/news/2026news.html\" target=\"_blank\" rel=\"noopener noreferrer\">Berkshire's news page</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "berkshirehathaway.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none. &quot;avgo&quot; is covered under Stock pitches and Market and macro.</p>",
+              "text": "Flagged terms set aside: none. \"avgo\" is covered under Stock pitches and Market and macro.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-12",
       "title": "Value investing digest",
@@ -3600,8 +3870,8 @@
         },
         {
           "headline": "<strong>Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO.</strong>",
-          "html": "<p><strong>Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO.</strong> On 8 November the board opened an independent investigation into Huang's ties to a MegaSpeed executive, whom U.S. intelligence reportedly says passed information to Beijing, and said it had confidence in him. On 11 November it accepted his resignation as President, CEO and director, effective immediately, after the New York Times reported a second relationship, with Kimberly Powell, Nvidia's vice president of healthcare. Kress, CFO since 2013, also stays CFO. Harvey C. Jones, a director since 1993, became the board's first chair. A search for a permanent CEO covers internal and external candidates. The 8-K gives no reason and says nothing on severance or equity. The House committees' request for Huang to appear, proposed for 18 November, is still outstanding. The sub's open question has shifted from whether the investigation reaches cash flows to whether key engineers follow Huang out, and who succeeds him.</p>",
-          "text": "Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO. On 8 November the board opened an independent investigation into Huang's ties to a MegaSpeed executive, whom U.S. intelligence reportedly says passed information to Beijing, and said it had confidence in him. On 11 November it accepted his resignation as President, CEO and director, effective immediately, after the New York Times reported a second relationship, with Kimberly Powell, Nvidia's vice president of healthcare. Kress, CFO since 2013, also stays CFO. Harvey C. Jones, a director since 1993, became the board's first chair. A search for a permanent CEO covers internal and external candidates. The 8-K gives no reason and says nothing on severance or equity. The House committees' request for Huang to appear, proposed for 18 November, is still outstanding. The sub's open question has shifted from whether the investigation reaches cash flows to whether key engineers follow Huang out, and who succeeds him. Verified for the resignation, the interim CEO, the chair and the results date against the 8-K filed 12 November 2026 and its press release ; the investigation and the Powell report are Reported, from CNBC and CNBC on 11 November · 2026-11-12",
+          "html": "<p><strong>Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO.</strong> On 8 November the board opened an independent investigation into Huang's ties to a MegaSpeed executive, whom U.S. intelligence reportedly says passed information to Beijing, and said it had confidence in him. On 11 November it accepted his resignation as President, CEO and director, effective immediately, after the New York Times reported a second relationship, with Kimberly Powell, Nvidia's vice president of healthcare. Kress, CFO since 2013, also stays CFO. Harvey C. Jones, a director since 1993, became the board's first chair. A search for a permanent CEO covers internal and external candidates. The 8-K gives no reason and says nothing on severance or equity. The House committees' request for Huang to appear, proposed for 18 November, is still outstanding. The sub's open question has shifted from whether the investigation reaches cash flows to whether key engineers follow Huang out, and who succeeds him. On 15 November commenters claimed, without a source, that Kress clashed with Huang over circular financing and will scale it back; a search found nothing to support that.</p>",
+          "text": "Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO. On 8 November the board opened an independent investigation into Huang's ties to a MegaSpeed executive, whom U.S. intelligence reportedly says passed information to Beijing, and said it had confidence in him. On 11 November it accepted his resignation as President, CEO and director, effective immediately, after the New York Times reported a second relationship, with Kimberly Powell, Nvidia's vice president of healthcare. Kress, CFO since 2013, also stays CFO. Harvey C. Jones, a director since 1993, became the board's first chair. A search for a permanent CEO covers internal and external candidates. The 8-K gives no reason and says nothing on severance or equity. The House committees' request for Huang to appear, proposed for 18 November, is still outstanding. The sub's open question has shifted from whether the investigation reaches cash flows to whether key engineers follow Huang out, and who succeeds him. On 15 November commenters claimed, without a source, that Kress clashed with Huang over circular financing and will scale it back; a search found nothing to support that. Verified for the resignation, the interim CEO, the chair and the results date against the 8-K filed 12 November 2026 and its press release ; the investigation and the Powell report are Reported, from CNBC and CNBC on 11 November · 2026-11-12",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> for the resignation, the interim CEO, the chair and the results date against <a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 8-K filed 12 November 2026</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvidiaannouncesceotransiti.htm\" target=\"_blank\" rel=\"noopener noreferrer\">its press release</a>; the investigation and the Powell report are Reported, from <a href=\"https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-email-board-of-directors-statement.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and <a href=\"https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC on 11 November</a> · 2026-11-12</p>",
           "updated": "2026-11-12",
@@ -3611,6 +3881,19 @@
           ],
           "due": "2026-11-17",
           "due_label": "Q3 fiscal 2027 results, \"as previously scheduled\""
+        },
+        {
+          "headline": "<strong>Berkshire Hathaway is buying back its own stock again: about $9.6 billion in Q3 2026 and about $14.4 billion over nine months.</strong>",
+          "html": "<p><strong>Berkshire Hathaway is buying back its own stock again: about $9.6 billion in Q3 2026 and about $14.4 billion over nine months.</strong> On 9 November it also filed a preliminary prospectus for three series of yen senior notes, with amounts and coupons blank and the proceeds for &quot;general corporate purposes&quot;. The draft refers to ¥73.4 billion of 0.955% notes due 2026 and ¥23.0 billion of 0.203% notes due 2027. The offering priced on 13 November at ¥182.3 billion across five series, at coupons from 2.624% (2029) to 4.571% (2056), settling 19 November. The sub reads it as funding for Japanese trading-house stakes, while the prospectus names refinancing the 2026 and 2027 notes. The sub's open question is whether buybacks continue with B shares above the $522.76 price-to-book line one member draws. Commenters say Berkshire's actual test is intrinsic value, not a book multiple.</p>",
+          "text": "Berkshire Hathaway is buying back its own stock again: about $9.6 billion in Q3 2026 and about $14.4 billion over nine months. On 9 November it also filed a preliminary prospectus for three series of yen senior notes, with amounts and coupons blank and the proceeds for \"general corporate purposes\". The draft refers to ¥73.4 billion of 0.955% notes due 2026 and ¥23.0 billion of 0.203% notes due 2027. The offering priced on 13 November at ¥182.3 billion across five series, at coupons from 2.624% (2029) to 4.571% (2056), settling 19 November. The sub reads it as funding for Japanese trading-house stakes, while the prospectus names refinancing the 2026 and 2027 notes. The sub's open question is whether buybacks continue with B shares above the $522.76 price-to-book line one member draws. Commenters say Berkshire's actual test is intrinsic value, not a book multiple. Verified for the repurchase totals against the Q3 2026 release , for the offering against the 424B5 and for the pricing against the term sheet ; the average repurchase prices in the 10-Q were not read · 2026-11-15",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the repurchase totals against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526452530/brka-ex99_1.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q3 2026 release</a>, for the offering against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526452592/d86634d424b5.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 424B5</a> and for the pricing against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526459815/d127427dfwp.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the term sheet</a>; the average repurchase prices in the 10-Q were not read · 2026-11-15</p>",
+          "updated": "2026-11-15",
+          "sources": [
+            "SEC filing"
+          ],
+          "due": "2026-11-19",
+          "due_label": "yen notes settle, per the pricing term sheet"
         },
         {
           "headline": "<strong>Anthropic's IPO, and the credit terms already on record ahead of it.</strong>",
@@ -3759,19 +4042,6 @@
           "sources": [],
           "due": "2032-10-07",
           "due_label": "half the constellation operational, per the FCC grant; all of it by 2035-10-07"
-        },
-        {
-          "headline": "<strong>Berkshire Hathaway is buying back its own stock again: about $9.6 billion in Q3 2026 and about $14.4 billion over nine months.</strong>",
-          "html": "<p><strong>Berkshire Hathaway is buying back its own stock again: about $9.6 billion in Q3 2026 and about $14.4 billion over nine months.</strong> On 9 November it also filed a preliminary prospectus for three series of yen senior notes, with amounts and coupons blank and the proceeds for &quot;general corporate purposes&quot;. The draft refers to ¥73.4 billion of 0.955% notes due 2026 and ¥23.0 billion of 0.203% notes due 2027. The sub's open question is whether buybacks continue with B shares above the $522.76 price-to-book line one member draws. Commenters say Berkshire's actual test is intrinsic value, not a book multiple.</p>",
-          "text": "Berkshire Hathaway is buying back its own stock again: about $9.6 billion in Q3 2026 and about $14.4 billion over nine months. On 9 November it also filed a preliminary prospectus for three series of yen senior notes, with amounts and coupons blank and the proceeds for \"general corporate purposes\". The draft refers to ¥73.4 billion of 0.955% notes due 2026 and ¥23.0 billion of 0.203% notes due 2027. The sub's open question is whether buybacks continue with B shares above the $522.76 price-to-book line one member draws. Commenters say Berkshire's actual test is intrinsic value, not a book multiple. Verified for the repurchase totals against the Q3 2026 release and for the offering against the 424B5 ; the average repurchase prices in the 10-Q were not read · 2026-11-09",
-          "status": "verified",
-          "status_html": "<p><strong>Verified</strong> for the repurchase totals against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526452530/brka-ex99_1.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the Q3 2026 release</a> and for the offering against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526452592/d86634d424b5.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 424B5</a>; the average repurchase prices in the 10-Q were not read · 2026-11-09</p>",
-          "updated": "2026-11-09",
-          "sources": [
-            "SEC filing"
-          ],
-          "due": null,
-          "due_label": null
         },
         {
           "headline": "<strong>Meta's $25 billion New Mexico judgment, entered 21 October 2026 and under appeal.</strong>",
