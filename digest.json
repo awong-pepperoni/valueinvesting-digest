@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15",
+  "generated": "2026-11-18",
   "meta": {
     "feed": "valueinvesting",
     "title": "Value Investing Digest",
@@ -21,6 +21,342 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-18",
+      "title": "Value investing digest",
+      "intro_html": "<p>The AI sell-off dominated this run: why it happened, whether memory makers at single-digit P/Es are cheap or at a cyclical peak, and whether SaaS survives Anthropic, which lists on Nasdaq this week. The most useful material was a check of Nvidia's Q3 balance sheet and a post on Anthropic's lock-up calendar. Berkshire filed its 13F, a new 6.4% stake in Bending Spoons and Buffett's Thanksgiving gift, and the sub discussed none of them.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Anthropic's IPO prices on 18 November and starts trading on 19 November, and a poster argued its first year of prices will follow the lock-up calendar more than its value.</strong>",
+              "html": "<p><strong>Anthropic's IPO prices on 18 November and starts trading on 19 November, and a poster argued its first year of prices will follow the lock-up calendar more than its value.</strong> The point is that more and more shares can be sold on dates already printed in the prospectus.</p>\n<ul>\n<li><strong>Why it matters:</strong> the method applies to any recent listing: separate the dates that change supply from the facts that change value. The post cites Field and Hanka (2001): prices fell about 1.5% on average around lock-up expiries, even though every date was public, and trading volume rose 40% for good. The poster's summary: &quot;Every release date moves the price, and none of them moves the value.&quot; The best reply added that the reported 7x demand counts only investors with IPO access, that such figures &quot;often get inflated&quot;, and asked &quot;7x at what price?&quot;. Another warned that the &quot;access&quot; premium of the DXYZ fund disappeared after SpaceX listed. One member called the post &quot;AI slop&quot;, and two said an IPO is speculation, not value investing. The poster agreed and said it can only become a value question once the unlocks are done.</li>\n<li><strong>What to watch:</strong> the final price, due 18 November, and the first trade on Nasdaq under &quot;ANT&quot; on 19 November, both per Anthropic's own IPO-website filing. After that, the release dates in the prospectus: the first 76 days, the ten weeks after Anthropic reports its 2026 results, and the one-year mark.</li>\n<li><strong>Numbers:</strong> as posted: 825 million shares sold in the IPO; up to 316 million more that employees and non-founder insiders can sell from day one, together &quot;under 9% of the company&quot;; up to 1.6 billion shares sellable within 76 days, about 4.1 billion more after the 2026 results, and up to 15.5 billion within a year including options and awards. Reported, from search summaries of the 10 November S-1/A: 825 million Class A shares at $70–78, of which 801,351,354 are sold by Anthropic and 23,648,646 by selling stockholders. A secondary explainer gives the same 316 million and about 1,612 million by day 76. Measured, per the paper's abstract: a −1.5% three-day abnormal return and a permanent 40% rise in volume across 1,948 lock-ups.</li>\n<li><strong>Caveats:</strong> the S-1/A is too large for this tool to open, so the share counts and the release schedule are not checked against it. The 7x order book is a press report, not a filing. The SpaceX comparison (listed at $135, above $200 in its first week, below $135 a month later) was not checked. A separate 0-point post modelled Anthropic at $36 a share, &quot;roughly half the IPO price&quot;, from four weighted scenarios. That is one member's model, and a reply said the split of revenue between labs, apps and cloud can't be predicted 5–10 years out.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xymw4u/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>, then <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072949/anthropicpbc-fwpipowebsi.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Anthropic's IPO-website filing</a></li>\n</ul>",
+              "text": "Anthropic's IPO prices on 18 November and starts trading on 19 November, and a poster argued its first year of prices will follow the lock-up calendar more than its value. The point is that more and more shares can be sold on dates already printed in the prospectus. Why it matters: the method applies to any recent listing: separate the dates that change supply from the facts that change value. The post cites Field and Hanka (2001): prices fell about 1.5% on average around lock-up expiries, even though every date was public, and trading volume rose 40% for good. The poster's summary: \"Every release date moves the price, and none of them moves the value.\" The best reply added that the reported 7x demand counts only investors with IPO access, that such figures \"often get inflated\", and asked \"7x at what price?\". Another warned that the \"access\" premium of the DXYZ fund disappeared after SpaceX listed. One member called the post \"AI slop\", and two said an IPO is speculation, not value investing. The poster agreed and said it can only become a value question once the unlocks are done. What to watch: the final price, due 18 November, and the first trade on Nasdaq under \"ANT\" on 19 November, both per Anthropic's own IPO-website filing. After that, the release dates in the prospectus: the first 76 days, the ten weeks after Anthropic reports its 2026 results, and the one-year mark. Numbers: as posted: 825 million shares sold in the IPO; up to 316 million more that employees and non-founder insiders can sell from day one, together \"under 9% of the company\"; up to 1.6 billion shares sellable within 76 days, about 4.1 billion more after the 2026 results, and up to 15.5 billion within a year including options and awards. Reported, from search summaries of the 10 November S-1/A: 825 million Class A shares at $70–78, of which 801,351,354 are sold by Anthropic and 23,648,646 by selling stockholders. A secondary explainer gives the same 316 million and about 1,612 million by day 76. Measured, per the paper's abstract: a −1.5% three-day abnormal return and a permanent 40% rise in volume across 1,948 lock-ups. Caveats: the S-1/A is too large for this tool to open, so the share counts and the release schedule are not checked against it. The 7x order book is a press report, not a filing. The SpaceX comparison (listed at $135, above $200 in its first week, below $135 a month later) was not checked. A separate 0-point post modelled Anthropic at $36 a share, \"roughly half the IPO price\", from four weighted scenarios. That is one member's model, and a reply said the split of revenue between labs, apps and cloud can't be predicted 5–10 years out. Read next: the thread , then Anthropic's IPO-website filing Verified for the pricing and trading dates, the exchange and the ticker against Anthropic's FWP of 12 November, and for the study's 40% volume rise and sample against its journal record ; the share counts and lock-up schedule are Reported",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the pricing and trading dates, the exchange and the ticker against Anthropic's FWP of 12 November, and for the study's 40% volume rise and sample against <a href=\"https://ideas.repec.org/a/bla/jfinan/v56y2001i2p471-500.html\" target=\"_blank\" rel=\"noopener noreferrer\">its journal record</a>; the share counts and lock-up schedule are Reported</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing",
+                "ideas.repec.org"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A poster's five warning signs in Nvidia's Q3 numbers match its CFO commentary, except that the &quot;net loss&quot; applied only to private stakes.</strong>",
+              "html": "<p><strong>A poster's five warning signs in Nvidia's Q3 numbers match its CFO commentary, except that the &quot;net loss&quot; applied only to private stakes.</strong> The post drew one reply. The more useful material was a reply in another thread on how to spot these items without reading the news every day.</p>\n<ul>\n<li><strong>Why it matters:</strong> this is a correction and a method. The correction: the post says Nvidia &quot;booked a $1.0 billion net loss including a $1.8 billion impairment&quot;. The commentary says net gains from equity securities were $1.8 billion overall: $2.8 billion of gains on public holdings and a $1.0 billion net loss on non-marketable ones, which includes the $1.8 billion impairment. The method came from a reply in a thread on avoiding market noise. It argued that &quot;price alerts catch what the market already noticed&quot;: follow each company's filings through EDGAR's RSS feed, read only the 8-K items that matter (results, leadership changes, big agreements, impairments), and once a quarter compare receivables against revenue, inventory, and the commitments and guarantees in the notes. Its Nvidia example was days sales outstanding going &quot;from 45 to 60 to 64 days in two quarters&quot;. Another reply suggested the opposite: alerts for a move above 4% on twice normal volume.</li>\n<li><strong>What to watch:</strong> the Q3 10-Q, which Nvidia says it will file &quot;in the coming weeks&quot;. Also the Q4 outlook: revenue of $130.0 billion, plus or minus 3%, for a quarter with an additional week, and gross margins of 71.0–72.0%.</li>\n<li><strong>Numbers:</strong> as stated in the CFO commentary: revenue $115.8 billion, up 20% sequentially; accounts receivable $81.0 billion with 64 days sales outstanding, up from 60, &quot;driven by shipment linearity from our Rubin launch and extended payment terms on large, multi-quarter agreements with certain investment-grade customers&quot;; inventory $39.7 billion, up from $31.6 billion; supply commitments $390 billion, up from $279 billion, &quot;primarily related to the multi-year procurement of memory supply&quot;; Q3 GAAP gross margin 74.8%. The post does not mention $118.0 billion of maximum gross exposure under guarantees, $105.0 billion of which is credit support for SB Energy's Ohio campus leased to OpenAI, or $28.1 billion returned to shareholders in the quarter. As posted, not checked: DSO of 53 days a year ago, and that this is &quot;the first time this line has moved the wrong way&quot;.</li>\n<li><strong>Caveats:</strong> linking the commitments to circular financing is the poster's reading; the commentary attributes them mainly to memory. The comparison of inventory up about 26% with revenue up 20% is the poster's arithmetic. The 45-day starting point for DSO is Reported, from a search summary of the Q2 commentary.</li>\n<li><strong>Read next:</strong> <a href=\"https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q327/Q3FY27-CFO-Commentary.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Nvidia's Q3 CFO commentary</a>, then <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xzfw93/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a> and <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xzdc6o/\" target=\"_blank\" rel=\"noopener noreferrer\">the reply on filings</a></li>\n</ul>",
+              "text": "A poster's five warning signs in Nvidia's Q3 numbers match its CFO commentary, except that the \"net loss\" applied only to private stakes. The post drew one reply. The more useful material was a reply in another thread on how to spot these items without reading the news every day. Why it matters: this is a correction and a method. The correction: the post says Nvidia \"booked a $1.0 billion net loss including a $1.8 billion impairment\". The commentary says net gains from equity securities were $1.8 billion overall: $2.8 billion of gains on public holdings and a $1.0 billion net loss on non-marketable ones, which includes the $1.8 billion impairment. The method came from a reply in a thread on avoiding market noise. It argued that \"price alerts catch what the market already noticed\": follow each company's filings through EDGAR's RSS feed, read only the 8-K items that matter (results, leadership changes, big agreements, impairments), and once a quarter compare receivables against revenue, inventory, and the commitments and guarantees in the notes. Its Nvidia example was days sales outstanding going \"from 45 to 60 to 64 days in two quarters\". Another reply suggested the opposite: alerts for a move above 4% on twice normal volume. What to watch: the Q3 10-Q, which Nvidia says it will file \"in the coming weeks\". Also the Q4 outlook: revenue of $130.0 billion, plus or minus 3%, for a quarter with an additional week, and gross margins of 71.0–72.0%. Numbers: as stated in the CFO commentary: revenue $115.8 billion, up 20% sequentially; accounts receivable $81.0 billion with 64 days sales outstanding, up from 60, \"driven by shipment linearity from our Rubin launch and extended payment terms on large, multi-quarter agreements with certain investment-grade customers\"; inventory $39.7 billion, up from $31.6 billion; supply commitments $390 billion, up from $279 billion, \"primarily related to the multi-year procurement of memory supply\"; Q3 GAAP gross margin 74.8%. The post does not mention $118.0 billion of maximum gross exposure under guarantees, $105.0 billion of which is credit support for SB Energy's Ohio campus leased to OpenAI, or $28.1 billion returned to shareholders in the quarter. As posted, not checked: DSO of 53 days a year ago, and that this is \"the first time this line has moved the wrong way\". Caveats: linking the commitments to circular financing is the poster's reading; the commentary attributes them mainly to memory. The comparison of inventory up about 26% with revenue up 20% is the poster's arithmetic. The 45-day starting point for DSO is Reported, from a search summary of the Q2 commentary. Read next: Nvidia's Q3 CFO commentary , then the thread and the reply on filings Verified against the CFO commentary; the year-ago DSO and the method are Single source",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against the CFO commentary; the year-ago DSO and the method are Single source</p>",
+              "updated": null,
+              "sources": [
+                "s201.q4cdn.com",
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Filings and insider moves",
+          "category": "filings",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Berkshire Hathaway filed its Q3 13F on 16 November and disclosed a new 6.4% stake in Bending Spoons, the Italian software company.</strong>",
+              "html": "<p><strong>Berkshire Hathaway filed its Q3 13F on 16 November and disclosed a new 6.4% stake in Bending Spoons, the Italian software company.</strong> As filed in the Schedule 13G: 20,689,655 ordinary shares as of 30 September 2026, with shared voting power, reported jointly by Buffett, Berkshire, National Indemnity, GEICO Corporation and Government Employees Insurance Company. The same day Berkshire filed 13G amendments for VeriSign, Kroger, Bank of America and Delta Air Lines; these were not opened. Coverage of the 13F reports Berkshire as a net seller in the quarter, cutting Bank of America and Capital One and adding to Delta. Kiplinger puts net selling at $426 million, while another report gives $2.37 billion bought and $2.79 billion sold. The sub has not discussed any of it. <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526464218/xslSCHEDULE_13G_X02/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">13G</a></p>",
+              "text": "Berkshire Hathaway filed its Q3 13F on 16 November and disclosed a new 6.4% stake in Bending Spoons, the Italian software company. As filed in the Schedule 13G: 20,689,655 ordinary shares as of 30 September 2026, with shared voting power, reported jointly by Buffett, Berkshire, National Indemnity, GEICO Corporation and Government Employees Insurance Company. The same day Berkshire filed 13G amendments for VeriSign, Kroger, Bank of America and Delta Air Lines; these were not opened. Coverage of the 13F reports Berkshire as a net seller in the quarter, cutting Bank of America and Capital One and adding to Delta. Kiplinger puts net selling at $426 million, while another report gives $2.37 billion bought and $2.79 billion sold. The sub has not discussed any of it. 13G Verified for the Bending Spoons stake against the 13G and for the filing dates against EDGAR's index ; the buys and sells are Reported, from Kiplinger and The Edge ; the information table was not read",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the Bending Spoons stake against the 13G and for the filing dates against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's index</a>; the buys and sells are Reported, from <a href=\"https://www.kiplinger.com/investing/stocks/stocks-berkshire-hathaway-bought-sold-q3-2026\" target=\"_blank\" rel=\"noopener noreferrer\">Kiplinger</a> and <a href=\"https://theedgemalaysia.com/node/826037\" target=\"_blank\" rel=\"noopener noreferrer\">The Edge</a>; the information table was not read</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "kiplinger.com",
+                "theedgemalaysia.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Buffett converted 6,150 Class A shares into 9,225,000 Class B shares on 16 November and gave them to four family foundations.</strong>",
+              "html": "<p><strong>Buffett converted 6,150 Class A shares into 9,225,000 Class B shares on 16 November and gave them to four family foundations.</strong> 3,690,000 shares went to the Susan Thompson Buffett Foundation and 1,845,000 each to the Sherwood, Howard G. Buffett and NoVo foundations, leaving him 182,140 Class A and 1,162 Class B shares. His Thanksgiving message says the gift &quot;is consistent with the plan I have previously described&quot; and that his confidence in Berkshire &quot;is as strong as ever&quot;. <a href=\"https://www.berkshirehathaway.com/news/nov1626.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Release</a></p>",
+              "text": "Buffett converted 6,150 Class A shares into 9,225,000 Class B shares on 16 November and gave them to four family foundations. 3,690,000 shares went to the Susan Thompson Buffett Foundation and 1,845,000 each to the Sherwood, Howard G. Buffett and NoVo foundations, leaving him 182,140 Class A and 1,162 Class B shares. His Thanksgiving message says the gift \"is consistent with the plan I have previously described\" and that his confidence in Berkshire \"is as strong as ever\". Release Verified against the Form 4 filed 17 November and the release; a 13D amendment filed the same day was not opened",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/315090/000119312526465872/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the Form 4 filed 17 November</a> and the release; a 13D amendment filed the same day was not opened</p>",
+              "updated": null,
+              "sources": [
+                "berkshirehathaway.com",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Two Berkshire officers bought stock on 12 November.</strong>",
+              "html": "<p><strong>Two Berkshire officers bought stock on 12 November.</strong> CFO Charles C. Chang bought 2 Class A shares at $888,869.52 through an LLC he controls with his spouse. General Counsel Michael J. O'Sullivan bought 421 Class B shares through his living trust, at weighted averages of $593.75 and $594.40. The sub has not discussed either. <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526464003/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">Chang</a> · <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526463989/xslF345X06/ownership.xml\" target=\"_blank\" rel=\"noopener noreferrer\">O'Sullivan</a></p>",
+              "text": "Two Berkshire officers bought stock on 12 November. CFO Charles C. Chang bought 2 Class A shares at $888,869.52 through an LLC he controls with his spouse. General Counsel Michael J. O'Sullivan bought 421 Class B shares through his living trust, at weighted averages of $593.75 and $594.40. The sub has not discussed either. Chang · O'Sullivan Verified against both Form 4s, filed 16 November",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against both Form 4s, filed 16 November</p>",
+              "updated": null,
+              "sources": [
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Michael Burry Adds to Adobe Stake @ $246&quot; (116 points) is a link post with no body, and the stake cannot be checked in a filing.</strong>",
+              "html": "<p><strong>&quot;Michael Burry Adds to Adobe Stake @ $246&quot; (116 points) is a link post with no body, and the stake cannot be checked in a filing.</strong> Coverage dated 16 November reports Burry saying he added to Adobe at about $246 without giving a share count, alongside MercadoLibre, QXO and Lululemon. His fund, Scion, is no longer registered, so there is no 13F. The comments argued about the moat. The top reply (103 points) said Adobe's customers &quot;absolutely hate them to the bone ... but they don't leave&quot;. Another said Adobe is moving toward enterprise and partnerships, and a third said capable alternatives exist and AI will close the gap in polish. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xyixt9/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "\"Michael Burry Adds to Adobe Stake @ $246\" (116 points) is a link post with no body, and the stake cannot be checked in a filing. Coverage dated 16 November reports Burry saying he added to Adobe at about $246 without giving a share count, alongside MercadoLibre, QXO and Lululemon. His fund, Scion, is no longer registered, so there is no 13F. The comments argued about the moat. The top reply (103 points) said Adobe's customers \"absolutely hate them to the bone ... but they don't leave\". Another said Adobe is moving toward enterprise and partnerships, and a third said capable alternatives exist and AI will close the gap in polish. Thread Reported, from Stocktwits coverage ; no filing exists to check",
+              "status": "reported",
+              "status_html": "<p>Reported, from <a href=\"https://stocktwits.com/news-articles/markets/equity/michael-burry-buys-more-of-adobe-and-mercado-libre-exits-orcl-cat-puts/cNbJcE0R9gK\" target=\"_blank\" rel=\"noopener noreferrer\">Stocktwits coverage</a>; no filing exists to check</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "stocktwits.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>&quot;Bill Ackman sold a lot of stuff to buy a huge chunk of Netflix again&quot; refers to a stake disclosed in August, not a new filing.</strong>",
+              "html": "<p><strong>&quot;Bill Ackman sold a lot of stuff to buy a huge chunk of Netflix again&quot; refers to a stake disclosed in August, not a new filing.</strong> Coverage of Pershing Square's Q2 13F reported a new position of 3.15 million shares. For Q3, Pershing Square Capital Management filed only a 13F-NT on 16 November, meaning another filer reports its holdings, and that filing was not found. The 155-point thread was mostly against the pitch. The top reply (386 points) said Netflix's &quot;only strategy seems to increase prices instead of getting good content&quot;. Another said &quot;You do not want to pay p/e 21 for 5-7% growth&quot;. A third noted that Warner Bros. Discovery, with its studio and IP, sold for $110 billion including debt, and asked why Netflix should be worth twice that. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xyw1y7/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "\"Bill Ackman sold a lot of stuff to buy a huge chunk of Netflix again\" refers to a stake disclosed in August, not a new filing. Coverage of Pershing Square's Q2 13F reported a new position of 3.15 million shares. For Q3, Pershing Square Capital Management filed only a 13F-NT on 16 November, meaning another filer reports its holdings, and that filing was not found. The 155-point thread was mostly against the pitch. The top reply (386 points) said Netflix's \"only strategy seems to increase prices instead of getting good content\". Another said \"You do not want to pay p/e 21 for 5-7% growth\". A third noted that Warner Bros. Discovery, with its studio and IP, sold for $110 billion including debt, and asked why Netflix should be worth twice that. Thread Reported for the Q2 stake, from Stocktwits ; Unconfirmed that Pershing added in Q3 · checked Pershing's EDGAR 13F list",
+              "status": "reported",
+              "status_html": "<p>Reported for the Q2 stake, from <a href=\"https://stocktwits.com/news-articles/markets/equity/bill-ackman-takes-another-swing-at-nflx-after-colossal-2022-loss-netflix-has-effectively-won-the-streaming-wars/cZoqP0uRJhK\" target=\"_blank\" rel=\"noopener noreferrer\">Stocktwits</a>; <strong>Unconfirmed</strong> that Pershing added in Q3 · checked <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001336528&amp;type=13F&amp;dateb=&amp;owner=include&amp;count=10\" target=\"_blank\" rel=\"noopener noreferrer\">Pershing's EDGAR 13F list</a></p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "stocktwits.com",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Jumbo (Athens: BELA): the pitch calls it a discounter with luxury margins, at about 11 times earnings.</strong>",
+              "html": "<p><strong>Jumbo (Athens: BELA): the pitch calls it a discounter with luxury margins, at about 11 times earnings.</strong> As posted: market cap €3.65 billion; 2025 gross margin 54.7%, EBITDA margin 35.4% and net margin 26%; ROIC of 31–33%; no borrowings and €486 million of net cash at end-June 2026; FCF yield about 7% and dividend yield about 8%. It owns 70% of its stores and has no loss year in at least two decades. The poster names the risks: Action, the Dutch discounter, registering a Greek subsidiary on 11 November; a longer slump in Romania; and an unsettled succession to the founder. The post links the author's own Substack and drew one comment, which was not read. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xzehvc/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Jumbo (Athens: BELA): the pitch calls it a discounter with luxury margins, at about 11 times earnings. As posted: market cap €3.65 billion; 2025 gross margin 54.7%, EBITDA margin 35.4% and net margin 26%; ROIC of 31–33%; no borrowings and €486 million of net cash at end-June 2026; FCF yield about 7% and dividend yield about 8%. It owns 70% of its stores and has no loss year in at least two decades. The poster names the risks: Action, the Dutch discounter, registering a Greek subsidiary on 11 November; a longer slump in Romania; and an unsettled succession to the founder. The post links the author's own Substack and drew one comment, which was not read. Thread Single source · no Jumbo filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Jumbo filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>GoDaddy (GDDY): the pitch says being the domain registrar lets it sell website tools first, and the best reply measured how small Airo still is.</strong>",
+              "html": "<p><strong>GoDaddy (GDDY): the pitch says being the domain registrar lets it sell website tools first, and the best reply measured how small Airo still is.</strong> As posted: Airo's annualised bookings run rate grew from $10 million in Q1 to $100 million in Q3, retention is above 85% (90%+ after three years), and FCF has doubled in five years. The reply says the run rate is about $25 million a quarter against total Q3 bookings of $1,432 million, up 5.7%, so Airo is under 2% of bookings. It also notes that the Q3 release's risk list mentions migrating customers from legacy products to Airo, so some of the run rate may be existing customers switching. Another reply said weak liquidity is just deferred revenue from prepaid domains. A user wrote: &quot;I hate it with a passion&quot;, and stays only because moving an old domain is a chore. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xz4j4t/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "GoDaddy (GDDY): the pitch says being the domain registrar lets it sell website tools first, and the best reply measured how small Airo still is. As posted: Airo's annualised bookings run rate grew from $10 million in Q1 to $100 million in Q3, retention is above 85% (90%+ after three years), and FCF has doubled in five years. The reply says the run rate is about $25 million a quarter against total Q3 bookings of $1,432 million, up 5.7%, so Airo is under 2% of bookings. It also notes that the Q3 release's risk list mentions migrating customers from legacy products to Airo, so some of the run rate may be existing customers switching. Another reply said weak liquidity is just deferred revenue from prepaid domains. A user wrote: \"I hate it with a passion\", and stays only because moving an old domain is a chore. Thread Single source · GoDaddy's release was not opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · GoDaddy's release was not opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Micron and SK hynix: two posts called memory makers cheap at single-digit P/Es, and the replies said that is what a cyclical peak looks like.</strong>",
+              "html": "<p><strong>Micron and SK hynix: two posts called memory makers cheap at single-digit P/Es, and the replies said that is what a cyclical peak looks like.</strong> As posted: Micron at 9.2x trailing, 4x forward and a PEG under 0.10; SK hynix at 1.9x forward after removing cash and long-term holdings and adding debt. The best analogy (26 points): &quot;you wouldn't value a hotel near the arena based on the nightly rates it gets during the Super Bowl&quot;. One commenter recalled Micron's negative gross margins in 2023. On the other side, commenters said long-term agreements book capacity &quot;until basically 2030&quot;. One said SK hynix's October results put more than half of its 2027–28 capacity under long-term contracts. Two warned that obligations disclosed only in the footnotes make the P/E unreliable. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xysbem/\" target=\"_blank\" rel=\"noopener noreferrer\">Micron</a> · <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xz460r/\" target=\"_blank\" rel=\"noopener noreferrer\">SK hynix</a></p>",
+              "text": "Micron and SK hynix: two posts called memory makers cheap at single-digit P/Es, and the replies said that is what a cyclical peak looks like. As posted: Micron at 9.2x trailing, 4x forward and a PEG under 0.10; SK hynix at 1.9x forward after removing cash and long-term holdings and adding debt. The best analogy (26 points): \"you wouldn't value a hotel near the arena based on the nightly rates it gets during the Super Bowl\". One commenter recalled Micron's negative gross margins in 2023. On the other side, commenters said long-term agreements book capacity \"until basically 2030\". One said SK hynix's October results put more than half of its 2027–28 capacity under long-term contracts. Two warned that obligations disclosed only in the footnotes make the P/E unreliable. Micron · SK hynix Single source · the multiples and the contract share were not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the multiples and the contract share were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Process and valuation method",
+          "category": "process",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The best answer to &quot;is the SaaSpocalypse real?&quot; was three questions for any software company, not a verdict on the sector.</strong>",
+              "html": "<p><strong>The best answer to &quot;is the SaaSpocalypse real?&quot; was three questions for any software company, not a verdict on the sector.</strong> The 78-point post argued that Anthropic will move into enterprise software. The top reply (59 points) said SaaS &quot;is a delivery and monetisation model, not a competitive moat&quot;. It proposed three tests. Does an AI agent still need the company's infrastructure to get anything done? Does the revenue model grow with automated activity, or does automation destroy the seats it charges for? Does the company control something hard to copy, such as operational data, physical infrastructure, payment rails or regulatory accountability? Its examples of better-placed models were ServiceTitan, which bills per technician, Samsara and Axon. A reply said the problem with those names is the valuation, with 30%+ growth already priced in. Others said small vertical niches are not worth Anthropic's time. A third reply cited Anthropic's S-1: the company says it already competes with some customers and calls the risk &quot;particularly acute with software-as-a-service&quot;. It also gave 79% of revenue for the nine months to September as pay-per-use ($26.3 billion). The same reply said Salesforce's 10-Q carries its Anthropic stake at about $5.1 billion, and that ServiceNow's renewal rate is still 98%. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xz86ow/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The best answer to \"is the SaaSpocalypse real?\" was three questions for any software company, not a verdict on the sector. The 78-point post argued that Anthropic will move into enterprise software. The top reply (59 points) said SaaS \"is a delivery and monetisation model, not a competitive moat\". It proposed three tests. Does an AI agent still need the company's infrastructure to get anything done? Does the revenue model grow with automated activity, or does automation destroy the seats it charges for? Does the company control something hard to copy, such as operational data, physical infrastructure, payment rails or regulatory accountability? Its examples of better-placed models were ServiceTitan, which bills per technician, Samsara and Axon. A reply said the problem with those names is the valuation, with 30%+ growth already priced in. Others said small vertical niches are not worth Anthropic's time. A third reply cited Anthropic's S-1: the company says it already competes with some customers and calls the risk \"particularly acute with software-as-a-service\". It also gave 79% of revenue for the nine months to September as pay-per-use ($26.3 billion). The same reply said Salesforce's 10-Q carries its Anthropic stake at about $5.1 billion, and that ServiceNow's renewal rate is still 98%. Thread Single source · the S-1 is too large to open here, and the Salesforce and ServiceNow figures were not checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the S-1 is too large to open here, and the Salesforce and ServiceNow figures were not checked</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The 250-point thread &quot;I do not understand the current selloffs&quot; got mechanical answers, not fundamental ones.</strong>",
+              "html": "<p><strong>The 250-point thread &quot;I do not understand the current selloffs&quot; got mechanical answers, not fundamental ones.</strong> The top reply (449 points) described a chain: profit-taking by those who made money on AI, then margin calls for those who bought at the top, then retail panic. Another said AI is being sold because it is the sector with the most leverage, pointing to the yen carry trade unwinding and leveraged speculators in Korea and Taiwan. A third replied that the market is down &quot;400 points in 6 weeks&quot;, which &quot;isn't even approaching insane&quot;. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xyp8ro/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "The 250-point thread \"I do not understand the current selloffs\" got mechanical answers, not fundamental ones. The top reply (449 points) described a chain: profit-taking by those who made money on AI, then margin calls for those who bought at the top, then retail panic. Another said AI is being sold because it is the sector with the most leverage, pointing to the yen carry trade unwinding and leveraged speculators in Korea and Taiwan. A third replied that the market is down \"400 points in 6 weeks\", which \"isn't even approaching insane\". Thread Single source · none of the market figures was checked",
+              "status": "single-source",
+              "status_html": "<p>Single source · none of the market figures was checked</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A post said Goldman Sachs puts chip stocks at 11 times 2028 earnings against about 16 for the S&amp;P.</strong>",
+              "html": "<p><strong>A post said Goldman Sachs puts chip stocks at 11 times 2028 earnings against about 16 for the S&amp;P.</strong> As posted, from a futunn summary: CTAs are near maximum short on the Nasdaq 100, US tech long/short ratios are at their lowest since 2016, and long-only money is rotating from Nvidia into the hyperscalers. The best reply checked the source and said the note comes from Goldman's flow analysts, who track money moving rather than ROIC. Another said RAM sells at about four times its price of 2–3 years ago, so at old prices the 11x multiple becomes 45x. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xydc2p/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A post said Goldman Sachs puts chip stocks at 11 times 2028 earnings against about 16 for the S&P. As posted, from a futunn summary: CTAs are near maximum short on the Nasdaq 100, US tech long/short ratios are at their lowest since 2016, and long-only money is rotating from Nvidia into the hyperscalers. The best reply checked the source and said the note comes from Goldman's flow analysts, who track money moving rather than ROIC. Another said RAM sells at about four times its price of 2–3 years ago, so at old prices the 11x multiple becomes 45x. Thread Single source · the Goldman note was not opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · the Goldman note was not opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "Uber&#x27;s moat came back with Zoox&#x27;s Las Vegas deal set against Waymo&#x27;s own app.",
+              "html": "<p>Uber's moat came back with Zoox's Las Vegas deal set against Waymo's own app. The most specific reply said to watch whether Uber's take rate holds in the self-driving cities compared with the others.</p>",
+              "text": "Uber's moat came back with Zoox's Las Vegas deal set against Waymo's own app. The most specific reply said to watch whether Uber's take rate holds in the self-driving cities compared with the others.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Google drew two bullish posts.",
+              "html": "<p>Google drew two bullish posts. One argued from Stanley Druckenmiller's reported remark that money is in &quot;the Application Layer of AI&quot; and that labs will charge per task. The other, at 0 points, argued from Google selling TPUs to outside customers. Its claim that TPUs are &quot;30% cheaper&quot; than Nvidia's chips was not sourced.</p>",
+              "text": "Google drew two bullish posts. One argued from Stanley Druckenmiller's reported remark that money is in \"the Application Layer of AI\" and that labs will charge per task. The other, at 0 points, argued from Google selling TPUs to outside customers. Its claim that TPUs are \"30% cheaper\" than Nvidia's chips was not sourced.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Reddit (the company) at under 20x earnings, a &quot;best buys of the last 12 months&quot; thread and two allocation questions filled out the run.",
+              "html": "<p>Reddit (the company) at under 20x earnings, a &quot;best buys of the last 12 months&quot; thread and two allocation questions filled out the run.</p>",
+              "text": "Reddit (the company) at under 20x earnings, a \"best buys of the last 12 months\" thread and two allocation questions filled out the run.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>The Bank of America survey figures in a 6-point post could not be found.</strong>",
+              "html": "<p><strong>The Bank of America survey figures in a 6-point post could not be found.</strong> The post says net overweight in tech fell from 37% in October to 12% in November, the sharpest one-month cut since June 2006, with 169 panellists managing $461 billion. A search found coverage of a November survey with a different panel (172 allocators, $475 billion) and no tech overweight figure.</p>",
+              "text": "The Bank of America survey figures in a 6-point post could not be found. The post says net overweight in tech fell from 37% in October to 12% in November, the sharpest one-month cut since June 2006, with 169 panellists managing $461 billion. A search found coverage of a November survey with a different panel (172 allocators, $475 billion) and no tech overweight figure. Unconfirmed · searched for the November 2026 survey; found only secondary coverage with other figures, which may describe a different year",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · searched for the November 2026 survey; found only <a href=\"https://www.investordaily.com.au/investors-most-bullish-in-months-as-cash-levels-drop\" target=\"_blank\" rel=\"noopener noreferrer\">secondary coverage</a> with other figures, which may describe a different year</p>",
+              "updated": null,
+              "sources": [
+                "investordaily.com.au"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A commenter said Leopold Aschenbrenner's fund is &quot;down 90% per this week's 13F&quot; and lost $18.5 billion on a margin call.</strong>",
+              "html": "<p><strong>A commenter said Leopold Aschenbrenner's fund is &quot;down 90% per this week's 13F&quot; and lost $18.5 billion on a margin call.</strong> A search found reports that Situational Awareness liquidated much of its portfolio in July and that its Q3 13F was expected on 16 November. It found nothing on a margin call or the loss figure, and 13Fs show neither leverage nor losses.</p>",
+              "text": "A commenter said Leopold Aschenbrenner's fund is \"down 90% per this week's 13F\" and lost $18.5 billion on a margin call. A search found reports that Situational Awareness liquidated much of its portfolio in July and that its Q3 13F was expected on 16 November. It found nothing on a margin call or the loss figure, and 13Fs show neither leverage nor losses. Unconfirmed · searched coverage of the fund's 13F filings, including this tracker piece ; the fund's EDGAR page was not checked",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · searched coverage of the fund's 13F filings, including <a href=\"https://www.moomoo.com/community/feed/13f-tracker-before-the-unwind-situational-awareness-s-q2-filing-117097993011206\" target=\"_blank\" rel=\"noopener noreferrer\">this tracker piece</a>; the fund's EDGAR page was not checked</p>",
+              "updated": null,
+              "sources": [
+                "moomoo.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> ValueInvesting (23 posts in the scan).",
+              "html": "<p><strong>Read:</strong> ValueInvesting (23 posts in the scan). Skipped: both weekly megathreads, a question about investing the proceeds of a sold fund, a newbie question listing four tickers, a $100k RSU diversification plan, and a 0-comment request for valuation books. <strong>Sources checked:</strong> Berkshire Hathaway's SEC filing index and Berkshire's news page, for 15 to 18 November 2026. EDGAR was read with WebFetch, and individual filings were opened through their index pages.</p>",
+              "text": "Read: ValueInvesting (23 posts in the scan). Skipped: both weekly megathreads, a question about investing the proceeds of a sold fund, a newbie question listing four tickers, a $100k RSU diversification plan, and a 0-comment request for valuation books. Sources checked: Berkshire Hathaway's SEC filing index and Berkshire's news page, for 15 to 18 November 2026. EDGAR was read with WebFetch, and individual filings were opened through their index pages.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> Berkshire&#x27;s Q3 13F, the Bending Spoons 13G, Buffett&#x27;s gift and the two officers&#x27; purchases, all covered under Filings and insider moves.",
+              "html": "<p><strong>Announced, not discussed:</strong> Berkshire's Q3 13F, the Bending Spoons 13G, Buffett's gift and the two officers' purchases, all covered under Filings and insider moves. Not covered there: the 13G amendments for VeriSign, Kroger, Bank of America and Delta (16 November), a Buffett Schedule 13D amendment (17 November), and a 424B5 filed 17 November whose main document has the same filename as the 9 November yen-notes prospectus; none was opened.</p>",
+              "text": "Announced, not discussed: Berkshire's Q3 13F, the Bending Spoons 13G, Buffett's gift and the two officers' purchases, all covered under Filings and insider moves. Not covered there: the 13G amendments for VeriSign, Kroger, Bank of America and Delta (16 November), a Buffett Schedule 13D amendment (17 November), and a 424B5 filed 17 November whose main document has the same filename as the 9 November yen-notes prospectus; none was opened. Verified against EDGAR's filing index for Berkshire and Berkshire's news page",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> against <a href=\"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983&amp;type=&amp;dateb=&amp;owner=include&amp;count=40\" target=\"_blank\" rel=\"noopener noreferrer\">EDGAR's filing index for Berkshire</a> and <a href=\"https://www.berkshirehathaway.com/news/2026news.html\" target=\"_blank\" rel=\"noopener noreferrer\">Berkshire's news page</a></p>",
+              "updated": null,
+              "sources": [
+                "SEC filing",
+                "berkshirehathaway.com"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> &quot;etfs&quot; appears only in two personal-allocation questions, skipped under the feed&#x27;s rules.",
+              "html": "<p><strong>Flagged terms set aside:</strong> &quot;etfs&quot; appears only in two personal-allocation questions, skipped under the feed's rules.</p>",
+              "text": "Flagged terms set aside: \"etfs\" appears only in two personal-allocation questions, skipped under the feed's rules.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-15",
       "title": "Value investing digest",
@@ -3809,6 +4145,20 @@
           "due_label": null
         },
         {
+          "headline": "<strong>Berkshire Hathaway holds 6.4% of Bending Spoons.</strong>",
+          "html": "<p><strong>Berkshire Hathaway holds 6.4% of Bending Spoons.</strong> As filed in a Schedule 13G on 16 November 2026: 20,689,655 ordinary shares as of 30 September, with shared voting power, reported jointly by Buffett, Berkshire, National Indemnity and GEICO entities. It appeared alongside Berkshire's Q3 13F, which coverage reads as net selling, with cuts to Bank of America and Capital One and additions to Delta. The sub has not discussed it.</p>",
+          "text": "Berkshire Hathaway holds 6.4% of Bending Spoons. As filed in a Schedule 13G on 16 November 2026: 20,689,655 ordinary shares as of 30 September, with shared voting power, reported jointly by Buffett, Berkshire, National Indemnity and GEICO entities. It appeared alongside Berkshire's Q3 13F, which coverage reads as net selling, with cuts to Bank of America and Capital One and additions to Delta. The sub has not discussed it. Verified for the stake against the 13G ; the 13F moves are Reported, from Kiplinger · 2026-11-18",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the stake against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526464218/xslSCHEDULE_13G_X02/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the 13G</a>; the 13F moves are Reported, from <a href=\"https://www.kiplinger.com/investing/stocks/stocks-berkshire-hathaway-bought-sold-q3-2026\" target=\"_blank\" rel=\"noopener noreferrer\">Kiplinger</a> · 2026-11-18</p>",
+          "updated": "2026-11-18",
+          "sources": [
+            "SEC filing",
+            "kiplinger.com"
+          ],
+          "due": null,
+          "due_label": null
+        },
+        {
           "headline": "<strong>Rolf Buch's Vonovia call options date from December 2025, and he is no longer CEO.</strong>",
           "html": "<p><strong>Rolf Buch's Vonovia call options date from December 2025, and he is no longer CEO.</strong> He bought 38,000 call options on 29 December 2025 (€28 strike, expiring 17 December 2027), shortly before handing over to Luka Mucic. The sub has cited it as fresh insider buying.</p>",
           "text": "Rolf Buch's Vonovia call options date from December 2025, and he is no longer CEO. He bought 38,000 call options on 29 December 2025 (€28 strike, expiring 17 December 2027), shortly before handing over to Luka Mucic. The sub has cited it as fresh insider buying. Verified for the trade and the CEO change, against the directors' dealings notice and the succession announcement ; a €36-strike tranche is Unconfirmed · 2026-10-08",
@@ -3869,20 +4219,6 @@
           "due_label": "Q3 2026 results and call, listed as estimated"
         },
         {
-          "headline": "<strong>Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO.</strong>",
-          "html": "<p><strong>Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO.</strong> On 8 November the board opened an independent investigation into Huang's ties to a MegaSpeed executive, whom U.S. intelligence reportedly says passed information to Beijing, and said it had confidence in him. On 11 November it accepted his resignation as President, CEO and director, effective immediately, after the New York Times reported a second relationship, with Kimberly Powell, Nvidia's vice president of healthcare. Kress, CFO since 2013, also stays CFO. Harvey C. Jones, a director since 1993, became the board's first chair. A search for a permanent CEO covers internal and external candidates. The 8-K gives no reason and says nothing on severance or equity. The House committees' request for Huang to appear, proposed for 18 November, is still outstanding. The sub's open question has shifted from whether the investigation reaches cash flows to whether key engineers follow Huang out, and who succeeds him. On 15 November commenters claimed, without a source, that Kress clashed with Huang over circular financing and will scale it back; a search found nothing to support that.</p>",
-          "text": "Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO. On 8 November the board opened an independent investigation into Huang's ties to a MegaSpeed executive, whom U.S. intelligence reportedly says passed information to Beijing, and said it had confidence in him. On 11 November it accepted his resignation as President, CEO and director, effective immediately, after the New York Times reported a second relationship, with Kimberly Powell, Nvidia's vice president of healthcare. Kress, CFO since 2013, also stays CFO. Harvey C. Jones, a director since 1993, became the board's first chair. A search for a permanent CEO covers internal and external candidates. The 8-K gives no reason and says nothing on severance or equity. The House committees' request for Huang to appear, proposed for 18 November, is still outstanding. The sub's open question has shifted from whether the investigation reaches cash flows to whether key engineers follow Huang out, and who succeeds him. On 15 November commenters claimed, without a source, that Kress clashed with Huang over circular financing and will scale it back; a search found nothing to support that. Verified for the resignation, the interim CEO, the chair and the results date against the 8-K filed 12 November 2026 and its press release ; the investigation and the Powell report are Reported, from CNBC and CNBC on 11 November · 2026-11-12",
-          "status": "verified",
-          "status_html": "<p><strong>Verified</strong> for the resignation, the interim CEO, the chair and the results date against <a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 8-K filed 12 November 2026</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvidiaannouncesceotransiti.htm\" target=\"_blank\" rel=\"noopener noreferrer\">its press release</a>; the investigation and the Powell report are Reported, from <a href=\"https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-email-board-of-directors-statement.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and <a href=\"https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC on 11 November</a> · 2026-11-12</p>",
-          "updated": "2026-11-12",
-          "sources": [
-            "SEC filing",
-            "CNBC"
-          ],
-          "due": "2026-11-17",
-          "due_label": "Q3 fiscal 2027 results, \"as previously scheduled\""
-        },
-        {
           "headline": "<strong>Berkshire Hathaway is buying back its own stock again: about $9.6 billion in Q3 2026 and about $14.4 billion over nine months.</strong>",
           "html": "<p><strong>Berkshire Hathaway is buying back its own stock again: about $9.6 billion in Q3 2026 and about $14.4 billion over nine months.</strong> On 9 November it also filed a preliminary prospectus for three series of yen senior notes, with amounts and coupons blank and the proceeds for &quot;general corporate purposes&quot;. The draft refers to ¥73.4 billion of 0.955% notes due 2026 and ¥23.0 billion of 0.203% notes due 2027. The offering priced on 13 November at ¥182.3 billion across five series, at coupons from 2.624% (2029) to 4.571% (2056), settling 19 November. The sub reads it as funding for Japanese trading-house stakes, while the prospectus names refinancing the 2026 and 2027 notes. The sub's open question is whether buybacks continue with B shares above the $522.76 price-to-book line one member draws. Commenters say Berkshire's actual test is intrinsic value, not a book multiple.</p>",
           "text": "Berkshire Hathaway is buying back its own stock again: about $9.6 billion in Q3 2026 and about $14.4 billion over nine months. On 9 November it also filed a preliminary prospectus for three series of yen senior notes, with amounts and coupons blank and the proceeds for \"general corporate purposes\". The draft refers to ¥73.4 billion of 0.955% notes due 2026 and ¥23.0 billion of 0.203% notes due 2027. The offering priced on 13 November at ¥182.3 billion across five series, at coupons from 2.624% (2029) to 4.571% (2056), settling 19 November. The sub reads it as funding for Japanese trading-house stakes, while the prospectus names refinancing the 2026 and 2027 notes. The sub's open question is whether buybacks continue with B shares above the $522.76 price-to-book line one member draws. Commenters say Berkshire's actual test is intrinsic value, not a book multiple. Verified for the repurchase totals against the Q3 2026 release , for the offering against the 424B5 and for the pricing against the term sheet ; the average repurchase prices in the 10-Q were not read · 2026-11-15",
@@ -3897,18 +4233,19 @@
         },
         {
           "headline": "<strong>Anthropic's IPO, and the credit terms already on record ahead of it.</strong>",
-          "html": "<p><strong>Anthropic's IPO, and the credit terms already on record ahead of it.</strong> The S-1 was submitted confidentially on 1 June 2026 and made public on 26 October 2026 (Anthropic, PBC, CIK 0002130357, file number 333-299633). Coverage reports a Nasdaq listing under ANT, with share count and price range not yet set, and gives conflicting revenue and loss figures from it. What was reported before the filing: Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion, described as adjusted-profitable and disclosed at a closed investor meeting on 14 October; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026 within a $35 billion Broadcom chip financing led by Apollo, with about $4.4 billion of subordinated debt near an 8.5% yield and senior debt near 5.75%; a listing expected in November at a valuation target reported up to $2 trillion. KBRA was reportedly not given free cash flow or EBITDA and estimated them.</p>",
-          "text": "Anthropic's IPO, and the credit terms already on record ahead of it. The S-1 was submitted confidentially on 1 June 2026 and made public on 26 October 2026 (Anthropic, PBC, CIK 0002130357, file number 333-299633). Coverage reports a Nasdaq listing under ANT, with share count and price range not yet set, and gives conflicting revenue and loss figures from it. What was reported before the filing: Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion, described as adjusted-profitable and disclosed at a closed investor meeting on 14 October; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026 within a $35 billion Broadcom chip financing led by Apollo, with about $4.4 billion of subordinated debt near an 8.5% yield and senior debt near 5.75%; a listing expected in November at a valuation target reported up to $2 trillion. KBRA was reportedly not given free cash flow or EBITDA and estimated them. Verified that the S-1 was filed publicly on 26 October 2026, against EDGAR's full-text index; the S-1 itself was too large for this tool to open, so none of its figures are recorded here. The pre-filing items are Reported, from SiliconANGLE and Crypto Briefing's summary of the FT report , and the listing details from coverage of the filing · 2026-10-29",
+          "html": "<p><strong>Anthropic's IPO, and the credit terms already on record ahead of it.</strong> The S-1 was submitted confidentially on 1 June 2026 and made public on 26 October 2026 (Anthropic, PBC, CIK 0002130357, file number 333-299633), with amendments on 2, 10 and 17 November. Anthropic's own IPO-website filing says the final price is &quot;expected to be determined on November 18th&quot; and that shares &quot;are expected to begin publicly trading on November 19th&quot;, on Nasdaq under &quot;ANT&quot;. Coverage of the 10 November amendment reports 825 million Class A shares at $70–78. On 17 November a member set out the lock-up calendar: up to 316 million more shares sellable from day one, about 1.6 billion within 76 days, about 4.1 billion more in the ten weeks after the 2026 results, and up to 15.5 billion within a year. Their argument is that prices in the first year reflect supply as much as value. Earlier coverage gave conflicting revenue and loss figures from the S-1. What was reported before the filing: Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion, described as adjusted-profitable and disclosed at a closed investor meeting on 14 October; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026 within a $35 billion Broadcom chip financing led by Apollo, with about $4.4 billion of subordinated debt near an 8.5% yield and senior debt near 5.75%; a listing expected in November at a valuation target reported up to $2 trillion. KBRA was reportedly not given free cash flow or EBITDA and estimated them.</p>",
+          "text": "Anthropic's IPO, and the credit terms already on record ahead of it. The S-1 was submitted confidentially on 1 June 2026 and made public on 26 October 2026 (Anthropic, PBC, CIK 0002130357, file number 333-299633), with amendments on 2, 10 and 17 November. Anthropic's own IPO-website filing says the final price is \"expected to be determined on November 18th\" and that shares \"are expected to begin publicly trading on November 19th\", on Nasdaq under \"ANT\". Coverage of the 10 November amendment reports 825 million Class A shares at $70–78. On 17 November a member set out the lock-up calendar: up to 316 million more shares sellable from day one, about 1.6 billion within 76 days, about 4.1 billion more in the ten weeks after the 2026 results, and up to 15.5 billion within a year. Their argument is that prices in the first year reflect supply as much as value. Earlier coverage gave conflicting revenue and loss figures from the S-1. What was reported before the filing: Q3 2026 revenue of $16.8 billion, up about 45% sequentially from $11.5 billion, described as adjusted-profitable and disclosed at a closed investor meeting on 14 October; a KBRA issuer rating of BB+ with a stable outlook assigned in June 2026 within a $35 billion Broadcom chip financing led by Apollo, with about $4.4 billion of subordinated debt near an 8.5% yield and senior debt near 5.75%; a listing expected in November at a valuation target reported up to $2 trillion. KBRA was reportedly not given free cash flow or EBITDA and estimated them. Verified that the S-1 was filed publicly on 26 October 2026, against EDGAR's full-text index, and for the pricing and trading dates and the ticker against Anthropic's FWP of 12 November ; the S-1 and its amendments are too large for this tool to open, so the share counts, price range and lock-up schedule are Reported or Single source. The pre-filing items are Reported, from SiliconANGLE and Crypto Briefing's summary of the FT report , and the listing details from coverage of the filing · 2026-10-29",
           "status": "verified",
-          "status_html": "<p><strong>Verified</strong> that the S-1 was filed publicly on 26 October 2026, against EDGAR's full-text index; the S-1 itself was too large for this tool to open, so none of its figures are recorded here. The pre-filing items are Reported, from <a href=\"https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/\" target=\"_blank\" rel=\"noopener noreferrer\">SiliconANGLE</a> and <a href=\"https://cryptobriefing.com/anthropic-bb-plus-credit-rating-kbra/\" target=\"_blank\" rel=\"noopener noreferrer\">Crypto Briefing's summary of the FT report</a>, and the listing details from <a href=\"https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-files-its-s-1/\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the filing</a> · 2026-10-29</p>",
+          "status_html": "<p><strong>Verified</strong> that the S-1 was filed publicly on 26 October 2026, against EDGAR's full-text index, and for the pricing and trading dates and the ticker against <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072949/anthropicpbc-fwpipowebsi.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Anthropic's FWP of 12 November</a>; the S-1 and its amendments are too large for this tool to open, so the share counts, price range and lock-up schedule are Reported or Single source. The pre-filing items are Reported, from <a href=\"https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/\" target=\"_blank\" rel=\"noopener noreferrer\">SiliconANGLE</a> and <a href=\"https://cryptobriefing.com/anthropic-bb-plus-credit-rating-kbra/\" target=\"_blank\" rel=\"noopener noreferrer\">Crypto Briefing's summary of the FT report</a>, and the listing details from <a href=\"https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-files-its-s-1/\" target=\"_blank\" rel=\"noopener noreferrer\">coverage of the filing</a> · 2026-10-29</p>",
           "updated": "2026-10-29",
           "sources": [
+            "SEC filing",
             "siliconangle.com",
             "cryptobriefing.com",
             "iposcoop.com"
           ],
-          "due": "2026-11-30",
-          "due_label": "listing \"expected in November\", as reported"
+          "due": "2026-11-19",
+          "due_label": "trading \"expected to begin\", per Anthropic's FWP"
         },
         {
           "headline": "<strong>Costco's $30 special dividend and new $4 billion buyback, announced 10 November 2026.</strong>",
@@ -4042,6 +4379,21 @@
           "sources": [],
           "due": "2032-10-07",
           "due_label": "half the constellation operational, per the FCC grant; all of it by 2035-10-07"
+        },
+        {
+          "headline": "<strong>Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO.</strong>",
+          "html": "<p><strong>Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO.</strong> On 8 November the board opened an independent investigation into Huang's ties to a MegaSpeed executive, whom U.S. intelligence reportedly says passed information to Beijing, and said it had confidence in him. On 11 November it accepted his resignation as President, CEO and director, effective immediately, after the New York Times reported a second relationship, with Kimberly Powell, Nvidia's vice president of healthcare. Kress, CFO since 2013, also stays CFO. Harvey C. Jones, a director since 1993, became the board's first chair. A search for a permanent CEO covers internal and external candidates. The 8-K gives no reason and says nothing on severance or equity. The House committees' request for Huang to appear, proposed for 18 November, is still outstanding. The sub's open question has shifted from whether the investigation reaches cash flows to whether key engineers follow Huang out, and who succeeds him. On 15 November commenters claimed, without a source, that Kress clashed with Huang over circular financing and will scale it back; a search found nothing to support that. Q3 results came out on 17 November as scheduled. The CFO commentary's forward-looking statements still refer to &quot;the search for a new chief executive officer&quot; and &quot;the ongoing investigation by an independent committee&quot;. It shows receivables at $81.0 billion with days sales outstanding up from 60 to 64, inventory at $39.7 billion against $31.6 billion, supply commitments at $390 billion against $279 billion, and $118.0 billion of maximum exposure under guarantees.</p>",
+          "text": "Nvidia's CEO transition: Jensen Huang resigned on 11 November 2026, and CFO Colette Kress is interim CEO. On 8 November the board opened an independent investigation into Huang's ties to a MegaSpeed executive, whom U.S. intelligence reportedly says passed information to Beijing, and said it had confidence in him. On 11 November it accepted his resignation as President, CEO and director, effective immediately, after the New York Times reported a second relationship, with Kimberly Powell, Nvidia's vice president of healthcare. Kress, CFO since 2013, also stays CFO. Harvey C. Jones, a director since 1993, became the board's first chair. A search for a permanent CEO covers internal and external candidates. The 8-K gives no reason and says nothing on severance or equity. The House committees' request for Huang to appear, proposed for 18 November, is still outstanding. The sub's open question has shifted from whether the investigation reaches cash flows to whether key engineers follow Huang out, and who succeeds him. On 15 November commenters claimed, without a source, that Kress clashed with Huang over circular financing and will scale it back; a search found nothing to support that. Q3 results came out on 17 November as scheduled. The CFO commentary's forward-looking statements still refer to \"the search for a new chief executive officer\" and \"the ongoing investigation by an independent committee\". It shows receivables at $81.0 billion with days sales outstanding up from 60 to 64, inventory at $39.7 billion against $31.6 billion, supply commitments at $390 billion against $279 billion, and $118.0 billion of maximum exposure under guarantees. Verified for the resignation, the interim CEO and the chair against the 8-K filed 12 November 2026 and its press release , and for the Q3 figures against the Q3 CFO commentary ; the investigation and the Powell report are Reported, from CNBC and CNBC on 11 November · 2026-11-18",
+          "status": "verified",
+          "status_html": "<p><strong>Verified</strong> for the resignation, the interim CEO and the chair against <a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm\" target=\"_blank\" rel=\"noopener noreferrer\">the 8-K filed 12 November 2026</a> and <a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvidiaannouncesceotransiti.htm\" target=\"_blank\" rel=\"noopener noreferrer\">its press release</a>, and for the Q3 figures against <a href=\"https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q327/Q3FY27-CFO-Commentary.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">the Q3 CFO commentary</a>; the investigation and the Powell report are Reported, from <a href=\"https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-email-board-of-directors-statement.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC</a> and <a href=\"https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html\" target=\"_blank\" rel=\"noopener noreferrer\">CNBC on 11 November</a> · 2026-11-18</p>",
+          "updated": "2026-11-18",
+          "sources": [
+            "SEC filing",
+            "s201.q4cdn.com",
+            "CNBC"
+          ],
+          "due": null,
+          "due_label": null
         },
         {
           "headline": "<strong>Meta's $25 billion New Mexico judgment, entered 21 October 2026 and under appeal.</strong>",
@@ -4198,8 +4550,8 @@
       "items": [
         {
           "headline": "<strong>Uber versus self-driving cars.</strong>",
-          "html": "<p><strong>Uber versus self-driving cars.</strong> One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct. Came back on 11 October with no new argument on either side. On 6 November a long DCF pitch argued the price already assumes the bear case. New on the bear side: if Waymo or Zoox bought Lyft, they would have their own distribution, to which a commenter replied that Lyft's network is too small. A reply also disputed the pitch's 13.5x free-cash-flow multiple, putting it nearer 19x once temporary items are removed. As filed, Q3 2026 buybacks were $750 million, against the &quot;about 50% of annual FCF&quot; the pitch says management promised. The pitch also says the €41.50-a-share Delivery Hero offer's acceptance period ended on 5 November with no result yet.</p>",
-          "text": "Uber versus self-driving cars. One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct. Came back on 11 October with no new argument on either side. On 6 November a long DCF pitch argued the price already assumes the bear case. New on the bear side: if Waymo or Zoox bought Lyft, they would have their own distribution, to which a commenter replied that Lyft's network is too small. A reply also disputed the pitch's 13.5x free-cash-flow multiple, putting it nearer 19x once temporary items are removed. As filed, Q3 2026 buybacks were $750 million, against the \"about 50% of annual FCF\" the pitch says management promised. The pitch also says the €41.50-a-share Delivery Hero offer's acceptance period ended on 5 November with no result yet. Single source each time; a debate, not a finding. The Q3 buyback figure is Verified against Uber's Q3 2026 release ; the Delivery Hero terms and timing were not checked · 2026-11-06",
+          "html": "<p><strong>Uber versus self-driving cars.</strong> One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct. Came back on 11 October with no new argument on either side. On 6 November a long DCF pitch argued the price already assumes the bear case. New on the bear side: if Waymo or Zoox bought Lyft, they would have their own distribution, to which a commenter replied that Lyft's network is too small. A reply also disputed the pitch's 13.5x free-cash-flow multiple, putting it nearer 19x once temporary items are removed. As filed, Q3 2026 buybacks were $750 million, against the &quot;about 50% of annual FCF&quot; the pitch says management promised. The pitch also says the €41.50-a-share Delivery Hero offer's acceptance period ended on 5 November with no result yet. On 18 November it came back with Zoox's Las Vegas deal set against Waymo's own app. The new suggestion was a measurable signal: whether Uber's take rate holds in self-driving cities compared with the others.</p>",
+          "text": "Uber versus self-driving cars. One side says self-driving fleets need Uber's demand and its flexible driver supply. The other says Waymo and Tesla can go direct. Came back on 11 October with no new argument on either side. On 6 November a long DCF pitch argued the price already assumes the bear case. New on the bear side: if Waymo or Zoox bought Lyft, they would have their own distribution, to which a commenter replied that Lyft's network is too small. A reply also disputed the pitch's 13.5x free-cash-flow multiple, putting it nearer 19x once temporary items are removed. As filed, Q3 2026 buybacks were $750 million, against the \"about 50% of annual FCF\" the pitch says management promised. The pitch also says the €41.50-a-share Delivery Hero offer's acceptance period ended on 5 November with no result yet. On 18 November it came back with Zoox's Las Vegas deal set against Waymo's own app. The new suggestion was a measurable signal: whether Uber's take rate holds in self-driving cities compared with the others. Single source each time; a debate, not a finding. The Q3 buyback figure is Verified against Uber's Q3 2026 release ; the Delivery Hero terms and timing were not checked · 2026-11-06",
           "status": "single-source",
           "status_html": "<p>Single source each time; a debate, not a finding. The Q3 buyback figure is <strong>Verified</strong> against <a href=\"https://www.sec.gov/Archives/edgar/data/0001543151/000154315126000039/uberq326earningspressrelea.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Uber's Q3 2026 release</a>; the Delivery Hero terms and timing were not checked · 2026-11-06</p>",
           "updated": "2026-11-06",
@@ -4211,11 +4563,11 @@
         },
         {
           "headline": "<strong>Whether a low forward P/E makes a chipmaker cheap.</strong>",
-          "html": "<p><strong>Whether a low forward P/E makes a chipmaker cheap.</strong> Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at &quot;~13x&quot; forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it &quot;expects the structure in which demand exceeds supply to persist through 2030&quot;.\nOn 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x.</p>",
-          "text": "Whether a low forward P/E makes a chipmaker cheap. Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at \"~13x\" forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it \"expects the structure in which demand exceeds supply to persist through 2030\". On 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x. Single source each · a debate, not a finding; the SK hynix quote is Verified against its Q3 2026 results · 2026-11-09",
+          "html": "<p><strong>Whether a low forward P/E makes a chipmaker cheap.</strong> Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at &quot;~13x&quot; forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it &quot;expects the structure in which demand exceeds supply to persist through 2030&quot;.\nOn 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x.\nOn 18 November it returned with Micron at &quot;Forward PE of 4&quot; and SK hynix at 1.9x after adjusting for cash and debt. The best addition was an analogy: &quot;you wouldn't value a hotel near the arena based on the nightly rates it gets during the Super Bowl&quot;. On the other side, commenters cited long-term agreements booked to about 2030.</p>",
+          "text": "Whether a low forward P/E makes a chipmaker cheap. Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at \"~13x\" forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it \"expects the structure in which demand exceeds supply to persist through 2030\". On 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x. On 18 November it returned with Micron at \"Forward PE of 4\" and SK hynix at 1.9x after adjusting for cash and debt. The best addition was an analogy: \"you wouldn't value a hotel near the arena based on the nightly rates it gets during the Super Bowl\". On the other side, commenters cited long-term agreements booked to about 2030. Single source each · a debate, not a finding; the SK hynix quote is Verified against its Q3 2026 results · 2026-11-18",
           "status": "single-source",
-          "status_html": "<p>Single source each · a debate, not a finding; the SK hynix quote is <strong>Verified</strong> against <a href=\"https://news.skhynix.com/en/q3-2026-business-results/\" target=\"_blank\" rel=\"noopener noreferrer\">its Q3 2026 results</a> · 2026-11-09</p>",
-          "updated": "2026-11-09",
+          "status_html": "<p>Single source each · a debate, not a finding; the SK hynix quote is <strong>Verified</strong> against <a href=\"https://news.skhynix.com/en/q3-2026-business-results/\" target=\"_blank\" rel=\"noopener noreferrer\">its Q3 2026 results</a> · 2026-11-18</p>",
+          "updated": "2026-11-18",
           "sources": [
             "news.skhynix.com"
           ],
@@ -4235,12 +4587,14 @@
         },
         {
           "headline": "<strong>&quot;AI losers&quot; in data and information businesses</strong>",
-          "html": "<p><strong>&quot;AI losers&quot; in data and information businesses</strong> (Wolters Kluwer, RELX, Intuit, S&amp;P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded. On 14 October the debate narrowed to Intuit, nominated as a value trap on the strength of one member's own AI-assisted tax return and defended on the grounds that QuickBooks, not TurboTax, carries the value. Adobe was defended on switching costs three days after a former employee called it a trap. On 23 October both names came back with better material on each side: a filings-sourced Adobe memo whose argument is what the price implies rather than what it is worth — about 2.1% annual owner-earnings growth for ten years at a 10% required return — against a US Steel analogy the author rebutted at length; and a Wolters Kluwer holder calling it fairly valued rather than cheap, naming Expert AI adoption, corporate expense growth and earnings quality as the open questions and waiting for the November report, which the thread does not date. On 9 November a holder pitched Wolters Kluwer and Verisk as AI winners instead, arguing that checking whether information is correct becomes scarce; a reply said that is already priced in.</p>",
-          "text": "\"AI losers\" in data and information businesses (Wolters Kluwer, RELX, Intuit, S&P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded. On 14 October the debate narrowed to Intuit, nominated as a value trap on the strength of one member's own AI-assisted tax return and defended on the grounds that QuickBooks, not TurboTax, carries the value. Adobe was defended on switching costs three days after a former employee called it a trap. On 23 October both names came back with better material on each side: a filings-sourced Adobe memo whose argument is what the price implies rather than what it is worth — about 2.1% annual owner-earnings growth for ten years at a 10% required return — against a US Steel analogy the author rebutted at length; and a Wolters Kluwer holder calling it fairly valued rather than cheap, naming Expert AI adoption, corporate expense growth and earnings quality as the open questions and waiting for the November report, which the thread does not date. On 9 November a holder pitched Wolters Kluwer and Verisk as AI winners instead, arguing that checking whether information is correct becomes scarce; a reply said that is already priced in. Single source either way · 2026-11-09",
+          "html": "<p><strong>&quot;AI losers&quot; in data and information businesses</strong> (Wolters Kluwer, RELX, Intuit, S&amp;P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded. On 14 October the debate narrowed to Intuit, nominated as a value trap on the strength of one member's own AI-assisted tax return and defended on the grounds that QuickBooks, not TurboTax, carries the value. Adobe was defended on switching costs three days after a former employee called it a trap. On 23 October both names came back with better material on each side: a filings-sourced Adobe memo whose argument is what the price implies rather than what it is worth — about 2.1% annual owner-earnings growth for ten years at a 10% required return — against a US Steel analogy the author rebutted at length; and a Wolters Kluwer holder calling it fairly valued rather than cheap, naming Expert AI adoption, corporate expense growth and earnings quality as the open questions and waiting for the November report, which the thread does not date. On 9 November a holder pitched Wolters Kluwer and Verisk as AI winners instead, arguing that checking whether information is correct becomes scarce; a reply said that is already priced in. Coverage dated 16 November reports Michael Burry adding to Adobe at about $246, by his own statement rather than a filing, and the sub took it up on 18 November. The thread's top reply put the switching-cost case as customers who &quot;absolutely hate them to the bone ... but they don't leave&quot;.</p>",
+          "text": "\"AI losers\" in data and information businesses (Wolters Kluwer, RELX, Intuit, S&P Global, job portals). Several fund letters and members argue the market is over-discounting AI disruption. On 11 October a commenter who used Wolters Kluwer's UpToDate at work argued the opposite for that product, saying Open Evidence is taking its users — the first hands-on counter-argument the feed has recorded. On 14 October the debate narrowed to Intuit, nominated as a value trap on the strength of one member's own AI-assisted tax return and defended on the grounds that QuickBooks, not TurboTax, carries the value. Adobe was defended on switching costs three days after a former employee called it a trap. On 23 October both names came back with better material on each side: a filings-sourced Adobe memo whose argument is what the price implies rather than what it is worth — about 2.1% annual owner-earnings growth for ten years at a 10% required return — against a US Steel analogy the author rebutted at length; and a Wolters Kluwer holder calling it fairly valued rather than cheap, naming Expert AI adoption, corporate expense growth and earnings quality as the open questions and waiting for the November report, which the thread does not date. On 9 November a holder pitched Wolters Kluwer and Verisk as AI winners instead, arguing that checking whether information is correct becomes scarce; a reply said that is already priced in. Coverage dated 16 November reports Michael Burry adding to Adobe at about $246, by his own statement rather than a filing, and the sub took it up on 18 November. The thread's top reply put the switching-cost case as customers who \"absolutely hate them to the bone ... but they don't leave\". Single source either way; the Burry purchase is Reported, from Stocktwits · 2026-11-18",
           "status": "single-source",
-          "status_html": "<p>Single source either way · 2026-11-09</p>",
-          "updated": "2026-11-09",
-          "sources": [],
+          "status_html": "<p>Single source either way; the Burry purchase is Reported, from <a href=\"https://stocktwits.com/news-articles/markets/equity/michael-burry-buys-more-of-adobe-and-mercado-libre-exits-orcl-cat-puts/cNbJcE0R9gK\" target=\"_blank\" rel=\"noopener noreferrer\">Stocktwits</a> · 2026-11-18</p>",
+          "updated": "2026-11-18",
+          "sources": [
+            "stocktwits.com"
+          ],
           "due": null,
           "due_label": null
         }
