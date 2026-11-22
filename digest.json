@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18",
+  "generated": "2026-11-22",
   "meta": {
     "feed": "valueinvesting",
     "title": "Value Investing Digest",
@@ -21,6 +21,188 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-22",
+      "title": "Value investing digest",
+      "intro_html": "<p>The tech sell-off carried on and the sub spent the weekend arguing about it: whether this is &quot;just fear&quot; or a correction, why Walmart and Costco trade near 50 times earnings while Google and Nvidia sit in the teens, and whether memory makers are cheap or at a peak. The most useful material was a reply that took apart the Google P/E and a post on forced selling. Mercado Libre was the one fresh single-company pitch. Berkshire filed nothing new that I could find since the last run.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A reply says Google's P/E of about 14 is distorted by gains on its Anthropic and SpaceX stakes, and a second post argues that much of the sell-off is forced, not a view on earnings.</strong>",
+              "html": "<p><strong>A reply says Google's P/E of about 14 is distorted by gains on its Anthropic and SpaceX stakes, and a second post argues that much of the sell-off is forced, not a view on earnings.</strong> Together they are a method for reading the sub's most-upvoted question this run: why do defensive retailers cost more than the chip and AI leaders?</p>\n<ul>\n<li><strong>Why it matters:</strong> the 521-point thread asked how Walmart and Costco can trade at P/Es of 48 and 52 while Google and Nvidia trade at 14 and 15. The most useful reply (24 points) says a P/E is only meaningful against a company's own history, its rivals and its growth, and that Google's is &quot;wildly distorted&quot; by one-time gains when its private stakes (Anthropic, SpaceX) rose on going public. Stripping those out, it puts Google's &quot;real PE&quot; at &quot;somewhere around 24&quot;, and says Nvidia's low P/E reflects a market pricing in much lower future margins. A separate 16-point post argues the selling is partly forced (margin calls, expiring options), partly de-risking and partly rules-based trend-following, none of which looks at P/E, so price moves &quot;don't necessarily tell us what the market expects&quot;. Replies pushed back: every trade has a willing buyer, and Nvidia had specific bad news (an SEC probe, its CEO leaving). Another reply said the premium for Costco and Walmart is a flight to safety.</li>\n<li><strong>What to watch:</strong> Alphabet's and Nvidia's next filings, which show whether the investment gains and the margin outlook behave as the reply says. Nvidia's Q3 10-Q is still due &quot;in the coming weeks&quot; per the 18 November entry.</li>\n<li><strong>Numbers:</strong> as posted, none checked: Walmart 48 and Costco 52 against Google 14 and Nvidia 15; the second post says Google at 17 times forward earnings and Costco about 50 times forward; the reply puts Google's underlying P/E at &quot;somewhere around 24&quot;. A reply on Costco gives a growth-consistency argument and a Morningstar fair value of 770, and its own model's 563 to 667. Those are one member's figures.</li>\n<li><strong>Caveats:</strong> the Google adjustment is one commenter's arithmetic with no filing cited. Whether Alphabet's earnings include mark-to-market gains on its stakes was not opened here. The forced-selling post is an explanation, not a measurement, and its author says he is &quot;not an expert&quot;.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1y1txhf/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>, then <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1y281k6/\" target=\"_blank\" rel=\"noopener noreferrer\">the forced-selling post</a></li>\n</ul>",
+              "text": "A reply says Google's P/E of about 14 is distorted by gains on its Anthropic and SpaceX stakes, and a second post argues that much of the sell-off is forced, not a view on earnings. Together they are a method for reading the sub's most-upvoted question this run: why do defensive retailers cost more than the chip and AI leaders? Why it matters: the 521-point thread asked how Walmart and Costco can trade at P/Es of 48 and 52 while Google and Nvidia trade at 14 and 15. The most useful reply (24 points) says a P/E is only meaningful against a company's own history, its rivals and its growth, and that Google's is \"wildly distorted\" by one-time gains when its private stakes (Anthropic, SpaceX) rose on going public. Stripping those out, it puts Google's \"real PE\" at \"somewhere around 24\", and says Nvidia's low P/E reflects a market pricing in much lower future margins. A separate 16-point post argues the selling is partly forced (margin calls, expiring options), partly de-risking and partly rules-based trend-following, none of which looks at P/E, so price moves \"don't necessarily tell us what the market expects\". Replies pushed back: every trade has a willing buyer, and Nvidia had specific bad news (an SEC probe, its CEO leaving). Another reply said the premium for Costco and Walmart is a flight to safety. What to watch: Alphabet's and Nvidia's next filings, which show whether the investment gains and the margin outlook behave as the reply says. Nvidia's Q3 10-Q is still due \"in the coming weeks\" per the 18 November entry. Numbers: as posted, none checked: Walmart 48 and Costco 52 against Google 14 and Nvidia 15; the second post says Google at 17 times forward earnings and Costco about 50 times forward; the reply puts Google's underlying P/E at \"somewhere around 24\". A reply on Costco gives a growth-consistency argument and a Morningstar fair value of 770, and its own model's 563 to 667. Those are one member's figures. Caveats: the Google adjustment is one commenter's arithmetic with no filing cited. Whether Alphabet's earnings include mark-to-market gains on its stakes was not opened here. The forced-selling post is an explanation, not a measurement, and its author says he is \"not an expert\". Read next: the thread , then the forced-selling post Single source · the Google adjustment and the forced-selling claim were not checked against a filing or data",
+              "status": "single-source",
+              "status_html": "<p>Single source · the Google adjustment and the forced-selling claim were not checked against a filing or data</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Mercado Libre (MELI): the pitch says the P/E has halved to a five-year low while revenue still grows 45%, and the best objections were about credit and margins.</strong>",
+              "html": "<p><strong>Mercado Libre (MELI): the pitch says the P/E has halved to a five-year low while revenue still grows 45%, and the best objections were about credit and margins.</strong> As posted: P/E about 36 now against an average of about 68 since 2021; Q3 revenue up 45%; 31 straight quarters of 30%+ growth; credit book up 62% to $17.9 billion with provisions up 65%; nine-month operating income about $1.97 billion against $2.31 billion a year earlier; debt about $2.5 billion on a market cap of about $75 billion. The poster notes that a DCF misleads here because loan flows run through investing cash flow. One commenter said Brazil's 10-year yield rose to 15.6% and that will push down all Brazilian valuations; another thought margins keep shrinking while revenue grows. A Brazilian user said the service has got worse and customers are moving to Shopee, and two replies countered that its Brazilian share has risen. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1y298cg/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Mercado Libre (MELI): the pitch says the P/E has halved to a five-year low while revenue still grows 45%, and the best objections were about credit and margins. As posted: P/E about 36 now against an average of about 68 since 2021; Q3 revenue up 45%; 31 straight quarters of 30%+ growth; credit book up 62% to $17.9 billion with provisions up 65%; nine-month operating income about $1.97 billion against $2.31 billion a year earlier; debt about $2.5 billion on a market cap of about $75 billion. The poster notes that a DCF misleads here because loan flows run through investing cash flow. One commenter said Brazil's 10-year yield rose to 15.6% and that will push down all Brazilian valuations; another thought margins keep shrinking while revenue grows. A Brazilian user said the service has got worse and customers are moving to Shopee, and two replies countered that its Brazilian share has risen. Thread Single source · no Mercado Libre filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Mercado Libre filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Micron (MU): a post says the stock has fallen 51% since June while contracts lock in demand, and the replies mostly attacked how it was written.</strong>",
+              "html": "<p><strong>Micron (MU): a post says the stock has fallen 51% since June while contracts lock in demand, and the replies mostly attacked how it was written.</strong> As posted: quarterly revenue $11.3 billion to $54.2 billion in a year; gross margin 45% to 87%; 26 five-year take-or-pay agreements with $12.75 billion of customer deposits; more than 75% of fiscal 2027 shipments committed; a $35 billion buyback usable from 9 December; market cap about $680 billion. The author lists his own weak points: the price floors cover about $33 billion of a roughly $246 billion revenue pace, and &quot;We'll add capacity with discipline&quot; is what the industry said before every bust. The author discloses a position and links his own site. The top reply (104 points) said &quot;chips / memory are no longer cyclical&quot; is heard every few years. One reply said that at under 4 times forward earnings, with earnings already locked in, calling the top is probably wrong. Several called it AI-written. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1y21ak2/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "Micron (MU): a post says the stock has fallen 51% since June while contracts lock in demand, and the replies mostly attacked how it was written. As posted: quarterly revenue $11.3 billion to $54.2 billion in a year; gross margin 45% to 87%; 26 five-year take-or-pay agreements with $12.75 billion of customer deposits; more than 75% of fiscal 2027 shipments committed; a $35 billion buyback usable from 9 December; market cap about $680 billion. The author lists his own weak points: the price floors cover about $33 billion of a roughly $246 billion revenue pace, and \"We'll add capacity with discipline\" is what the industry said before every bust. The author discloses a position and links his own site. The top reply (104 points) said \"chips / memory are no longer cyclical\" is heard every few years. One reply said that at under 4 times forward earnings, with earnings already locked in, calling the top is probably wrong. Several called it AI-written. Thread Single source · the contract and buyback figures were not checked against Micron's filings",
+              "status": "single-source",
+              "status_html": "<p>Single source · the contract and buyback figures were not checked against Micron's filings</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A poster says this sell-off resembles late 2018 with higher rates, and that Fed governor Waller's talk of a 50 basis point hike is expectations management.</strong>",
+              "html": "<p><strong>A poster says this sell-off resembles late 2018 with higher rates, and that Fed governor Waller's talk of a 50 basis point hike is expectations management.</strong> As posted: S&amp;P 500 closed Friday at 6,910, down 8.6% on the week; VIX 35.89; the 10-year near 4.9%; Michigan one-year inflation expectations fell from 4.7% to 3.7% in the November final. Search coverage confirms that on 18 November Waller said a half-point hike may be needed on 8–9 December unless the Fed raises a quarter point and signals another in January; the CNBC piece itself was not found. Replies were split between &quot;they won't hike into this&quot; and &quot;persistent inflation affects everyone&quot;. Two top replies said the post looked like a bot. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1y28v53/\" target=\"_blank\" rel=\"noopener noreferrer\">Thread</a></p>",
+              "text": "A poster says this sell-off resembles late 2018 with higher rates, and that Fed governor Waller's talk of a 50 basis point hike is expectations management. As posted: S&P 500 closed Friday at 6,910, down 8.6% on the week; VIX 35.89; the 10-year near 4.9%; Michigan one-year inflation expectations fell from 4.7% to 3.7% in the November final. Search coverage confirms that on 18 November Waller said a half-point hike may be needed on 8–9 December unless the Fed raises a quarter point and signals another in January; the CNBC piece itself was not found. Replies were split between \"they won't hike into this\" and \"persistent inflation affects everyone\". Two top replies said the post looked like a bot. Thread Reported · Waller's remarks from BusinessDay , a secondary report; the market levels were not checked",
+              "status": "reported",
+              "status_html": "<p>Reported · Waller's remarks from <a href=\"https://www.businessday.co.za/world/americas/2026-11-18-waller-hints-at-more-aggressive-fed-response-over-inflation/\" target=\"_blank\" rel=\"noopener noreferrer\">BusinessDay</a>, a secondary report; the market levels were not checked</p>",
+              "updated": "2026-11-18",
+              "sources": [
+                "r/ValueInvesting",
+                "businessday.co.za"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "The sub is split: two 190-point posts argue &quot;just fear&quot; and &quot;a correction, not a bear market&quot;, while replies and a few posts argue the opposite.",
+              "html": "<p>The sub is split: two 190-point posts argue &quot;just fear&quot; and &quot;a correction, not a bear market&quot;, while replies and a few posts argue the opposite. One poster who sold his AI holdings in May says he now sees a case for compute, citing a 52% rise in B300 rental prices since May. Several members argue hyperscalers are the better way to own the theme.</p>",
+              "text": "The sub is split: two 190-point posts argue \"just fear\" and \"a correction, not a bear market\", while replies and a few posts argue the opposite. One poster who sold his AI holdings in May says he now sees a case for compute, citing a 52% rise in B300 rental prices since May. Several members argue hyperscalers are the better way to own the theme.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Replies in three separate threads accused the original posts of being bot- or AI-written.",
+              "html": "<p>Replies in three separate threads accused the original posts of being bot- or AI-written. Treat the sub's own provenance warnings as part of the picture this week.</p>",
+              "text": "Replies in three separate threads accused the original posts of being bot- or AI-written. Treat the sub's own provenance warnings as part of the picture this week.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Unverified, and worth watching",
+          "category": "unverified",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Posts and replies say Nvidia lost its CEO and faces an SEC inquiry into its accounting.</strong>",
+              "html": "<p><strong>Posts and replies say Nvidia lost its CEO and faces an SEC inquiry into its accounting.</strong> Search results report that Jensen Huang stepped down on 12 November and that the Wall Street Journal reported a civil SEC probe on 17 November, in part about whether Nvidia's disclosures misled investors. Neither the SEC nor Nvidia has confirmed it, and no source I found describes it as an accounting inquiry. I did not open Nvidia's filings.</p>",
+              "text": "Posts and replies say Nvidia lost its CEO and faces an SEC inquiry into its accounting. Search results report that Jensen Huang stepped down on 12 November and that the Wall Street Journal reported a civil SEC probe on 17 November, in part about whether Nvidia's disclosures misled investors. Neither the SEC nor Nvidia has confirmed it, and no source I found describes it as an accounting inquiry. I did not open Nvidia's filings. Reported · from InvestmentNews and Khaleej Times ; Unconfirmed that it concerns accounting",
+              "status": "reported",
+              "status_html": "<p>Reported · from <a href=\"https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-mulls-action/269054\" target=\"_blank\" rel=\"noopener noreferrer\">InvestmentNews</a> and <a href=\"https://www.khaleejtimes.com/business/nvidia-wont-rehire-jensen-huang-sec-probing-chipmaker\" target=\"_blank\" rel=\"noopener noreferrer\">Khaleej Times</a>; <strong>Unconfirmed</strong> that it concerns accounting</p>",
+              "updated": null,
+              "sources": [
+                "investmentnews.com",
+                "khaleejtimes.com"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> r/ValueInvesting (hot, 24 posts; five opened with comments).",
+              "html": "<p><strong>Read:</strong> r/ValueInvesting (hot, 24 posts; five opened with comments). <strong>Sources checked:</strong> Berkshire's EDGAR page and news page could not be fetched directly in this unattended run, so I used WebSearch for both.</p>",
+              "text": "Read: r/ValueInvesting (hot, 24 posts; five opened with comments). Sources checked: Berkshire's EDGAR page and news page could not be fetched directly in this unattended run, so I used WebSearch for both.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none found since 18 November: the searches showed Berkshire&#x27;s latest release as 16 November and no Form 4, 13D or 8-K dated November afte…",
+              "html": "<p><strong>Announced, not discussed:</strong> none found since 18 November: the searches showed Berkshire's latest release as 16 November and no Form 4, 13D or 8-K dated November after the filings the 18 November entry covers.</p>",
+              "text": "Announced, not discussed: none found since 18 November: the searches showed Berkshire's latest release as 16 November and no Form 4, 13D or 8-K dated November after the filings the 18 November entry covers. Unconfirmed · the EDGAR index was not read directly; absence is from search results only",
+              "status": "unconfirmed",
+              "status_html": "<p>Unconfirmed · the EDGAR index was not read directly; absence is from search results only</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none; the scan flagged none.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none; the scan flagged none.</p>",
+              "text": "Flagged terms set aside: none; the scan flagged none.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists could not cover 2026-11-18 to 2026-11-22; official sources were searched for that window.",
+              "html": "<p>Hot lists could not cover 2026-11-18 to 2026-11-22; official sources were searched for that window.</p>",
+              "text": "Hot lists could not cover 2026-11-18 to 2026-11-22; official sources were searched for that window.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "title": "Value investing digest",
@@ -4563,11 +4745,11 @@
         },
         {
           "headline": "<strong>Whether a low forward P/E makes a chipmaker cheap.</strong>",
-          "html": "<p><strong>Whether a low forward P/E makes a chipmaker cheap.</strong> Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at &quot;~13x&quot; forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it &quot;expects the structure in which demand exceeds supply to persist through 2030&quot;.\nOn 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x.\nOn 18 November it returned with Micron at &quot;Forward PE of 4&quot; and SK hynix at 1.9x after adjusting for cash and debt. The best addition was an analogy: &quot;you wouldn't value a hotel near the arena based on the nightly rates it gets during the Super Bowl&quot;. On the other side, commenters cited long-term agreements booked to about 2030.</p>",
-          "text": "Whether a low forward P/E makes a chipmaker cheap. Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at \"~13x\" forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it \"expects the structure in which demand exceeds supply to persist through 2030\". On 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x. On 18 November it returned with Micron at \"Forward PE of 4\" and SK hynix at 1.9x after adjusting for cash and debt. The best addition was an analogy: \"you wouldn't value a hotel near the arena based on the nightly rates it gets during the Super Bowl\". On the other side, commenters cited long-term agreements booked to about 2030. Single source each · a debate, not a finding; the SK hynix quote is Verified against its Q3 2026 results · 2026-11-18",
+          "html": "<p><strong>Whether a low forward P/E makes a chipmaker cheap.</strong> Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at &quot;~13x&quot; forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it &quot;expects the structure in which demand exceeds supply to persist through 2030&quot;.\nOn 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x.\nOn 18 November it returned with Micron at &quot;Forward PE of 4&quot; and SK hynix at 1.9x after adjusting for cash and debt. The best addition was an analogy: &quot;you wouldn't value a hotel near the arena based on the nightly rates it gets during the Super Bowl&quot;. On the other side, commenters cited long-term agreements booked to about 2030.\nOn 22 November a Micron pitch put the stock down 51% since June and argued long-term contracts change the cycle; its top reply was the old one that &quot;no longer cyclical&quot; is heard every few years, and a second reply said that at under 4 times forward earnings with earnings locked in, calling the top is probably wrong. A separate thread added that Google's P/E of about 14 is flattered by one-time gains on its stakes, so a low multiple needs adjusting before it is compared.</p>",
+          "text": "Whether a low forward P/E makes a chipmaker cheap. Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at \"~13x\" forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it \"expects the structure in which demand exceeds supply to persist through 2030\". On 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x. On 18 November it returned with Micron at \"Forward PE of 4\" and SK hynix at 1.9x after adjusting for cash and debt. The best addition was an analogy: \"you wouldn't value a hotel near the arena based on the nightly rates it gets during the Super Bowl\". On the other side, commenters cited long-term agreements booked to about 2030. On 22 November a Micron pitch put the stock down 51% since June and argued long-term contracts change the cycle; its top reply was the old one that \"no longer cyclical\" is heard every few years, and a second reply said that at under 4 times forward earnings with earnings locked in, calling the top is probably wrong. A separate thread added that Google's P/E of about 14 is flattered by one-time gains on its stakes, so a low multiple needs adjusting before it is compared. Single source each · a debate, not a finding; the SK hynix quote is Verified against its Q3 2026 results · 2026-11-22",
           "status": "single-source",
-          "status_html": "<p>Single source each · a debate, not a finding; the SK hynix quote is <strong>Verified</strong> against <a href=\"https://news.skhynix.com/en/q3-2026-business-results/\" target=\"_blank\" rel=\"noopener noreferrer\">its Q3 2026 results</a> · 2026-11-18</p>",
-          "updated": "2026-11-18",
+          "status_html": "<p>Single source each · a debate, not a finding; the SK hynix quote is <strong>Verified</strong> against <a href=\"https://news.skhynix.com/en/q3-2026-business-results/\" target=\"_blank\" rel=\"noopener noreferrer\">its Q3 2026 results</a> · 2026-11-22</p>",
+          "updated": "2026-11-22",
           "sources": [
             "news.skhynix.com"
           ],
