@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-26",
   "meta": {
     "feed": "valueinvesting",
     "title": "Value Investing Digest",
@@ -21,6 +21,213 @@
     "source_note": "from Reddit's hot threads"
   },
   "digests": [
+    {
+      "date": "2026-11-26",
+      "title": "Value investing digest",
+      "intro_html": "<p>The sell-off stayed the backdrop: a 94-point post told members that asking &quot;is this a good buy&quot; only reproduces the market's consensus, memory makers (SK hynix and Micron) were argued over again, and a Minsky-moment post asked whether financing circularity is the real risk. The sub also reacted to Berkshire's new Bending Spoons stake, with most replies hostile to the business. The most reusable material was a Micron reverse-DCF exchange and a cash-rich Chinese ADR post that read its own cash flow against its earnings.</p>",
+      "sections": [
+        {
+          "heading": "Must know",
+          "category": "mustknow",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A &quot;deep dive&quot; post says Berkshire owns about 4% of Bending Spoons, while the Schedule 13G recorded in the 22 November entry reports 6.4%, and the thread mostly rejects the business.</strong>",
+              "html": "<p><strong>A &quot;deep dive&quot; post says Berkshire owns about 4% of Bending Spoons, while the Schedule 13G recorded in the 22 November entry reports 6.4%, and the thread mostly rejects the business.</strong> Bending Spoons buys ageing software brands and cuts costs; the post is a long-thesis write-up by someone who says he holds it.</p>\n<ul>\n<li><strong>Why it matters:</strong> this is the first time the sub has discussed Berkshire's new position. The poster's 4% differs from the filed 6.4%, and the post does not say what base it uses. The replies are the useful part: they describe a model of cutting staff and raising prices on captive users, and argue that growth then depends on a steady supply of acquisitions.</li>\n<li><strong>What to watch:</strong> Bending Spoons' Mailchimp acquisition, which the post says is expected to close in the first half of 2027; any Berkshire amendment to the 13G.</li>\n<li><strong>Numbers:</strong> as posted, none checked: Mailchimp price $3.7 billion on revenue $1.3 billion and net profit about $0.4 billion; Q3 2026 operating income $172 million, $424 million adjusted, which the poster annualizes to $1.7 billion; enterprise value $32 billion, so 19 times, falling to 14 times after Mailchimp; Evernote staff from 340 to about 20. As filed, from the 22 November entry: 20,689,655 shares as of 30 September 2026.</li>\n<li><strong>Caveats:</strong> the 13G was not reopened on 26 November, because the unattended run could not fetch EDGAR. The company's own figures were not checked. The poster discloses a position and links his own newsletter and video. Several replies are about customer experience (Evernote pricing), not valuation, and one commenter says he called it a short when Berkshire bought in.</li>\n<li><strong>Read next:</strong> <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1y5ld5t/\" target=\"_blank\" rel=\"noopener noreferrer\">the thread</a>, then <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526464218/xslSCHEDULE_13G_X02/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the 13G</a></li>\n</ul>",
+              "text": "A \"deep dive\" post says Berkshire owns about 4% of Bending Spoons, while the Schedule 13G recorded in the 22 November entry reports 6.4%, and the thread mostly rejects the business. Bending Spoons buys ageing software brands and cuts costs; the post is a long-thesis write-up by someone who says he holds it. Why it matters: this is the first time the sub has discussed Berkshire's new position. The poster's 4% differs from the filed 6.4%, and the post does not say what base it uses. The replies are the useful part: they describe a model of cutting staff and raising prices on captive users, and argue that growth then depends on a steady supply of acquisitions. What to watch: Bending Spoons' Mailchimp acquisition, which the post says is expected to close in the first half of 2027; any Berkshire amendment to the 13G. Numbers: as posted, none checked: Mailchimp price $3.7 billion on revenue $1.3 billion and net profit about $0.4 billion; Q3 2026 operating income $172 million, $424 million adjusted, which the poster annualizes to $1.7 billion; enterprise value $32 billion, so 19 times, falling to 14 times after Mailchimp; Evernote staff from 340 to about 20. As filed, from the 22 November entry: 20,689,655 shares as of 30 September 2026. Caveats: the 13G was not reopened on 26 November, because the unattended run could not fetch EDGAR. The company's own figures were not checked. The poster discloses a position and links his own newsletter and video. Several replies are about customer experience (Evernote pricing), not valuation, and one commenter says he called it a short when Berkshire bought in. Read next: the thread , then the 13G Verified for the 6.4% figure against the 13G as recorded on 22 November, not reopened this run; the 4% figure and every company number are Single source",
+              "status": "verified",
+              "status_html": "<p><strong>Verified</strong> for the 6.4% figure against the 13G as recorded on 22 November, not reopened this run; the 4% figure and every company number are Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting",
+                "SEC filing"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Stock pitches",
+          "category": "pitches",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>TUYA: a post says the stock trades below its net cash and then reads its own cash flow against that, and the replies mostly say Chinese numbers cannot be trusted.</strong>",
+              "html": "<p><strong>TUYA: a post says the stock trades below its net cash and then reads its own cash flow against that, and the replies mostly say Chinese numbers cannot be trusted.</strong> As posted: market cap about $880 million against cash and investments $971.9 million and debt $8.4 million; Q3 revenue $98.6 million, up 19.5%; net profit $18.5 million, of which $11.4 million is interest income; operating cash flow $12.7 million against $30.0 million a year earlier; inventory $70.7 million, up from $30.9 million in December; $1.3 million of buybacks against an authorization of about 60.97 million shares; cash held in mainland China entities. The poster is open that he holds it and used AI to pull filings. Replies say the market doubts Chinese reporting and does not re-rate such stocks, and one asks where the cash is held. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1y63n0c/\" target=\"_blank\" rel=\"noopener noreferrer\">source</a></p>",
+              "text": "TUYA: a post says the stock trades below its net cash and then reads its own cash flow against that, and the replies mostly say Chinese numbers cannot be trusted. As posted: market cap about $880 million against cash and investments $971.9 million and debt $8.4 million; Q3 revenue $98.6 million, up 19.5%; net profit $18.5 million, of which $11.4 million is interest income; operating cash flow $12.7 million against $30.0 million a year earlier; inventory $70.7 million, up from $30.9 million in December; $1.3 million of buybacks against an authorization of about 60.97 million shares; cash held in mainland China entities. The poster is open that he holds it and used AI to pull filings. Replies say the market doubts Chinese reporting and does not re-rate such stocks, and one asks where the cash is held. source Single source · no Tuya filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Tuya filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Micron (MU): the author of a research-shop write-up answered the &quot;priced in&quot; objection with a reverse DCF, and the replies tested it.</strong>",
+              "html": "<p><strong>Micron (MU): the author of a research-shop write-up answered the &quot;priced in&quot; objection with a reverse DCF, and the replies tested it.</strong> As posted: price about $601; customer deposits about $12.9 billion in the post and $12.75 billion in his reply; cash and securities about $43.4 billion; next earnings 17 December; at that price the market's implied path is revenue shrinking about 9.8% a year for ten years, which he says is worse than his own bear case. The top reply points out that the risks he lists are real; another says Micron went from billions of profit to a loss in two quarters in 2000. The author discloses that he runs the shop and links its paid-account site. The deposit figure differs between his post and reply, and it matches the 22 November entry's 12.75 billion. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1y61834/\" target=\"_blank\" rel=\"noopener noreferrer\">source</a></p>",
+              "text": "Micron (MU): the author of a research-shop write-up answered the \"priced in\" objection with a reverse DCF, and the replies tested it. As posted: price about $601; customer deposits about $12.9 billion in the post and $12.75 billion in his reply; cash and securities about $43.4 billion; next earnings 17 December; at that price the market's implied path is revenue shrinking about 9.8% a year for ten years, which he says is worse than his own bear case. The top reply points out that the risks he lists are real; another says Micron went from billions of profit to a loss in two quarters in 2000. The author discloses that he runs the shop and links its paid-account site. The deposit figure differs between his post and reply, and it matches the 22 November entry's 12.75 billion. source Single source · the deposit, cash and earnings-date figures were not checked against Micron's filings",
+              "status": "single-source",
+              "status_html": "<p>Single source · the deposit, cash and earnings-date figures were not checked against Micron's filings</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Netflix (NFLX): a pitch values the stock at $80.74 today against $59.41, and the best reply says the real doubt is whether people still open the app.</strong>",
+              "html": "<p><strong>Netflix (NFLX): a pitch values the stock at $80.74 today against $59.41, and the best reply says the real doubt is whether people still open the app.</strong> As posted: revenue growth of 13% falling to 9% from 2026 to 2030; operating margin 31.4% to 34.5%; exit P/E 19.5 and cost of equity 11.4%; free cash flow close to $12 billion; advertising expectations cut from $3 billion to $2.7 billion. Replies split between &quot;priced for almost no growth&quot; and YouTube taking attention. The fair value is one member's model. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1y6513q/\" target=\"_blank\" rel=\"noopener noreferrer\">source</a></p>",
+              "text": "Netflix (NFLX): a pitch values the stock at $80.74 today against $59.41, and the best reply says the real doubt is whether people still open the app. As posted: revenue growth of 13% falling to 9% from 2026 to 2030; operating margin 31.4% to 34.5%; exit P/E 19.5 and cost of equity 11.4%; free cash flow close to $12 billion; advertising expectations cut from $3 billion to $2.7 billion. Replies split between \"priced for almost no growth\" and YouTube taking attention. The fair value is one member's model. source Single source · no Netflix filing was opened",
+              "status": "single-source",
+              "status_html": "<p>Single source · no Netflix filing was opened</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Process and valuation method",
+          "category": "process",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A SK hynix post argues enterprise value is only 1.18 times 2027 operating profit, and the best replies say the multiple is the wrong question.</strong>",
+              "html": "<p><strong>A SK hynix post argues enterprise value is only 1.18 times 2027 operating profit, and the best replies say the multiple is the wrong question.</strong> As posted: market cap $545 billion less $147.5 billion of cash, giving adjusted enterprise value $409 billion; analyst consensus 2027 operating profit $348 billion. Replies: nobody trusts forward estimates at a cyclical peak; Korean companies are slow to return cash; free cash flow through a whole cycle matters more than one year's multiple; one reader reports that long-term agreements cover more than half of 2027 and 2028 capacity. This extends the Tracker's chipmaker debate. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1y588qk/\" target=\"_blank\" rel=\"noopener noreferrer\">source</a></p>",
+              "text": "A SK hynix post argues enterprise value is only 1.18 times 2027 operating profit, and the best replies say the multiple is the wrong question. As posted: market cap $545 billion less $147.5 billion of cash, giving adjusted enterprise value $409 billion; analyst consensus 2027 operating profit $348 billion. Replies: nobody trusts forward estimates at a cyclical peak; Korean companies are slow to return cash; free cash flow through a whole cycle matters more than one year's multiple; one reader reports that long-term agreements cover more than half of 2027 and 2028 capacity. This extends the Tracker's chipmaker debate. source Single source · the figures are the poster's and consensus estimates, unchecked",
+              "status": "single-source",
+              "status_html": "<p>Single source · the figures are the poster's and consensus estimates, unchecked</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>A 94-point open letter says asking a forum &quot;is this a good buy&quot; only reproduces the market's own consensus.</strong>",
+              "html": "<p><strong>A 94-point open letter says asking a forum &quot;is this a good buy&quot; only reproduces the market's own consensus.</strong> The poster argues price already holds the average view of every buyer, so edge comes from modelling the business better than that average. It was not fully read in comments this run. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1xzrw1g/\" target=\"_blank\" rel=\"noopener noreferrer\">source</a></p>",
+              "text": "A 94-point open letter says asking a forum \"is this a good buy\" only reproduces the market's own consensus. The poster argues price already holds the average view of every buyer, so edge comes from modelling the business better than that average. It was not fully read in comments this run. source Single source",
+              "status": "single-source",
+              "status_html": "<p>Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Market and macro",
+          "category": "macro",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>A Minsky-moment post says bubbles form around useful products when producers finance their own demand, and the replies argue about whether AI is that case.</strong>",
+              "html": "<p><strong>A Minsky-moment post says bubbles form around useful products when producers finance their own demand, and the replies argue about whether AI is that case.</strong> One reply says the question is rising real interest rates ending refinancing of low-return projects; others say staples are the crowded safe trade and that AI demand will outrun supply. It is an argument, with no data. <a href=\"https://www.reddit.com/r/ValueInvesting/comments/1y5wcmw/\" target=\"_blank\" rel=\"noopener noreferrer\">source</a></p>",
+              "text": "A Minsky-moment post says bubbles form around useful products when producers finance their own demand, and the replies argue about whether AI is that case. One reply says the question is rising real interest rates ending refinancing of low-return projects; others say staples are the crowded safe trade and that AI demand will outrun supply. It is an argument, with no data. source Single source",
+              "status": "single-source",
+              "status_html": "<p>Single source</p>",
+              "updated": null,
+              "sources": [
+                "r/ValueInvesting"
+              ],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Community sentiment",
+          "category": "sentiment",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "A thread asking where the &quot;RDDT undervalued&quot; posts went reached 106 points.",
+              "html": "<p>A thread asking where the &quot;RDDT undervalued&quot; posts went reached 106 points. One commenter posted year-to-date returns for the ten stocks r/wallstreetbets recommended for 2026, with Reddit at -62.6% and Micron at +99.7%, and a reply drew the lesson that crowd picks are mostly momentum. Those returns are one commenter's list and were not checked.</p>",
+              "text": "A thread asking where the \"RDDT undervalued\" posts went reached 106 points. One commenter posted year-to-date returns for the ten stocks r/wallstreetbets recommended for 2026, with Reddit at -62.6% and Micron at +99.7%, and a reply drew the lesson that crowd picks are mostly momentum. Those returns are one commenter's list and were not checked.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "The sub is warming to beaten-down growth names with low multiples (Netflix, Reddit, memory) and distrusts Chinese small caps and cost-cutting software buyers.",
+              "html": "<p>The sub is warming to beaten-down growth names with low multiples (Netflix, Reddit, memory) and distrusts Chinese small caps and cost-cutting software buyers.</p>",
+              "text": "The sub is warming to beaten-down growth names with low multiples (Netflix, Reddit, memory) and distrusts Chinese small caps and cost-cutting software buyers.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        },
+        {
+          "heading": "Coverage check",
+          "category": "coverage",
+          "lead_html": null,
+          "items": [
+            {
+              "headline": "<strong>Read:</strong> ValueInvesting (24 posts in the scan; seven opened).",
+              "html": "<p><strong>Read:</strong> ValueInvesting (24 posts in the scan; seven opened). Not opened: the 143-comment China thread, the QQQ-2018 comparison and the Apple capex link. Skipped: the weekly megathread, three allocation or target-date-fund questions, two self-promotion posts about research sites, and link posts with no body. <strong>Sources checked:</strong> Berkshire Hathaway's SEC filings and news page, for 22 to 26 November 2026. Both pages could not be fetched in this unattended run (the EDGAR request needed approval), so WebSearch was used instead.</p>",
+              "text": "Read: ValueInvesting (24 posts in the scan; seven opened). Not opened: the 143-comment China thread, the QQQ-2018 comparison and the Apple capex link. Skipped: the weekly megathread, three allocation or target-date-fund questions, two self-promotion posts about research sites, and link posts with no body. Sources checked: Berkshire Hathaway's SEC filings and news page, for 22 to 26 November 2026. Both pages could not be fetched in this unattended run (the EDGAR request needed approval), so WebSearch was used instead.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Announced, not discussed:</strong> none found for 22 to 26 November.",
+              "html": "<p><strong>Announced, not discussed:</strong> none found for 22 to 26 November. Search returned only items already recorded: the 16 November 13F and Buffett gift, and the 7 November Q3 results.</p>",
+              "text": "Announced, not discussed: none found for 22 to 26 November. Search returned only items already recorded: the 16 November 13F and Buffett gift, and the 7 November Q3 results. Unconfirmed · WebSearch results only; EDGAR and Berkshire's news page were not read directly",
+              "status": "unconfirmed",
+              "status_html": "<p><strong>Unconfirmed</strong> · WebSearch results only; EDGAR and Berkshire's news page were not read directly</p>",
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "<strong>Flagged terms set aside:</strong> none flagged by the scan.",
+              "html": "<p><strong>Flagged terms set aside:</strong> none flagged by the scan.</p>",
+              "text": "Flagged terms set aside: none flagged by the scan.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            },
+            {
+              "headline": "Hot lists could not cover 2026-11-22 to 2026-11-26; official sources were searched for that window.",
+              "html": "<p>Hot lists could not cover 2026-11-22 to 2026-11-26; official sources were searched for that window.</p>",
+              "text": "Hot lists could not cover 2026-11-22 to 2026-11-26; official sources were searched for that window.",
+              "status": null,
+              "status_html": null,
+              "updated": null,
+              "sources": [],
+              "due": null,
+              "due_label": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "title": "Value investing digest",
@@ -4328,8 +4535,8 @@
         },
         {
           "headline": "<strong>Berkshire Hathaway holds 6.4% of Bending Spoons.</strong>",
-          "html": "<p><strong>Berkshire Hathaway holds 6.4% of Bending Spoons.</strong> As filed in a Schedule 13G on 16 November 2026: 20,689,655 ordinary shares as of 30 September, with shared voting power, reported jointly by Buffett, Berkshire, National Indemnity and GEICO entities. It appeared alongside Berkshire's Q3 13F, which coverage reads as net selling, with cuts to Bank of America and Capital One and additions to Delta. The sub has not discussed it.</p>",
-          "text": "Berkshire Hathaway holds 6.4% of Bending Spoons. As filed in a Schedule 13G on 16 November 2026: 20,689,655 ordinary shares as of 30 September, with shared voting power, reported jointly by Buffett, Berkshire, National Indemnity and GEICO entities. It appeared alongside Berkshire's Q3 13F, which coverage reads as net selling, with cuts to Bank of America and Capital One and additions to Delta. The sub has not discussed it. Verified for the stake against the 13G ; the 13F moves are Reported, from Kiplinger · 2026-11-18",
+          "html": "<p><strong>Berkshire Hathaway holds 6.4% of Bending Spoons.</strong> As filed in a Schedule 13G on 16 November 2026: 20,689,655 ordinary shares as of 30 September, with shared voting power, reported jointly by Buffett, Berkshire, National Indemnity and GEICO entities. It appeared alongside Berkshire's Q3 13F, which coverage reads as net selling, with cuts to Bank of America and Capital One and additions to Delta. On 26 November a long-thesis post on the company said Berkshire owns &quot;~4%&quot;, a figure that does not match the filed 6.4%; replies were mostly hostile to the business model.</p>",
+          "text": "Berkshire Hathaway holds 6.4% of Bending Spoons. As filed in a Schedule 13G on 16 November 2026: 20,689,655 ordinary shares as of 30 September, with shared voting power, reported jointly by Buffett, Berkshire, National Indemnity and GEICO entities. It appeared alongside Berkshire's Q3 13F, which coverage reads as net selling, with cuts to Bank of America and Capital One and additions to Delta. On 26 November a long-thesis post on the company said Berkshire owns \"~4%\", a figure that does not match the filed 6.4%; replies were mostly hostile to the business model. Verified for the stake against the 13G ; the 13F moves are Reported, from Kiplinger · 2026-11-18",
           "status": "verified",
           "status_html": "<p><strong>Verified</strong> for the stake against <a href=\"https://www.sec.gov/Archives/edgar/data/1067983/000119312526464218/xslSCHEDULE_13G_X02/primary_doc.xml\" target=\"_blank\" rel=\"noopener noreferrer\">the 13G</a>; the 13F moves are Reported, from <a href=\"https://www.kiplinger.com/investing/stocks/stocks-berkshire-hathaway-bought-sold-q3-2026\" target=\"_blank\" rel=\"noopener noreferrer\">Kiplinger</a> · 2026-11-18</p>",
           "updated": "2026-11-18",
@@ -4745,11 +4952,11 @@
         },
         {
           "headline": "<strong>Whether a low forward P/E makes a chipmaker cheap.</strong>",
-          "html": "<p><strong>Whether a low forward P/E makes a chipmaker cheap.</strong> Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at &quot;~13x&quot; forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it &quot;expects the structure in which demand exceeds supply to persist through 2030&quot;.\nOn 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x.\nOn 18 November it returned with Micron at &quot;Forward PE of 4&quot; and SK hynix at 1.9x after adjusting for cash and debt. The best addition was an analogy: &quot;you wouldn't value a hotel near the arena based on the nightly rates it gets during the Super Bowl&quot;. On the other side, commenters cited long-term agreements booked to about 2030.\nOn 22 November a Micron pitch put the stock down 51% since June and argued long-term contracts change the cycle; its top reply was the old one that &quot;no longer cyclical&quot; is heard every few years, and a second reply said that at under 4 times forward earnings with earnings locked in, calling the top is probably wrong. A separate thread added that Google's P/E of about 14 is flattered by one-time gains on its stakes, so a low multiple needs adjusting before it is compared.</p>",
-          "text": "Whether a low forward P/E makes a chipmaker cheap. Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at \"~13x\" forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it \"expects the structure in which demand exceeds supply to persist through 2030\". On 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x. On 18 November it returned with Micron at \"Forward PE of 4\" and SK hynix at 1.9x after adjusting for cash and debt. The best addition was an analogy: \"you wouldn't value a hotel near the arena based on the nightly rates it gets during the Super Bowl\". On the other side, commenters cited long-term agreements booked to about 2030. On 22 November a Micron pitch put the stock down 51% since June and argued long-term contracts change the cycle; its top reply was the old one that \"no longer cyclical\" is heard every few years, and a second reply said that at under 4 times forward earnings with earnings locked in, calling the top is probably wrong. A separate thread added that Google's P/E of about 14 is flattered by one-time gains on its stakes, so a low multiple needs adjusting before it is compared. Single source each · a debate, not a finding; the SK hynix quote is Verified against its Q3 2026 results · 2026-11-22",
+          "html": "<p><strong>Whether a low forward P/E makes a chipmaker cheap.</strong> Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at &quot;~13x&quot; forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it &quot;expects the structure in which demand exceeds supply to persist through 2030&quot;.\nOn 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x.\nOn 18 November it returned with Micron at &quot;Forward PE of 4&quot; and SK hynix at 1.9x after adjusting for cash and debt. The best addition was an analogy: &quot;you wouldn't value a hotel near the arena based on the nightly rates it gets during the Super Bowl&quot;. On the other side, commenters cited long-term agreements booked to about 2030.\nOn 22 November a Micron pitch put the stock down 51% since June and argued long-term contracts change the cycle; its top reply was the old one that &quot;no longer cyclical&quot; is heard every few years, and a second reply said that at under 4 times forward earnings with earnings locked in, calling the top is probably wrong. A separate thread added that Google's P/E of about 14 is flattered by one-time gains on its stakes, so a low multiple needs adjusting before it is compared.\nOn 26 November a SK hynix post put enterprise value at 1.18 times 2027 operating profit on consensus estimates; replies said forward estimates are doubted at a cycle peak and that cash flow through a whole cycle matters more, and one reader said long-term agreements cover more than half of 2027 and 2028 capacity. A Micron author defended &quot;priced in&quot; with a reverse DCF that implies revenue shrinking about 9.8% a year for ten years (his figure, unchecked).</p>",
+          "text": "Whether a low forward P/E makes a chipmaker cheap. Raised on 6 November after the sell-off, when a 296-point post called Nvidia a bargain at \"~13x\" forward earnings and another called SK hynix cheap at 2.5x. The answer worth keeping is about the cycle: for a cyclical business the multiple is lowest at peak earnings, so the question is where the earnings cycle tops, not what today's multiple is. One commenter says supply is the signal to watch: new memory fabs, which another commenter says Samsung and SK hynix bring online in 2028. SK hynix's own Q3 2026 release says it \"expects the structure in which demand exceeds supply to persist through 2030\". On 9 November the same argument came back as a research-shop memo on Micron at 3.6x forward earnings. The sub dismissed the memo as AI-generated. One reply pushed back on the numbers: a 40% fall in earnings would still leave Micron at about 6.3x. On 18 November it returned with Micron at \"Forward PE of 4\" and SK hynix at 1.9x after adjusting for cash and debt. The best addition was an analogy: \"you wouldn't value a hotel near the arena based on the nightly rates it gets during the Super Bowl\". On the other side, commenters cited long-term agreements booked to about 2030. On 22 November a Micron pitch put the stock down 51% since June and argued long-term contracts change the cycle; its top reply was the old one that \"no longer cyclical\" is heard every few years, and a second reply said that at under 4 times forward earnings with earnings locked in, calling the top is probably wrong. A separate thread added that Google's P/E of about 14 is flattered by one-time gains on its stakes, so a low multiple needs adjusting before it is compared. On 26 November a SK hynix post put enterprise value at 1.18 times 2027 operating profit on consensus estimates; replies said forward estimates are doubted at a cycle peak and that cash flow through a whole cycle matters more, and one reader said long-term agreements cover more than half of 2027 and 2028 capacity. A Micron author defended \"priced in\" with a reverse DCF that implies revenue shrinking about 9.8% a year for ten years (his figure, unchecked). Single source each · a debate, not a finding; the SK hynix quote is Verified against its Q3 2026 results · 2026-11-26",
           "status": "single-source",
-          "status_html": "<p>Single source each · a debate, not a finding; the SK hynix quote is <strong>Verified</strong> against <a href=\"https://news.skhynix.com/en/q3-2026-business-results/\" target=\"_blank\" rel=\"noopener noreferrer\">its Q3 2026 results</a> · 2026-11-22</p>",
-          "updated": "2026-11-22",
+          "status_html": "<p>Single source each · a debate, not a finding; the SK hynix quote is <strong>Verified</strong> against <a href=\"https://news.skhynix.com/en/q3-2026-business-results/\" target=\"_blank\" rel=\"noopener noreferrer\">its Q3 2026 results</a> · 2026-11-26</p>",
+          "updated": "2026-11-26",
           "sources": [
             "news.skhynix.com"
           ],
